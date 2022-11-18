@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_CookGrillSimple.label>簡単な炙り焼きを作る</VCE_CookGrillSimple.label>
+  <VCE_CookGrillSimple.description>少ない食材で調理した簡単な炙り焼きを調理する.</VCE_CookGrillSimple.description>
+  <VCE_CookGrillSimple.jobString>簡単な炙り焼きを調理中.</VCE_CookGrillSimple.jobString>
+  <VCE_CookGrillSimpleBulk.label>簡単な炙り焼き x4を作る</VCE_CookGrillSimpleBulk.label>
+  <VCE_CookGrillSimpleBulk.description>少ない食材で調理した簡単な炙り焼きを4つ調理する.</VCE_CookGrillSimpleBulk.description>
+  <VCE_CookGrillSimpleBulk.jobString>簡単な炙り焼き x4を調理中.</VCE_CookGrillSimpleBulk.jobString>
+  <VCE_CookGrillFine.label>手の込んだ炙り焼きを作る</VCE_CookGrillFine.label>
+  <VCE_CookGrillFine.description>豊富な食材から手間をかけて手間をかけて作られた,手の込んだ炙り焼きを調理する.</VCE_CookGrillFine.description>
+  <VCE_CookGrillFine.jobString>手の込んだ炙り焼きを調理中.</VCE_CookGrillFine.jobString>
+  <VCE_CookGrillFineBulk.label>手の込んだ炙り焼き x4を作る</VCE_CookGrillFineBulk.label>
+  <VCE_CookGrillFineBulk.description>豊富な食材から手間をかけて手間をかけて作られた,手の込んだ炙り焼きを4つ調理する.</VCE_CookGrillFineBulk.description>
+  <VCE_CookGrillFineBulk.jobString>手の込んだ炙り焼き x4を調理中.</VCE_CookGrillFineBulk.jobString>
+  <VCE_CookGrillLavish.label>豪華な炙り焼きを作る</VCE_CookGrillLavish.label>
+  <VCE_CookGrillLavish.description>料理の最高傑作. この炙り焼きは体,心,魂に栄養を与えます.</VCE_CookGrillLavish.description>
+  <VCE_CookGrillLavish.jobString>豪華な炙り焼きを調理中.</VCE_CookGrillLavish.jobString>
+  <VCE_CookGrillLavishhBulk.label>豪華な炙り焼き x4を作る</VCE_CookGrillLavishhBulk.label>
+  <VCE_CookGrillLavishhBulk.description>料理の最高傑作を4つ作ります. この炙り焼きは体,心,魂に栄養を与えます.</VCE_CookGrillLavishhBulk.description>
+  <VCE_CookGrillLavishhBulk.jobString>豪華な炙り焼き x4を調理中.</VCE_CookGrillLavishhBulk.jobString>
+  <VCE_CookGrillGourmet.label>至高の炙り焼きを作る</VCE_CookGrillGourmet.label>
+  <VCE_CookGrillGourmet.description>厳選された食材を手間をかけて洗練され,見た目も豪華な芸術料理を調理する.</VCE_CookGrillGourmet.description>
+  <VCE_CookGrillGourmet.jobString>至高の炙り焼きを調理中.</VCE_CookGrillGourmet.jobString>
+</LanguageData>

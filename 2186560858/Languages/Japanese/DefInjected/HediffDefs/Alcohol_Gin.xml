@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_GinHigh.label>ジンによる興奮状態</VBE_GinHigh.label>
+        <VBE_GinHigh.labelNoun>ジン・ハイ</VBE_GinHigh.labelNoun>
+        <VBE_GinHigh.description>ジンを飲んだ.政治力が上昇します.</VBE_GinHigh.description>
+        <VBE_GinHigh.stages.0.label>酔い始め</VBE_GinHigh.stages.0.label>
+        <VBE_GinHigh.stages.1.label>ほろ酔い</VBE_GinHigh.stages.1.label>
+        <VBE_GinHigh.stages.2.label>酩酊</VBE_GinHigh.stages.2.label>
+        <VBE_GinHigh.stages.3.label>泥酔</VBE_GinHigh.stages.3.label>
+        <VBE_GinHigh.stages.4.label>昏酔</VBE_GinHigh.stages.4.label>
+    </LanguageData>

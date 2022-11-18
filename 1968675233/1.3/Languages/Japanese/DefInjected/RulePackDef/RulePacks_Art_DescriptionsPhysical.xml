@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ArtDescription_Rug.rulePack.rulesStrings>
+	<li>physical_description_root->この[rug]は,「[image]」を[depicts]. [desc_sentence_group]</li>
+	<li>physical_description_root->この[rug]は,「[image]」の[depiction]を産み出している. [desc_sentence_group]</li>
+	<li>physical_description_root->この[rug]には,「[image]」が[depiction]されています. [desc_sentence_group]</li>
+	<li>rug->ラグマット</li>
+	<li>rug->仕事</li>
+	<li>rug->一品</li>
+	<li>rug->敷物</li>
+  </ArtDescription_Rug.rulePack.rulesStrings>
+
+  <ArtDescription_Pottery.rulePack.rulesStrings>
+	<li>physical_description_root->この[pottery]は,[image]」が[depicts]. [desc_sentence_group]</li>
+	<li>physical_description_root->この[pottery]には,「[image]」[depiction]が表現されています. [desc_sentence_group]</li>
+	<li>physical_description_root->この[pottery]には,「[image]」が[depiction]されています. [desc_sentence_group]</li>
+	<li>pottery->陶器</li>
+	<li>pottery->仕事</li>
+	<li>pottery->一品</li>
+	<li>pottery->セット</li>
+  </ArtDescription_Pottery.rulePack.rulesStrings>
+
+  <ArtDescription_Hologram.rulePack.rulesStrings>
+	<li>physical_description_root->この[hologram]は,「[image]」が[depicts]. [desc_sentence_group]</li>
+	<li>physical_description_root->この[hologram]には,「[image]」[depiction]が表現されています. [desc_sentence_group]</li>
+	<li>physical_description_root->この[hologram]には,「[image]」が[depiction]されています. [desc_sentence_group]</li>
+	<li>hologram->ホログラム</li>
+	<li>hologram->光の像</li>
+	<li>hologram->一品</li>
+	<li>hologram->モデル</li>
+  </ArtDescription_Hologram.rulePack.rulesStrings>
+
+  <ArtDescription_Archotech.rulePack.rulesStrings>
+	<li>physical_description_root->この[machine]は,「[image]」のイメージを[imprints]. [desc_sentence_group]</li>
+	<li>machine->機械</li>
+	<li>machine->古代装置</li>
+	<li>machine->オーパーツ</li>
+	<li>machine->アルコテックの彫刻</li>
+	<li>imprints->伝達します</li>
+	<li>imprints->心に刻みます</li>
+	<li>imprints->見た者に感銘を与えます</li>
+  </ArtDescription_Archotech.rulePack.rulesStrings>
+
+</LanguageData>

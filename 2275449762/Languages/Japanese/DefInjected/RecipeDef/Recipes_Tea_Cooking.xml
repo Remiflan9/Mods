@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_MakeGreenTea.label>緑茶を淹れる</VBE_MakeGreenTea.label>
+  <VBE_MakeGreenTea.description>砂糖を加えた軽くて柑橘系の緑茶を作り,バターのような,ほとんどナッツのような風味を作ります.</VBE_MakeGreenTea.description>
+  <VBE_MakeGreenTea.jobString>緑茶を淹れている</VBE_MakeGreenTea.jobString>
+  <VBE_MakeMintTea.label>ミントティーを淹れる</VBE_MakeMintTea.label>
+  <VBE_MakeMintTea.description>紅茶の葉をミントの葉と混ぜて深く浸し,さらにミントの葉を添えます.驚くほど新鮮な息を残します.</VBE_MakeMintTea.description>
+  <VBE_MakeMintTea.jobString>ミントティーを淹れている</VBE_MakeMintTea.jobString>
+  <VBE_MakeMasalaChai.label>マサラチャイを淹れる</VBE_MakeMasalaChai.label>
+  <VBE_MakeMasalaChai.description>シンプルな葉と複雑なスパイスで作られた,かび臭く,暖かく,ほとんど木質のお茶を作ります.高コレステロールに対して良いと言われています.</VBE_MakeMasalaChai.description>
+  <VBE_MakeMasalaChai.jobString>マサラチャイを淹れている</VBE_MakeMasalaChai.jobString>
+  <VBE_MakeNoonChai.label>ヌーンチャイを淹れる</VBE_MakeNoonChai.label>
+  <VBE_MakeNoonChai.description>茶葉,塩少々,重曹を混ぜ合わせた古代カシミール茶を作ると,美味しさだけでなく体にやさしいことで有名な印象的なピンクの飲み物になります.高血圧の人の治療に非常に効率的です.</VBE_MakeNoonChai.description>
+  <VBE_MakeNoonChai.jobString>ヌーンチャイを淹れている</VBE_MakeNoonChai.jobString>
+</LanguageData>

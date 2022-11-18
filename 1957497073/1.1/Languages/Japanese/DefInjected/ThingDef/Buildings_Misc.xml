@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Scarecrow -->
+
+  <VFE_Scarecrow.label>カカシ</VFE_Scarecrow.label>
+  <VFE_Scarecrow.description>干し草で作られた古い服を着せた人形で、大きな範囲で動物を排除します。小動物は近づくことを恐れます。</VFE_Scarecrow.description>
+  <!-- <Blueprint_VFE_Scarecrow.label>カカシ (設計)</Blueprint_VFE_Scarecrow.label>
+  <Blueprint_Install_VFE_Scarecrow.label>カカシ (移動先)</Blueprint_Install_VFE_Scarecrow.label>
+  <Frame_VFE_Scarecrow.label>カカシ (施工)</Frame_VFE_Scarecrow.label>
+  <Frame_VFE_Scarecrow.description>干し草で作られた古い服を着せた人形で、大きな範囲で動物を排除します。小動物は近づくことを恐れます。</Frame_VFE_Scarecrow.description> -->
+
+
+  <!-- Animal Feeder -->
+
+  <VFE_AnimalFeeder.label>給餌箱</VFE_AnimalFeeder.label>
+  <VFE_AnimalFeeder.description>動物にエサを与える給餌箱です。これに保管された食品は、たとえ屋外でも劣化しません。</VFE_AnimalFeeder.description>
+  <!-- <Blueprint_VFE_AnimalFeeder.label>給餌箱 (設計)</Blueprint_VFE_AnimalFeeder.label>
+  <Blueprint_Install_VFE_AnimalFeeder.label>給餌箱 (移動先)</Blueprint_Install_VFE_AnimalFeeder.label>
+  <Frame_VFE_AnimalFeeder.label>給餌箱 (施工)</Frame_VFE_AnimalFeeder.label>
+  <Frame_VFE_AnimalFeeder.description>動物にエサを与える給餌箱です。これに保管された食品は、たとえ屋外でも劣化しません。</Frame_VFE_AnimalFeeder.description> -->
+
+
+  <!-- Sprinkler -->
+
+  <VFE_Sprinkler.label>スプリンクラー</VFE_Sprinkler.label>
+  <VFE_Sprinkler.description>周囲に水を提供する散水器(スプリンクラー)です。設置された周囲の植物の成長を促進させます。</VFE_Sprinkler.description>
+  <Blueprint_VFE_Sprinkler.label>スプリンクラー (設計)</Blueprint_VFE_Sprinkler.label>
+  <Blueprint_Install_VFE_Sprinkler.label>スプリンクラー (移動先)</Blueprint_Install_VFE_Sprinkler.label>
+  <Frame_VFE_Sprinkler.label>スプリンクラー (施工)</Frame_VFE_Sprinkler.label>
+  <Frame_VFE_Sprinkler.description>周囲に水を提供する散水器(スプリンクラー)です。設置された周囲の植物の成長を促進させます。</Frame_VFE_Sprinkler.description>
+
+</LanguageData>

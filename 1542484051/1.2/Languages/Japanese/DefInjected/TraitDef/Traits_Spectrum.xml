@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hygienic.degreeDatas.germaphobe.label>潔癖症</Hygienic.degreeDatas.germaphobe.label>
+  <Hygienic.degreeDatas.germaphobe.description>[PAWN_nameDef]は、病気になることを過度に恐れる強迫観念に取りつかれて、不必要なレベルで頻繁に体などを洗います。</Hygienic.degreeDatas.germaphobe.description>
+  <Hygienic.degreeDatas.hygienic.label>きれい好き</Hygienic.degreeDatas.hygienic.label>
+  <Hygienic.degreeDatas.hygienic.description>[PAWN_nameDef]は、非常にきれい好きで、清潔にする頻度が普通よりも高くなります。</Hygienic.degreeDatas.hygienic.description>
+  <Hygienic.degreeDatas.unhygienic.label>無頓着</Hygienic.degreeDatas.unhygienic.label>
+  <Hygienic.degreeDatas.unhygienic.description>[PAWN_nameDef]は、不衛生でも気にしないので、清潔にする頻度が普通よりも低くなります。</Hygienic.degreeDatas.unhygienic.description>
+  <Hygienic.degreeDatas.slob.label>不潔症</Hygienic.degreeDatas.slob.label>
+  <Hygienic.degreeDatas.slob.description>[PAWN_nameDef]は、清潔さに対する要求基準が非常に低く、絶対に必要な場合だけ体などを洗います。</Hygienic.degreeDatas.slob.description>
+
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_ChemfuelPump.label>化学燃料ポンプ</VPE_ChemfuelPump.label>
+  <VPE_ChemfuelPump.description>ガス田から化学燃料を抽出できる工業用ポンプ. 化学燃料が完全に抽出された後, 化学燃料ポンプを安全に分解することができます.</VPE_ChemfuelPump.description>
+
+
+</LanguageData>

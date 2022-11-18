@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_PortableWoodFiredGenerator.label>携帯型薪発電機</VFE_PortableWoodFiredGenerator.label>
+  <VFE_PortableWoodFiredGenerator.description>木材を消費して少量の電力を発生させる. 定期的に手で薪を焚べる必要があります. この発電機は持ち運び可能なほど軽量です.</VFE_PortableWoodFiredGenerator.description>
+
+  <VFE_PortableChemfuelPoweredGenerator.label>携帯型化学燃料発電機</VFE_PortableChemfuelPoweredGenerator.label>
+  <VFE_PortableChemfuelPoweredGenerator.description>化学燃料を消費することで少量の電力を発生させる. 定期的に手で燃料を焚べる必要があります. この発電機は持ち運び可能なほど軽量です.</VFE_PortableChemfuelPoweredGenerator.description>
+
+  <VFE_IndustrialWoodFiredGenerator.label>工業用火力発電(樹)</VFE_IndustrialWoodFiredGenerator.label>
+  <VFE_IndustrialWoodFiredGenerator.description>木材を消費して大量の電力を生み出す. 定期的に手で燃料を補給する必要があります.</VFE_IndustrialWoodFiredGenerator.description>
+
+  <VFE_IndustrialChemfuelPoweredGenerator.label>工業用火力発電機(化学燃料)</VFE_IndustrialChemfuelPoweredGenerator.label>
+  <VFE_IndustrialChemfuelPoweredGenerator.description>化学燃料を消費して大量のパワーを生み出す. 定期的に手で燃料を補給する必要があります.</VFE_IndustrialChemfuelPoweredGenerator.description>
+
+  <VFE_TidalGenerator.label>潮汐発電</VFE_TidalGenerator.label>
+  <VFE_TidalGenerator.description>水の流れる力を利用して電気を発生させる. 水の上に置く必要があります.</VFE_TidalGenerator.description>
+  <VFE_TidalGenerator_Blueprint.label>潮汐発電 (設計)</VFE_TidalGenerator_Blueprint.label>
+  <VFE_TidalGenerator_Frame.label>潮汐発電 (施工)</VFE_TidalGenerator_Frame.label>
+  <VFE_TidalGenerator_Frame.description>水の流れる力を利用して電気を発生させる. 水の上に置く必要があります.</VFE_TidalGenerator_Frame.description>
+
+
+</LanguageData>

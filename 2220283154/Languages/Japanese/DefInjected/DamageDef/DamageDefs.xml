@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VEF_SecondaryAcidBurn.label>酸やけど</VEF_SecondaryAcidBurn.label>
+  <VEF_SecondaryAcidBurn.deathMessage>{0} は腐食して死んだ</VEF_SecondaryAcidBurn.deathMessage>
+
+  <VEF_PermanentBurn.label>やけど跡</VEF_PermanentBurn.label>
+  <VEF_PermanentBurn.deathMessage>{0}は焼かれて死んだ.</VEF_PermanentBurn.deathMessage>
+
+</LanguageData>

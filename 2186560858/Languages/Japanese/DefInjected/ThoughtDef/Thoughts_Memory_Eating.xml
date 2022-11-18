@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_DrankSoda.stages.0.label>砂糖による興奮状態</VBE_DrankSoda.stages.0.label>
+        <VBE_DrankSoda.stages.0.description>甘い炭酸飲料を飲んだ.小さいけど贅沢な飲み物でした.</VBE_DrankSoda.stages.0.description>
+        <VBE_DrankTea.stages.0.label>お茶を愉しむ</VBE_DrankTea.stages.0.label>
+        <VBE_DrankTea.stages.0.description>飾らない一杯のお茶が,一日を明るくしてくれます.</VBE_DrankTea.stages.0.description>
+        <VBE_TequilaAsIngredient.stages.0.label>テキーラベースのカクテルを飲んだ</VBE_TequilaAsIngredient.stages.0.label>
+        <VBE_TequilaAsIngredient.stages.0.description>旨い</VBE_TequilaAsIngredient.stages.0.description>
+        <VBE_WhiskeyAsIngredient.stages.0.label>ウィスキーベースのカクテルを飲んだ</VBE_WhiskeyAsIngredient.stages.0.label>
+        <VBE_WhiskeyAsIngredient.stages.0.description>旨い</VBE_WhiskeyAsIngredient.stages.0.description>
+        <VBE_VodkaAsIngredient.stages.0.label>ウォッカベースのカクテルを飲んだ</VBE_VodkaAsIngredient.stages.0.label>
+        <VBE_VodkaAsIngredient.stages.0.description>旨い</VBE_VodkaAsIngredient.stages.0.description>
+        <VBE_GinAsIngredient.stages.0.label>ジンベースのカクテルを飲んだ</VBE_GinAsIngredient.stages.0.label>
+        <VBE_GinAsIngredient.stages.0.description>旨い</VBE_GinAsIngredient.stages.0.description>
+        <VBE_AmbrandyAsIngredient.stages.0.label>アンブランデーベースのカクテルを飲んだ</VBE_AmbrandyAsIngredient.stages.0.label>
+        <VBE_AmbrandyAsIngredient.stages.0.description>旨い</VBE_AmbrandyAsIngredient.stages.0.description>
+        <VBE_RBMeadAsIngredient.stages.0.label>ミードベースのカクテルを飲んだ</VBE_RBMeadAsIngredient.stages.0.label>
+        <VBE_RBMeadAsIngredient.stages.0.description>旨い</VBE_RBMeadAsIngredient.stages.0.description>
+        <VBE_WineAsIngredient.stages.0.label>ワインベースのカクテルを飲んだ</VBE_WineAsIngredient.stages.0.label>
+        <VBE_WineAsIngredient.stages.0.description>旨い</VBE_WineAsIngredient.stages.0.description>
+        <VBE_ConsumedLuciferiumPowder.stages.0.label>ルシフェリウムパウダーを摂取した</VBE_ConsumedLuciferiumPowder.stages.0.label>
+        <VBE_ConsumedLuciferiumPowder.stages.0.description>旨い</VBE_ConsumedLuciferiumPowder.stages.0.description>
+        <VBE_ConsumedGoStock.stages.0.label>ゴージュースストックを摂取した</VBE_ConsumedGoStock.stages.0.label>
+        <VBE_ConsumedGoStock.stages.0.description>旨い</VBE_ConsumedGoStock.stages.0.description>
+        <VBE_ConsumedWakeupPowder.stages.0.label>ウェイクアップパウダーを摂取した</VBE_ConsumedWakeupPowder.stages.0.label>
+        <VBE_ConsumedWakeupPowder.stages.0.description>旨い</VBE_ConsumedWakeupPowder.stages.0.description>
+    </LanguageData>

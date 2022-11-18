@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_BlackTea.label>紅茶</VBE_BlackTea.label>
+  <VBE_BlackTea.description>特に苦味のある紅茶をクリーミーなミルクで和らげたものは,目覚めが良く,病気の治療にも役立ちます.</VBE_BlackTea.description>
+  <VBE_BlackTea.ingestible.ingestCommandString>{0}を飲む</VBE_BlackTea.ingestible.ingestCommandString>
+  <VBE_BlackTea.ingestible.ingestReportString>{0}を飲んでいる</VBE_BlackTea.ingestible.ingestReportString>
+</LanguageData>

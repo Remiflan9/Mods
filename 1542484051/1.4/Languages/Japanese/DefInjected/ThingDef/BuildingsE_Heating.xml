@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Heating -->
+
+  <Thermostat.label>温度調節器</Thermostat.label>
+  <Thermostat.description>電気ボイラーとガス式ボイラーを制御するために使用されます。1つ以上を配置することができて、標準の配管で接続します。</Thermostat.description>
+  <Blueprint_Thermostat.label>温度調節器(設計)</Blueprint_Thermostat.label>
+  <Blueprint_Install_Thermostat.label>温度調節器(移動先)</Blueprint_Install_Thermostat.label>
+  <Frame_Thermostat.label>温度調節器(施工)</Frame_Thermostat.label>
+  <Frame_Thermostat.description>電気ボイラーとガス式ボイラーを制御するために使用されます。1つ以上を配置することができて、標準の配管で接続します。</Frame_Thermostat.description>
+
+  <LogBoiler.label>薪式ボイラー</LogBoiler.label>
+  <LogBoiler.description>配管が繋がっている熱交換器と給湯タンク用に消費熱量を2000生産します。部屋と隣接する浴室を加熱します。燃料として定期的に木材を補給する必要があります。</LogBoiler.description>
+  <Blueprint_LogBoiler.label>薪式ボイラー(設計)</Blueprint_LogBoiler.label>
+  <Blueprint_Install_LogBoiler.label>薪式ボイラー(移動先)</Blueprint_Install_LogBoiler.label>
+  <Frame_LogBoiler.label>薪式ボイラー(施工)</Frame_LogBoiler.label>
+  <Frame_LogBoiler.description>配管が繋がっている熱交換器と給湯タンク用に消費熱量を2000生産します。部屋と隣接する浴室を加熱します。燃料として定期的に木材を補給する必要があります。</Frame_LogBoiler.description>
+
+  <GasBoiler.label>ガス式ボイラー</GasBoiler.label>
+  <GasBoiler.description>熱交換器と給湯タンク用に消費熱量を2000生産します。バイオ化学燃料を定期的に補給する必要があり、温度調節器で制御することができます。</GasBoiler.description>
+  <Blueprint_GasBoiler.label>ガス式ボイラー(設計)</Blueprint_GasBoiler.label>
+  <Blueprint_Install_GasBoiler.label>ガス式ボイラー(移動先)</Blueprint_Install_GasBoiler.label>
+  <Frame_GasBoiler.label>ガス式ボイラー(施工)</Frame_GasBoiler.label>
+  <Frame_GasBoiler.description>熱交換器と給湯タンク用に消費熱量を2000生産します。バイオ化学燃料を定期的に補給する必要があり、温度調節器で制御することができます。</Frame_GasBoiler.description>
+
+  <ElectricBoiler.label>電気ボイラー</ElectricBoiler.label>
+  <ElectricBoiler.description>熱交換器と給湯タンク用に消費熱量の数量を調整して生産できます。手動で電力設定を制御します。温度調節器で制御することができます。</ElectricBoiler.description>
+  <Blueprint_ElectricBoiler.label>電気ボイラー(設計)</Blueprint_ElectricBoiler.label>
+  <Blueprint_Install_ElectricBoiler.label>電気ボイラー(移動先)</Blueprint_Install_ElectricBoiler.label>
+  <Frame_ElectricBoiler.label>電気ボイラー(施工)</Frame_ElectricBoiler.label>
+  <Frame_ElectricBoiler.description>熱交換器と給湯タンク用に消費熱量の数量を調整して生産できます。手動で電力設定を制御します。温度調節器で制御することができます。</Frame_ElectricBoiler.description>
+
+  <SolarHeater.label>太陽熱温水器</SolarHeater.label>
+  <SolarHeater.description>太陽光を使って熱交換器と給湯タンク用に水を温めます。光の量と外気温に応じて0から2000までの消費熱量を生産します。</SolarHeater.description>
+  <Blueprint_SolarHeater.label>太陽熱温水器(設計)</Blueprint_SolarHeater.label>
+  <Frame_SolarHeater.label>太陽熱温水器(施工)</Frame_SolarHeater.label>
+  <Frame_SolarHeater.description>太陽光を使って熱交換器と給湯タンク用に水を温めます。光の量と外気温に応じて0から2000までの消費熱量を生産します。</Frame_SolarHeater.description>
+
+  <HotWaterTank.label>給湯タンク</HotWaterTank.label>
+  <HotWaterTank.description>水を加熱させる各種の温水器に接続して、シャワーと風呂で使う温水を貯蔵するタンクです。</HotWaterTank.description>
+  <Blueprint_HotWaterTank.label>給湯タンク(設計)</Blueprint_HotWaterTank.label>
+  <Blueprint_Install_HotWaterTank.label>給湯タンク(移動先)</Blueprint_Install_HotWaterTank.label>
+  <Frame_HotWaterTank.label>給湯タンク(施工)</Frame_HotWaterTank.label>
+  <Frame_HotWaterTank.description>水を加熱させる各種の温水器に接続して、シャワーと風呂で使う温水を貯蔵するタンクです。</Frame_HotWaterTank.description>
+
+  <RadiatorStuffed.label>熱交換器</RadiatorStuffed.label>
+  <RadiatorStuffed.description>ボイラーで沸かした温水を使用して部屋を暖房するには、消費熱量が100必要です。</RadiatorStuffed.description>
+  <Blueprint_RadiatorStuffed.label>熱交換器(設計)</Blueprint_RadiatorStuffed.label>
+  <Blueprint_Install_RadiatorStuffed.label>熱交換器(移動先)</Blueprint_Install_RadiatorStuffed.label>
+  <Frame_RadiatorStuffed.label>熱交換器(施工)</Frame_RadiatorStuffed.label>
+  <Frame_RadiatorStuffed.description>ボイラーで沸かした温水を使用して部屋を暖房するには、消費熱量が100必要です。</Frame_RadiatorStuffed.description>
+
+  <RadiatorLarge.label>大型熱交換器</RadiatorLarge.label>
+  <RadiatorLarge.description>標準的な熱交換器の3倍の出力で、大きな部屋を暖めるには消費熱量が300必要です。</RadiatorLarge.description>
+  <Blueprint_RadiatorLarge.label>大型熱交換器(設計)</Blueprint_RadiatorLarge.label>
+  <Blueprint_Install_RadiatorLarge.label>大型熱交換器(移動先)</Blueprint_Install_RadiatorLarge.label>
+  <Frame_RadiatorLarge.label>大型熱交換器(施工)</Frame_RadiatorLarge.label>
+  <Frame_RadiatorLarge.description>標準的な熱交換器の3倍の出力で、大きな部屋を暖めるには消費熱量が300必要です。</Frame_RadiatorLarge.description>
+
+  <GeothermHeater.label>地熱ヒーター</GeothermHeater.label>
+  <GeothermHeater.description>間欠泉から噴き出す地熱を利用して、温水タンクとラジエーターを加熱します。3700ユニット分の熱を産み出します。</GeothermHeater.description>
+  <Blueprint_GeothermHeater.label>地熱ヒーター (設計)</Blueprint_GeothermHeater.label>
+  <Frame_GeothermHeater.label>地熱ヒーター (施工)</Frame_GeothermHeater.label>
+  <Frame_GeothermHeater.description>間欠泉から噴き出す地熱を利用して、温水タンクとラジエーターを加熱します。3700ユニット分の熱を産み出します。</Frame_GeothermHeater.description>
+  <GeothermHeater.comps.CompGeoBoiler.GizmoLabel>電気モード</GeothermHeater.comps.CompGeoBoiler.GizmoLabel>
+
+  <RadiatorTowelRail.label>タオル掛け</RadiatorTowelRail.label>
+  <RadiatorTowelRail.description>美しく印象的なパイプ式のバスタオル掛けです。\n排水管としても機能します。\n配管用バルブとしても使用できます。</RadiatorTowelRail.description>
+  <Blueprint_RadiatorTowelRail.label>タオル掛け (設計)</Blueprint_RadiatorTowelRail.label>
+  <Blueprint_Install_RadiatorTowelRail.label>タオル掛け (移動先)</Blueprint_Install_RadiatorTowelRail.label>
+  <Frame_RadiatorTowelRail.label>タオル掛け (施工)</Frame_RadiatorTowelRail.label>
+  <Frame_RadiatorTowelRail.description>美しく印象的なパイプ式のバスタオル掛けです。\n排水管としても機能します。\n配管用バルブとしても使用できます。</Frame_RadiatorTowelRail.description>
+
+
+  <!-- COOLING -->
+
+  <CeilingFan.label>天井扇(2x2)</CeilingFan.label>
+  <CeilingFan.description>空気を攪拌させて部屋を冷やします。照明を内蔵しています。</CeilingFan.description>
+  <Blueprint_CeilingFan.label>天井扇(2x2)(設計)</Blueprint_CeilingFan.label>
+  <Blueprint_Install_CeilingFan.label>天井扇(2x2)(移動先)</Blueprint_Install_CeilingFan.label>
+  <Frame_CeilingFan.label>天井扇(2x2)(施工)</Frame_CeilingFan.label>
+  <Frame_CeilingFan.description>空気を攪拌させて部屋を冷やします。照明を内蔵しています。</Frame_CeilingFan.description>
+
+  <CeilingFanS.label>天井扇(1x1)</CeilingFanS.label>
+  <CeilingFanS.description>空気を攪拌させて部屋を冷やします。照明を内蔵しています。</CeilingFanS.description>
+  <Blueprint_CeilingFanS.label>天井扇(1x1)(設計)</Blueprint_CeilingFanS.label>
+  <Blueprint_Install_CeilingFanS.label>天井扇(1x1)(移動先)</Blueprint_Install_CeilingFanS.label>
+  <Frame_CeilingFanS.label>天井扇(1x1)(施工)</Frame_CeilingFanS.label>
+  <Frame_CeilingFanS.description>空気を攪拌させて部屋を冷やします。照明を内蔵しています。</Frame_CeilingFanS.description>
+
+  <!-- <CeilingFanDarklight.label>天井扇(2x2) (暗)</CeilingFanDarklight.label>
+  <CeilingFanDarklight.description>空気を攪拌させて部屋を冷やします。輝度の低い照明を内蔵しています。</CeilingFanDarklight.description>
+  <Blueprint_CeilingFanDarklight.label>天井扇(2x2) (暗) (設計)</Blueprint_CeilingFanDarklight.label>
+  <Blueprint_Install_CeilingFanDarklight.label>天井扇(2x2) (暗) (移動先)</Blueprint_Install_CeilingFanDarklight.label>
+  <Frame_CeilingFanDarklight.label>天井扇(2x2) (暗) (施工)</Frame_CeilingFanDarklight.label>
+  <Frame_CeilingFanDarklight.description>空気を攪拌させて部屋を冷やします。輝度の低い照明を内蔵しています。</Frame_CeilingFanDarklight.description>-->
+
+  <!--<CeilingFanSDarklight.label>天井扇(1x1) (暗)</CeilingFanSDarklight.label>
+  <CeilingFanSDarklight.description>空気を攪拌させて部屋を冷やします。輝度の低い照明を内蔵しています。</CeilingFanSDarklight.description>
+  <Blueprint_CeilingFanSDarklight.label>天井扇(1x1) (暗) (設計)</Blueprint_CeilingFanSDarklight.label>
+  <Blueprint_Install_CeilingFanSDarklight.label>天井扇(1x1) (暗) (移動先)</Blueprint_Install_CeilingFanSDarklight.label>
+  <Frame_CeilingFanSDarklight.label>天井扇(1x1) (暗) (施工)</Frame_CeilingFanSDarklight.label>
+  <Frame_CeilingFanSDarklight.description>空気を攪拌させて部屋を冷やします。輝度の低い照明を内蔵しています。</Frame_CeilingFanSDarklight.description>-->
+
+  <AirConOutdoorUnit.label>エアコン (室外機)</AirConOutdoorUnit.label>
+  <AirConOutdoorUnit.description>分配可能なエアコン装置の室外機です。屋外に設置して、エアコン室内機または倉庫型冷却機に配管して接続します。冷却用の消費熱量を100から1000の範囲で選んで生産できます。消費熱量のサイズ量で電力モードを選択できます。</AirConOutdoorUnit.description>
+  <Blueprint_AirConOutdoorUnit.label>エアコン (室外機)(移動先)</Blueprint_AirConOutdoorUnit.label>
+  <Blueprint_Install_AirConOutdoorUnit.label>エアコン (室外機)(移動先)</Blueprint_Install_AirConOutdoorUnit.label>
+  <Frame_AirConOutdoorUnit.label>エアコン (室外機)(施工)</Frame_AirConOutdoorUnit.label>
+  <Frame_AirConOutdoorUnit.description>分配可能なエアコン装置の室外機です。屋外に設置して、エアコン室内機または倉庫型冷却機に配管して接続します。冷却用の消費熱量を100から1000の範囲で選んで生産できます。消費熱量のサイズ量で電力モードを選択できます。</Frame_AirConOutdoorUnit.description>
+
+  <AirconIndoorUnit.label>エアコン (室内機)</AirconIndoorUnit.label>
+  <AirconIndoorUnit.description>室内を冷やすためにエアコン室外機に接続する必要があります。エアコン室内機の動作には、冷却用の消費熱量が100必要です。</AirconIndoorUnit.description>
+  <Blueprint_AirconIndoorUnit.label>エアコン (室内機)(移動先)</Blueprint_AirconIndoorUnit.label>
+  <Blueprint_Install_AirconIndoorUnit.label>エアコン (室内機)(移動先)</Blueprint_Install_AirconIndoorUnit.label>
+  <Frame_AirconIndoorUnit.label>エアコン (室内機)(施工)</Frame_AirconIndoorUnit.label>
+  <Frame_AirconIndoorUnit.description>室内を冷やすためにエアコン室外機に接続する必要があります。エアコン室内機の動作には、冷却用の消費熱量が100必要です。</Frame_AirconIndoorUnit.description>
+
+  <FreezerUnit.label>倉庫型冷却機</FreezerUnit.label>
+  <FreezerUnit.description>倉庫型の冷凍庫を作成するための冷却機です。冷やすためにはエアコン室外機に接続する必要があります。倉庫型冷却機の動作には、冷却用の消費熱量が300必要です。</FreezerUnit.description>
+  <Blueprint_FreezerUnit.label>倉庫型冷却機(移動先)</Blueprint_FreezerUnit.label>
+  <Blueprint_Install_FreezerUnit.label>倉庫型冷却機(移動先)</Blueprint_Install_FreezerUnit.label>
+  <Frame_FreezerUnit.label>倉庫型冷却機(施工)</Frame_FreezerUnit.label>
+  <Frame_FreezerUnit.description>倉庫型の冷凍庫を作成するための冷却機です。冷やすためにはエアコン室外機に接続する必要があります。倉庫型冷却機の動作には、冷却用の消費熱量が300必要です。</Frame_FreezerUnit.description>
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEArch_StoneBridge.label>石橋</VFEArch_StoneBridge.label>
+  <VFEArch_WoodFloor.label>フローリング</VFEArch_WoodFloor.label>
+  <VFEArch_CobblestoneFloor.label>石畳</VFEArch_CobblestoneFloor.label>
+  <VFEArch_PolishedStoneFloor.label>磨かれた石材タイル</VFEArch_PolishedStoneFloor.label>
+  <VFEArch_StoneSlabs.label>石材舗装タイル</VFEArch_StoneSlabs.label>
+  <VFEArch_PicketFence.label>ピケットフェンス</VFEArch_PicketFence.label>
+  <VFEArch_WoodenParquet.label>寄木細工</VFEArch_WoodenParquet.label>
+  <VFEArch_WoolCarpet.label>ウールカーペット</VFEArch_WoolCarpet.label>
+
+
+</LanguageData>

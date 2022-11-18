@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Computer_LearningBoost.label>学習力ブースト</Computer_LearningBoost.label>
+  <Computer_LearningBoost.description>コンピュータの利用による学習の促進</Computer_LearningBoost.description>
+  <Computer_LearningBoost.stages.Minor.label>軽度</Computer_LearningBoost.stages.Minor.label>
+  <Computer_LearningBoost.stages.Major.label>中度</Computer_LearningBoost.stages.Major.label>
+  <Computer_LearningBoost.stages.Max.label>最大</Computer_LearningBoost.stages.Max.label>
+
+</LanguageData>

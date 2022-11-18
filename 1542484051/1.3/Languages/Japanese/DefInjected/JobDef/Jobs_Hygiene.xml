@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TriggerFireSprinkler.reportString>TargetAを稼働させている</TriggerFireSprinkler.reportString>
+  <emptySeptictank.reportString>TargetAを空けている</emptySeptictank.reportString>
+  <emptyLatrine.reportString>TargetAを空けている</emptyLatrine.reportString>
+  <LoadWashing.reportString>TargetAを洗濯機に入れている</LoadWashing.reportString>
+  <UnloadWashing.reportString>TargetAを洗濯機から出している</UnloadWashing.reportString>
+  <LoadComposter.reportString>TargetAを満たしている</LoadComposter.reportString>
+  <UnloadComposter.reportString>TargetAから堆肥を取り出している</UnloadComposter.reportString>
+  <RemoveSewage.reportString>下水管を解体している</RemoveSewage.reportString>
+  <WatchWashingMachine.reportString>洗濯機の回転を観察している</WatchWashingMachine.reportString>
+  <TipOverSewage.reportString>TargetAをばら撒いている</TipOverSewage.reportString>
+  <DrainWaterTankJob.reportString>TargetAを排出しています</DrainWaterTankJob.reportString>
+  <PlaceFertilizer.reportString>土に肥料をまいています</PlaceFertilizer.reportString>
+  <DBHDrinkFromGround.reportString>水を飲んでいる</DBHDrinkFromGround.reportString>
+  <DBHDrinkFromBasin.reportString>TargetAの水を飲んでいる</DBHDrinkFromBasin.reportString>
+  <DBHPackWaterBottle.reportString>TargetAから水筒を満たしている</DBHPackWaterBottle.reportString>
+  <DBHStockpileWaterBottles.reportString>TargetAから水を備蓄しています</DBHStockpileWaterBottles.reportString>
+  <DBHAdministerFluids.reportString>TargetBに水を運んでいます</DBHAdministerFluids.reportString>
+  <UseToilet.reportString>TargetAで用を足している</UseToilet.reportString>
+  <haveWildPoo.reportString>外で用を足している</haveWildPoo.reportString>
+  <useWashBucket.reportString>TargetAで洗浄している</useWashBucket.reportString>
+  <washAtCell.reportString>このセルで洗っている</washAtCell.reportString>
+  <washHands.reportString>TargetAで手を洗っている</washHands.reportString>
+  <washPatient.reportString>TargetAを洗っている</washPatient.reportString>
+  <RefillTub.reportString>洗濯カゴを洗っている</RefillTub.reportString>
+  <RefillWater.reportString>水を補充している</RefillWater.reportString>
+  <cleanBedpan.reportString>便器を掃除している</cleanBedpan.reportString>
+  <clearBlockage.reportString>詰まりをとっている</clearBlockage.reportString>
+
+</LanguageData>

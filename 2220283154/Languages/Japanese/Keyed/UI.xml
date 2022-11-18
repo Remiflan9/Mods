@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <VEF.Hire>{0}を雇う</VEF.Hire>
+  <VEF.HireDesc>たとえば防御などの目的で,コロニーの周辺の手伝いに何人か{0}を雇います.</VEF.HireDesc>
+  <VEF.AvailableSilver>支払い可能なシルバー：{0}</VEF.AvailableSilver>
+  <VEF.Value>対価</VEF.Value>
+  <VEF.ChooseNumberOfUnits>そのユニットをいくつ必要ですか？</VEF.ChooseNumberOfUnits>
+  <VEF.Breakdown>故障</VEF.Breakdown>
+  <VEF.DayAmount>日数</VEF.DayAmount>
+  <VEF.Cost>雇用費用</VEF.Cost>
+  <VEF.RiskMult>リスク係数</VEF.RiskMult>
+  <VEF.TotalPrice>合計費用</VEF.TotalPrice>
+  <VEF.HiringDesc>期間を問わず{0}を雇うことができます.一度に有効にできる契約は1つのみで,採用する派閥を複数同時に雇うことはできません.\n雇用された{0}が勤務中に死亡した場合,今後1年間のすべての契約において,死亡した海賊1人あたりの契約費用の5%が追加費用として上乗せされます.</VEF.HiringDesc>
+  <VEF.LongTerm>長期間に渡る契約はかなり高額になる</VEF.LongTerm>
+  <VEF.ContractInfo>{0}との契約を表示</VEF.ContractInfo>
+  <VEF.PawnsList>契約：</VEF.PawnsList>
+  <VEF.ContractTitle>{0}との契約</VEF.ContractTitle>
+  <VEF.Spent>シルバーの支払額：</VEF.Spent>
+  <VEF.TimeLeft>残り期間：</VEF.TimeLeft>
+  <VEF.CancelContract>契約キャンセル</VEF.CancelContract>
+  <VEF.NoRefund>契約をキャンセルしても,支払ったシルバーは返金されません.</VEF.NoRefund>
+  <VEF.Customize>{0}をカスタマイズします.</VEF.Customize>
+  <VEF.CustomizationTitle>{0}をカスタマイズ</VEF.CustomizationTitle>
+  <VEF.Name>名前</VEF.Name>
+  <VEF.Cancel>中止</VEF.Cancel>
+  <VEF.AvailableContracts>利用可能な契約：{0}</VEF.AvailableContracts>
+  <VEF.MechsSection>メカノイド</VEF.MechsSection>
+
+</LanguageData>

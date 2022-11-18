@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_WhiskeyHigh.label>ウィスキーで酔った</VBE_WhiskeyHigh.label>
+        <VBE_WhiskeyHigh.labelNoun>ウィスキー・ハイ</VBE_WhiskeyHigh.labelNoun>
+        <VBE_WhiskeyHigh.description>ウィスキーを飲んだ.基本的な作業速度が15%上昇します.</VBE_WhiskeyHigh.description>
+        <VBE_DoubleWhiskeyHigh.label>ダブルエイジウィスキーで酔った</VBE_DoubleWhiskeyHigh.label>
+        <VBE_DoubleWhiskeyHigh.labelNoun>ウィスキー・ハイ</VBE_DoubleWhiskeyHigh.labelNoun>
+        <VBE_DoubleWhiskeyHigh.description>ダブルエイジウイスキーを飲んだ.基本的な作業速度が20%,売買価格への補正が20%向上します.</VBE_DoubleWhiskeyHigh.description>
+    </LanguageData>

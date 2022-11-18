@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_Tea.label>お茶</VBE_Tea.label>
+        <VBE_Tea.description>お茶の葉の袋を沸かした湯に浸し手作る,心地よい香りがする飲み物です.お茶は,柑橘系,苦みのあるもの,スパイシーな香りのものまで様々です.古来から人類が愛飲している飲み物であり,多くの自然治癒特性があると信じられています.</VBE_Tea.description>
+        <VBE_Tea.ingestible.ingestCommandString>{0}を 飲む</VBE_Tea.ingestible.ingestCommandString>
+        <VBE_Tea.ingestible.ingestReportString>{0}を 飲んでいる.</VBE_Tea.ingestible.ingestReportString>
+    </LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_GreenTea.label>緑茶</VBE_GreenTea.label>
+  <VBE_GreenTea.description>砂糖を加えた軽い柑橘系の緑茶で,バターのような,ほとんどナッツのような風味を作り出します.</VBE_GreenTea.description>
+  <VBE_GreenTea.ingestible.ingestCommandString>{0}を飲む</VBE_GreenTea.ingestible.ingestCommandString>
+  <VBE_GreenTea.ingestible.ingestReportString>{0}を飲んでいる</VBE_GreenTea.ingestible.ingestReportString>
+</LanguageData>

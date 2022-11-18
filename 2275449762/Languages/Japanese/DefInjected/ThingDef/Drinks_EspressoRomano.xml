@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_LemonCoffee.label>エスプレッソロマーノ</VBE_LemonCoffee.label>
+  <VBE_LemonCoffee.description>特に奇妙な組み合わせ.より酸性のレモンのくさびが添えられたすでに酸性のコーヒーは,熱いうちにすぐに消費される前にコーヒーに搾り出されることを意図しています.確かに後天的な味ですが,それを好む人からは称賛されています.腸内寄生虫と戦うために特別に示されています.</VBE_LemonCoffee.description>
+  <VBE_LemonCoffee.ingestible.ingestCommandString>{0}を飲む</VBE_LemonCoffee.ingestible.ingestCommandString>
+  <VBE_LemonCoffee.ingestible.ingestReportString>{0}を飲んでいる</VBE_LemonCoffee.ingestible.ingestReportString>
+</LanguageData>

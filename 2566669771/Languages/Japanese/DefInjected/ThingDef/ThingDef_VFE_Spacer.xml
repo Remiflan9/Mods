@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Table_DarkIlluminatedEndTable.label>LEDダークランプ付 エンドテーブル</Table_DarkIlluminatedEndTable.label>
+<Table_DarkIlluminatedEndTable.description>LEDダークランプで電飾された小さな照明付きのベッドサイドテーブルです.部屋を照らしながら,近くにあるベッドをほんの少しだけ快適にします.効果を受けるにはベッドの頭側に直接隣接して設置する必要があります.同じベッドの近くに複数の照明付きエンドテーブルを設置しても効果は重複しません.</Table_DarkIlluminatedEndTable.description>
+
+<Table_DarkIlluminatedDresser.label>LEDダークランプ付 タンス</Table_DarkIlluminatedDresser.label>
+<Table_DarkIlluminatedDresser.description>LEDダークランプの帯で電飾された照明の付いた衣装タンスです.部屋を明るく照らしつつ,近くにあるすべてのベッドに小さな快適さと眠りの質に+2%のボーナスを与えます.同じベッドの近くに複数のタンスを設置しても効果は重複しません.</Table_DarkIlluminatedDresser.description>
+
+<Light_SpacerDarkLamp.label>最先端ダークランプ</Light_SpacerDarkLamp.label>
+<Light_SpacerDarkLamp.description>最高気温15度まで部屋を暖めて維持する統合型温度調節装置を使用しながら,部屋を明るく効果的に照らす強力な最先端のダークランプです.雨に濡れてもショートしません.</Light_SpacerDarkLamp.description>
+
+<Spacer_OutdoorDarkLamp.label>太陽光発電 ダークランプ</Spacer_OutdoorDarkLamp.label>
+<Spacer_OutdoorDarkLamp.description>自家発電用の太陽光パネルが付いた太陽光発電ダークランプ.\n通常の電気スタンドよりも明るさは弱いものの,日中は太陽光パネルで自家発電を行い内臓バッテリーに電気を溜めるので外部から電力供給する必要が無く,24時間絶えまず働き続けます.雨に濡れてもショートしません.</Spacer_OutdoorDarkLamp.description>
+
+
+</LanguageData>

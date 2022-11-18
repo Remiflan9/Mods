@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Various -->
+
+  <VCE_PlumsDrying>プラムの乾燥</VCE_PlumsDrying>
+  <VCE_PlumsCurrentlyFrozen>このプラムは冷凍されてるので乾燥せず、プルーンになりません</VCE_PlumsCurrentlyFrozen>
+  <VCE_PlumsCurrentlyRefrigerated>これらのプラムは冷蔵保存されているので、素早く乾燥してプルーンになりません（{0}で乾燥)</VCE_PlumsCurrentlyRefrigerated>
+  <VCE_PlumsDryingCorrectly>正しく乾燥してプルーンになっていきます({0}で乾燥)</VCE_PlumsDryingCorrectly>
+
+</LanguageData>

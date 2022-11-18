@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_CannedMeat.label>缶詰(肉)</VCE_CannedMeat.label>
+  <VCE_CannedMeat.description>肉をスチール缶に真空封入し,常温での腐敗を止めます. 缶を開けるとすぐに食べることができますが,料理する方がはるかに栄養価は高くなります. 缶詰を食べ過ぎると血圧が上昇する可能性があります.</VCE_CannedMeat.description>
+  <VCE_CannedProduce.label>缶詰(野菜)</VCE_CannedProduce.label>
+  <VCE_CannedProduce.description>野菜をスチール缶に真空封入し,常温での腐敗を止めます. 缶を開けるとすぐに食べることができますが,料理する方がはるかに栄養価は高くなります.</VCE_CannedProduce.description>
+  <VCE_CannedFruit.label>缶詰(果物)</VCE_CannedFruit.label>
+  <VCE_CannedFruit.description>耐久性のある容器で密閉保存された果物. 缶詰は冷蔵なしでほぼ無期限で保存ができます.\n\n果物は,デザートの生産に必要であるという点で農産物とは異なります.</VCE_CannedFruit.description>
+  <VCE_CannedAP.label>缶詰(卵)</VCE_CannedAP.label>
+  <VCE_CannedAP.description>ゆで卵をスチール缶に真空封入し,常温での腐敗を止めます. 缶を開けるとすぐに食べることができますが,料理する方がはるかに栄養価は高くなります. 缶詰を食べ過ぎると血圧が上昇する可能性があります.</VCE_CannedAP.description>
+  <VCE_CannedFish.label>缶詰(魚)</VCE_CannedFish.label>
+  <VCE_CannedFish.description>Fish vacuum sealed and secured in a steel can effectively extending shelf life indefinitely. While edible cold right out of the can it's far more nourishing mixed into a meal and heated. Consuming too many canned goods might cause an increase in blood pressure.</VCE_CannedFish.description>
+</LanguageData>

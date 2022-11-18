@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Vanilla Cooking Expanded 日本語</name>
+  <author>あごだしうどん</author>
+  <packageId>Agodashi.jpt.vanillaexpanded.vcooke</packageId>
+  <url>https://steamcommunity.com/sharedfiles/filedetails/?id=2177090936</url>
+  <description>オリジナルMOD：Vanilla Cooking Expanded
+オリジナルMOD製作者：Oskar Potocki(Graphic), Sarg Bjornson(Code), Chowder(multi)
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+このMODは上記MODの日本語翻訳を追加します。
+この翻訳は機械翻訳＋単語検索＋意訳で構成されています。
+この翻訳の誤字・脱字・誤記・誤用などがありましたら、コメントにどうぞ。
+この翻訳以外の動作不具合(バグ)などはオリジナルMOD作者にお問い合わせください。
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+説明や更新内容はSteamのRimWorld Workshopをご覧ください。</description>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <displayName>Vanilla Cooking Expanded</displayName>
+      <packageId>vanillaexpanded.vcooke</packageId>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2134308519</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>vanillaexpanded.vcooke</li>
+    <li>vanillaexpanded.vcookestews</li>
+    <li>vanillaexpanded.vplantse</li>
+    <li>vanillaexpanded.vcef</li>
+    <li>vanillaexpanded.vcookesushi</li>
+  </loadAfter>
+</ModMetaData>

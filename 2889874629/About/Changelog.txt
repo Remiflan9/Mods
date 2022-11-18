@@ -1,0 +1,8 @@
+# Changelog for YayosEndGame
+
+1.4.1 - Fixed preview
+
+
+1.4.0 - First publish.
+Used DeepL to update translations for ChineseSimplified, French, German, Russian
+

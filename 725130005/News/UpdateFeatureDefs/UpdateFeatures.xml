@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<HugsLib.UpdateFeatureDef Abstract="true" Name="UpdateFeatureBase">
+		<modNameReadable>P-Music</modNameReadable>
+		<modIdentifier>P-Music</modIdentifier>
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=725130005</linkUrl>
+	</HugsLib.UpdateFeatureDef>
+	
+	<HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+		<defName>P-Music</defName>
+		<assemblyVersion>1.7</assemblyVersion>
+		<content>Added FOUR tracks from my new album SkyWorld.|img:pics/skyworld|caption:SkyWorld out NOW on all platforms! YouTube, Spotify, Bandcamp, etc..|
+		I am also excited to announce that I'll be making music for Ascent of Ashes but we need your help!|img:pics/aoa|caption:Ascent of Ashes is now LIVE on Kickstarter! If you enjoy RimWorld or my music, consider supporting us.|Ascent of Ashes combines the deep colony simulation of RimWorld with the tactical combat of XCOM, making it an interesting new take on the genre that emphasizes exploration, tight balance and strategic gameplay. The game looks amazing and gets me super excited. Don't take my word for it though, check it out yourself!|Links for the Kickstarter and my new album will be on the mod page.</content>
+	</HugsLib.UpdateFeatureDef>
+</Defs>

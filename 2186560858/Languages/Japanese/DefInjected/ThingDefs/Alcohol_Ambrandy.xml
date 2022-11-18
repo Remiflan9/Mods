@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_AmbrandyAwful.label>アンブランデー(半壊)</VBE_AmbrandyAwful.label>
+        <VBE_AmbrandyAwful.description>アンブランデーは"リキッドサンシャイン"としても知られる,二度発酵させた最高級の蒸留酒です.グリッターワールドの貴族たちは,一本のボトルを運ぶために,私設兵すべてを送ることが知られています.\n\nこの酒を深く醸造させることで,人の脳を刺激し,芸術的な創造性と表現力を増大させると共に,感情のコントロールを司る部分を弱める働きがあることが分かっています.\n\nボトル自体もとても美しく,わずかな光を当てると,まるでキャンプファイアーの残り火が空へと舞い上がるように,中の液体に金色の波紋が踊る様が見られます.アンブランデーはカクテルに混ぜることもできますが,それを飲む特権を持つ人は,そのまま飲むのが一番だと言います.</VBE_AmbrandyAwful.description>
+        <VBE_AmbrandyAwful.ingestible.ingestCommandString>{0}を 飲む</VBE_AmbrandyAwful.ingestible.ingestCommandString>
+        <VBE_AmbrandyAwful.ingestible.ingestReportString>{0}を 飲んでいる.</VBE_AmbrandyAwful.ingestible.ingestReportString>
+        <VBE_AmbrandyPoor.label>アンブランデー(劣)</VBE_AmbrandyPoor.label>
+        <VBE_AmbrandyPoor.description>アンブランデーは"リキッドサンシャイン"としても知られる,二度発酵させた最高級の蒸留酒です.グリッターワールドの貴族たちは,一本のボトルを運ぶために,私設兵すべてを送ることが知られています.\n\nこの酒を深く醸造させることで,人の脳を刺激し,芸術的な創造性と表現力を増大させると共に,感情のコントロールを司る部分を弱める働きがあることが分かっています.\n\nボトル自体もとても美しく,わずかな光を当てると,まるでキャンプファイアーの残り火が空へと舞い上がるように,中の液体に金色の波紋が踊る様が見られます.アンブランデーはカクテルに混ぜることもできますが,それを飲む特権を持つ人は,そのまま飲むのが一番だと言います.</VBE_AmbrandyPoor.description>
+        <VBE_AmbrandyPoor.ingestible.ingestCommandString>{0}を 飲む</VBE_AmbrandyPoor.ingestible.ingestCommandString>
+        <VBE_AmbrandyPoor.ingestible.ingestReportString>{0}を 飲んでいる.</VBE_AmbrandyPoor.ingestible.ingestReportString>
+        <VBE_AmbrandyNormal.label>アンブランデー(並)</VBE_AmbrandyNormal.label>
+        <VBE_AmbrandyNormal.description>アンブランデーは"リキッドサンシャイン"としても知られる,二度発酵させた最高級の蒸留酒です.グリッターワールドの貴族たちは,一本のボトルを運ぶために,私設兵すべてを送ることが知られています.\n\nこの酒を深く醸造させることで,人の脳を刺激し,芸術的な創造性と表現力を増大させると共に,感情のコントロールを司る部分を弱める働きがあることが分かっています.\n\nボトル自体もとても美しく,わずかな光を当てると,まるでキャンプファイアーの残り火が空へと舞い上がるように,中の液体に金色の波紋が踊る様が見られます.アンブランデーはカクテルに混ぜることもできますが,それを飲む特権を持つ人は,そのまま飲むのが一番だと言います.</VBE_AmbrandyNormal.description>
+        <VBE_AmbrandyNormal.ingestible.ingestCommandString>{0}を 飲む</VBE_AmbrandyNormal.ingestible.ingestCommandString>
+        <VBE_AmbrandyNormal.ingestible.ingestReportString>{0}を 飲んでいる.</VBE_AmbrandyNormal.ingestible.ingestReportString>
+        <VBE_AmbrandyGood.label>アンブランデー(良)</VBE_AmbrandyGood.label>
+        <VBE_AmbrandyGood.description>アンブランデーは"リキッドサンシャイン"としても知られる,二度発酵させた最高級の蒸留酒です.グリッターワールドの貴族たちは,一本のボトルを運ぶために,私設兵すべてを送ることが知られています.\n\nこの酒を深く醸造させることで,人の脳を刺激し,芸術的な創造性と表現力を増大させると共に,感情のコントロールを司る部分を弱める働きがあることが分かっています.\n\nボトル自体もとても美しく,わずかな光を当てると,まるでキャンプファイアーの残り火が空へと舞い上がるように,中の液体に金色の波紋が踊る様が見られます.アンブランデーはカクテルに混ぜることもできますが,それを飲む特権を持つ人は,そのまま飲むのが一番だと言います.</VBE_AmbrandyGood.description>
+        <VBE_AmbrandyGood.ingestible.ingestCommandString>{0}を 飲む</VBE_AmbrandyGood.ingestible.ingestCommandString>
+        <VBE_AmbrandyGood.ingestible.ingestReportString>{0}を 飲んでいる.</VBE_AmbrandyGood.ingestible.ingestReportString>
+        <VBE_AmbrandyExcellent.label>アンブランデー(秀)</VBE_AmbrandyExcellent.label>
+        <VBE_AmbrandyExcellent.description>アンブランデーは"リキッドサンシャイン"としても知られる,二度発酵させた最高級の蒸留酒です.グリッターワールドの貴族たちは,一本のボトルを運ぶために,私設兵すべてを送ることが知られています.\n\nこの酒を深く醸造させることで,人の脳を刺激し,芸術的な創造性と表現力を増大させると共に,感情のコントロールを司る部分を弱める働きがあることが分かっています.\n\nボトル自体もとても美しく,わずかな光を当てると,まるでキャンプファイアーの残り火が空へと舞い上がるように,中の液体に金色の波紋が踊る様が見られます.アンブランデーはカクテルに混ぜることもできますが,それを飲む特権を持つ人は,そのまま飲むのが一番だと言います.</VBE_AmbrandyExcellent.description>
+        <VBE_AmbrandyExcellent.ingestible.ingestCommandString>{0}を 飲む</VBE_AmbrandyExcellent.ingestible.ingestCommandString>
+        <VBE_AmbrandyExcellent.ingestible.ingestReportString>{0}を 飲んでいる.</VBE_AmbrandyExcellent.ingestible.ingestReportString>
+        <VBE_AmbrandyMasterwork.label>アンブランデー(名)</VBE_AmbrandyMasterwork.label>
+        <VBE_AmbrandyMasterwork.description>アンブランデーは"リキッドサンシャイン"としても知られる,二度発酵させた最高級の蒸留酒です.グリッターワールドの貴族たちは,一本のボトルを運ぶために,私設兵すべてを送ることが知られています.\n\nこの酒を深く醸造させることで,人の脳を刺激し,芸術的な創造性と表現力を増大させると共に,感情のコントロールを司る部分を弱める働きがあることが分かっています.\n\nボトル自体もとても美しく,わずかな光を当てると,まるでキャンプファイアーの残り火が空へと舞い上がるように,中の液体に金色の波紋が踊る様が見られます.アンブランデーはカクテルに混ぜることもできますが,それを飲む特権を持つ人は,そのまま飲むのが一番だと言います.</VBE_AmbrandyMasterwork.description>
+        <VBE_AmbrandyMasterwork.ingestible.ingestCommandString>{0}を 飲む</VBE_AmbrandyMasterwork.ingestible.ingestCommandString>
+        <VBE_AmbrandyMasterwork.ingestible.ingestReportString>{0}を 飲んでいる.</VBE_AmbrandyMasterwork.ingestible.ingestReportString>
+        <VBE_AmbrandyLegendary.label>アンブランデー(幻)</VBE_AmbrandyLegendary.label>
+        <VBE_AmbrandyLegendary.description>アンブランデーは"リキッドサンシャイン"としても知られる,二度発酵させた最高級の蒸留酒です.グリッターワールドの貴族たちは,一本のボトルを運ぶために,私設兵すべてを送ることが知られています.\n\nこの酒を深く醸造させることで,人の脳を刺激し,芸術的な創造性と表現力を増大させると共に,感情のコントロールを司る部分を弱める働きがあることが分かっています.\n\nボトル自体もとても美しく,わずかな光を当てると,まるでキャンプファイアーの残り火が空へと舞い上がるように,中の液体に金色の波紋が踊る様が見られます.アンブランデーはカクテルに混ぜることもできますが,それを飲む特権を持つ人は,そのまま飲むのが一番だと言います.</VBE_AmbrandyLegendary.description>
+        <VBE_AmbrandyLegendary.ingestible.ingestCommandString>{0}を 飲む</VBE_AmbrandyLegendary.ingestible.ingestCommandString>
+        <VBE_AmbrandyLegendary.ingestible.ingestReportString>{0}を 飲んでいる.</VBE_AmbrandyLegendary.ingestible.ingestReportString>
+    </LanguageData>

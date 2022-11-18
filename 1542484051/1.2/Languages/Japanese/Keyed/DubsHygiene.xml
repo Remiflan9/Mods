@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--Construction-->
+  <DesignatorRemovePlumbing>配管を解体する</DesignatorRemovePlumbing>
+  <DesignatorRemovePlumbingDesc>分解するために配管部分を指定します</DesignatorRemovePlumbingDesc>
+  <RemoveSewage>下水汚泥を取り除く</RemoveSewage>
+  <RemoveSewageDesc>地面から汚水を取り除いて樽に入れます</RemoveSewageDesc>
+  <RemovePlumbing>配管を取り外す</RemovePlumbing>
+  <RemoveAirCon>エアコンを取り外す</RemoveAirCon>
+
+  <!--Warnings-->
+  <Alert_MissingTower>給水塔がありません</Alert_MissingTower>
+  <Alert_MissingTowerDesc>井戸から汲み上げた水を貯蔵するために給水塔または水タンクが必要です</Alert_MissingTowerDesc>
+  <Alert_MissingWell>井戸がありません</Alert_MissingWell>
+  <Alert_MissingWellDesc>給水用の各種ポンプは地下水をくみ上げるために配管で接続した井戸が必要です</Alert_MissingWellDesc>
+  <Alert_MissingPump>給水用のポンプがありません</Alert_MissingPump>
+  <Alert_MissingPumpDesc>井戸から給水塔へ水をくみ上げるために水ポンプが必要です</Alert_MissingPumpDesc>
+  <DBHFalloutWarning>水の汚染(死の灰)</DBHFalloutWarning>
+  <DBHFalloutWarningEx>2日間有毒な放射性降下物が降り続いた後、その堆積物は井戸に接続された水タンクや給水塔を汚染しました。\n\n備蓄用の水を確保してから、配管バルブを閉じて井戸を切り離し、汚染が手遅れになる前に水を保護しましょう。\n\n井戸(深層)を使い汚染されていない水を汲み上げたり、上水処理施設を設置して水の備蓄から汚染を全て除去することも可能です。</DBHFalloutWarningEx>
+
+  <LowCoolingCap>冷却能力が不足しているので、エアコン (室外機)の出力を増加することが可能です</LowCoolingCap>
+  <NotOwned>使用制限</NotOwned>
+  <GenderRestricted>{0}専用</GenderRestricted>
+  <PrisonersOnly>囚人専用</PrisonersOnly>
+  <BlockedSewage>下水排水口が詰まった</BlockedSewage>
+  <BlockedSewageDesc>下水排水口の周りに下水が溜まり、その出口が詰まっています。\n\nより多くの下水排水口を建設するか、浄化槽を追加して逃げ道を作り、下水排水口の圧力を下げて詰まる原因を減らしてください。</BlockedSewageDesc>
+  <LowWaterTemp>水温が低い</LowWaterTemp>
+  <LowWaterTempDesc>この給湯タンクの水温は低すぎます。お湯の利用できると期待している入植者はイライラするかもしれません。\n\n温水器の電源を入れて、消費熱量を増やすか、別の給湯タンクを追加してください。</LowWaterTempDesc>
+  <WellNeedsWater>地下水のあるセルの上に設置する必要があります。</WellNeedsWater>
+  <AssigningRequiresRoom>洗面所など備品を使用制限するには部屋の中になければなりません。</AssigningRequiresRoom>
+  <NoWaterTowers>給水塔が必要</NoWaterTowers>
+  <AssigningRequiresBladderNeed>割り当てるには膀胱が存在する必要がありますが、{0}には必要ありません</AssigningRequiresBladderNeed>
+
+  <NoCompostingMaterial>堆肥化する材料がありません</NoCompostingMaterial>
+  <Nowater>水の空き容量がありません</Nowater>
+  <Nosewage>下水の空き容量がありません</Nosewage>
+  <RequiresPlumbing>配管が必要です</RequiresPlumbing>
+  <AccessRestricted>使用制限</AccessRestricted>
+
+  <TooHot>熱すぎます：x{0}</TooHot>
+  <InRain>雨の中：x{0}</InRain>
+  <PhysicalActivity>力を使う：x{0}</PhysicalActivity>
+  <FilthyRoom>部屋：x{0}</FilthyRoom>
+  <TotalHygieneStat>合計：x{0}</TotalHygieneStat>
+  <DirtyHands>汚れた手－感染の危険性</DirtyHands>
+
+  <LetterLabelBlockedDrain>下水排水口が詰まりました</LetterLabelBlockedDrain>
+  <LetterBlockedDrain>下水排水口が詰まった場合、掃除する人が詰まりを取る必要があります。</LetterBlockedDrain>
+
+  <ContaminationAlert>汚染された水源</ContaminationAlert>
+  <ContaminationAlertDesc>井戸が汚染されました。\n\n汚染源：\n{0}\n\n解決するためには、井戸を移動させるか、汚染の発生源を取り除きます。もし排水管で接続した井戸を使用している場合は、上水処理施設を追加して建設すれば、汚染された水タンクや給水塔も時間の経過とともに正常化されます。</ContaminationAlertDesc>
+  <ContaminatiedTowerAlert>汚染された給水塔</ContaminatiedTowerAlert>
+  <ContaminatiedTowerAlertDesc>給水塔が汚染され、入植者に深刻な健康リスクをもたらしています！汚染の原因を解決してから、給水塔を操作して汚染されたタンクの水を全て排水するか、上水処理施設を建築する必要があります。</ContaminatiedTowerAlertDesc>
+
+  <MessageHygieneDisease>不衛生なままの{0}は{1}に感染した</MessageHygieneDisease>
+  <MessageWaterDisease>未処理なままの水が原因で{0}は{1}に感染した</MessageWaterDisease>
+  <MessageWaterDiseaseContaminated>汚染された水が原因で{0}は{1}に感染した</MessageWaterDiseaseContaminated>
+
+  <!--Restrictions-->
+  <ChangeGenderRestriction>性別による制限を変更する</ChangeGenderRestriction>
+  <CommandFixtureSetAsMedicalLabel>医療用</CommandFixtureSetAsMedicalLabel>
+  <CommandFixtureSetAsMedicalDesc>衛生備品の仕様を患者専用に限定します</CommandFixtureSetAsMedicalDesc>
+  <PatientsOnly>患者専用</PatientsOnly>
+  <AttackHelicopter>ヘリを攻撃する</AttackHelicopter>
+  <Unisex>男女共用</Unisex>
+  <ConnectFixturesToBed>ベッドに関連付ける</ConnectFixturesToBed>
+  <ConnectFixturesToBedDesc>衛生備品を近くのベッドに関連付けて所有権を継承します。Shiftキー同時押しで、複数のベッドを割り当てられます。</ConnectFixturesToBedDesc>
+  <CancelConnectFixturesToBed>ベッドとの関連を削除</CancelConnectFixturesToBed>
+  <CancelConnectFixturesToBedDesc>ベッドへの関連付けを削除します</CancelConnectFixturesToBedDesc>
+  <dbh.Animalsonly>動物専用</dbh.Animalsonly>
+  <ChangeOccupancyRestriction>使用中の確認</ChangeOccupancyRestriction>
+  <ChangeOccupancyRestrictionDesc>ポーンは備品を使用する前に、備品が室内の誰かに予約されているかどうかを確認する必要があります。また、ポーンが備品を連続使用予約を行い洗面台やシャワー/風呂とトイレを同時に使用したり予約するのを防止します。</ChangeOccupancyRestrictionDesc>
+
+  <!--Heating-->
+  <WaterTemp>水温：{0}</WaterTemp>
+  <ConnectedHeatingCapacity>接続された需要/容量：{0}/{1}熱量（{2})</ConnectedHeatingCapacity>
+  <ConnectedCoolingCapacity>接続された需要/容量：{0}/{1}熱量（{2})</ConnectedCoolingCapacity>
+  <HeatingUnits>暖房消費熱量：{0}熱量</HeatingUnits>
+  <CoolingUnits>冷却消費熱量：{0}熱量</CoolingUnits>
+  <HeatingMode>暖房熱量/電力：{0}熱量／{1}ｗ</HeatingMode>
+  <CoolingMode>冷却熱量/電力：{0}熱量／{1}ｗ</CoolingMode>
+  <CoolingEfficiencyGood>冷却効率：{0}</CoolingEfficiencyGood>
+  <CoolingEfficiencyBad>冷却効率：{0}過熱</CoolingEfficiencyBad>
+  <TargetTemp>最低温度：{0}</TargetTemp>
+  <LowerPower>電力を下げる</LowerPower>
+  <LowerPowerDesc>暖房にかかる消費熱量を下げます</LowerPowerDesc>
+  <RaisePower>電力を上げる</RaisePower>
+  <RaisePowerDesc>暖房にかかる消費熱量を上げます</RaisePowerDesc>
+  <HotwaterCapacity>温水容量：{0}</HotwaterCapacity>
+  <OverrideThermostat>温度調節器を無効化する</OverrideThermostat>
+  <OverrideThermostatDesc>温水器を強制的に稼動させます</OverrideThermostatDesc>
+  <MustPlaceFreezerWithFreeSpaces>下水排気口を清潔に保つ必要があります！</MustPlaceFreezerWithFreeSpaces>
+  <SolarEfficiencyCold>寒すぎる</SolarEfficiencyCold>
+  <SolarEfficiencyRoof>屋根がある</SolarEfficiencyRoof>
+  <SolarEfficiencyGood>加熱器/熱効率：{0}/{1}</SolarEfficiencyGood>
+  <RadCurrentCap>熱交換器温度：{0}</RadCurrentCap>
+  <ThermostatSetupWarning>給湯タンクで上書きされた温度調節器...\n接続されているすべての給湯タンクを温度調節モードに設定してください！</ThermostatSetupWarning>
+  <HotWaterTankUseThermostat>温度調節器の管理</HotWaterTankUseThermostat>
+  <HotWaterTankUseThermostatDesc>給湯タンクの温度が低いときに温水器を1時間燃焼させます。これが無効になっている場合、温水器は連続動作して部屋に置かれた温度調節器を無視します</HotWaterTankUseThermostatDesc>
+
+  <!--Hygiene-->
+  <WashHands>両手を洗う</WashHands>
+  <Wash>手を洗う</Wash>
+  <UseToilet>使用する</UseToilet>
+  <SewageUsage>使用量＝{0}</SewageUsage>
+  <MustBePlumbing>配管する必要があります</MustBePlumbing>
+  <BlockedDrain>配管が詰まった</BlockedDrain>
+  <PlumbOrEmpty>配管するか簡易トイレを空にします</PlumbOrEmpty>
+  <WashingMachineSpinning>洗濯中...</WashingMachineSpinning>
+  <WashingMachineUnload>取出し可</WashingMachineUnload>
+  <WashingMachineLoad>内容：{0}/{1}</WashingMachineLoad>
+  <NoDirtyClothes>汚れた衣服がない</NoDirtyClothes>
+  <WashingNoSpace>満タンです</WashingNoSpace>
+  <NoUnreservedSource>利用可能な最高品質の水源がありません</NoUnreservedSource>
+  <!--Water-->
+  <RaiseFillRate>流量 +50L</RaiseFillRate>
+  <LowerFillRate>流量 -50L</LowerFillRate>
+  <WaterFillRate>充満率：{0} L/時</WaterFillRate>
+  <dbhDrink>飲む(D)</dbhDrink>
+  <CommandDesignateOpenCloseValveLabel>バルブの切替</CommandDesignateOpenCloseValveLabel>
+  <CommandDesignateOpenCloseValveDesc>バルブの開閉を切り替えます。</CommandDesignateOpenCloseValveDesc>
+  <ValveClosed>バルブ閉鎖中</ValveClosed>
+
+  <PumpCapacity>ポンプ容量：{0}L/日</PumpCapacity>
+  <GroundCapacity>地下水量：{0}L/日</GroundCapacity>
+  <PipedPumpCapacity>ポンプ容量/地下水量：{0}/{1}L/日（{2})</PipedPumpCapacity>
+
+  <WaterStorage>貯水量：{0}L</WaterStorage>
+  <TotalWaterStorage>接続された貯水量：{0}L</TotalWaterStorage>
+
+  <PollutionLevel>汚染レベル：{0}</PollutionLevel>
+
+  <CommandSprinkleDown>散水半径を縮小</CommandSprinkleDown>
+  <CommandSprinkleUp>散水半径を拡大</CommandSprinkleUp>
+  <UntreatedWater>品質：未処理－病気の危険性は低い</UntreatedWater>
+  <ContaminatedWater>品質：汚染された！－病気にかかる危険性が高い！</ContaminatedWater>
+  <TreatedWater>品質：浄化済－安全</TreatedWater>
+
+  <DrainTank>タンクを 空にする</DrainTank>
+  <DrainTankDesc>タンクを排水して汚染をを取り除きます</DrainTankDesc>
+
+  <WaterValueOffset>水量：{0}～{1}L</WaterValueOffset>
+  <HyWater>水</HyWater>
+
+  <OverlapsWells>{0}ヵ所の井戸が重複しています</OverlapsWells>
+
+  <!--Sewage-->
+  <dbh.SewageReadout>下水汚泥 {0}</dbh.SewageReadout>
+  <DrainSepticTank>汲み取る</DrainSepticTank>
+  <DrainSepticTankDesc>下水汚泥を空にして樽に移すべきレベルを設定します。下水汚泥は樽に移して埋めたり、焼却穴で燃やしたり、バイオ肥料に堆肥化したりバイオ化学燃料にすることができます</DrainSepticTankDesc>
+  <SewageProcessing>処理能力：{0}L/日\n未処理：{1}L（{2})</SewageProcessing>
+  <DoNotDrainTank>汲み取れません</DoNotDrainTank>
+  <DrainSepticTankAt>{0}で浄化槽を汲み取ります。</DrainSepticTankAt>
+
+  <PitCapacity>簡易トイレ：{0}</PitCapacity>
+  <PitFull>簡易トイレは満杯です。今すぐ空にしてください！</PitFull>
+  <KickOver>樽の中身を撒く</KickOver>
+  <KickOverDesc>この下水汚泥の詰まった樽の中身を大地にばら撒きます</KickOverDesc>
+
+  <!--Composting-->
+  <ContainsCompost>堆肥容器の容量：{0}/{1}</ContainsCompost>
+  <ContainsFecalSludge>下水汚泥の容量：{0}/{1}</ContainsFecalSludge>
+  <Composted>堆肥化</Composted>
+  <CompostingProgress>堆肥化の進行度：{0}（{1})</CompostingProgress>
+  <ComposterOutOfIdealTemperature>堆肥化が進まない温度です</ComposterOutOfIdealTemperature>
+  <IdealCompostingTemperature>理想的な堆肥温度です</IdealCompostingTemperature>
+  <GrowingZoneNotAllowed>農業ゾーンの種蒔きが無効です</GrowingZoneNotAllowed>
+  <NoFertilizerFound>バイオ肥料がありません</NoFertilizerFound>
+  <AreaPlaceFertilizer>肥料エリア</AreaPlaceFertilizer>
+  <AreaPlaceFertilizerDesc>バイオ肥料を与えるエリアを指定します</AreaPlaceFertilizerDesc>
+  <AddFertilizerArea>エリア拡張</AddFertilizerArea>
+  <RemoveFertilizerArea>エリア削除</RemoveFertilizerArea>
+
+  <!--Mod Options-->
+  <dbh.PriorityIndoorCleaning>室内清掃を優先</dbh.PriorityIndoorCleaning>
+  <dbh.PriorityIndoorCleaningTip>優先度の高い清掃の仕事を有効化して、最初に屋内にあるトイレなどの下水汚泥を清掃します</dbh.PriorityIndoorCleaningTip>
+  <dbh.ModRemove>Mod削除用の補助機能</dbh.ModRemove>
+  <dbh.ModRemoveDesc>手順:\n\n1：確認ボタンを押した後、すぐにゲームデータをセーブします\n2：メインメニューに戻って、Modリストで無効にした後でゲームを再起動します\n3：セーブデータをロードすると、ロード後にnull参照例外エラーがログに記録されるのを無視して、そのまま再度セーブします\nセーブデータをもう一度ロードしてください。このModのDefsやClassなどが無いために生じるnull参照例外エラーは無くなります。</dbh.ModRemoveDesc>
+  <PetsGetThirst>ペットの喉の渇き</PetsGetThirst>
+  <PetsGetThirstTip>ペットは喉の渇きの欲求を満たすことが必要になります</PetsGetThirstTip>
+  <fixtureQualityRequiresRestart>品質と芸術を再び追加するには、再起動が必要です。\n\n今すぐ再起動しますか？</fixtureQualityRequiresRestart>
+  <fixtureQuality>備品の品質と芸術</fixtureQuality>
+  <fixtureQualityTip>トイレや風呂などの備品の品質と芸術タブを有効化する</fixtureQualityTip>
+  <QuitToMenuToChange>変更してメニュー画面に戻る</QuitToMenuToChange>
+  <RimefellerLink>Rimefellerと連携</RimefellerLink>
+  <RimefellerLinkTip>Rimefellerの接触分解装置(cracker)や\n石油精製装置(refiner)で水の使用を有効にします</RimefellerLinkTip>
+  <RimatomicsLink>Rimatomicsと連携</RimatomicsLink>
+  <RimatomicsLinkTip>Rimatomicsの冷却塔で水の使用を有効にします</RimatomicsLinkTip>
+  <OverrideNeedSettingsTip>特定のポーン種類で衛生の必要な設定を手動で無効化するかhediffを手動で無効化する際に、必要な設定と修正パッチを上書きする。<!-- hediffで無効にした場合、hediffに対して適用した時に「AddOrRemoveNeedsAsAppropriate」を呼び出す必要あり。 --></OverrideNeedSettingsTip>
+  <OverrideNeedsSettings>要求を手動でフィルター</OverrideNeedsSettings>
+  <Disablebladderneed>膀胱の要求を無効化</Disablebladderneed>
+  <Disablehygieneneed>衛生環境の要求を無効化</Disablehygieneneed>
+  <DisableNeedsLabel>要求</DisableNeedsLabel>
+  <NeedCheckboxTip>時間処理を有効化</NeedCheckboxTip>
+  <PrisonersGetNeeds>囚人</PrisonersGetNeeds>
+  <PrisonersGetNeedsTip>囚人にも必要かどうかを設定します</PrisonersGetNeedsTip>
+  <HospitalityGuestsGetNeeds>訪問客</HospitalityGuestsGetNeeds>
+  <HospitalityGuestsGetNeedsTip>「Hospitality」Modの訪問客にも必要かどうかを設定します</HospitalityGuestsGetNeedsTip>
+  <PrivacyChecks>プライバシー</PrivacyChecks>
+  <PrivacyChecksTip>入植者は入浴時やトイレ使用時にプライバシーを気にします</PrivacyChecksTip>
+  <CoolingEfficiency>熱冷却効率</CoolingEfficiency>
+  <CoolingEfficiencyTip>バニラのエアコンと同様に熱波などの高熱が冷却効率に影響を与えるかどうかを設定します</CoolingEfficiencyTip>
+  <RainIrrigation>雨水による灌漑</RainIrrigation>
+  <RainIrrigationTip>雨は灌漑用散水器と同じように土壌の肥沃度を増加させますが、動作が重くなる可能性があります</RainIrrigationTip>
+  <DisableNeeds>入植者</DisableNeeds>
+  <DisableNeedsTip>入植者の欲求を完全に無効にして、すべての設定を無効化する</DisableNeedsTip>
+  <AllowModdedDrinks>Modの飲み物を許可</AllowModdedDrinks>
+  <AllowModdedDrinksTip>ポーンはModで追加された飲み物を飲んだり補充することが許されます。VGPとRimCuisineの飲み物はデフォルトで使用可能で、他のModの飲み物はdef部分の拡張を変更する必要があります。</AllowModdedDrinksTip>
+  <AllowDrinkPacking>水筒の補充を許可</AllowDrinkPacking>
+  <AllowDrinkPackingTip>ポーンは可能な場合、自動的に水筒へ在庫の飲み物を詰めこみます。\n\nただし一部のMODでは動作しない場合があります。CEの場合、手動で荷物を管理して水筒を補充する必要があります。</AllowDrinkPackingTip>
+  <NeedsFilter>フィルターが必要</NeedsFilter>
+  <MainFeatures>通常機能</MainFeatures>
+  <ExperimentalFeatures>拡張機能</ExperimentalFeatures>
+  <PetsGetBladder>家畜(膀胱)</PetsGetBladder>
+  <PetsGetBladderTip>家畜(ペット)にも膀胱による欲求を有効化して家畜用トイレを追加します</PetsGetBladderTip>
+  <WildAnimalsGetBladder>野生動物(膀胱)</WildAnimalsGetBladder>
+  <WildAnimalsGetBladderTip>すべての野生動物で膀胱による欲求を有効化すると汚れがひどくなります</WildAnimalsGetBladderTip>
+  <ThirstNeed>喉の渇きを導入</ThirstNeed>
+  <ThirstNeedTip>膀胱の欲求が必要な(ロボットやアンドロイド以外の)すべての入植者に喉の渇きの欲求を与えて噴水や水筒を追加します。再起動が必要</ThirstNeedTip>
+  <FertilizerVisible>肥料を可視化</FertilizerVisible>
+  <FertilizerVisibleTip>バイオ肥料を撒いた場所(グリッド)を表示するかどうかを設定します</FertilizerVisibleTip>
+  <AllowNonHuman>人間以外の入植者</AllowNonHuman>
+  <AllowNonHumanTip>人間以外の入植者たちに衛生や生理的な欲求を許可します。あなたはこの設定を切り替える事で特定の種族に対して無効にすることができます。</AllowNonHumanTip>
+  <dbh.ExtraFeatures>追加機能</dbh.ExtraFeatures>
+  <DBHLiteMode>簡易モード（Modを簡素化)</DBHLiteMode>
+  <DBHLiteModeTip>Modを簡易モードに切り替えて、配管(排水/送風)や上下水道の管理や衛生と喉の渇きの欲求に直接関係のない建築物や仕事を削除します。\n\nこれを切り替えると、多くのDefが読み込まれなるので、ゲームを再起動する必要があります。\n\nこの設定を有効化している既存のセーブデータをロードする場合は、この設定をオンにした後にセーブして再びセーブデータをロードする必要があります。</DBHLiteModeTip>
+  <LiteRequiresRestart>簡易モードの設定を切り替えた後で、セーブデータをリロードする必要があります。\n\nこの設定を有効化している既存のセーブデータをロードする場合は、この設定をオンにした後にセーブしてエラーを削除した後で、再びセーブデータをロードする必要があります。</LiteRequiresRestart>
+  <PassiveWaterCoolersLink>気化熱クーラーは水を使用</PassiveWaterCoolersLink>
+  <PassiveWaterCoolersLinkTip>気化熱クーラーは、燃料として材木を使用せず、その代わりに水タンクと同じ様に水を溜めます</PassiveWaterCoolersLinkTip>
+  <sos2int>SoS2と統合する</sos2int>
+  <sos2intTip>生活支援用に上下水道処理を追加して宇宙船の建築物にパイプを追加する</sos2intTip>
+  <StockpileWater>水の備蓄×{0}</StockpileWater>
+  <HygieneWiki>Bad Hygiene Wiki</HygieneWiki>
+  <HygieneWikiDesc>ModのWikiページを開きます</HygieneWikiDesc>
+  <SurvivalMode>サバイバルモード</SurvivalMode>
+  <SurvivalModeTip>デフォルトの浅瀬グリッドの生成を非常に小さな範囲に制限します。地形の種類では水を生成しなくなり、地表にある水辺(沼や泥)の半径が小さくなります。\n\n新規に始める必要はありません。セーブデータを使って動作します</SurvivalModeTip>
+  <HydroponicsLink>水耕栽培</HydroponicsLink>
+  <HydroponicsLinkTip>水耕栽培器のように電力を必要とする建築物には、排水管から水の補給が必要な水タンクがあって、作物は電力の代わりに水不足で枯れて、水タンクは建築物に電力が供給されている間だけ補給されます</HydroponicsLinkTip>
+  <ThirstRequiresRestart>のどの渇きに関係するアイテムを追加したり削除する場合はゲームの再起動が必要です\n\n今すぐ再起動しますか？</ThirstRequiresRestart>
+
+</LanguageData>

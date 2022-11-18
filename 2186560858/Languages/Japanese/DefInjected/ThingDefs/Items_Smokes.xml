@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_Cigarettes.label>紙巻きたばこ</VBE_Cigarettes.label>
+        <VBE_Cigarettes.description>小さな紙の筒に,たばこの葉をゆるく詰めたものです.わずかな陶酔感と精神の興奮を与えますが,強い中毒性があります.刺激の強い香りは,最初は大抵嫌がられますが,喫煙者がたばこ中毒になるほど楽しいものになります.特別な設備を必要とせず,工芸作業場で作成できます.</VBE_Cigarettes.description>
+        <VBE_Cigarettes.ingestible.ingestCommandString>{0}を 吸う</VBE_Cigarettes.ingestible.ingestCommandString>
+        <VBE_Cigarettes.ingestible.ingestReportString>{0}を 吸っている.</VBE_Cigarettes.ingestible.ingestReportString>
+        <VBE_Cigarettes.ingestible.ingestReportStringEat>{0}を 食べている.</VBE_Cigarettes.ingestible.ingestReportStringEat>
+        <VBE_Cigars.label>葉巻</VBE_Cigars.label>
+        <VBE_Cigars.description>乾燥したたばこの葉を縁まで詰めて,たばこの葉と金箔で巻いたものです.葉巻は歴史的に豪華な装飾が施されており,通常はグリッターワールドのエリートと交流のある人だけが手ごろな価格で手に入れることができます.よく強い香りを和らげるために,柑橘類やバニラの風味づけがされます.</VBE_Cigars.description>
+        <VBE_Cigars.ingestible.ingestCommandString>{0}を 吸う</VBE_Cigars.ingestible.ingestCommandString>
+        <VBE_Cigars.ingestible.ingestReportString>{0}を 吸っている.</VBE_Cigars.ingestible.ingestReportString>
+        <VBE_Cigars.ingestible.ingestReportStringEat>{0}を 食べている.</VBE_Cigars.ingestible.ingestReportStringEat>
+    </LanguageData>

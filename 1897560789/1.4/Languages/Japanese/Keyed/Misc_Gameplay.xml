@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TargetLightRadius>明りが届く半径(現在)</TargetLightRadius>
+  <CurrentLightOpacity>明りの強さ(現在)</CurrentLightOpacity>
+
+  <CommandRaiseLightRDesc>明りが届く半径を今よりも拡大します。</CommandRaiseLightRDesc>
+  <CommandLowerLightRDesc>明りが届く半径を今よりも縮小します。</CommandLowerLightRDesc>
+
+  <CommandRaiseLightIntDesc>明りの強さを今よりも強くします。</CommandRaiseLightIntDesc>
+  <CommandLowerLightIntDesc>明りの強さを今よりも弱くします。</CommandLowerLightIntDesc>
+
+  <LightIntensityPercent>% 明るさ強度</LightIntensityPercent>
+  <LightRadiusCells>半径(マス)</LightRadiusCells>
+
+  <SwitchedColourDesc>明りの色を変更：</SwitchedColourDesc>
+  <LightColourRed>赤色</LightColourRed>
+  <LightColourGreen>緑色</LightColourGreen>
+  <LightColourBlue>青色</LightColourBlue>
+  <LightColourWhite>白色</LightColourWhite>
+
+  <EnableAutoForbid>自動禁止を有効にする</EnableAutoForbid>
+  <EnableAutoForbidExplanation>ここに保管されている武器や衣服は,完全なHPに届くまで自動的に禁止されます.</EnableAutoForbidExplanation>
+
+</LanguageData>

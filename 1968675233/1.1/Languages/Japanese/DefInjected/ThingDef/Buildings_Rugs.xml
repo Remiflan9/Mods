@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UnfinishedRug.label>ラグマット(未完成)</UnfinishedRug.label>
+
+
+  <!-- Rugs -->
+
+  <VFE_RugSmall.label>小さなラグマット</VFE_RugSmall.label>
+  <VFE_RugSmall.description>芸術的な刺繍が施された床に敷く2x2サイズの小さな織物です。</VFE_RugSmall.description>
+  <Blueprint_Install_VFE_RugSmall.label>小さなラグマット(移動先)</Blueprint_Install_VFE_RugSmall.label>
+
+  <VFE_RugLarge.label>大きなラグマット</VFE_RugLarge.label>
+  <VFE_RugLarge.description>芸術的な刺繍が施された床に敷く3x3サイズの大きな織物です。</VFE_RugLarge.description>
+  <Blueprint_Install_VFE_RugLarge.label>大きなラグマット(移動先)</Blueprint_Install_VFE_RugLarge.label>
+
+  <VFE_RugGrand.label>巨大なラグマット</VFE_RugGrand.label>
+  <VFE_RugGrand.description>芸術的な刺繍が施された床に敷く4x4サイズの巨大な織物です。</VFE_RugGrand.description>
+  <Blueprint_Install_VFE_RugGrand.label>巨大なラグマット(移動先)</Blueprint_Install_VFE_RugGrand.label>
+
+</LanguageData>

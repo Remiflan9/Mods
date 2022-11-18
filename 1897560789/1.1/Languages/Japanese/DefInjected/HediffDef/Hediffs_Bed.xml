@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bed_RefreshingSleep.label>爽快な睡眠</Bed_RefreshingSleep.label>
+  <Bed_RefreshingSleep.description>高度なベッドと寝具システムによる優れた睡眠</Bed_RefreshingSleep.description>
+  <Bed_RefreshingSleep.stages.Minor.label>軽い</Bed_RefreshingSleep.stages.Minor.label>
+  <Bed_RefreshingSleep.stages.Major.label>ほどほど</Bed_RefreshingSleep.stages.Major.label>
+  <Bed_RefreshingSleep.stages.Max.label>最高</Bed_RefreshingSleep.stages.Max.label>
+
+</LanguageData>

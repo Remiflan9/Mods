@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_DeepFryFish.label>揚げ物(魚) x20</VCE_DeepFryFish.label>
+  <VCE_DeepFryFish.description>魚を揚げる.揚げ物はとても美味しいのですが,健康にはあまり良くありません.</VCE_DeepFryFish.description>
+  <VCE_DeepFryFish.jobString>揚げ物(魚)を揚げる.</VCE_DeepFryFish.jobString>
+  <VCE_CanFish.label>缶詰(魚) x20</VCE_CanFish.label>
+  <VCE_CanFish.description>スチール缶で魚を安全に保存しましょう.食品を缶詰にすると,保存期間がほぼ無期限に延長されます.</VCE_CanFish.description>
+  <VCE_CanFish.jobString>缶詰(魚)を作成中.</VCE_CanFish.jobString>
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- {0} is the parent building's label -->
+
+  <VFEF_CommandMakeCompAreaLabel>給餌エリアを指定</VFEF_CommandMakeCompAreaLabel>
+  <VFEF_CommandMakeCompAreaDesc>この{0}の周辺に設定されているゾーンを自動的に指定します。</VFEF_CommandMakeCompAreaDesc>
+  <VFEF_ScarecrowGizmo>コロニーの動物も恐れさせる</VFEF_ScarecrowGizmo>
+  <VFEF_ScarecrowGizmoText>このかかしがあなたのコロニーに所属する動物も追い払うかどうかを選択できます</VFEF_ScarecrowGizmoText>
+
+</LanguageData>

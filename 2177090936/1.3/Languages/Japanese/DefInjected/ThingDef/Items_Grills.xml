@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_SimpleGrill.label>簡単な炙り焼き</VCE_SimpleGrill.label>
+  <VCE_SimpleGrill.description>少ない食材で調理した簡単な炙り焼き. 具だくさんの炙り焼きは,空腹感を長時間感じることがありません. 冷凍してしまうと,この効果が台無しになってしまいます.</VCE_SimpleGrill.description>
+  <VCE_RuinedSimpleGrill.label>簡単な炙り焼き(冷凍)</VCE_RuinedSimpleGrill.label>
+  <VCE_RuinedSimpleGrill.description>少ない食材で調理した簡単な炙り焼き. この料理は冷凍されていてまだ食べられますが,量ははるかに少なくなり,「well fed」バフが付きません.</VCE_RuinedSimpleGrill.description>
+  <VCE_FineGrill.label>手の込んだ炙り焼き</VCE_FineGrill.label>
+  <VCE_FineGrill.description>厳選された食材を丹精込めて焼き上げた,手の込んだ炙り焼き. 具だくさんの焼き肉は,空腹感を長時間感じさせません. 冷凍してしまうと,この効果が台無しになってしまいます.</VCE_FineGrill.description>
+  <VCE_RuinedFineGrill.label>手の込んだ炙り焼き(冷凍)</VCE_RuinedFineGrill.label>
+  <VCE_RuinedFineGrill.description>厳選された食材を丹精込めて焼き上げた,手の込んだ炙り焼き. この料理は冷凍されていてまだ食べられますが,量ははるかに少なくなり,「well fed」バフが付きません.</VCE_RuinedFineGrill.description>
+  <VCE_LavishGrill.label>豪華な炙り焼き</VCE_LavishGrill.label>
+  <VCE_LavishGrill.description>料理の最高傑作. この炙り焼きは体,心,魂に栄養を与えます. 具だくさんの炙り焼きは,空腹感を長時間感じさせません. 冷凍してしまうと,この効果が台無しになってしまいます.</VCE_LavishGrill.description>
+  <VCE_RuinedLavishGrill.label>豪華な炙り焼き(冷凍)</VCE_RuinedLavishGrill.label>
+  <VCE_RuinedLavishGrill.description>料理の最高傑作. この炙り焼きは体,心,魂に栄養を与えます. これは冷凍されていてまだ食べられますが,量ははるかに少なくなり,「well fed」バフが付きません.</VCE_RuinedLavishGrill.description>
+  <VCE_GourmetGrill.label>至高の炙り焼き</VCE_GourmetGrill.label>
+  <VCE_GourmetGrill.description>厳選された食材から手間をかけて洗練され,見た目も豪華な芸術料理です. 非常に満足感のある炙り焼きは,空腹感を長時間感じさせません. 冷凍してしまうと,この効果が台無しになってしまいます.</VCE_GourmetGrill.description>
+  <VCE_RuinedGourmetGrill.label>至高の炙り焼き(冷凍)</VCE_RuinedGourmetGrill.label>
+  <VCE_RuinedGourmetGrill.description>少量のグリルではありますが,厳選された食材から手間をかけて洗練され,見た目も豪華な芸術料理です. この料理は冷凍されていてまだ食べられますが,量ははるかに少なくなり,"満腹"バフが付きません.</VCE_RuinedGourmetGrill.description>
+</LanguageData>

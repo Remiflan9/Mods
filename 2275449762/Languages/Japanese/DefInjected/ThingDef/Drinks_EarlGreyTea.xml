@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_EarlGreyTea.label>アールグレイ</VBE_EarlGreyTea.label>
+  <VBE_EarlGreyTea.description>とても濃くてやや甘いフルーティーティー.花のノートは,最も鈍い香りでさえ,自分のパレットの周りで踊ります.飲み終わった人は不思議なことに植民地化を促されます.</VBE_EarlGreyTea.description>
+  <VBE_EarlGreyTea.ingestible.ingestCommandString>{0}を飲む</VBE_EarlGreyTea.ingestible.ingestCommandString>
+  <VBE_EarlGreyTea.ingestible.ingestReportString>{0}を飲んでいる</VBE_EarlGreyTea.ingestible.ingestReportString>
+</LanguageData>

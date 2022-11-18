@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Generic -->
+
+  <IP_InsertFirstItemDesc>投入</IP_InsertFirstItemDesc>
+  <IP_InsertSecondItemDesc>投入</IP_InsertSecondItemDesc>
+  <IP_InsertThirdItemDesc>投入</IP_InsertThirdItemDesc>
+  <IP_InsertFourthItemDesc>投入</IP_InsertFourthItemDesc>
+  <IP_InsertVariable>{0}を投入</IP_InsertVariable>
+  <IP_Output>{0}を出力</IP_Output>
+  <IP_OutputVariable>{1}から{0}を出力</IP_OutputVariable>
+  <IP_OutputDesc>プロセッサーは{0}を出力します。{1}を供給する必要があります</IP_OutputDesc>
+  <IP_InsertVariableSecond>{0}を2番スロットに投入</IP_InsertVariableSecond>
+  <IP_InsertVariableThird>{0}を3番スロットに投入</IP_InsertVariableThird>
+  <IP_CantFindThing>この種類のアイテム({0})はこのマップに無い</IP_CantFindThing>
+  <IP_BringIngredients>材料を搬入する</IP_BringIngredients>
+  <IP_BringIngredientsDesc>処理を開始するための材料を搬入する</IP_BringIngredientsDesc>
+  <IP_CancelIngredients>材料の搬入を中止</IP_CancelIngredients>
+  <IP_CancelIngredientsDesc>この建物へ材料の搬入を中止</IP_CancelIngredientsDesc>
+  <IP_ChooseOutput>出力を選択</IP_ChooseOutput>
+  <IP_NoIngredientFound>マップに材料が見つからない</IP_NoIngredientFound>
+  <IP_ChooseIngredient>材料を選択</IP_ChooseIngredient>
+  <IP_ChooseIngredientSecond>2番目の材料を選択</IP_ChooseIngredientSecond>
+  <IP_ChooseIngredientThird>3番目の材料を選択</IP_ChooseIngredientThird>
+  <IP_ChooseIngredientFourth>4番目の材料を選択</IP_ChooseIngredientFourth>
+  <IP_IngredientImproperlyDefined>材料の1つが、アイテム処理工程で動作するように正しく定義されていません。Mod作成者に連絡してください。</IP_IngredientImproperlyDefined>
+  <IP_NoPowerDestroysWarning>動作を開始するには{0}に電気の供給が必要</IP_NoPowerDestroysWarning>
+  <IP_NoFuelDestroysWarning>動作を開始するには{0}に燃料の供給が必要</IP_NoFuelDestroysWarning>
+  <IP_LightDestroysWarning>{0}が動作を開始するには適切な光の強さが必要</IP_LightDestroysWarning>
+  <IP_RainDestroysWarning>{0}が動作を開始するには雨が降っていないことが条件</IP_RainDestroysWarning>
+  <IP_TemperatureDestroysWarning>{0}は動作を開始するには十分な温度管理({1}-{2}度)が必要</IP_TemperatureDestroysWarning>
+  <IP_NoPowerDestroysInitialWarning>このままてはアイテム処理器の電力障害が原因で成果が台無しになります</IP_NoPowerDestroysInitialWarning>
+  <IP_NoPowerDestroysMessage>アイテム処理器の電力障害が原因で成果が台無しになった</IP_NoPowerDestroysMessage>
+  <IP_GenericProductFinished>製品の処理が完了し、製品回収を待機中</IP_GenericProductFinished>
+  <IP_IsEmpty>{0}は空です</IP_IsEmpty>
+  <IP_FilledWith>{0}は{1}で満杯です</IP_FilledWith>
+  <IP_FilledWithSecond>{0}の2番スロットは{1}で満杯です</IP_FilledWithSecond>
+  <IP_FilledWithThird>{0}の3番スロットは{1}で満杯です</IP_FilledWithThird>
+  <IP_FilledWithFourth>{0}の4番スロットは{1}で満杯です</IP_FilledWithFourth>
+  <IP_IngredientPercentage> ({0}/{1}まで補充されます)</IP_IngredientPercentage>
+  <IP_ProcessorWorking>{0}は稼働中：</IP_ProcessorWorking>
+  <IP_ProcessorPaused>{0}は停止中：</IP_ProcessorPaused>
+  <IP_ProcessingInProgress>{0}は{1}を処理中です。{2}は{4}で{3}の品質で完成予定</IP_ProcessingInProgress>
+  <IP_ProcessingInProgressNoQuality>{0}は{1}を処理中です。{2}は{3}で完成予定</IP_ProcessingInProgressNoQuality>
+  <IP_RemoveProduct>{0}({1})を削除</IP_RemoveProduct>
+  <IP_RemoveProductDesc>{0}を{1}から削除します。製品は現在の品質レベルで準備が完了しています（{2})</IP_RemoveProductDesc>
+  <IP_ResetSemiautomatic>レシピをリセット</IP_ResetSemiautomatic>
+  <IP_ResetSemiautomaticDesc>これにより、現在処理中の製品が完成した後に建築物がリセットされるため、新しい材料の入力を選択可能です</IP_ResetSemiautomaticDesc>
+  <IP_NoCombination>これらの材料の組合せは存在しない</IP_NoCombination>
+  <IP_SetAutoQuality>製品搬出の品質を設定します。製品がこの品質に達すると、入植者は自動的に製品を回収し、可能な場合は備蓄ゾーンに運びます。設定しない場合、製品は手動か伝説品質の場合に搬出されます。</IP_SetAutoQuality>
+  <IP_ChooseQualityAuto>自動品質を選択</IP_ChooseQualityAuto>
+  <IP_QualityAutoIs>自動品質：{0}</IP_QualityAutoIs>
+  <IP_QualityAutoNot>自動品質を無効</IP_QualityAutoNot>
+  <IP_QualityAutoEstablished>自動品質で,製品は次の品質で完成します:{0}</IP_QualityAutoEstablished>
+  <IP_ToggleAuto>自動材料取得</IP_ToggleAuto>
+  <IP_ToggleAutoDesc>有効に設定されている場合、この建築物は自動的に隣接するホッパーから材料を取り込み、製品が取り出されると自動的に動作を再開します。そうしない場合、入植者は材料を建築物まで運び、補充したら手動で有効化させる必要があります。</IP_ToggleAutoDesc>
+  <IP_ResetFullAuto>機械をリセットする</IP_ResetFullAuto>
+  <IP_ResetFullAutoDesc>この機械を完全にリセットするために停止します。警告：これは実行中の処理と投入したアイテムを破壊します</IP_ResetFullAutoDesc>
+  <IP_ProductWaiting>集荷を待機中</IP_ProductWaiting>
+  <IP_OutsideLightRange>この機械の処理は、不適切な光の強さが原因で中断されており、すぐに台無しになるでしょう</IP_OutsideLightRange>
+  <IP_SpoiledDueToLight>この機械の中の製品は、光の強さが不十分なために台無しになった</IP_SpoiledDueToLight>
+  <IP_ItRains>この機械の処理は悪天候が原因で中断され、すぐに台無しになるでしょう</IP_ItRains>
+  <IP_SpoiledDueToRain>この機械の製品は悪天候のために台無しになった</IP_SpoiledDueToRain>
+  <IP_WrongTemp>この機械の処理は、不適切な温度が原因で中断され、すぐに台無しになるでしょう</IP_WrongTemp>
+  <IP_SpoiledDueToWrongTemp>この機械の製品は、不適切な温度のために台無しになった</IP_SpoiledDueToWrongTemp>
+  <IP_TempRangeInThisMachine>。この発酵槽は{0}度から{1}度の範囲で温度管理を必要とします</IP_TempRangeInThisMachine>
+  <IP_TogglePause>停止/再稼働</IP_TogglePause>
+  <IP_TogglePauseDesc>この機械の処理を一時停止したり再稼働します</IP_TogglePauseDesc>
+  <IP_OverThreshold>出力が片付くのを待機中です。出力制限は{0}です</IP_OverThreshold>
+  <IP_NoRecipesHere>この工場の変更された加工命令は見つかりませんでした</IP_NoRecipesHere>
+
+</LanguageData>

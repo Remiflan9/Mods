@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Radio_Industrial.label>鉱石ラジオ</Radio_Industrial.label>
+  <Radio_Industrial.description>昔からある古い受信装置で、電波を拾って再生することができます。辺境世界でも、古い送信機や個人のラジオ局が何かを放送していることがよくあります。</Radio_Industrial.description>
+  <Blueprint_Radio_Industrial.label>鉱石ラジオ(設計)</Blueprint_Radio_Industrial.label>
+  <Blueprint_Install_Radio_Industrial.label>鉱石ラジオ(移動先)</Blueprint_Install_Radio_Industrial.label>
+  <Frame_Radio_Industrial.label>鉱石ラジオ(施工)</Frame_Radio_Industrial.label>
+  <Frame_Radio_Industrial.description>昔からある古い受信装置で、電波を拾って再生することができます。辺境世界でも、古い送信機や個人のラジオ局が何かを放送していることがよくあります。</Frame_Radio_Industrial.description>
+
+  <Radio_Spacer.label>長波ラジオ</Radio_Spacer.label>
+  <Radio_Spacer.description>非常に弱い信号でも増幅して、非常に明瞭な音質で再生できる高度な技術で作られた無線受信機です。</Radio_Spacer.description>
+  <Blueprint_Radio_Spacer.label>長波ラジオ(設計)</Blueprint_Radio_Spacer.label>
+  <Blueprint_Install_Radio_Spacer.label>長波ラジオ(移動先)</Blueprint_Install_Radio_Spacer.label>
+  <Frame_Radio_Spacer.label>長波ラジオ(施工)</Frame_Radio_Spacer.label>
+  <Frame_Radio_Spacer.description>非常に弱い信号でも増幅して、非常に明瞭な音質で再生できる高度な技術で作られた無線受信機です。</Frame_Radio_Spacer.description>
+
+  <Joy_Arcade.label>アーケード筐体</Joy_Arcade.label>
+  <Joy_Arcade.description>小型のブラウン管モニタと操作パネルが取り付けられた背の高い箱で、基盤に入っているいろいろなゲームを楽しむことができます。</Joy_Arcade.description>
+  <Blueprint_Joy_Arcade.label>アーケード筐体(設計)</Blueprint_Joy_Arcade.label>
+  <Blueprint_Install_Joy_Arcade.label>アーケード筐体(移動先)</Blueprint_Install_Joy_Arcade.label>
+  <Frame_Joy_Arcade.label>アーケード筐体(施工)</Frame_Joy_Arcade.label>
+  <Frame_Joy_Arcade.description>小型のブラウン管モニタと操作パネルが取り付けられた背の高い箱で、基盤に入っているいろいろなゲームを楽しむことができます。</Frame_Joy_Arcade.description>
+
+  <Joy_InudstrialComputer.label>コンピューター (古)</Joy_InudstrialComputer.label>
+  <Joy_InudstrialComputer.description>古いOSを積んでいる、非常に非効率的で動作停止しやすいデスクトップコンピューターです。利用すると学習効果がわずかに向上します。</Joy_InudstrialComputer.description>
+  <Blueprint_Joy_InudstrialComputer.label>コンピューター(古)(設計)</Blueprint_Joy_InudstrialComputer.label>
+  <Blueprint_Install_Joy_InudstrialComputer.label>コンピューター(古)(移動先)</Blueprint_Install_Joy_InudstrialComputer.label>
+  <Frame_Joy_InudstrialComputer.label>コンピューター(古)(施工)</Frame_Joy_InudstrialComputer.label>
+  <Frame_Joy_InudstrialComputer.description>古いOSを積んでいる、非常に非効率的で動作停止しやすいデスクトップコンピューターです。利用すると学習効果がわずかに向上します。</Frame_Joy_InudstrialComputer.description>
+
+  <Joy_ModernComputer.label>コンピューター (新型)</Joy_ModernComputer.label>
+  <Joy_ModernComputer.description>液晶ディスプレイモニタと、動作停止しにくい高品質な部品で組まれた高性能コンピューターです。利用すると学習効果がわずかに向上します。</Joy_ModernComputer.description>
+  <Blueprint_Joy_ModernComputer.label>コンピューター(新型)(設計)</Blueprint_Joy_ModernComputer.label>
+  <Blueprint_Install_Joy_ModernComputer.label>コンピューター(新型)(移動先)</Blueprint_Install_Joy_ModernComputer.label>
+  <Frame_Joy_ModernComputer.label>コンピューター(新型)(施工)</Frame_Joy_ModernComputer.label>
+  <Frame_Joy_ModernComputer.description>液晶ディスプレイモニタと、動作停止しにくい高品質な部品で組まれた高性能コンピューターです。利用すると学習効果がわずかに向上します。</Frame_Joy_ModernComputer.description>
+
+  <Joy_Piano.label>アップライトピアノ</Joy_Piano.label>
+  <Joy_Piano.description>練習可能な大きなアップライトピアノでする演奏はとても楽しく、芸術スキルを伸ばす良い訓練になります。</Joy_Piano.description>
+  <Blueprint_Joy_Piano.label>アップライトピアノ(設計)</Blueprint_Joy_Piano.label>
+  <Blueprint_Install_Joy_Piano.label>アップライトピアノ(移動先)</Blueprint_Install_Joy_Piano.label>
+  <Frame_Joy_Piano.label>アップライトピアノ(施工)</Frame_Joy_Piano.label>
+  <Frame_Joy_Piano.description>練習可能な大きなアップライトピアノでする演奏はとても楽しく、芸術スキルを伸ばす良い訓練になります。</Frame_Joy_Piano.description>
+
+  <Joy_RouletteTable.label>ルーレット台</Joy_RouletteTable.label>
+  <Joy_RouletteTable.description>ルーレットを回すためのホイールが付いて、上に柔らかいマットが敷かれたテーブルです。社交スキルと運を試すのにとても良い娯楽になります。</Joy_RouletteTable.description>
+  <Blueprint_Joy_RouletteTable.label>ルーレット台(設計)</Blueprint_Joy_RouletteTable.label>
+  <Blueprint_Install_Joy_RouletteTable.label>ルーレット台(移動先)</Blueprint_Install_Joy_RouletteTable.label>
+  <Frame_Joy_RouletteTable.label>ルーレット台(施工)</Frame_Joy_RouletteTable.label>
+  <Frame_Joy_RouletteTable.description>ルーレットを回すためのホイールが付いて、上に柔らかいマットが敷かれたテーブルです。社交スキルと運を試すのにとても良い娯楽になります。</Frame_Joy_RouletteTable.description>
+
+  <Joy_DartsBoard.label>ダーツボード</Joy_DartsBoard.label>
+  <Joy_DartsBoard.description>円形をした的にダーツを投げるリムワールドで人気のゲームで、快適さを高める効果があり、蹄鉄投げよりも高い効率で射撃スキルを訓練できます。</Joy_DartsBoard.description>
+  <Blueprint_Joy_DartsBoard.label>ダーツボード(設計)</Blueprint_Joy_DartsBoard.label>
+  <Blueprint_Install_Joy_DartsBoard.label>ダーツボード(移動先)</Blueprint_Install_Joy_DartsBoard.label>
+  <Frame_Joy_DartsBoard.label>ダーツボード(施工)</Frame_Joy_DartsBoard.label>
+  <Frame_Joy_DartsBoard.description>円形をした的にダーツを投げるリムワールドで人気のゲームで、快適さを高める効果があり、蹄鉄投げよりも高い効率で射撃スキルを訓練できます。</Frame_Joy_DartsBoard.description>
+
+  <Joy_PunchingBag.label>サンドバッグ</Joy_PunchingBag.label>
+  <Joy_PunchingBag.description>殴ったり蹴ったりして怒りを発散させるための、生地の中に沢山砂を詰めた袋状のものです。とても落ち着くことができ、格闘スキルを訓練できます。</Joy_PunchingBag.description>
+  <Blueprint_Joy_PunchingBag.label>サンドバッグ(設計)</Blueprint_Joy_PunchingBag.label>
+  <Blueprint_Install_Joy_PunchingBag.label>サンドバッグ(移動先)</Blueprint_Install_Joy_PunchingBag.label>
+  <Frame_Joy_PunchingBag.label>サンドバッグ(施工)</Frame_Joy_PunchingBag.label>
+  <Frame_Joy_PunchingBag.description>殴ったり蹴ったりして怒りを発散させるための、生地の中に沢山砂を詰めた袋状のものです。とても落ち着くことができ、格闘スキルを訓練できます。</Frame_Joy_PunchingBag.description>
+
+</LanguageData>

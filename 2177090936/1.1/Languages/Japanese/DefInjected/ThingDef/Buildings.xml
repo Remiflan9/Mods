@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_ElectricPot.label>保温調理鍋</VCE_ElectricPot.label>
+  <VCE_ElectricPot.description>保温調理鍋は,サーモポットとも呼ばれ,水を沸騰させて一定の温度に保つために使用される小型器具です. 一般的には,長時間煮込むために使用されます. 食材を水に浸し,長時間調理されたままになり,スープの風味が豊かになります.\n\n原始的な鍋とは異なり,保温調理鍋は半自動で,特にリセットしない限り,選択した入力材料とレシピを記憶します.</VCE_ElectricPot.description>
+  <VCE_Grill.label>グリル</VCE_Grill.label>
+  <VCE_Grill.description>グリルとは,下から熱を加えて食材を調理する機械のことです. 薪を燃料にしないと動作しない薪グリルです.</VCE_Grill.description>
+  <VCE_DeepFrier.label>揚げ物機</VCE_DeepFrier.label>
+  <VCE_DeepFrier.description>揚げ物機は,揚げ物に使用されるキッチン家電です. 揚げるというのは,175℃から190℃（350℉から375℉）の高温の油に食品を沈める調理方法です.</VCE_DeepFrier.description>
+  <VCE_CanningMachine.label>缶詰製造機</VCE_CanningMachine.label>
+  <VCE_CanningMachine.description>缶詰製造機は,金属製の缶の中に保存された食品を保存するための機械です. それぞれの缶詰作業には,一定量のスチールが必要です.</VCE_CanningMachine.description>
+  <VCE_CondimentPrepTable.label>調味料製作台</VCE_CondimentPrepTable.label>
+  <VCE_CondimentPrepTable.description>究極の料理で使用される調味料をカット,スライス,準備するための作業テーブル.</VCE_CondimentPrepTable.description>
+  <VCE_CheesePress.label>チーズプレス機</VCE_CheesePress.label>
+  <VCE_CheesePress.description>チーズプレス機とは,チーズを製造する際に,カールドからホエーを圧搾するための装置である. プレスは,チーズの硬さやテクスチャーに影響を与え,また,チーズのブロックまたはホイールの形状を決定します. このプレスは熟成室としても機能するので,チーズを熟成させたままにしておくと,チーズの品質が高くなります.</VCE_CheesePress.description>
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_HotCoffeeHigh.label>ホットコーヒーによる興奮状態</VBE_HotCoffeeHigh.label>
+        <VBE_HotCoffeeHigh.labelNoun>コーヒー・ハイ</VBE_HotCoffeeHigh.labelNoun>
+        <VBE_HotCoffeeHigh.description>コーヒーに含まれるカフェインは,神経系を刺激し,新陳代謝を増加させ,眠気を抑え,精神を落ち着かせます.学習速度を15%上昇させ,休息しやすさを15%減少させます.ホットコーヒーは低体温症を軽減し,アイスコーヒーは熱中症を軽減します.</VBE_HotCoffeeHigh.description>
+        <VBE_IcedCoffeeHigh.label>アイスコーヒーによる興奮状態</VBE_IcedCoffeeHigh.label>
+        <VBE_IcedCoffeeHigh.labelNoun>コーヒー・ハイ</VBE_IcedCoffeeHigh.labelNoun>
+        <VBE_IcedCoffeeHigh.description>コーヒーに含まれるカフェインは,神経系を刺激し,新陳代謝を増加させ,眠気を抑え,精神を落ち着かせます.学習速度を15%上昇させ,休息しやすさを15%減少させます.ホットコーヒーは低体温症を軽減し,アイスコーヒーは熱中症を軽減します.</VBE_IcedCoffeeHigh.description>
+        <VBE_CaffeineTolerance.label>カフェイン耐性</VBE_CaffeineTolerance.label>
+        <VBE_CaffeineTolerance.description>カフェインに対する強さです.この耐性が大きいほど,同じ効果を及ぼすのに,より多くのカフェインが必要です.</VBE_CaffeineTolerance.description>
+        <VBE_CaffeineTolerance.stages.0.label>小</VBE_CaffeineTolerance.stages.0.label>
+        <VBE_CaffeineTolerance.stages.1.label>大</VBE_CaffeineTolerance.stages.1.label>
+        <VBE_CaffeineTolerance.stages.2.label>極大</VBE_CaffeineTolerance.stages.2.label>
+        <VBE_CaffeineAddiction.label>カフェイン依存症</VBE_CaffeineAddiction.label>
+        <VBE_CaffeineAddiction.description>カフェインによる薬物中毒.長期間カフェインを摂っていると細胞レベルで神経学的に適応してしまい,薬物なしでは脳は適切に機能できなくなります./n/nカフェインを定期的に摂らないと禁断症状が始まります.しかし長期間カフェインを断つことで,脳を正常に機能させ依存症を解決できます.</VBE_CaffeineAddiction.description>
+        <VBE_CaffeineAddiction.stages.1.label>離脱症状</VBE_CaffeineAddiction.stages.1.label>
+    </LanguageData>

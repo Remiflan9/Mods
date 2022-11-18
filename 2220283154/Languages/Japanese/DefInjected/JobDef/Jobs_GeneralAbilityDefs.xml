@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_UseAbilityUninterruptible.reportString>何かをしている</VFEA_UseAbilityUninterruptible.reportString>
+  <VFEA_UseAbility.reportString>何かをしている</VFEA_UseAbility.reportString>
+  <VFEA_GotoTargetAndUseAbility.reportString>何かをしている</VFEA_GotoTargetAndUseAbility.reportString>
+  <VFEA_StandAndFaceTarget.reportString>立ちつくしている</VFEA_StandAndFaceTarget.reportString>
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_CanMeats.label>缶詰(肉) x20</VCE_CanMeats.label>
+  <VCE_CanMeats.description>肉の塊をスチール缶に入れて安全に保存しましょう. 食品を缶詰にすると,保存期間がほぼ無期限に延びます.</VCE_CanMeats.description>
+  <VCE_CanMeats.jobString>缶詰(肉)を作成中.</VCE_CanMeats.jobString>
+  <VCE_CanProduce.label>缶詰(野菜) x20</VCE_CanProduce.label>
+  <VCE_CanProduce.description>野菜をスチール缶に入れて安全に保存しましょう. 食品を缶詰にすると,保存期間がほぼ無期限に延びます.</VCE_CanProduce.description>
+  <VCE_CanProduce.jobString>缶詰(野菜)を作成中.</VCE_CanProduce.jobString>
+  <VCE_CanFruit.label>缶詰(果物) x20</VCE_CanFruit.label>
+  <VCE_CanFruit.description>Safely store fruit in a steel can. Canning food extends its shelf life almost indefinitely.\n\nPreserved fruit can be used in the production of desserts.</VCE_CanFruit.description>
+  <VCE_CanFruit.jobString>缶詰(果物)を作成中.</VCE_CanFruit.jobString>
+  <VCE_CanEggs.label>缶詰(卵) x20</VCE_CanEggs.label>
+  <VCE_CanEggs.description>ゆで卵をスチール缶に入れて安全に保存しましょう. 食品を缶詰にすると,保存期間がほぼ無期限に延びます.</VCE_CanEggs.description>
+  <VCE_CanEggs.jobString>缶詰(卵)を作成中.</VCE_CanEggs.jobString>
+</LanguageData>

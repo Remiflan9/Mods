@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HydroElectricDrain>排水開始</HydroElectricDrain>
+  <HydroElectricStopTraining>排水停止</HydroElectricStopTraining>
+  <HydroElectricDrainDesc>この給水塔からゆっくりと排水して,発電タービンを回して電力供給を開始します.</HydroElectricDrainDesc>
+  <HydroElectricStopDrainingDesc>この給水塔からの排水を止めて,電力供給を停止します.</HydroElectricStopDrainingDesc>
+
+</LanguageData>

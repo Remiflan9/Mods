@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_SmallVanometricPowerCell.label>ワノメトリック発電機(小)</VFE_SmallVanometricPowerCell.label>
+  <VFE_SmallVanometricPowerCell.description>無限のエネルギーを燃料消費なしに少量発生させます. このテクノロジーは, ほとんどのGlitterWorld社会でも歯が立ちません. どうやって動作しているのか正確には誰にもわかりません. 学者たちは量子泡の波動, ゆらぎから直接エネルギーを取り出しているのでは？と信じています.</VFE_SmallVanometricPowerCell.description>
+
+  <VFE_LargeVanometricPowerCell.label>ワノメトリック発電機(大)</VFE_LargeVanometricPowerCell.label>
+  <VFE_LargeVanometricPowerCell.description>無限のエネルギーを燃料消費なしに大量に発生させます. このテクノロジーは, ほとんどのGlitterWorld社会でも歯が立ちません. どうやって動作しているのか正確には誰にもわかりません. 学者たちは量子泡の波動, ゆらぎから直接エネルギーを取り出しているのでは？と信じています.</VFE_LargeVanometricPowerCell.description>
+
+  <VPE_ArchotechViolenceGenerator.label>Archotech精神波発電</VPE_ArchotechViolenceGenerator.label>
+  <VPE_ArchotechViolenceGenerator.description>この装置は周囲の人側生命の体付近に漂う精神エネルギーを利用して, それを直接使用可能なエネルギーとして取り出しています. このテクノロジーは, ほとんどのGlitterWorld社会でも歯が立ちません.</VPE_ArchotechViolenceGenerator.description>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HydroElectricBattery.label>水力式 バッテリー</HydroElectricBattery.label>
+  <HydroElectricBattery.description>発電用タービンを内蔵した大型の給水塔です.コロニーの電力が不足した場合に,この給水塔から排水する事で1000W/dが供給されます.5万リットルの水を貯めることができます.</HydroElectricBattery.description>
+  <Blueprint_HydroElectricBattery.label>水力式バッテリー(設計)</Blueprint_HydroElectricBattery.label>
+  <Frame_HydroElectricBattery.label>水力式バッテリー(施工)</Frame_HydroElectricBattery.label>
+  <Frame_HydroElectricBattery.description>発電用タービンを内蔵した大型の給水塔です.コロニーの電力が不足した場合に,この給水塔から排水する事で1000W/dが供給されます.5万リットルの水を貯めることができます.</Frame_HydroElectricBattery.description>
+
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bed_AdvBed.label>最先端ベッド</Bed_AdvBed.label>
+  <Bed_AdvBed.description>寝ている人の体にぴったり合うように自動的に調整してくれる最先端のハイテクベッドで、ノイズキャンセル機能が内蔵されています。寝た人は翌朝起きた時に気分爽快となり、より俊敏になったと報告されることが多いです。</Bed_AdvBed.description>
+  <Blueprint_Bed_AdvBed.label>最先端ベッド(設計)</Blueprint_Bed_AdvBed.label>
+  <Blueprint_Install_Bed_AdvBed.label>最先端ベッド(移動先)</Blueprint_Install_Bed_AdvBed.label>
+  <Frame_Bed_AdvBed.label>最先端ベッド(施工)</Frame_Bed_AdvBed.label>
+  <Frame_Bed_AdvBed.description>寝ている人の体にぴったり合うように自動的に調整してくれる最先端のハイテクベッドで、ノイズキャンセル機能が内蔵されています。寝た人は翌朝起きた時に気分爽快となり、より俊敏になったと報告されることが多いです。</Frame_Bed_AdvBed.description>
+
+  <Bed_AdvDoubleBed.label>最先端 ダブルベッド</Bed_AdvDoubleBed.label>
+  <Bed_AdvDoubleBed.description>寝ている人の体にぴったり合うように自動的に調整してくれる最先端のハイテクダブルベッドで、ノイズキャンセル機能が内蔵されています。寝た人は翌朝起きた時に気分爽快となり、より俊敏になったと報告されることが多いです。</Bed_AdvDoubleBed.description>
+  <Blueprint_Bed_AdvDoubleBed.label>最先端 ダブルベッド(設計)</Blueprint_Bed_AdvDoubleBed.label>
+  <Blueprint_Install_Bed_AdvDoubleBed.label>最先端 ダブルベッド(移動先)</Blueprint_Install_Bed_AdvDoubleBed.label>
+  <Frame_Bed_AdvDoubleBed.label>最先端 ダブルベッド(施工)</Frame_Bed_AdvDoubleBed.label>
+  <Frame_Bed_AdvDoubleBed.description>寝ている人の体にぴったり合うように自動的に調整してくれる最先端のハイテクダブルベッドで、ノイズキャンセル機能が内蔵されています。寝た人は翌朝起きた時に気分爽快となり、より俊敏になったと報告されることが多いです。</Frame_Bed_AdvDoubleBed.description>
+
+  <Table_IlluminatedEndTable.label>LED照明付 エンドテーブル</Table_IlluminatedEndTable.label>
+  <Table_IlluminatedEndTable.description>LED照明で電飾された小さな照明付きのベッドサイドテーブルです。部屋を照らしながら、近くにあるベッドをほんの少しだけ快適にします。効果を受けるにはベッドの頭側に直接隣接して設置する必要があります。同じベッドの近くに複数の照明付きエンドテーブルを設置しても効果は重複しません。</Table_IlluminatedEndTable.description>
+  <Blueprint_Table_IlluminatedEndTable.label>LED照明付 エンドテーブル(設計)</Blueprint_Table_IlluminatedEndTable.label>
+  <Blueprint_Install_Table_IlluminatedEndTable.label>LED照明付 エンドテーブル(移動先)</Blueprint_Install_Table_IlluminatedEndTable.label>
+  <Frame_Table_IlluminatedEndTable.label>LED照明付 エンドテーブル(施工)</Frame_Table_IlluminatedEndTable.label>
+  <Frame_Table_IlluminatedEndTable.description>LED照明で電飾された小さな照明付きのベッドサイドテーブルです。部屋を照らしながら、近くにあるベッドをほんの少しだけ快適にします。効果を受けるにはベッドの頭側に直接隣接して設置する必要があります。同じベッドの近くに複数の照明付きエンドテーブルを設置しても効果は重複しません。</Frame_Table_IlluminatedEndTable.description>
+
+  <Table_IlluminatedDresser.label>LED照明付 タンス</Table_IlluminatedDresser.label>
+  <Table_IlluminatedDresser.description>LED照明の帯で電飾された照明の付いた衣装タンスです。部屋を明るく照らしつつ、近くにあるすべてのベッドに小さな快適さと眠りの質に+2%のボーナスを与えます。同じベッドの近くに複数のタンスを設置しても効果は重複しません。</Table_IlluminatedDresser.description>
+  <Blueprint_Table_IlluminatedDresser.label>LED照明付 タンス(設計)</Blueprint_Table_IlluminatedDresser.label>
+  <Blueprint_Install_Table_IlluminatedDresser.label>LED照明付 タンス(移動先)</Blueprint_Install_Table_IlluminatedDresser.label>
+  <Frame_Table_IlluminatedDresser.label>LED照明付 タンス(施工)</Frame_Table_IlluminatedDresser.label>
+  <Frame_Table_IlluminatedDresser.description>LED照明の帯で電飾された照明の付いた衣装タンスです。部屋を明るく照らしつつ、近くにあるすべてのベッドに小さな快適さボーナスを与えます。同じベッドの近くに複数のタンスを設置しても効果は重複しません。</Frame_Table_IlluminatedDresser.description>
+
+</LanguageData>

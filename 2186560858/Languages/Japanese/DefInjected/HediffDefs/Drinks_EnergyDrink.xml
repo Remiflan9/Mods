@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_EnergyDrinkHigh.label>エナジードリンクによる興奮状態</VBE_EnergyDrinkHigh.label>
+        <VBE_EnergyDrinkHigh.labelNoun>エナジードリンク・ハイ</VBE_EnergyDrinkHigh.labelNoun>
+        <VBE_EnergyDrinkHigh.description>エナジードリンクは,直ちに睡眠を回復し,移動速度が上昇します.しかし後に破滅的な代償を支払うでしょう.</VBE_EnergyDrinkHigh.description>
+        <VBE_EnergyDrinkCrash.label>エナジードリンクによる虚脱状態</VBE_EnergyDrinkCrash.label>
+        <VBE_EnergyDrinkCrash.labelNoun>エナジードリンク・クラッシュ</VBE_EnergyDrinkCrash.labelNoun>
+        <VBE_EnergyDrinkCrash.description>エナジードリンクの消費による不快な後遺症</VBE_EnergyDrinkCrash.description>
+    </LanguageData>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_MixLemonade.label>レモネードを作る</VBE_MixLemonade.label>
+  <VBE_MixLemonade.description>レモンを数個絞り,果汁と水を混ぜて砂糖を加えます.</VBE_MixLemonade.description>
+  <VBE_MixLemonade.jobString>レモネードを作っている</VBE_MixLemonade.jobString>
+</LanguageData>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Male_HeavyJaw -->
+    <HeadTypeDef ParentName="HeavyJawBase">
+        <defName>Male_HeavyJawNormal1</defName>
+        <graphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Average_Normal</graphicPath>
+        <gender>Male</gender>
+    </HeadTypeDef>
+
+    <HeadTypeDef ParentName="HeavyJawBase">
+        <defName>Male_HeavyJawNormal2</defName>
+        <graphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Average_Pointy</graphicPath>
+        <gender>Male</gender>
+    </HeadTypeDef>
+
+    <HeadTypeDef ParentName="HeavyJawBase">
+        <defName>Male_HeavyJawNormal3</defName>
+        <graphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Average_Wide</graphicPath>
+        <gender>Male</gender>
+    </HeadTypeDef>
+
+    <HeadTypeDef ParentName="HeavyJawBase">
+        <defName>Male_HeavyJawNormal4</defName>
+        <graphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Narrow_Normal</graphicPath>
+        <gender>Male</gender>
+    </HeadTypeDef>
+
+    <HeadTypeDef ParentName="HeavyJawBase">
+        <defName>Male_HeavyJawNormal5</defName>
+        <graphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Narrow_Pointy</graphicPath>
+        <gender>Male</gender>
+    </HeadTypeDef>
+
+    <HeadTypeDef ParentName="HeavyJawBase">
+        <defName>Male_HeavyJawNormal6</defName>
+        <graphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Narrow_Wide</graphicPath>
+        <gender>Male</gender>
+    </HeadTypeDef>
+
+
+<!-- Female_HeavyJaw -->
+    <HeadTypeDef ParentName="HeavyJawBase">
+        <defName>Female_HeavyJawNormal1</defName>
+        <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Normal</graphicPath>
+        <gender>Female</gender>
+    </HeadTypeDef>
+
+    <HeadTypeDef ParentName="HeavyJawBase">
+        <defName>Female_HeavyJawNormal2</defName>
+        <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Pointy</graphicPath>
+        <gender>Female</gender>
+    </HeadTypeDef>
+
+    <HeadTypeDef ParentName="HeavyJawBase">
+        <defName>Female_HeavyJawNormal3</defName>
+        <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Wide</graphicPath>
+        <gender>Female</gender>
+    </HeadTypeDef>
+
+    <HeadTypeDef ParentName="HeavyJawBase">
+        <defName>Female_HeavyJawNormal4</defName>
+        <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Narrow_Normal</graphicPath>
+        <gender>Female</gender>
+    </HeadTypeDef>
+
+    <HeadTypeDef ParentName="HeavyJawBase">
+        <defName>Female_HeavyJawNormal5</defName>
+        <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Narrow_Pointy</graphicPath>
+        <gender>Female</gender>
+    </HeadTypeDef>
+
+    <HeadTypeDef ParentName="HeavyJawBase">
+        <defName>Female_HeavyJawNormal6</defName>
+        <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Narrow_Wide</graphicPath>
+        <gender>Female</gender>
+    </HeadTypeDef>
+
+
+<!-- Gaunt -->
+    <HeadTypeDef ParentName="AverageBase">
+        <defName>Gaunt1</defName>
+        <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Normal</graphicPath>
+        <randomChosen>false</randomChosen>
+        <gender>None</gender>
+        <requiredGenes>
+          <li>Head_Gaunt</li>
+        </requiredGenes>
+    </HeadTypeDef>
+
+    <HeadTypeDef ParentName="AverageBase">
+        <defName>Gaunt2</defName>
+        <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Pointy</graphicPath>
+        <randomChosen>false</randomChosen>
+        <gender>None</gender>
+        <requiredGenes>
+          <li>Head_Gaunt</li>
+        </requiredGenes>
+    </HeadTypeDef>
+
+    <HeadTypeDef ParentName="AverageBase">
+        <defName>Gaunt3</defName>
+        <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Wide</graphicPath>
+        <randomChosen>false</randomChosen>
+        <gender>None</gender>
+        <requiredGenes>
+          <li>Head_Gaunt</li>
+        </requiredGenes>
+    </HeadTypeDef>
+
+    <HeadTypeDef ParentName="AverageBase">
+        <defName>Gaunt4</defName>
+        <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Narrow_Normal</graphicPath>
+        <randomChosen>false</randomChosen>
+        <gender>None</gender>
+        <requiredGenes>
+          <li>Head_Gaunt</li>
+        </requiredGenes>
+    </HeadTypeDef>
+
+    <HeadTypeDef ParentName="AverageBase">
+        <defName>Gaunt5</defName>
+        <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Narrow_Pointy</graphicPath>
+        <randomChosen>false</randomChosen>
+        <gender>None</gender>
+        <requiredGenes>
+          <li>Head_Gaunt</li>
+        </requiredGenes>
+    </HeadTypeDef>
+
+    <HeadTypeDef ParentName="AverageBase">
+        <defName>Gaunt6</defName>
+        <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Narrow_Wide</graphicPath>
+        <randomChosen>false</randomChosen>
+        <gender>None</gender>
+        <requiredGenes>
+          <li>Head_Gaunt</li>
+        </requiredGenes>
+    </HeadTypeDef>
+
+</Defs>

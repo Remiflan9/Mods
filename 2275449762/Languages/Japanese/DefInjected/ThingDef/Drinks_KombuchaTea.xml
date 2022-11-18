@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_Kombucha.label>コンブチャ</VBE_Kombucha.label>
+  <VBE_Kombucha.description>お茶に砂糖を加えた物に更にきのこを加えて発酵させたお茶.完成品は甘くて酸っぱい,時には自然に発泡する飲み物コンブチャとして知られている.いくつかの懐疑的なままにもかかわらず,健康上の利点を賞賛します.</VBE_Kombucha.description>
+  <VBE_Kombucha.ingestible.ingestCommandString>{0}を飲む</VBE_Kombucha.ingestible.ingestCommandString>
+  <VBE_Kombucha.ingestible.ingestReportString>{0}を飲んでいる</VBE_Kombucha.ingestible.ingestReportString>
+</LanguageData>

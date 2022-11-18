@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!-- Vanilla Furniture Expanded - Spacer Module patch -->
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationTest">
+				<xpath>*/ResearchProjectDef[defName = "MechaniteRestoration"]</xpath>
+				<success>Always</success>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>*/ResearchProjectDef[defName = "MechaniteRestoration"]/label</xpath>
+				<value>
+					<label>自動修復 ロッカー</label>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationTest">
+				<xpath>*/ResearchProjectDef[defName = "MechaniteRestoration"]</xpath>
+				<success>Always</success>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>*/ResearchProjectDef[defName = "MechaniteRestoration"]/description</xpath>
+				<value>
+					<description>ナノマシン型メカノイド(mechanites)を利用して、収納された衣服や防具、武器などのダメージをゆっくりと修理する高性能なハイテクロッカーを作れます。</description>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationTest">
+				<xpath>*/ThingDef[defName = "Spacer_SunLamp"]</xpath>
+				<success>Always</success>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>*/ThingDef[defName = "Spacer_SunLamp"]/comps/CompSchedule/offMessage</xpath>
+				<value>
+					<offMessage>植物が成長しない時間帯は消灯</offMessage>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationTest">
+				<xpath>*/ThingDef[defName = "UltrascreenTV"]</xpath>
+				<success>Always</success>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>*/ThingDef[defName = "UltrascreenTV"]/label</xpath>
+				<value>
+					<label>ウルトラ スクリーン テレビ</label>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationTest">
+				<xpath>*/ThingDef[defName = "UltrascreenTV"]</xpath>
+				<success>Always</success>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>*/ThingDef[defName = "UltrascreenTV"]/description</xpath>
+				<value>
+					<description>巨大な画面が湾曲したウルトラテクノロジーのテレビです。視聴者は、自分自身が画面内に居るように感じます。とても楽しめます。コアワールドからの放送を受信することができます。</description>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+
+</Patch>

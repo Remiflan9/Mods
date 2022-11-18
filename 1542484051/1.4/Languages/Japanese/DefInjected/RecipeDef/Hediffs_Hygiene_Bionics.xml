@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallBionicBladder.label>強化膀胱 移植</InstallBionicBladder.label>
+  <InstallBionicBladder.description>強化膀胱を移植します.</InstallBionicBladder.description>
+  <InstallBionicBladder.jobString>強化膀胱を移植中</InstallBionicBladder.jobString>
+
+  <InstallHygieneEnhancer.label>衛生エンハンサー 移植</InstallHygieneEnhancer.label>
+  <InstallHygieneEnhancer.description>衛生エンハンサーを移植します.</InstallHygieneEnhancer.description>
+  <InstallHygieneEnhancer.jobString>衛生エンハンサーを移植中</InstallHygieneEnhancer.jobString>
+
+</LanguageData>

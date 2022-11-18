@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Mint.GearMenu>Mint装備メニュー(実験)</Mint.GearMenu>
+  <Mint.GearMenuVisible>メインメニューをボタン表示</Mint.GearMenuVisible>
+  <Mint.GearMenuDesc>メインメニューをボタン表示に切替えて、装備管理メニューを開いて、利用可能な装備を任意のポーンに対してドラッグアンドドロップで装着させる事ができます。</Mint.GearMenuDesc>
+  <Mint.Setup>設定</Mint.Setup>
+  <Mint.AssignMenu>Mint割り当てMenu</Mint.AssignMenu>
+  <Mint.AssignMenuDesc>Ideology(DLC)のデフォルト割り当てメニューをMint版に置き換えます</Mint.AssignMenuDesc>
+  <MessageCantEquipWhileDowned>倒れている最中は装備できません</MessageCantEquipWhileDowned>
+  <Mint.ShowMintBillsButton>Mint加工命令のメインボタンを表示</Mint.ShowMintBillsButton>
+  <Mint.ShowMintBillsButtonTip>画面下のメインメニューのリストにMint加工命令ボタンを表示します。</Mint.ShowMintBillsButtonTip>
+  <ReplacePlantMenuTip>バニラのドロップダウンメニューの代わりにMint栽培メニューを開きます。無効になっている場合は、Ctrlキーを押しながらクリックするとMintメニューを開くことができます</ReplacePlantMenuTip>
+  <Mint.ShowBillWorkIcons>作業時間をアイコン表示</Mint.ShowBillWorkIcons>
+  <Mint.ShowBillIngredientIcons>材料をアイコン表示</Mint.ShowBillIngredientIcons>
+  <Mint.ConfirmDeleteTemplate>複製したテンプレを削除するか確認します。\n削除しますか？</Mint.ConfirmDeleteTemplate>
+  <Mint.RenameTemplateTip>名前を変更</Mint.RenameTemplateTip>
+  <Mint.Clones>テンプレ</Mint.Clones>
+  <Mint.Bills>加工</Mint.Bills>
+  <Mint.PasteTemplateTip>加工スタックを作業台に貼付けます</Mint.PasteTemplateTip>
+  <Mint.CloneBills>加工命令を複製する</Mint.CloneBills>
+  <Mint.DeleteTemplate>テンプレを削除</Mint.DeleteTemplate>
+  <Mint.CloneWorktable>この作業台の加工スタックを複製します</Mint.CloneWorktable>
+  <Mint.SelectABenchToAddBills>加工を追加する作業台を選択する</Mint.SelectABenchToAddBills>
+  <AutoCloseArchitect>選択時に閉じる</AutoCloseArchitect>
+  <AutoCloseArchitectDesc>メニューボタンを選択すると、アーキテクトメニューを閉じます</AutoCloseArchitectDesc>
+  <ResearchQueueTip>研究予約：ドラッグで並替え</ResearchQueueTip>
+  <QueueResearchProj>予約</QueueResearchProj>
+  <EnablePinningResources>資源ピンを有効</EnablePinningResources>
+  <EnablePinningResourcesTip>Ctrlキーを押しながら資源ピンの読込(readout-to-pin)の項目をクリックして、上に固定します（カテゴリモードのみ）。</EnablePinningResourcesTip>
+  <ShowHideResourceList>資源読込を隠す</ShowHideResourceList>
+  <ShowHideResourceListTip>画面の左側にある資源の読み込みを非表示にする</ShowHideResourceListTip>
+  <dragdropdes>ドラッグ\n&amp;\nドロップ</dragdropdes>
+  <ReplacePlantMenu>Mint栽培メニュー</ReplacePlantMenu>
+  <ResearchCompletionMode>研究完了モード</ResearchCompletionMode>
+  <MintHelpLinks>リンクの補助</MintHelpLinks>
+  <MintDiscord>DubsModのDiscord</MintDiscord>
+  <ProjectStalled>研究プロジェクトの条件が未解決</ProjectStalled>
+  <ProjectStopped>研究が停止した</ProjectStopped>
+  <MintWiki>MintメニューのWiki</MintWiki>
+  <SetButtonsFromBuildo>Mint建築メニューを使ってボタンを追加（Ctrl+クリックでアーキテクトメニュー）</SetButtonsFromBuildo>
+  <BillSearchTip>検索可能な単語は次のとおりです：\n\n加工ラベルまたは製品ラベル内の任意の単語 (例：ズボン)\n\n材料カテゴリー名(例：革)\n\n身体部位のグループ名(例：頭)\n\nタグ(例:産業革命)\n\n装備レイヤー(例：帽子)</BillSearchTip>
+  <NoActiveProject>研究中の研究計画なし</NoActiveProject>
+  <TargetProject>目標の研究：{0}</TargetProject>
+  <MintWheelEditMode>アーキテクトメニューのコマンドアイコンをクリックして,ホイールに追加します.\nドラッグアンドドロップでもホイールに配置できます.</MintWheelEditMode>
+  <MintWheelDesc>Mintホイール{0}/{1}　Ctrlキーとクリックで割り当て</MintWheelDesc>
+  <MintWheelMenu>Mintホイールメニュー</MintWheelMenu>
+  <MintWheelonrightclick>右クリックでMintホイール</MintWheelonrightclick>
+  <MintWheelRightClickDesc>アーキテクトメニューを開く代わりに、右クリックでMintホイールを開きます。</MintWheelRightClickDesc>
+  <MintWheel>Mintホイール</MintWheel>
+  <MintBuildMenu>建築メニュー</MintBuildMenu>
+  <AutoFocusSearch>検索窓に自動フォーカス</AutoFocusSearch>
+  <AutoFocusSearchDesc>建築メニューを開くたびに検索ボックスに自動的にフォーカスして入力を開始します</AutoFocusSearchDesc>
+  <OverrideArchitectTab>アーキテクトタブを上書き</OverrideArchitectTab>
+  <OverrideArchitectTabDesc>Mint建築メニューを既定のアーキテクトタブと交換します（初期設定ではCtrlキーを押す）</OverrideArchitectTabDesc>
+  <ResearchMenu>研究</ResearchMenu>
+  <MintListWidth>リストの幅</MintListWidth>
+  <OverrideResearchTab>研究タブを上書き</OverrideResearchTab>
+  <OverrideResearchTabDesc>Mint研究メニューを既定の研究タブにします（初期設定ではCtrlキーを押します）</OverrideResearchTabDesc>
+  <UnlockedThings>開放済の研究</UnlockedThings>
+  <HideFinishedProjects>完了した研究を隠す</HideFinishedProjects>
+  <HideLockedProjects>未開放な研究を隠す</HideLockedProjects>
+  <PinnedRes>ピン留め</PinnedRes>
+  <MintResourceReadout>Mint資源読込</MintResourceReadout>
+
+  <MintExperimental>追加</MintExperimental>
+  <Autoprojectstep>研究を自動化</Autoprojectstep>
+  <AutoprojectstepDesc>次の進むべき研究を自動的に研究を開始して、最終目標の研究までを完了します。</AutoprojectstepDesc>
+  <MintBills>加工命令</MintBills>
+  <ListWidth>リストの幅</ListWidth>
+  <RowHeight>最小高さ</RowHeight>
+  <InfocardWidth>情報窓の幅</InfocardWidth>
+  <TopOffset>上部オフセット</TopOffset>
+  <MaxHeight>最大高さ</MaxHeight>
+  <MintPlants>栽培</MintPlants>
+  <BoxSizeX>Boxの幅</BoxSizeX>
+  <BoxSizeY>Boxの高さ</BoxSizeY>
+  <MintResetAll>全てリセット</MintResetAll>
+
+</LanguageData>

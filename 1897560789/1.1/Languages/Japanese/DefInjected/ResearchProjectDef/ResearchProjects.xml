@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SpacerFurniture.label>宇宙時代の家具</SpacerFurniture.label>
+  <SpacerFurniture.description>普通なら先進的なコロニーとグリッターワールドだけで見ることができるような高度な宇宙時代の家具を作れます。</SpacerFurniture.description>
+
+  <SpacerElectronics.label>宇宙時代の電子機器</SpacerElectronics.label>
+  <SpacerElectronics.description>普通なら先進的なコロニーとグリッターワールドだけで見ることができるような高度な電子機器を作れます。</SpacerElectronics.description>
+
+  <!-- <MechaniteRestoration.label>自動修復ロッカー</MechaniteRestoration.label>
+  <MechaniteRestoration.description>ナノマシン型メカノイド(mechanites)を利用して、収納された衣服や防具、武器などのダメージをゆっくりと修理する高性能なハイテクロッカーを作れます。</MechaniteRestoration.description> -->
+
+</LanguageData>

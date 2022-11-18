@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEArch_PlayerBrokenAsphalt.label>剥がれたアスファルト</VFEArch_PlayerBrokenAsphalt.label>
+  <VFEArch_PlayerBrokenAsphalt.description>古代の壊れたアスファルトは,廃墟の周辺にある高速道路としてよく知られています. 人や車両の行き来が容易になります.</VFEArch_PlayerBrokenAsphalt.description>
+
+  <VFEArch_PlayerPackedDirt.label>踏み固められた土</VFEArch_PlayerPackedDirt.label>
+  <VFEArch_PlayerPackedDirt.description>人通りの多いところに,しばしば形成される自然の通路です. 移動速度がわずかに向上します.</VFEArch_PlayerPackedDirt.description>
+
+
+</LanguageData>

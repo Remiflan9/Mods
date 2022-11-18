@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <PipeSystem_Consumption>{0}消費</PipeSystem_Consumption>
+  <PipeSystem_ConsumptionExplained>この建築物の1日あたりの消費量{0}は{1}グリッドから計算されます.</PipeSystem_ConsumptionExplained>
+
+  <PipeSystem_IdleConsumption>{0}待機中消費</PipeSystem_IdleConsumption>
+  <PipeSystem_IdleConsumptionExplained>待機している場合にこの建築物が{1}グリッドから引き出される{0}の消費量です.</PipeSystem_IdleConsumptionExplained>
+
+  <PipeSystem_Production>{0}生産</PipeSystem_Production>
+  <PipeSystem_ProductionExplained>この建築物が{1}グリッドに対して生成する{0}の1日あたりの数量です.</PipeSystem_ProductionExplained>
+
+  <PipeSystem_DeconstructLabel>パイプ{0}の分解</PipeSystem_DeconstructLabel>
+  <PipeSystem_DeconstructDesc>{0}ネットワークのパイプ部分だけを分解します.</PipeSystem_DeconstructDesc>
+
+  <PipeSystem_ResourceOutput>{0}出力：</PipeSystem_ResourceOutput>
+  <PipeSystem_ResourceNeeded>{0}必要：</PipeSystem_ResourceNeeded>
+
+  <PipeSystem_ResourceStored>{0}備蓄：</PipeSystem_ResourceStored>
+
+  <PipeSystem_NotConnected>{}に未接続.</PipeSystem_NotConnected>
+  <PipeSystem_ExcessStored>純超過/ネットワークに保存:{0}{2}/日/{1}{2}</PipeSystem_ExcessStored>
+  <PipeSystem_Stored>ネットワークの備蓄{0}：</PipeSystem_Stored>
+
+  <PipeSystem_ValveClosed>バルブが閉じています.</PipeSystem_ValveClosed>
+  <PipeSystem_ValveOpened>バルブが開いています.</PipeSystem_ValveOpened>
+
+  <PipeSystem_AugmentStack>+1</PipeSystem_AugmentStack>
+  <PipeSystem_AugmentStackDesc>出力の最大スタック上限を1増やします.</PipeSystem_AugmentStackDesc>
+  <PipeSystem_AugmentStackB>+10</PipeSystem_AugmentStackB>
+  <PipeSystem_AugmentStackDescB>出力の最大スタック上限を10増やします.</PipeSystem_AugmentStackDescB>
+
+  <PipeSystem_DecreaseStack>-1</PipeSystem_DecreaseStack>
+  <PipeSystem_DecreaseStackDesc>出力の最大スタック上限を1減らします.</PipeSystem_DecreaseStackDesc>
+  <PipeSystem_DecreaseStackB>-10</PipeSystem_DecreaseStackB>
+  <PipeSystem_DecreaseStackDescB>出力の最大スタック上限を10減らします.</PipeSystem_DecreaseStackDescB>
+
+  <PipeSystem_AmountOut>ここに備蓄される最大量：{0}</PipeSystem_AmountOut>
+
+  <PipeSystem_ProcessorBuffer>バッファ：{0}</PipeSystem_ProcessorBuffer>
+  <PipeSystem_Producing>{0}{1}を製造中.生産サイクルの進行状況：{2}.</PipeSystem_Producing>
+  <PipeSystem_Produce>{2}{3}から{0}{1}を製造する.</PipeSystem_Produce>
+  <PipeSystem_ChooseResult>結果を選択</PipeSystem_ChooseResult>
+  <PipeSystem_ChooseResultDesc>製造処理の結果を選択します。</PipeSystem_ChooseResultDesc>
+
+  <PipeSystem_TransferContent>収納庫の内容物を転送</PipeSystem_TransferContent>
+  <PipeSystem_TransferContentDesc>収納庫の内容物を他の利用可能な収納庫に転送します.</PipeSystem_TransferContentDesc>
+  <PipeSystem_MarkedToTransferContent>他の利用可能な収納庫に内容物を転送する...</PipeSystem_MarkedToTransferContent>
+
+  <PipeSystem_NothingToRefill>{0}に補充するものが無い</PipeSystem_NothingToRefill>
+  <PipeSystem_AllowManualRefill>手動補充を許可</PipeSystem_AllowManualRefill>
+  <PipeSystem_AllowManualRefillDesc>ポーンが補充先を直接補充できるようにします</PipeSystem_AllowManualRefillDesc>
+
+  <PipeSystem_CantExtract>抽出不可能:タンクが満タン</PipeSystem_CantExtract>
+  <PipeSystem_CantPlaceHere>{0}は{1}の鉱脈の上にだけ設置することが可能です.地殻深部スキャナーで鉱脈を探しましょう.</PipeSystem_CantPlaceHere>
+  <PipeSystem_ResourceLeft>残り埋蔵量:{0}</PipeSystem_ResourceLeft>
+</LanguageData>

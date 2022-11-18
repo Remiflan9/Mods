@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_TobaccoHigh.stages.0.label>口当たりがよくマイルド</VBE_TobaccoHigh.stages.0.label>
+        <VBE_TobaccoHigh.stages.0.description>軽い口当たり,こんなたばこが欲しかったんだ.</VBE_TobaccoHigh.stages.0.description>
+        <VBE_DeluxeTobaccoHigh.stages.0.label>贅沢な一息</VBE_DeluxeTobaccoHigh.stages.0.label>
+        <VBE_DeluxeTobaccoHigh.stages.0.description>この葉巻は,人生を豊かなものに変えてくれたと感じさせる.</VBE_DeluxeTobaccoHigh.stages.0.description>
+        <VBE_TobaccoWithdrawal.stages.1.label>たばこ禁断症状</VBE_TobaccoWithdrawal.stages.1.label>
+        <VBE_TobaccoWithdrawal.stages.1.description>本当にたばこが欲しい.たばこのためなら,殺してでも.</VBE_TobaccoWithdrawal.stages.1.description>
+    </LanguageData>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DrankCleanWater.stages.refreshed.label>きれいな水を飲んだ</DrankCleanWater.stages.refreshed.label>
+  <DrankCleanWater.stages.refreshed.description>きれいな水を飲んでのどをうるおした。</DrankCleanWater.stages.refreshed.description>
+
+  <DrankDirtyWater.stages.drank_filthy_water.label>汚れた水を飲んだ</DrankDirtyWater.stages.drank_filthy_water.label>
+  <DrankDirtyWater.stages.drank_filthy_water.description>水筒に入った汚染された水を飲んだ</DrankDirtyWater.stages.drank_filthy_water.description>
+
+  <DrankUrine.stages.drank_urine.label>飲尿</DrankUrine.stages.drank_urine.label>
+  <DrankUrine.stages.drank_urine.description>私は自分の尿を飲んだ。</DrankUrine.stages.drank_urine.description>
+
+  <WashPrivacy.stages.embarrassed.label>恥ずかしい</WashPrivacy.stages.embarrassed.label>
+  <WashPrivacy.stages.embarrassed.description>私の入浴しているところを誰かに見られた。恥ずかしい。</WashPrivacy.stages.embarrassed.description>
+
+  <ToiletPrivacy.stages.embarrassed.label>恥ずかしい</ToiletPrivacy.stages.embarrassed.label>
+  <ToiletPrivacy.stages.embarrassed.description>私が用を足しているときに誰かが入ってきた。</ToiletPrivacy.stages.embarrassed.description>
+
+  <SoiledSelf.stages.soiled_myself.label>失禁</SoiledSelf.stages.soiled_myself.label>
+  <SoiledSelf.stages.soiled_myself.description>私は間に合わなかった…</SoiledSelf.stages.soiled_myself.description>
+
+  <HotShower.stages.hot_shower.label>温かいシャワー</HotShower.stages.hot_shower.label>
+  <HotShower.stages.hot_shower.description>温かいシャワーを浴びて気分がいい。</HotShower.stages.hot_shower.description>
+
+  <HotBath.stages.hot_bath.label>温かいお風呂</HotBath.stages.hot_bath.label>
+  <HotBath.stages.hot_bath.description>暖かい湯船に入り気分がいい。</HotBath.stages.hot_bath.description>
+
+  <ColdBath.stages.cold_bath.label>冷たいお風呂</ColdBath.stages.cold_bath.label>
+  <ColdBath.stages.cold_bath.description>冷たいお風呂に入りシャキッとした。</ColdBath.stages.cold_bath.description>
+
+  <ColdShower.stages.cold_shower.label>冷たいシャワー</ColdShower.stages.cold_shower.label>
+  <ColdShower.stages.cold_shower.description>冷たいシャワーを浴びてシャキッとした。</ColdShower.stages.cold_shower.description>
+
+  <ColdWater.stages.cold_water.label>冷水</ColdWater.stages.cold_water.label>
+  <ColdWater.stages.cold_water.description>熱くないただの水です！</ColdWater.stages.cold_water.description>
+
+  <tookDump.stages.relieved_myself.label>リラックス</tookDump.stages.relieved_myself.label>
+  <tookDump.stages.relieved_myself.description>とても気分がいい。</tookDump.stages.relieved_myself.description>
+
+  <openDefecation.stages.open_defecation.label>屋外排泄</openDefecation.stages.open_defecation.label>
+  <openDefecation.stages.open_defecation.description>私は外で用を足さなければならなかった。</openDefecation.stages.open_defecation.description>
+
+  <UsedPrivateBathroom.stages.awful_bathroom.label>ひどい浴室</UsedPrivateBathroom.stages.awful_bathroom.label>
+  <UsedPrivateBathroom.stages.awful_bathroom.description>私の浴室ははひどい所です。</UsedPrivateBathroom.stages.awful_bathroom.description>
+  <UsedPrivateBathroom.stages.decent_bathroom.label>悪くない浴室</UsedPrivateBathroom.stages.decent_bathroom.label>
+  <UsedPrivateBathroom.stages.decent_bathroom.description>私の浴室は、とても興味をそそられる。ここが好きだ。</UsedPrivateBathroom.stages.decent_bathroom.description>
+  <UsedPrivateBathroom.stages.slightly_impressive_bathroom.label>ちょっと豪華な浴室</UsedPrivateBathroom.stages.slightly_impressive_bathroom.label>
+  <UsedPrivateBathroom.stages.slightly_impressive_bathroom.description>私の浴室は、ちょっと豪華なので、ここが好きだ。</UsedPrivateBathroom.stages.slightly_impressive_bathroom.description>
+  <UsedPrivateBathroom.stages.impressive_bathroom.label>豪華な浴室</UsedPrivateBathroom.stages.impressive_bathroom.label>
+  <UsedPrivateBathroom.stages.impressive_bathroom.description>私の浴室は、豪華で、ここが大好きだ。</UsedPrivateBathroom.stages.impressive_bathroom.description>
+  <UsedPrivateBathroom.stages.very_impressive_bathroom.label>とても豪華な浴室</UsedPrivateBathroom.stages.very_impressive_bathroom.label>
+  <UsedPrivateBathroom.stages.very_impressive_bathroom.description>私の浴室は、とても豪華で、ここが一番の場所だ、絶対に!</UsedPrivateBathroom.stages.very_impressive_bathroom.description>
+  <UsedPrivateBathroom.stages.extremely_impressive_bathroom.label>極めて豪華な浴室</UsedPrivateBathroom.stages.extremely_impressive_bathroom.label>
+  <UsedPrivateBathroom.stages.extremely_impressive_bathroom.description>私の浴室は、極めて豪華で、ここが一番の場所だ、絶対に!</UsedPrivateBathroom.stages.extremely_impressive_bathroom.description>
+  <UsedPrivateBathroom.stages.unbelievably_impressive_bathroom.label>信じられないくらい豪華な浴室</UsedPrivateBathroom.stages.unbelievably_impressive_bathroom.label>
+  <UsedPrivateBathroom.stages.unbelievably_impressive_bathroom.description>私の浴室は、信じられないくらい豪華で、ここが一番の場所だ、絶対に!</UsedPrivateBathroom.stages.unbelievably_impressive_bathroom.description>
+  <UsedPrivateBathroom.stages.wondrously_impressive_bathroom.label>奇跡的なぐらい豪華な浴室</UsedPrivateBathroom.stages.wondrously_impressive_bathroom.label>
+  <UsedPrivateBathroom.stages.wondrously_impressive_bathroom.description>私の浴室は、奇跡的なぐらい豪華で、他に想像できそうにもないくらい素晴らしい。</UsedPrivateBathroom.stages.wondrously_impressive_bathroom.description>
+
+</LanguageData>

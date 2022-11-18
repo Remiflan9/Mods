@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Archotech Sculpture -->
+
+  <VFE_ArchotechSculpture.label>アルコテックの彫刻</VFE_ArchotechSculpture.label>
+  <VFE_ArchotechSculpture.description>人間向けな古代の神秘的な機械です。周囲に居るポーンの心の中に詳細なイメージを投影します。壁を通り抜けて影響します。</VFE_ArchotechSculpture.description>
+  <Blueprint_Install_VFE_ArchotechSculpture.label>アルコテックの彫刻(移動先)</Blueprint_Install_VFE_ArchotechSculpture.label>
+
+</LanguageData>

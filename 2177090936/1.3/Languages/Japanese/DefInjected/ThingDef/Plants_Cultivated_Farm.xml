@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Food crops -->
+  <VCE_Sugarcane.label>サトウキビ</VCE_Sugarcane.label>
+  <VCE_Sugarcane.description>太くて背の高い熱帯の草で,茎が節状になっています. この遺伝子組み換えサトウキビをそのまま食べても高い栄養は得られませんが,簡単に砂糖にすることができます. 砂糖はデザートなどの様々な創作料理に使用されます.</VCE_Sugarcane.description>
+  <VCE_Allspice.label>オールスパイス(植物)</VCE_Allspice.label>
+  <VCE_Allspice.description>変則的な葉っぱのつる性のつるで,味のない小さな緑色の実をつけます. 調理中に細かく砕くと,複雑で胡椒のような風味が出て,料理のスパイスとして最適です.</VCE_Allspice.description>
+  <VCE_Wheat.label>小麦</VCE_Wheat.label>
+  <VCE_Wheat.description>琥珀色の穀物植物で,実がなるまでに約1シーズンかかります. 壊れやすく時間がかかるが,この小麦はほんの少し触れるだけで小麦粉になるように遺伝子操作されています.</VCE_Wheat.description>
+</LanguageData>

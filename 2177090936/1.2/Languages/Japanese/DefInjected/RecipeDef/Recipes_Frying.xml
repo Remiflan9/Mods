@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_DeepFryMeats.label>揚げ物(肉) x20</VCE_DeepFryMeats.label>
+  <VCE_DeepFryMeats.description>大きな肉のかたまりを揚げます. 揚げ物はとても美味しいですが,健康にはあまり良くありません.</VCE_DeepFryMeats.description>
+  <VCE_DeepFryMeats.jobString>揚げ物(肉)を揚げる.</VCE_DeepFryMeats.jobString>
+  <VCE_DeepFryVegetables.label>揚げ物(野菜) x20</VCE_DeepFryVegetables.label>
+  <VCE_DeepFryVegetables.description>野菜を揚げる. 揚げ物はとても美味しいですが,健康にはあまり良くありません.</VCE_DeepFryVegetables.description>
+  <VCE_DeepFryVegetables.jobString>揚げ物(野菜)を揚げる.</VCE_DeepFryVegetables.jobString>
+</LanguageData>

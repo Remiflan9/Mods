@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_CondimentsResearch.label>食品調味料</VCE_CondimentsResearch.label>
+  <VCE_CondimentsResearch.description>調味料とは,調理後または調理中に,特定の風味を付与したり,風味を増強したり,料理を補完するために食品に添加される調味料,ソース,または調製品のことです. すべての調味料は,調味料製作台で作成できます.</VCE_CondimentsResearch.description>
+  <VCE_SoupCooking.label>スープ</VCE_SoupCooking.label>
+  <VCE_SoupCooking.description>スープは主に液体食品で,水と肉や野菜を組み合わせたもので,温かい状態で提供されます. 温かいスープは,味が抽出されるまで鍋の中で煮込んで作られます. この研究では,スープを調理するために必要な保温調理鍋にもアクセスすることができます.</VCE_SoupCooking.description>
+  <VCE_Grilling.label>グリル</VCE_Grilling.label>
+  <VCE_Grilling.description>グリルは,一般的に上下左右から乾燥した熱を食材に当てる調理方法です. グリルは肉や野菜を素早く調理するために使用される傾向があります. この研究では,グリルへのアクセスを提供します.</VCE_Grilling.description>
+  <VCE_DeepFrying.label>揚げ物</VCE_DeepFrying.label>
+  <VCE_DeepFrying.description>揚げ物は,フライパンで少量の油を使用するものとは違い,食材を高温で深い油に沈める調理方法です. この研究では,揚げ物機にアクセスすることができます.</VCE_DeepFrying.description>
+  <VCE_Canning.label>缶詰</VCE_Canning.label>
+  <VCE_Canning.description>缶詰とは,食材を加工して密閉容器(ガラス瓶,スチール缶,ブリキ缶など)に入れる保存方法です. 缶詰にすることで保存期間を延ばすことができます. 乾燥レンズ豆の缶詰のようなフリーズドライの缶詰製品は,可食状態で30年も持つことがあります. この研究では,缶詰機械へのアクセスを提供しています.</VCE_Canning.description>
+  <VCE_CheeseMaking.label>チーズ</VCE_CheeseMaking.label>
+  <VCE_CheeseMaking.description>チーズ製造は,他の食品保存順序と同様に,ミルクの栄養価と経済価値を濃縮し,保存することを可能にします. チーズプレス機は,多様な風味と一貫性を持つチーズの生産を可能にします. この研究は,チーズプレス機へのアクセスを提供します.</VCE_CheeseMaking.description>
+</LanguageData>

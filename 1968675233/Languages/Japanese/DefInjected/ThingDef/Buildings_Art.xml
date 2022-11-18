@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sculptures -->
+
+  <VFE_Pottery.label>陶器</VFE_Pottery.label>
+  <VFE_Pottery.description>芸術的な彫刻が施された小さな陶器です。工芸作業場で作成できます。</VFE_Pottery.description>
+  <Blueprint_Install_VFE_Pottery.label>陶器(移動先)</Blueprint_Install_VFE_Pottery.label>
+
+  <VFE_StatueSmall.label>小さな彫像</VFE_StatueSmall.label>
+  <VFE_StatueSmall.description>装飾された台座の上に置かれた、素材を芸術的な形にした小さな彫刻です。</VFE_StatueSmall.description>
+  <Blueprint_Install_VFE_StatueSmall.label>小さな彫像(移動先)</Blueprint_Install_VFE_StatueSmall.label>
+
+  <VFE_Carving.label>彫刻品</VFE_Carving.label>
+  <VFE_Carving.description>腰ほどの高さのある壁に彫られた小さな彫刻です。遮蔽物として利用可能です。</VFE_Carving.description>
+  <Blueprint_Install_VFE_Carving.label>彫刻品(移動先)</Blueprint_Install_VFE_Carving.label>
+
+  <VFE_StatueLarge.label>大きな彫像</VFE_StatueLarge.label>
+  <VFE_StatueLarge.description>装飾された台座の上に置かれた、素材を芸術的な形にした人間サイズの彫刻です。</VFE_StatueLarge.description>
+  <Blueprint_Install_VFE_StatueLarge.label>大きな彫像(移動先)</Blueprint_Install_VFE_StatueLarge.label>
+
+  <VFE_StatueGrand.label>巨大な彫像</VFE_StatueGrand.label>
+  <VFE_StatueGrand.description>装飾された台座の上に置かれた、素材を芸術的な形にした巨大な彫刻です。</VFE_StatueGrand.description>
+  <Blueprint_Install_VFE_StatueGrand.label>grand statue(移動先)</Blueprint_Install_VFE_StatueGrand.label>
+
+  <VFE_Monument.label>モニュメント</VFE_Monument.label>
+  <VFE_Monument.description>通行不可能な豪華な台座に置かれた巨大な芸術モニュメントです。</VFE_Monument.description>
+  <Blueprint_Install_VFE_Monument.label>モニュメント(移動先)</Blueprint_Install_VFE_Monument.label>
+
+  <VFE_Relief.label>レリーフ</VFE_Relief.label>
+  <VFE_Relief.description>芸術的な浮き彫りが彫られた通行不能な長い壁です。</VFE_Relief.description>
+  <Blueprint_Install_VFE_Relief.label>レリーフ(移動先)</Blueprint_Install_VFE_Relief.label>
+
+  <VFE_Pillar.label>装飾柱</VFE_Pillar.label>
+  <VFE_Pillar.description>屋根を支えることが出来て通行不能な装飾が施された柱です。</VFE_Pillar.description>
+  <Blueprint_Install_VFE_Pillar.label>装飾柱(移動先)</Blueprint_Install_VFE_Pillar.label>
+
+  <VFE_Obelisk.label>オベリスク</VFE_Obelisk.label>
+  <VFE_Obelisk.description>オベリスクの形をした高さのある素材で、側面に芸術的な彫刻が彫られています。</VFE_Obelisk.description>
+  <Blueprint_Install_VFE_Obelisk.label>オベリスク(移動先)</Blueprint_Install_VFE_Obelisk.label>
+
+  <VFE_Plinth.label>飾り台</VFE_Plinth.label>
+  <VFE_Plinth.description>芸術的な装飾が側面に彫り込まれた小さな四角形の台座です。彫像や陶器などを飾るのにも使用できます。載せた物は屋外に出しても劣化しません。</VFE_Plinth.description>
+  <Blueprint_Install_VFE_Plinth.label>飾り台(移動先)</Blueprint_Install_VFE_Plinth.label>
+
+  <VFE_DecorativePlantPot.label>装飾付植木鉢</VFE_DecorativePlantPot.label>
+  <VFE_DecorativePlantPot.description>この観葉植物用の植木鉢に花を植えると、近くに居る人の気分が良くなります。</VFE_DecorativePlantPot.description>
+  <Blueprint_Install_VFE_DecorativePlantPot.label>装飾付植木鉢 (移動先)</Blueprint_Install_VFE_DecorativePlantPot.label>
+
+
+  <!-- Walls -->
+
+  <VFE_Wallpaper.label>壁 (壁紙付)</VFE_Wallpaper.label>
+  <VFE_Wallpaper.description>美しい壁紙の張られた通り抜け不可能な壁です。屋根を支えることができます。</VFE_Wallpaper.description>
+  <Blueprint_VFE_Wallpaper.label>壁(壁紙付)(設計)</Blueprint_VFE_Wallpaper.label>
+  <Frame_VFE_Wallpaper.label>壁(壁紙付)(施工)</Frame_VFE_Wallpaper.label>
+  <Frame_VFE_Wallpaper.description>美しい壁紙の張られた通り抜け不可能な壁です。屋根を支えることができます。</Frame_VFE_Wallpaper.description>
+
+</LanguageData>

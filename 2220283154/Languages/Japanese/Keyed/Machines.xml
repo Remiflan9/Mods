@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEMechForceRecharge>強制再充電</VFEMechForceRecharge>
+  <VFEMechForceRechargeDesc>現在のバッテリー残量に関係なく,関連付けられたドローンをこの充電装置に戻して充電させます.</VFEMechForceRechargeDesc>
+  <VFEMechAttachTurret>タレットを取り付ける</VFEMechAttachTurret>
+  <VFEMechAttachTurretDesc>この自走式タレットの砲座にタレットを建設します.これには,入植者がそのタレットの通常の建設コストと同じ材料を供給する必要があります.</VFEMechAttachTurretDesc>
+  <VFEMechMachineDied>ドローンが破壊された</VFEMechMachineDied>
+  <VFEMechMachineDiedDesc>ドローンの1つが破壊された！残骸は精密工作機械で解体可能です.代わりのドローンを作成するには,入植者の1人が以下の材料を充電装置に運ぶ必要があります：\n\n{0}</VFEMechMachineDiedDesc>
+  <VFEMechNoResources>材料不足</VFEMechNoResources>
+  <VFEMechNoTurret>稼働している自走式タレットはありません</VFEMechNoTurret>
+  <VFEMechReconstruct>ドローンの再建に必要：</VFEMechReconstruct>
+  <VFEMechTurretResources>タレット建設に必要：</VFEMechTurretResources>
+  <VFEMechLowerRange>行動範囲を減少</VFEMechLowerRange>
+  <VFEMechLowerRangeDesc>このドローンが移動できるタイル数を減らします.</VFEMechLowerRangeDesc>
+  <VFEMechRaiseRange>行動範囲を増加</VFEMechRaiseRange>
+  <VFEMechRaiseRangeDesc>このドローンが移動できるタイル数を増やします.</VFEMechRaiseRangeDesc>
+  <VFEMechStopMachine>ドローンを活動停止</VFEMechStopMachine>
+  <VFEMechStopMachineDesc>このドローンの活動を停止して,強制的に充電装置に戻します.</VFEMechStopMachineDesc>
+  <VFEMechStartMachine>ドローンを起動</VFEMechStartMachine>
+  <VFEMechStartMachineDesc>このドローンの活動を開始します.</VFEMechStartMachineDesc>
+  <VFEMechMachineHitObstacle>ドローンが障害物に衝突した!</VFEMechMachineHitObstacle>
+  <VFEMechSetArea>ゾーンを設定</VFEMechSetArea>
+  <VFEMechSetAreaDesc>この充電装置に関連付けられたすべてのドローンに許可されたゾーンを設定します.</VFEMechSetAreaDesc>
+  <VFEMRideableMachineTip>このドロイドは騎乗可能です.キャラバンの隊員は,利用可能な最速の動物やドロイドに騎乗すると,キャラバン全体の移動速度が向上します.</VFEMRideableMachineTip>
+  <VFEM.CaravanMachineRanOutPower>{MACHINE_nameDef}のバッテリー残量が無くなり,置き去りにされました.</VFEM.CaravanMachineRanOutPower>
+  <VFEM.DroneGainsName>ドローンの名前は{0}に変更されました.</VFEM.DroneGainsName>
+
+</LanguageData>

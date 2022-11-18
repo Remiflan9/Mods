@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Wall_SterileRed.label>抗菌壁(赤色)</Wall_SterileRed.label>
+  <Wall_SterileRed.description>屋根を支えることが可能で通り抜けられない壁です。清潔さを高めて、清潔な空間を作り出します(清潔さは研究速度に影響します)。</Wall_SterileRed.description>
+  <Blueprint_Wall_SterileRed.label>抗菌壁(赤色)(設計)</Blueprint_Wall_SterileRed.label>
+  <Frame_Wall_SterileRed.label>抗菌壁(赤色)(施工)</Frame_Wall_SterileRed.label>
+  <Frame_Wall_SterileRed.description>屋根を支えることが可能で通り抜けられない壁です。清潔さを高めて、清潔な空間を作り出します(清潔さは研究速度に影響します)。</Frame_Wall_SterileRed.description>
+
+  <Wall_SterileGreen.label>抗菌壁(緑色)</Wall_SterileGreen.label>
+  <Wall_SterileGreen.description>屋根を支えることが可能で通り抜けられない壁です。清潔さを高めて、清潔な空間を作り出します(清潔さは研究速度に影響します)。</Wall_SterileGreen.description>
+  <Blueprint_Wall_SterileGreen.label>抗菌壁(緑色)(設計)</Blueprint_Wall_SterileGreen.label>
+  <Frame_Wall_SterileGreen.label>抗菌壁(緑色)(施工)</Frame_Wall_SterileGreen.label>
+  <Frame_Wall_SterileGreen.description>屋根を支えることが可能で通り抜けられない壁です。清潔さを高めて、清潔な空間を作り出します(清潔さは研究速度に影響します)。</Frame_Wall_SterileGreen.description>
+
+  <Wall_SterileBlue.label>抗菌壁(青色)</Wall_SterileBlue.label>
+  <Wall_SterileBlue.description>屋根を支えることが可能で通り抜けられない壁です。清潔さを高めて、清潔な空間を作り出します(清潔さは研究速度に影響します)。</Wall_SterileBlue.description>
+  <Blueprint_Wall_SterileBlue.label>抗菌壁(青色)(設計)</Blueprint_Wall_SterileBlue.label>
+  <Frame_Wall_SterileBlue.label>抗菌壁(青色)(施工)</Frame_Wall_SterileBlue.label>
+  <Frame_Wall_SterileBlue.description>屋根を支えることが可能で通り抜けられない壁です。清潔さを高めて、清潔な空間を作り出します(清潔さは研究速度に影響します)。</Frame_Wall_SterileBlue.description>
+
+  <Wall_SterileCream.label>抗菌壁(クリーム色)</Wall_SterileCream.label>
+  <Wall_SterileCream.description>屋根を支えることが可能で通り抜けられない壁です。清潔さを高めて、清潔な空間を作り出します(清潔さは研究速度に影響します)。</Wall_SterileCream.description>
+  <Blueprint_Wall_SterileCream.label>抗菌壁(クリーム色)(設計)</Blueprint_Wall_SterileCream.label>
+  <Frame_Wall_SterileCream.label>抗菌壁(クリーム色)(施工)</Frame_Wall_SterileCream.label>
+  <Frame_Wall_SterileCream.description>屋根を支えることが可能で通り抜けられない壁です。清潔さを高めて、清潔な空間を作り出します(清潔さは研究速度に影響します)。</Frame_Wall_SterileCream.description>
+
+  <Wall_SterileDark.label>抗菌壁(暗灰色)</Wall_SterileDark.label>
+  <Wall_SterileDark.description>屋根を支えることが可能で通り抜けられない壁です。清潔さを高めて、清潔な空間を作り出します(清潔さは研究速度に影響します)。</Wall_SterileDark.description>
+  <Blueprint_Wall_SterileDark.label>抗菌壁(暗灰色)(設計)</Blueprint_Wall_SterileDark.label>
+  <Frame_Wall_SterileDark.label>抗菌壁(暗灰色)(施工)</Frame_Wall_SterileDark.label>
+  <Frame_Wall_SterileDark.description>屋根を支えることが可能で通り抜けられない壁です。清潔さを高めて、清潔な空間を作り出します(清潔さは研究速度に影響します)。</Frame_Wall_SterileDark.description>
+
+  <Wall_SterileGold.label>抗菌壁(金色)</Wall_SterileGold.label>
+  <Wall_SterileGold.description>屋根を支えることが可能で通り抜けられない壁です。清潔さを高めて、清潔な空間を作り出します(清潔さは研究速度に影響します)。</Wall_SterileGold.description>
+  <Blueprint_Wall_SterileGold.label>抗菌壁(金色)(設計)</Blueprint_Wall_SterileGold.label>
+  <Frame_Wall_SterileGold.label>抗菌壁(金色)(施工)</Frame_Wall_SterileGold.label>
+  <Frame_Wall_SterileGold.description>屋根を支えることが可能で通り抜けられない壁です。清潔さを高めて、清潔な空間を作り出します(清潔さは研究速度に影響します)。</Frame_Wall_SterileGold.description>
+
+  <Wall_SterileTeal.label>抗菌壁(青緑色)</Wall_SterileTeal.label>
+  <Wall_SterileTeal.description>屋根を支えることが可能で通り抜けられない壁です。清潔さを高めて、清潔な空間を作り出します(清潔さは研究速度に影響します)。</Wall_SterileTeal.description>
+  <Blueprint_Wall_SterileTeal.label>抗菌壁(青緑色)(設計)</Blueprint_Wall_SterileTeal.label>
+  <Frame_Wall_SterileTeal.label>抗菌壁(青緑色)(施工)</Frame_Wall_SterileTeal.label>
+  <Frame_Wall_SterileTeal.description>屋根を支えることが可能で通り抜けられない壁です。清潔さを高めて、清潔な空間を作り出します(清潔さは研究速度に影響します)。</Frame_Wall_SterileTeal.description>
+
+  <Wall_SterileBrown.label>抗菌壁(茶色)</Wall_SterileBrown.label>
+  <Wall_SterileBrown.description>屋根を支えることが可能で通り抜けられない壁です。清潔さを高めて、清潔な空間を作り出します(清潔さは研究速度に影響します)。</Wall_SterileBrown.description>
+  <Blueprint_Wall_SterileBrown.label>抗菌壁(茶色)(設計)</Blueprint_Wall_SterileBrown.label>
+  <Frame_Wall_SterileBrown.label>抗菌壁(茶色)(施工)</Frame_Wall_SterileBrown.label>
+  <Frame_Wall_SterileBrown.description>屋根を支えることが可能で通り抜けられない壁です。清潔さを高めて、清潔な空間を作り出します(清潔さは研究速度に影響します)。</Frame_Wall_SterileBrown.description>
+
+</LanguageData>

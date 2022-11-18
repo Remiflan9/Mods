@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Auto Drill -->
+
+  <VFE_ChunkToMine>{0}用ドリル</VFE_ChunkToMine>
+  <VFE_ChunkRandomMine>ランダムな岩の塊用のドリル</VFE_ChunkRandomMine>
+  <VFE_ChooseMine>掘削する岩の種類を選択</VFE_ChooseMine>
+  <VFE_ChooseMineDesc>掘削する岩の種類を選択します。マップにある岩の種類のどれかを指定、またはランダムを選択可能です</VFE_ChooseMineDesc>
+  <VFE_RandomRock>ランダムな岩</VFE_RandomRock>
+  <VFE_PleaseSelectOutput>機械の出力先を選択</VFE_PleaseSelectOutput>
+  <VFE_NeedsWater>この建築物は水タイルの上に設置が必要です</VFE_NeedsWater>
+
+  <!-- Random Building Graphics -->
+
+  <VFE_ChangeGraphic>画像を変更</VFE_ChangeGraphic>
+  <VFE_ChangeGraphicDesc>この建築物のグラフィックを、利用可能な物同士でランダムに変更します</VFE_ChangeGraphicDesc>
+
+  <!-- Random Building Graphics, Options -->
+
+  <VFE_RandomOrSequentially>「画像を変更」ボタンを押すと、画像をランダムに変更します（連続で押すと選択を解除）</VFE_RandomOrSequentially>
+  <VFE_HideRandomizeButton>「画像を変更」ボタンを隠す</VFE_HideRandomizeButton>
+
+  <VFE.SwitchLightColor>照明の色を切替</VFE.SwitchLightColor>
+  <VFE.SwitchLightColorDesc>現在の照明の色を切り替えます.</VFE.SwitchLightColorDesc>
+  <VFE.ChangeColorTo>色を{0}に変更した</VFE.ChangeColorTo>
+  <VFE.ColorSwitchPowerOff>電源がオフです.色を切り替えられません.</VFE.ColorSwitchPowerOff>
+
+</LanguageData>

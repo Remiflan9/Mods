@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEArch_Grass.label>芝生</VFEArch_Grass.label>
+  <VFEArch_Grass.description>土俵に雑草が植えられた芝生です. 見た目はとても美しく,建設には資源を必要としません.</VFEArch_Grass.description>
+  <VFEArch_Grass.tools.0.label>土</VFEArch_Grass.tools.0.label>
+
+  <VFEArch_LawnPlot.label>縞模様の芝生</VFEArch_LawnPlot.label>
+  <VFEArch_LawnPlot.description>美しく手入れされた芝生. 建設に時間が掛かります.</VFEArch_LawnPlot.description>
+  <VFEArch_LawnPlot.tools.0.label>土</VFEArch_LawnPlot.tools.0.label>
+
+
+</LanguageData>

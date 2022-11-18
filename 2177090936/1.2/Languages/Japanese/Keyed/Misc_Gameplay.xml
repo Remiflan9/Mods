@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Soups -->
+  <VCE_InsertSoup>スープを入れる</VCE_InsertSoup>
+  <VCE_InsertSoupDesc>スープを調理する</VCE_InsertSoupDesc>
+  <VCE_NoSoupsFound>このマップではその種類のスープは見つかりませんでした.</VCE_NoSoupsFound>
+  <VCE_UncookedSoupSimple>簡単なスープ</VCE_UncookedSoupSimple>
+  <VCE_UncookedSoupFine>手の込んだスープ</VCE_UncookedSoupFine>
+  <VCE_UncookedSoupLavish>豪華なスープ</VCE_UncookedSoupLavish>
+  <VCE_UncookedSoupGourmet>至高のスープ</VCE_UncookedSoupGourmet>
+  <VCE_UncookedSoupSimple_InsertSoup>簡単なスープを置く</VCE_UncookedSoupSimple_InsertSoup>
+  <VCE_UncookedSoupFine_InsertSoup>手の込んだスープを置く</VCE_UncookedSoupFine_InsertSoup>
+  <VCE_UncookedSoupLavish_InsertSoup>豪華なスープを置く</VCE_UncookedSoupLavish_InsertSoup>
+  <VCE_UncookedSoupGourmet_InsertSoup>至高のスープを置く</VCE_UncookedSoupGourmet_InsertSoup>
+  <VCE_SelectSoup>調理するスープの種類を選ぶ</VCE_SelectSoup>
+  <VCE_StartInsertion>スープを運ぶ</VCE_StartInsertion>
+  <VCE_StartInsertionDesc>保温調理鍋にスープを持ち込んで調理開始</VCE_StartInsertionDesc>
+  <VCE_RemoveSoup>スープを外す</VCE_RemoveSoup>
+  <VCE_RemoveSoupDesc>スープを保温調理鍋から外します. スープの調理前にのみ行うことができます.</VCE_RemoveSoupDesc>
+  <VCE_CancelBringingSoup>設置をやめる</VCE_CancelBringingSoup>
+  <VCE_CancelBringingSoupDesc>スープを置くのをやめる</VCE_CancelBringingSoupDesc>
+  <VCE_WaitTillJobsEnd>保温調理鍋にスープが運ばれてくるまで待つか,仕事を取り消してください.</VCE_WaitTillJobsEnd>
+  <VCE_NotPowered>保温調理鍋は電源が入っていない</VCE_NotPowered>
+  <VCE_Engage>スープを作る</VCE_Engage>
+  <VCE_EngageDesc>スープの調理を開始します. この作業は3日かけて行いますが,中断しないとスープがダメになってしまいます.</VCE_EngageDesc>
+  <VCE_SoupFailurePower>停電で保温調理鍋のスープが腐ってしまった</VCE_SoupFailurePower>
+  <VCE_SoupFailurePowerWarning>保温調理鍋の燃料不足で,スープが急速に腐っています</VCE_SoupFailurePowerWarning>
+  <VCE_SoupFinished>保温調理鍋のスープの調理が完了しました</VCE_SoupFinished>
+  <VCE_SoupInProgress>{0}は調理中です. {1}で準備完了です</VCE_SoupInProgress>
+  <VCE_SoupReady>スープは調理が完了したため,取り出されるのを待っている</VCE_SoupReady>
+  <!-- Cheese making -->
+  <VCE_InsertMilkDesc>チーズプレス機で押すミルクを選択します. ミルクにより,違う種類のチーズができるかもしれません.</VCE_InsertMilkDesc>
+  <VCE_InsertMilk>ミルクを選ぶ</VCE_InsertMilk>
+  <VCE_InsertMilkVariable>{0}を入れる</VCE_InsertMilkVariable>
+  <VCE_NoMilksFound>このマップではその種類のミルクは見つかりませんでした.</VCE_NoMilksFound>
+  <VCE_SelectMilk>搾るミルクの種類を選択</VCE_SelectMilk>
+  <VCE_StartInsertionMilk>ミルクを運ぶ</VCE_StartInsertionMilk>
+  <VCE_StartInsertionMilkDesc>ミルクを運び,プレスを開始する</VCE_StartInsertionMilkDesc>
+  <VCE_RemoveMilk>ミルクを取り除く</VCE_RemoveMilk>
+  <VCE_RemoveMilkDesc>ミルクをプレス機から取り出します. これはプレスを始める前にしかできません.</VCE_RemoveMilkDesc>
+  <VCE_CancelBringingMilk>運搬をやめる</VCE_CancelBringingMilk>
+  <VCE_CancelBringingMilkDesc>ミルクの運搬をやめる</VCE_CancelBringingMilkDesc>
+  <VCE_WaitTillJobsEndMilk>ミルクがチーズプレス機に運ばれるまで待つか,仕事を取り消してください.</VCE_WaitTillJobsEndMilk>
+  <VCE_EngageMilk>チーズをプレス</VCE_EngageMilk>
+  <VCE_EngageMilkDesc>チーズへのミルクの圧搾を開始します. このプロセスには変動時間がかかり,チーズは熟成とともに品質が向上します. 最初の期間の後,いつでも取り除くことができます.</VCE_EngageMilkDesc>
+  <VCE_CheeseFinished>チーズプレスで熟成が完了したチーズ</VCE_CheeseFinished>
+  <VCE_CheeseInProgress>チーズプレス機が{0}を押しています. {2}で{1}の品質になります</VCE_CheeseInProgress>
+  <VCE_CheeseReady>このチーズは希望の熟成度になったため,取り出されるのを待っている</VCE_CheeseReady>
+  <VCE_MilkImproperlyDefined>このミルクはチーズプレス機で動作するように不適切に定義されています.</VCE_MilkImproperlyDefined>
+  <VCE_RemoveCheese>チーズを取り除く({0})</VCE_RemoveCheese>
+  <VCE_RemoveCheeseDesc>チーズプレス機からチーズを取り出します. 現在の品質レベル({0})でチーズが出来上がります.</VCE_RemoveCheeseDesc>
+  <VCE_CheesePressEmpty>チーズプレス機に何も入っていません</VCE_CheesePressEmpty>
+  <VCE_CheesePressFilled>{0}が入ったチーズプレス機</VCE_CheesePressFilled>
+  <VCE_CheesePressWorking>チーズプレス機が動作中です：</VCE_CheesePressWorking>
+  <VCE_ResourcePercentage>(現在:{0} 必要:{1})</VCE_ResourcePercentage>
+  <!-- Condiment stats (using code from AnimalBehaviours) -->
+  <VCE_CondimentEffects>調味料の効果</VCE_CondimentEffects>
+  <VCE_CondimentEffectsTitle>調味料としての役割</VCE_CondimentEffectsTitle>
+  <VCE_CondimentEffectsAgave>リュウゼツラン蜜は,癒しや抗炎症作用で知られる,薄くて半甘めの蜜です. この調味料を含む食べ物を食べると,12時間にわたり,免疫を得る速度を15%増加させる.</VCE_CondimentEffectsAgave>
+  <VCE_CondimentEffectsSugar>砂糖は体内でエネルギーに変換されやすく,持続力に繋がるかもしれません. この調味料を含む食べ物を食べると,12時間にわたり,運動能力を15%増加させる.</VCE_CondimentEffectsSugar>
+  <VCE_CondimentEffectsSpices>香り高い辛味のある様々なスパイス. この調味料を含む食べ物を食べると,12時間にわたり,指の機能を10%増加させる.</VCE_CondimentEffectsSpices>
+  <VCE_CondimentEffectsSalt>この調味料を含む食べ物を食べると,12時間にわたり,心情が5向上します.</VCE_CondimentEffectsSalt>
+  <VCE_CondimentEffectsMayo>マヨネーズはカロリーが高く,あなたの健康を脅かしますが,心地よい味わいです. この調味料を含む食べ物を食べると,12時間にわたり,飢えやすさを15%減少させる.</VCE_CondimentEffectsMayo>
+  <VCE_CondimentEffectsJelly>この調味料を含む食べ物を食べると,12時間にわたり,心情が10向上します.</VCE_CondimentEffectsJelly>
+  <VCE_CondimentEffectsButter>この調味料を使った料理を食べると,中毒性のないスモークリーフ・ハイを得られます.</VCE_CondimentEffectsButter>
+  <VCE_CondimentEffectsSyrup>この調味料を含む食べ物を食べると,12時間にわたり,心情が7向上します.</VCE_CondimentEffectsSyrup>
+  <VCE_CondimentEffectsNanites>この調味料を含む食べ物を食べると,12時間にわたり,指の機能が1%上昇する. また,その間に死亡することがあっても復活します.</VCE_CondimentEffectsNanites>
+  <VCE_CondimentEffectsKetchup>この調味料を含む食べ物を食べると,12時間にわたり,心情が3倍向上します.</VCE_CondimentEffectsKetchup>
+  <VCE_CondimentEffectsSauce>特に強い辛さのソースは食べると痛みを感じますが,すぐに痛みが和らぎ,温かい汗をかくことが知られています. この調味料を含む食べ物を食べると,12時間にわたり,痛みの耐性が15%,快適と感じる最低気温の耐性が10℃アップします.</VCE_CondimentEffectsSauce>
+  <VCE_HealthEffects>健康への影響</VCE_HealthEffects>
+  <VCE_NoEffect>健康への影響はない</VCE_NoEffect>
+  <VCE_NoEffectDesc>この調味料を使った料理を食べても,健康に悪影響はありません.</VCE_NoEffectDesc>
+  <VCE_DiabetesEffect>糖尿病</VCE_DiabetesEffect>
+  <VCE_DiabetesEffectDescHalfPoint>この調味料を含む食べ物を食べると,糖尿病になります. このような食べ物を食べるたびに,入植者の糖尿病は0.5%増加します.</VCE_DiabetesEffectDescHalfPoint>
+  <VCE_DiabetesEffectDescOneAndHalfPoint>この調味料を含む食べ物を食べると,糖尿病になります. このような食べ物を食べるたびに,入植者の糖尿病は1.5%増加します.</VCE_DiabetesEffectDescOneAndHalfPoint>
+  <VCE_DiabetesEffectDescThreeQuarterPoint>この調味料を含む食べ物を食べると,糖尿病になります. このような食べ物を食べるたびに,入植者の糖尿病は0.75%増加します.</VCE_DiabetesEffectDescThreeQuarterPoint>
+  <VCE_DiabetesDessertSimpleDesc>この食べ物を食べると,糖尿病になります. このような食べ物を食べるたびに,入植者の糖尿病は0.5%増加します.</VCE_DiabetesDessertSimpleDesc>
+  <VCE_DiabetesDessertFineDesc>この食べ物を食べると,糖尿病になります. このような食べ物を食べるたびに,入植者の糖尿病は1.5%増加します.</VCE_DiabetesDessertFineDesc>
+  <VCE_DiabetesDessertLavishDesc>この調味料を含む食べ物を食べると,糖尿病になります. このような食べ物を食べるたびに,入植者の糖尿病は2.5%増加します.</VCE_DiabetesDessertLavishDesc>
+  <VCE_DiabetesDessertGourmetDesc>この調味料を含む食べ物を食べると,糖尿病になります. このような食べ物を食べるたびに,入植者の糖尿病は3.5%増加します.</VCE_DiabetesDessertGourmetDesc>
+  <VCE_HighBloodPressureEffect>高血圧</VCE_HighBloodPressureEffect>
+  <VCE_HighBloodPressureEffectDesc>この調味料を含む食べ物を食べると,高血圧になります. このような食べ物を食べるたびに,入植者の高血圧は0.75%増加します.</VCE_HighBloodPressureEffectDesc>
+  <VCE_HighBloodPressureEffectDescCanned>この調味料を含む食べ物を食べると,高血圧になります. このような食べ物を食べるたびに,入植者の高血圧は1.5%増加します.</VCE_HighBloodPressureEffectDescCanned>
+  <VCE_CholesterolEffect>コレステロール</VCE_CholesterolEffect>
+  <VCE_CholesterolEffectDesc>この調味料を含む食べ物を食べると,コレステロールが上昇します. このような食べ物を食べるたびに,入植者のコレステロールは1%増加します.</VCE_CholesterolEffectDesc>
+  <VCE_CholesterolEffectDescOneAndHalfPoint>この調味料を含む食べ物を食べると,コレステロールが上昇します. このような食べ物を食べるたびに,入植者のコレステロールは1.5%増加します.</VCE_CholesterolEffectDescOneAndHalfPoint>
+  <VCE_CholesterolEffectDescDouble>この調味料を含む食べ物を食べると,コレステロールが上昇します. このような食べ物を食べるたびに,入植者のコレステロールは2%増加します.</VCE_CholesterolEffectDescDouble>
+  <VCE_CholesterolDescDeepFried>揚げ物を食べると,コレステロールが上昇します. このような食べ物を食べるたびに,入植者のコレステロールは1.5%増加します.</VCE_CholesterolDescDeepFried>
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_LargeBattery.label>バッテリー(大)</VFE_LargeBattery.label>
+  <VFE_LargeBattery.description>大量の電気を蓄えます. 充電された大型バッテリーは, 雨や火にさらされると爆発します.</VFE_LargeBattery.description>
+
+  <VFE_SmallBattery.label>バッテリー(小)</VFE_SmallBattery.label>
+  <VFE_SmallBattery.description>少量の電気を蓄えます. 充電されたバッテリーは, 雨や火にさらされると爆発します.</VFE_SmallBattery.description>
+
+  <VFE_AdvancedBattery.label>発展型バッテリー</VFE_AdvancedBattery.label>
+  <VFE_AdvancedBattery.description>技術の進歩により, このバッテリーユニットは大幅に効率化されています. 充電された発展型バッテリーは防水であり, 雨にさらされても爆発しません.</VFE_AdvancedBattery.description>
+
+  <VFE_LargeAdvancedBattery.label>発展型バッテリー(大)</VFE_LargeAdvancedBattery.label>
+  <VFE_LargeAdvancedBattery.description>技術の進歩により, このバッテリーユニットは大幅に効率化されています. 充電された発展型バッテリーは防水であり, 雨にさらされても爆発しません.</VFE_LargeAdvancedBattery.description>
+
+
+</LanguageData>

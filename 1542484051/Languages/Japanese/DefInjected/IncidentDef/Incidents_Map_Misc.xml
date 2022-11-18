@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--<TowerContamination.label>給水塔汚染</TowerContamination.label>
+  <TowerContamination.letterText>給水塔が汚染されました。これはあなたの入植者の健康に重大な危険をもたらします！給水塔を緊急排水して汚染を除去するか、水処理システムを建築してください。</TowerContamination.letterText>
+  <TowerContamination.letterLabel>給水塔が汚染されました！</TowerContamination.letterLabel>-->
+
+  <!-- <SewageSpill.label>下水が溢れた</SewageSpill.label>
+  <SewageSpill.letterText>下水管の一部が壊れてしまい、汚水が流出しました。汚水を樽にすくい取って除去することができます。</SewageSpill.letterText>
+  <SewageSpill.letterLabel>下水が溢れた！</SewageSpill.letterLabel> -->
+
+</LanguageData>

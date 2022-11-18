@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_TilledSoil.label>土を耕す</VCE_TilledSoil.label>
+  <VCE_TilledSoil.description>耕作は、様々なタイプの機械的な攪拌による土壌改良の前段階で、地形の肥沃度を増加させます。\n耕した土は通常の土(肥沃な土でない)を対象にだけ実行できます。耕した土の上で植物を栽培した後、フロアは再び普通の土になり、再び手で耕す必要があります。</VCE_TilledSoil.description>
+  <VCE_TilledSoil.tools.dirt.label>土</VCE_TilledSoil.tools.dirt.label>
+
+</LanguageData>

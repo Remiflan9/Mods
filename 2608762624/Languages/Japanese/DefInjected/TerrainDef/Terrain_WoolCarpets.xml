@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEArch_WoolCarpetRed.label>赤のウールカーペット</VFEArch_WoolCarpetRed.label>
+  <VFEArch_WoolCarpetRed.description>美しいバラ色の豪華なウール製の絨毯です.</VFEArch_WoolCarpetRed.description>
+
+  <VFEArch_WoolCarpetGreen.label>緑のウールカーペット</VFEArch_WoolCarpetGreen.label>
+  <VFEArch_WoolCarpetGreen.description>自然な色合いの緑のウール製絨毯です.Earth tones, dude.</VFEArch_WoolCarpetGreen.description>
+
+  <VFEArch_WoolCarpetBlue.label>青のウールカーペット</VFEArch_WoolCarpetBlue.label>
+  <VFEArch_WoolCarpetBlue.description>涼しい青い色のつま先にぴったりな豪華なウール製の絨毯です.</VFEArch_WoolCarpetBlue.description>
+
+  <VFEArch_WoolCarpetCream.label>クリーム色 ウールカーペット</VFEArch_WoolCarpetCream.label>
+  <VFEArch_WoolCarpetCream.description>魅力的なクリーム色のウール製絨毯です.</VFEArch_WoolCarpetCream.description>
+
+  <VFEArch_WoolCarpetDark.label>シックな ウールカーペット</VFEArch_WoolCarpetDark.label>
+  <VFEArch_WoolCarpetDark.description>プロフェッショナルな質感の濃い灰色ウール製絨毯です.</VFEArch_WoolCarpetDark.description>
+
+  <VFEArch_WoolCarpetYellow.label>黄色のウールカーペット</VFEArch_WoolCarpetYellow.label>
+  <VFEArch_WoolCarpetYellow.description>目を引く黄色いウール製の絨毯です.</VFEArch_WoolCarpetYellow.description>
+
+  <VFEArch_WoolCarpetPurple.label>紫のウールカーペット</VFEArch_WoolCarpetPurple.label>
+  <VFEArch_WoolCarpetPurple.description>柔らかな紫のウール製の絨毯です. 居心地の良い寝室を演出します.</VFEArch_WoolCarpetPurple.description>
+
+  <VFEArch_WoolCarpetWhite.label>白色のウールカーペット</VFEArch_WoolCarpetWhite.label>
+  <VFEArch_WoolCarpetWhite.description>汚れが目立つことで知られる白色のウール製絨毯です.</VFEArch_WoolCarpetWhite.description>
+
+  <VFEArch_WoolCarpetDarkRed.label>暗い赤色 ウールカーペット</VFEArch_WoolCarpetDarkRed.label>
+  <VFEArch_WoolCarpetDarkRed.description>居心地の良いダークな色合いの赤のウール製絨毯です.</VFEArch_WoolCarpetDarkRed.description>
+
+  <VFEArch_WoolCarpetOrange.label>橙色のウールカーペット</VFEArch_WoolCarpetOrange.label>
+  <VFEArch_WoolCarpetOrange.description>エキセントリックなオレンジ色のウール製絨毯です. 会社の会議室に相応しいでしょう.</VFEArch_WoolCarpetOrange.description>
+
+  <VFEArch_WoolCarpetGreenish.label>濃い緑色 ウールカーペット</VFEArch_WoolCarpetGreenish.label>
+  <VFEArch_WoolCarpetGreenish.description>ホテルや寝室,リビングに最適なニュートラルな緑色です.</VFEArch_WoolCarpetGreenish.description>
+
+  <VFEArch_WoolCarpetBrown.label>茶色のウールカーペット</VFEArch_WoolCarpetBrown.label>
+  <VFEArch_WoolCarpetBrown.description>安っぽい見た目で業界スタンダードの素朴な場所に敷くための色.</VFEArch_WoolCarpetBrown.description>
+
+  <!-- うんち -->
+
+  <VFEArch_CarpetYellow.label>黄色の絨毯</VFEArch_CarpetYellow.label>
+  <VFEArch_CarpetYellow.description>目を引く黄色のカーペットです.</VFEArch_CarpetYellow.description>
+  
+  <VFEArch_CarpetPurple.label>紫の絨毯</VFEArch_CarpetPurple.label>
+  <VFEArch_CarpetPurple.description>柔らかな紫のカーペットです. 居心地の良い寝室を演出します.</VFEArch_CarpetPurple.description>
+  
+  <VFEArch_CarpetWhite.label>白色の絨毯</VFEArch_CarpetWhite.label>
+  <VFEArch_CarpetWhite.description>汚れが目立つことで知られる白色のカーペットです.</VFEArch_CarpetWhite.description>
+
+  <VFEArch_CarpetDarkRed.label>暗い赤色 絨毯</VFEArch_CarpetDarkRed.label>
+  <VFEArch_CarpetDarkRed.description>居心地の良いダークな色合いのレッドカーペットです.</VFEArch_CarpetDarkRed.description>
+
+  <VFEArch_CarpetOrange.label>橙色の絨毯</VFEArch_CarpetOrange.label>
+  <VFEArch_CarpetOrange.description>エキセントリックなオレンジ色のカーペットです. 会社の会議室に相応しいでしょう.</VFEArch_CarpetOrange.description>
+
+  <VFEArch_CarpetGreenish.label>濃い緑色 絨毯</VFEArch_CarpetGreenish.label>
+  <VFEArch_CarpetGreenish.description>ホテルや寝室,リビングに最適なニュートラルな緑色です.</VFEArch_CarpetGreenish.description>
+  
+  <VFEArch_CarpetBrown.label>茶色の絨毯</VFEArch_CarpetBrown.label>
+  <VFEArch_CarpetBrown.description>安っぽい見た目で業界スタンダードの素朴な場所に敷くための色.</VFEArch_CarpetBrown.description>
+  
+  <VFEArch_CarpetFineAzure.label>華麗な海色の絨毯</VFEArch_CarpetFineAzure.label>
+  <VFEArch_CarpetFineAzure.description>絶妙な海色のカーペットです. 上層階級でプロフェッショナルな環境を実現します.</VFEArch_CarpetFineAzure.description>
+  
+  <VFEArch_CarpetFineViridescent.label>華麗な淡緑色の絨毯</VFEArch_CarpetFineViridescent.label>
+  <VFEArch_CarpetFineViridescent.description>美しい模様の入った自然で上質な緑色のカーペットです.</VFEArch_CarpetFineViridescent.description>
+  
+  <VFEArch_CarpetFineCrimson.label>華麗な真紅色の絨毯</VFEArch_CarpetFineCrimson.label>
+  <VFEArch_CarpetFineCrimson.description>深紅の色調を持つ最高級のレッドカーペットです.</VFEArch_CarpetFineCrimson.description>
+
+  <VFEArch_CarpetFineMilky.label>華麗な乳白色の絨毯</VFEArch_CarpetFineMilky.label>
+  <VFEArch_CarpetFineMilky.description>自然的で上品な空間に,さりげなくクリーミーなカーペットを.</VFEArch_CarpetFineMilky.description>
+
+  <VFEArch_CarpetFineAshen.label>華麗な薄墨色の絨毯</VFEArch_CarpetFineAshen.label>
+  <VFEArch_CarpetFineAshen.description>秘密の悪の隠れ家には,ファンシーでダークな色合いのカーペットを.</VFEArch_CarpetFineAshen.description>
+
+  <VFEArch_CarpetFineBlonde.label>華麗な金色の絨毯</VFEArch_CarpetFineBlonde.label>
+  <VFEArch_CarpetFineBlonde.description>エキセントリックな.明るく輝く黄金の色合いのカーペットです.</VFEArch_CarpetFineBlonde.description>
+  
+  <VFEArch_CarpetFineAmber.label>華麗な琥珀色の絨毯</VFEArch_CarpetFineAmber.label>
+  <VFEArch_CarpetFineAmber.description>富と繁栄を象徴するオレンジ色のカーペットです.</VFEArch_CarpetFineAmber.description>
+  
+  <VFEArch_CarpetFineFeldgrau.label>華麗な灰緑色の絨毯</VFEArch_CarpetFineFeldgrau.label>
+  <VFEArch_CarpetFineFeldgrau.description>深みのある緑に青の色調を加えたカーペットです. 自然でありながら絶妙な雰囲気を醸し出しています.</VFEArch_CarpetFineFeldgrau.description>
+
+  <VFEArch_CarpetFineHazel.label>華麗な赤褐色の絨毯</VFEArch_CarpetFineHazel.label>
+  <VFEArch_CarpetFineHazel.description>故郷の記憶を呼び覚ますようなシックでダークなカーペットです.</VFEArch_CarpetFineHazel.description>
+
+
+</LanguageData>

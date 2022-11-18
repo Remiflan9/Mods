@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HygieneLevel.stages.filthy.label>とても不潔</HygieneLevel.stages.filthy.label>
+  <HygieneLevel.stages.filthy.description>何か臭わない？</HygieneLevel.stages.filthy.description>
+  <HygieneLevel.stages.grimy.label>不潔</HygieneLevel.stages.grimy.label>
+  <HygieneLevel.stages.grimy.description>ここしばらく、入浴していない。</HygieneLevel.stages.grimy.description>
+  <HygieneLevel.stages.clean.label>清潔</HygieneLevel.stages.clean.label>
+  <HygieneLevel.stages.clean.description>まだ清潔なはずです。</HygieneLevel.stages.clean.description>
+  <HygieneLevel.stages.squeaky_clean.label>とても清潔</HygieneLevel.stages.squeaky_clean.label>
+  <HygieneLevel.stages.squeaky_clean.description>とても清潔だ！</HygieneLevel.stages.squeaky_clean.description>
+
+  <BowelLevel.stages.bursting.label>便意</BowelLevel.stages.bursting.label>
+  <BowelLevel.stages.bursting.description>お腹が破裂しそうだ！</BowelLevel.stages.bursting.description>
+  <BowelLevel.stages.need_the_bathroom.label>トイレに行きたい</BowelLevel.stages.need_the_bathroom.label>
+  <BowelLevel.stages.need_the_bathroom.description>トイレはどこ？トイレに行かないと！</BowelLevel.stages.need_the_bathroom.description>
+
+</LanguageData>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Washing.label>洗浄</Washing.label>
+  <Washing.description>洗浄します</Washing.description>
+  <Washing.labelNoun>洗浄</Washing.labelNoun>
+
+  <BadHygiene.label>不衛生</BadHygiene.label>
+  <BadHygiene.description>不衛生は病気の危険性を増大させて、社会関係に影響を与えます</BadHygiene.description>
+  <BadHygiene.stages.moderate.label>軽度</BadHygiene.stages.moderate.label>
+  <BadHygiene.stages.severe.label>重度</BadHygiene.stages.severe.label>
+  <BadHygiene.stages.extreme.label>最悪</BadHygiene.stages.extreme.label>
+
+  <Diarrhea.label>下痢</Diarrhea.label>
+  <Diarrhea.description>下痢はお腹がゆるくなった、水っぽい便です（排便）</Diarrhea.description>
+  <Diarrhea.stages.recovering.label>回復中</Diarrhea.stages.recovering.label>
+  <Diarrhea.stages.major.label>重症</Diarrhea.stages.major.label>
+  <Diarrhea.stages.initial.label>初期</Diarrhea.stages.initial.label>
+
+  <Dysentery.label>赤痢</Dysentery.label>
+  <Dysentery.description>赤痢は、血液感染によって下痢を引き起こす胃腸炎の一種です</Dysentery.description>
+  <Dysentery.stages.minor.label>軽度</Dysentery.stages.minor.label>
+  <Dysentery.stages.major.label>中度</Dysentery.stages.major.label>
+  <Dysentery.stages.extreme.label>重度</Dysentery.stages.extreme.label>
+
+  <Cholera.label>コレラ</Cholera.label>
+  <Cholera.description>コレラは重度の水様性下痢を引き起こす感染症で、治療しないと脱水症状を起こして、死に至ることもあります</Cholera.description>
+  <Cholera.stages.minor.label>軽度</Cholera.stages.minor.label>
+  <Cholera.stages.major.label>中度</Cholera.stages.major.label>
+  <Cholera.stages.extreme-0.label>重度</Cholera.stages.extreme-0.label>
+  <Cholera.stages.extreme-1.label>重度</Cholera.stages.extreme-1.label>
+
+  <!--<DBHDehydration.label>脱水症状</DBHDehydration.label>
+  <DBHDehydration.description>脱水は、主に体液に含まれる水分の損失量が摂取量を上回った場合に発生する状態です</DBHDehydration.description>
+  <DBHDehydration.stages.trivial.label>無自覚</DBHDehydration.stages.trivial.label>
+  <DBHDehydration.stages.minor.label>軽度</DBHDehydration.stages.minor.label>
+  <DBHDehydration.stages.moderate.label>中度</DBHDehydration.stages.moderate.label>
+  <DBHDehydration.stages.severe.label>重度</DBHDehydration.stages.severe.label>
+  <DBHDehydration.stages.extreme.label>重度(深刻)</DBHDehydration.stages.extreme.label>-->
+
+</LanguageData>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VEF_RangedCooldownFactor.label>遠隔クールダウン時間係数</VEF_RangedCooldownFactor.label>
+  <VEF_RangedCooldownFactor.description>装備者の遠隔武器のクールダウン時間は,この値で乗算されます.</VEF_RangedCooldownFactor.description>
+
+  <VEF_VerbRangeFactor.label>武器攻撃射程係数</VEF_VerbRangeFactor.label>
+  <VEF_VerbRangeFactor.description>所有者が使用している武器の射程距離は,この数値で乗算されます.</VEF_VerbRangeFactor.description>
+  <VEF_VerbRangeFactor.labelForFullStatList>verb射程係数(人物)</VEF_VerbRangeFactor.labelForFullStatList>
+
+  <VEF_VerbCooldownFactor.label>武器攻撃クールダウン係数</VEF_VerbCooldownFactor.label>
+  <VEF_VerbCooldownFactor.description>所有者が使用している武器の攻撃間隔(クールダウン)は,この数値で乗算されます.</VEF_VerbCooldownFactor.description>
+  <VEF_VerbCooldownFactor.labelForFullStatList>verb攻撃間隔係数(人物)</VEF_VerbCooldownFactor.labelForFullStatList>
+
+  <VEF_EnergyShieldEnergyMaxOffset.label>シールド最大エネルギーオフセット値</VEF_EnergyShieldEnergyMaxOffset.label>
+  <VEF_EnergyShieldEnergyMaxOffset.description>装着者が色々な方法でブーストできるシールド最大エネルギーのオフセット値です.</VEF_EnergyShieldEnergyMaxOffset.description>
+
+  <VEF_EnergyShieldEnergyMaxFactor.label>シールド最大エネルギー係数</VEF_EnergyShieldEnergyMaxFactor.label>
+  <VEF_EnergyShieldEnergyMaxFactor.description>装着者が色々な手段でブーストできるシールド最大エネルギー係数です.</VEF_EnergyShieldEnergyMaxFactor.description>
+
+  <VEF_EnergyShieldEnergyMaxApparel.label>シールド最大エネルギー値</VEF_EnergyShieldEnergyMaxApparel.label>
+  <VEF_EnergyShieldEnergyMaxApparel.description>装備用:シールド発生器が一度に保持できる最大エネルギー値です.エネルギーが多ければ多いほど,よりダメージを吸収します.</VEF_EnergyShieldEnergyMaxApparel.description>
+
+  <VEF_EnergyShieldRechargeRateApparel.label>シールド再チャージ率</VEF_EnergyShieldRechargeRateApparel.label>
+  <VEF_EnergyShieldRechargeRateApparel.description>装備用:シールドが壊れていない限り,シールドのエネルギーを再びチャージする速度です.</VEF_EnergyShieldRechargeRateApparel.description>
+  <VEF_EnergyShieldRechargeRateApparel.formatString>{0}/秒</VEF_EnergyShieldRechargeRateApparel.formatString>
+
+  <VEF_EnergyShieldRadiusApparel.label>シールド範囲</VEF_EnergyShieldRadiusApparel.label>
+  <VEF_EnergyShieldRadiusApparel.description>装備用:エネルギーシールドが有効な場合に防御されるエリア領域です.</VEF_EnergyShieldRadiusApparel.description>
+  <VEF_EnergyShieldRadiusApparel.formatString>{0}セル</VEF_EnergyShieldRadiusApparel.formatString>
+
+  <VEF_EnergyShieldEnergyMaxPawn.label>シールド最大エネルギー値</VEF_EnergyShieldEnergyMaxPawn.label>
+  <VEF_EnergyShieldEnergyMaxPawn.description>ポーン用:シールド発生器が一度に保持できる最大エネルギー値です.エネルギーが多ければ多いほど,よりダメージを吸収します.</VEF_EnergyShieldEnergyMaxPawn.description>
+
+  <VEF_EnergyShieldRechargeRatePawn.label>シールド再チャージ率</VEF_EnergyShieldRechargeRatePawn.label>
+  <VEF_EnergyShieldRechargeRatePawn.description>ポーン用:シールドが壊れていない限り,シールドのエネルギーを再びチャージする速度です.</VEF_EnergyShieldRechargeRatePawn.description>
+  <VEF_EnergyShieldRechargeRatePawn.formatString>{0}/秒</VEF_EnergyShieldRechargeRatePawn.formatString>
+
+  <VEF_EnergyShieldRadiusPawn.label>シールド範囲</VEF_EnergyShieldRadiusPawn.label>
+  <VEF_EnergyShieldRadiusPawn.description>ポーン用:エネルギーシールドが有効な場合に防御されるエリア領域です.</VEF_EnergyShieldRadiusPawn.description>
+  <VEF_EnergyShieldRadiusPawn.formatString>{0}セル</VEF_EnergyShieldRadiusPawn.formatString>
+
+  <VEF_MeleeAttackSpeedFactor.label>近接攻撃速度係数</VEF_MeleeAttackSpeedFactor.label>
+  <VEF_MeleeAttackSpeedFactor.description>近接攻撃速度の係数です.</VEF_MeleeAttackSpeedFactor.description>
+
+  <VEF_RangeAttackSpeedFactor.label>遠距離攻撃速度係数</VEF_RangeAttackSpeedFactor.label>
+  <VEF_RangeAttackSpeedFactor.description>遠距離攻撃速度の係数です.</VEF_RangeAttackSpeedFactor.description>
+
+  <VEF_MeleeAttackDamageFactor.label>近接攻撃ダメージ係数</VEF_MeleeAttackDamageFactor.label>
+  <VEF_MeleeAttackDamageFactor.description>近接攻撃ダメージの係数です.</VEF_MeleeAttackDamageFactor.description>
+
+  <VEF_RangeAttackDamageFactor.label>遠距離攻撃ダメージ係数</VEF_RangeAttackDamageFactor.label>
+  <VEF_RangeAttackDamageFactor.description>遠距離攻撃ダメージの係数です.</VEF_RangeAttackDamageFactor.description>
+
+</LanguageData>

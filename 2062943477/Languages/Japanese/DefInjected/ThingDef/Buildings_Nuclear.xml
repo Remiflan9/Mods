@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_NuclearGenerator.label>原子力発電所</VPE_NuclearGenerator.label>
+  <VPE_NuclearGenerator.description>宇宙船の動力炉の炉心を再利用した大型原子炉. ウランを消費して大容量の発電を行う. 過負荷をかけると局所的な放射線を代償にしてさらに大きな出力を出すことができます.</VPE_NuclearGenerator.description>
+
+
+</LanguageData>

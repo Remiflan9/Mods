@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Gauss rifle -->
+  <VWE_Gun_GaussRifle.label>ガウスライフル</VWE_Gun_GaussRifle.label>
+  <VWE_Gun_GaussRifle.description>宇宙世紀の技術で製造されたガウスライフルです.  一束のコイルが強磁性サボット弾を最高速度まで加速し, 鎧だけでなく複数の標的を同様に貫通します. これらの武器はメカノイド戦争で戦う最前線の歩兵に人気があります,.</VWE_Gun_GaussRifle.description>
+  <VWE_Gun_GaussRifle.tools.0.label>ストック</VWE_Gun_GaussRifle.tools.0.label>
+  <VWE_Gun_GaussRifle.tools.1.label>バレル</VWE_Gun_GaussRifle.tools.1.label>
+  <!-- Gauss magnum -->
+  <VWE_Gun_GaussMagnum.label>ガウスマグナム</VWE_Gun_GaussMagnum.label>
+  <VWE_Gun_GaussMagnum.description>宇宙世紀の技術で製造されたガウスピストルです. コイルアレイがリボルバードラム内のサボット発射体を加速し, 射線上にある装甲と標的を貫通します. ほとんどのコイルガンよりも速く充電されますがダメージは低いです.</VWE_Gun_GaussMagnum.description>
+  <VWE_Gun_GaussMagnum.tools.0.label>グリップ</VWE_Gun_GaussMagnum.tools.0.label>
+  <VWE_Gun_GaussMagnum.tools.1.label>バレル</VWE_Gun_GaussMagnum.tools.1.label>
+  <!-- Gauss lance -->
+  <VWE_Gun_GaussLance.label>ガウスランス</VWE_Gun_GaussLance.label>
+  <VWE_Gun_GaussLance.description>宇宙世紀の技術で製造されたガウスランスです. 一続きの電磁コイルが超高速で発射体を最高速度まで加速し, 射線上にある装甲を細断して標的に穴をあけます, 腰だめで発射されますが, 搭載されたコンピューターを利用して遠くの標的を狙うことができます.</VWE_Gun_GaussLance.description>
+  <VWE_Gun_GaussLance.tools.0.label>バレル</VWE_Gun_GaussLance.tools.0.label>
+</LanguageData>

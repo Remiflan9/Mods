@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_RawApple.label>リンゴ(生)</VCE_RawApple.label>
+  <VCE_RawApple.description>つやのある赤いリンゴです。リンゴはアダムとイブの寓話でも知られるように人類の初期からちょっとした食事やデザートの材料として利用されたり、リンゴ酒として醸造されてきました。</VCE_RawApple.description>
+
+  <VCE_RawPeach.label>モモ(生)</VCE_RawPeach.label>
+  <VCE_RawPeach.description>ピーチやネクターと呼ばれる、水分の多い食用果実です。熟した桃は香ばしく、そのまま食べても美味しいです。</VCE_RawPeach.description>
+
+  <VCE_RawCherry.label>チェリー(生)</VCE_RawCherry.label>
+  <VCE_RawCherry.description>小さくて赤紫色の甘いサクランボです。サクランボは短期間な寒い季節を必要とすることで有名で、そのためサクランボはすぐに北半球の西洋文化で人気になりました。</VCE_RawCherry.description>
+
+  <VCE_RawPlum.label>プラム(生)</VCE_RawPlum.label>
+  <VCE_RawPlum.description>ツルツルとした皮を持つ紫色の果物です。多くの文化で長期保存用にプラムを乾燥させてプルーンにしています。放置しても腐ってしまうのではなく、15日を経過すると水分が無くなって乾燥し保存食のプルーンになります。</VCE_RawPlum.description>
+
+  <VCE_RawPrunes.label>プルーン</VCE_RawPrunes.label>
+  <VCE_RawPrunes.description>乾燥したプラム(西洋スモモ)です。プルーンが劣化するには非常に長い期間が必要です。</VCE_RawPrunes.description>
+
+  <VCE_RawPear.label>ヨウナシ(生)</VCE_RawPear.label>
+  <VCE_RawPear.description>サクサクした食感をした緑色の西洋ナシです。見た目はリンゴに似ていますが、梨はやや繊維質が多くて、甘みがありません。</VCE_RawPear.description>
+
+  <VCE_RawPricklyPear.label>ウチワサボテン(生)</VCE_RawPricklyPear.label>
+  <VCE_RawPricklyPear.description>ピンク色をしたメロンのような食用果物で、砂漠の原住民が伝統的にちょっとした食事や薬として利用してきました。</VCE_RawPricklyPear.description>
+
+  <VCE_Bearberry.label>クマコケモモ(生)</VCE_Bearberry.label>
+  <VCE_Bearberry.description>これらはベアベリーとして知られている小さなピンク色の果実です。生のままなクマコケモモは酸味があり穏やかな味わいですが、調理した後は自然な甘さが強くなり、生のままよりもはるかに口当たりが良くなります。</VCE_Bearberry.description>
+
+  <VCE_RawBanana.label>バナナ(生)</VCE_RawBanana.label>
+  <VCE_RawBanana.description>黄色の細長い果実です。簡単に皮をむけて、中は非常に甘い柔らかな果肉になっています。バナナは遥か太古から熱帯地方全体で人間とその他の霊長類たちのお気に入りでした。</VCE_RawBanana.description>
+
+  <VCE_RawOrange.label>オレンジ(生)</VCE_RawOrange.label>
+  <VCE_RawOrange.description>丸くてでこぼこした表面のオレンジは、皮をむくのが非常に面倒で、かなり果肉が豊富なことが有名ですが、そのプリプリした食感と酸味を持つ大変ジューシーな果物として知られています。</VCE_RawOrange.description>
+
+</LanguageData>

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>VFE - Farming 日本語翻訳追加</name>
+  <author>Proxyer</author>
+	<packageId>Proxyer.JPT.VFEFarmingJP</packageId>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>
+		<li>1.3</li>
+		<li>1.4</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>VanillaExpanded.VFEFarming</packageId>
+			<displayName>Vanilla Furniture Expanded - Farming</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1957158779</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+		<li>VanillaExpanded.VFEFarming</li>
+	</loadAfter>
+  <description><![CDATA[
+<color=#87CEFA>説明(Description)：</color>
+このModはオリジナルModに日本語翻訳を追加するためのModであり、Mod本体の機能は一切含まれていません。必ずオリジナルModを導入した上でご利用ください。
+
+Modリストでの読み込み順番は、上から
+
+Core
+Royalty (DLC)
+Ideogy (DLC)
+Biotech (DLC)
+<b>Vanilla Furniture Expanded - Farming</b>
+VFE - Farming 日本語翻訳追加 (このMod)
+
+の順番になるのがベストです。
+
+
+[1.4] [Sub-MOD] Vanilla Furniture Expanded - Farming add Japanese Translation
+
+This Mod is adding a Japanese translation to the original Mod "Vanilla Furniture Expanded - Farming".
+
+The original Mod was created by <b>OskarPotocki</b>, <b>Dninemfive</b>.
+This Modmod does not include the core part of the original Mod.
+Only Japanese translation files are included.
+
+
+<color=#87CEFA>説明翻訳(Japanese translate description)：</color>
+v1.0.1
+このModはVanilla Furniture Expandedシリーズの一つですが、
+Vanilla Furniture Expandedは、このModの必須ではありません。
+
+このVFE(Vanilla-Furniture-Expanded)の農業Modは、食卓の上に食べ物を提供するために、コロニーの農業生産効率を高める素晴らしい方法です。いくつかの新しい水耕栽培器はゲーム初期と後半で、コロニーの技術的な進歩に合わせて改良されてよりゲームを楽しむことができます。
+
+RimWorldのLudeon公式フォーラムの提案スレッドで非常に人気のあるリクエストは、リンク可能な水耕栽培器です。これは、私がそれを提供する義務があると思いました。なので、追加された3種類の水耕栽培器すべてにリンク可能なバージョンがあります！ 好きな形に作りましょう！
+
+動物用の給餌箱やスプリンクラー、かかしなどの新しい建築物も追加されており、それぞれがより本物らしく感じられるように独自のコードが追加されています。かかしは、実際に野生動物を追い払います。
+
+もう見ているだけでなく実際に試して、変化を確認してみてください。
+
+
+<color=#5AA9D6><size=17>既存の問題</size>:</color>
+もし建築時に家具の一部が消えた場合は、Modリストで現在よりも上にこのModを配置してください。
+
+バグが発生した時はワークショップのコメントにログを添えて投稿してください。
+
+
+<color=#5AA9D6><size=17>製作スタッフ</size>:</color>
+このModを作った人たち:
+
+Oskar Potocki：グラフィックとデザイン担当、すべてのアートワークと画像を担当
+Dninemfive：コード作業を担当するプログラマー。
+
+RimworldはTynan Sylvesterの著作物です。
+
+グローバルコモンズ表記:
+(CC BY-NC-ND 4.0) 
+再配布可能、ライセンス表記、非営利、改変禁止、追加制限不許可
+
+
+Original mod : <b>Vanilla Furniture Expanded - Farming</b>
+Original Mod author : <b>OskarPotocki</b> & <b>Dninemfive</b>
+Steam Workshop Link : 
+<color=#66FFFF>https://steamcommunity.com/sharedfiles/filedetails/?id=1957158779</color>
+
+
+ ]]></description>
+</ModMetaData>

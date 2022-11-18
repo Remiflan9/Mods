@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Ingredient based thoughts -->
+  <VCE_ConsumedSugar.stages.0.label>砂糖を口にした</VCE_ConsumedSugar.stages.0.label>
+  <VCE_ConsumedSugar.stages.0.description>砂糖は愛ではない. でも,そう感じることもある.</VCE_ConsumedSugar.stages.0.description>
+  <VCE_ConsumedChocolateSyrup.stages.0.label>チョコレートシロップを飲む</VCE_ConsumedChocolateSyrup.stages.0.label>
+  <VCE_ConsumedChocolateSyrup.stages.0.description>チョコレート "は" 愛.</VCE_ConsumedChocolateSyrup.stages.0.description>
+  <VCE_ConsumedInsectJelly.stages.0.label>インセクトゼリージャムを口にした</VCE_ConsumedInsectJelly.stages.0.label>
+  <VCE_ConsumedInsectJelly.stages.0.description>なんという甘さと濃厚な味わい！</VCE_ConsumedInsectJelly.stages.0.description>
+  <VCE_SmokeleafButterHigh.stages.0.label>スモークリーフバターをたっぷり塗った</VCE_SmokeleafButterHigh.stages.0.label>
+  <VCE_SmokeleafButterHigh.stages.0.description>私は 酔っ払い みたいな もんだよ.</VCE_SmokeleafButterHigh.stages.0.description>
+  <VCE_ConsumedSalt.stages.0.label>塩を口にした</VCE_ConsumedSalt.stages.0.label>
+  <VCE_ConsumedSalt.stages.0.description>ひとつまみの塩が料理の味を引き立ててくれます.</VCE_ConsumedSalt.stages.0.description>
+  <VCE_ConsumedMayo.stages.0.label>マヨネーズを口にした</VCE_ConsumedMayo.stages.0.label>
+  <VCE_ConsumedMayo.stages.0.description>美味しいマヨネーズを食べました. とてもいっぱい！</VCE_ConsumedMayo.stages.0.description>
+  <VCE_ConsumedAgave.stages.0.label>リュウゼツラン蜜を口にした</VCE_ConsumedAgave.stages.0.label>
+  <VCE_ConsumedAgave.stages.0.description>美味しいリュウゼツラン蜜を食べました.</VCE_ConsumedAgave.stages.0.description>
+  <VCE_ConsumedSpices.stages.0.label>調味料を口にした</VCE_ConsumedSpices.stages.0.label>
+  <VCE_ConsumedSpices.stages.0.description>辛かった！</VCE_ConsumedSpices.stages.0.description>
+  <VCE_ConsumedDigestibleResurrectorNanites.stages.0.label>リザレクトナナイトを 服用した</VCE_ConsumedDigestibleResurrectorNanites.stages.0.label>
+  <VCE_ConsumedDigestibleResurrectorNanites.stages.0.description>無敵になった気分だ！</VCE_ConsumedDigestibleResurrectorNanites.stages.0.description>
+  <!-- Gourmet based thoughts -->
+  <VCE_AteGourmetMeal.stages.0.label>究極の料理を口にした</VCE_AteGourmetMeal.stages.0.label>
+  <VCE_AteGourmetMeal.stages.0.description>心を揺さぶる料理体験. 私の味覚はこの世のものとは思えないほどの感覚を与えられた.</VCE_AteGourmetMeal.stages.0.description>
+  <!-- Dessert based thoughts -->
+  <VCE_AteSimpleDessert.stages.0.label>簡単なデザートを口にした</VCE_AteSimpleDessert.stages.0.label>
+  <VCE_AteSimpleDessert.stages.0.description>普通のデザートでしたが,美味しかった.</VCE_AteSimpleDessert.stages.0.description>
+  <VCE_AteFineDessert.stages.0.label>手の込んだデザートを口にした</VCE_AteFineDessert.stages.0.label>
+  <VCE_AteFineDessert.stages.0.description>本当に美味しかった！もっと食べたい！</VCE_AteFineDessert.stages.0.description>
+  <VCE_AteLavishDessert.stages.0.label>豪華なデザートを口にした</VCE_AteLavishDessert.stages.0.label>
+  <VCE_AteLavishDessert.stages.0.description>信じられないほど美味しかった！</VCE_AteLavishDessert.stages.0.description>
+  <VCE_AteGourmetDessert.stages.0.label>至高のデザートを口にした</VCE_AteGourmetDessert.stages.0.label>
+  <VCE_AteGourmetDessert.stages.0.description>何てこった！これまで経験したことがなく,興奮が抑えられない味だった. 純粋なフードポルノだ. もっと欲しい！</VCE_AteGourmetDessert.stages.0.description>
+  <!-- Grill based thoughts -->
+  <VCE_AteSimpleGrill.stages.0.label>簡単な炙り焼きを口にした</VCE_AteSimpleGrill.stages.0.label>
+  <VCE_AteSimpleGrill.stages.0.description>うん,簡単な炙り焼きです.</VCE_AteSimpleGrill.stages.0.description>
+  <VCE_AteFineGrill.stages.0.label>手の込んだ炙り焼きを口にした</VCE_AteFineGrill.stages.0.label>
+  <VCE_AteFineGrill.stages.0.description>とても立派な炙り肉を野菜と一緒に食べました. 超美味しい.</VCE_AteFineGrill.stages.0.description>
+  <VCE_AteLavishGrill.stages.0.label>豪華な炙り焼きを口にした</VCE_AteLavishGrill.stages.0.label>
+  <VCE_AteLavishGrill.stages.0.description>手際よく炙った肉と野菜が入った,素晴らしい料理を食べました. 美味しい！</VCE_AteLavishGrill.stages.0.description>
+  <VCE_AteGourmetGrill.stages.0.label>至高の炙り焼きを口にした</VCE_AteGourmetGrill.stages.0.label>
+  <VCE_AteGourmetGrill.stages.0.description>お肉が口の中でとろけた. この世のものとは思えない…</VCE_AteGourmetGrill.stages.0.description>
+  <!-- Fried and canned food based thoughts -->
+  <VCE_AteFriedGoods.stages.0.label>揚げ物を口にした</VCE_AteFriedGoods.stages.0.label>
+  <VCE_AteFriedGoods.stages.0.description>脂っこい食べ物. 美味しそう.</VCE_AteFriedGoods.stages.0.description>
+  <VCE_ConsumedCannedGoods.stages.0.label>缶詰を口にした</VCE_ConsumedCannedGoods.stages.0.label>
+  <VCE_ConsumedCannedGoods.stages.0.description>缶から直接食べるのは,テーブルを使わずに食べるようなものです.</VCE_ConsumedCannedGoods.stages.0.description>
+  <!-- Cheese quality based thoughts -->
+  <VCE_AteCheese.stages.0.label>ひどいチーズを食べた</VCE_AteCheese.stages.0.label>
+  <VCE_AteCheese.stages.0.description>チーズの風味がほとんどない,固まりの悪いミルクを食べた. おぞましい.</VCE_AteCheese.stages.0.description>
+  <VCE_AteCheese.stages.1.label>貧相なチーズを食べた</VCE_AteCheese.stages.1.label>
+  <VCE_AteCheese.stages.1.description>そのチーズはひどいものではなかったが,素晴らしいものでもなかった. 後味がちょっと不味かった.</VCE_AteCheese.stages.1.description>
+  <VCE_AteCheese.stages.2.label>普通のチーズを食べた</VCE_AteCheese.stages.2.label>
+  <VCE_AteCheese.stages.2.description>まあまあのチーズだった.</VCE_AteCheese.stages.2.description>
+  <VCE_AteCheese.stages.3.label>おいしいチーズを食べました</VCE_AteCheese.stages.3.label>
+  <VCE_AteCheese.stages.3.description>上質なチーズを食べました. 美味しい.</VCE_AteCheese.stages.3.description>
+  <VCE_AteCheese.stages.4.label>素晴らしいチーズを食べました</VCE_AteCheese.stages.4.label>
+  <VCE_AteCheese.stages.4.description>上質なチーズを食べました. 十分な時間をかけて熟成されたものは,すぐにわかります.</VCE_AteCheese.stages.4.description>
+  <VCE_AteCheese.stages.5.label>傑作チーズを食べた</VCE_AteCheese.stages.5.label>
+  <VCE_AteCheese.stages.5.description>そのチーズは,ただただ素晴らしいものでした！これ以上のものはありません.</VCE_AteCheese.stages.5.description>
+  <VCE_AteCheese.stages.6.label>伝説のチーズを食べた</VCE_AteCheese.stages.6.label>
+  <VCE_AteCheese.stages.6.description>今までに食べたことのないような最高のチーズを食べることができました.</VCE_AteCheese.stages.6.description>
+</LanguageData>

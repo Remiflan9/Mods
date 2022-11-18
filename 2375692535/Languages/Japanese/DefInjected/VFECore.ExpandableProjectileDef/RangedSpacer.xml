@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Gauss rifle -->
+  <VWE_Bullet_GaussRifle.label>サボット(ガウスライフル)</VWE_Bullet_GaussRifle.label>
+  <!-- Gauss magnum -->
+  <VWE_Bullet_GaussMagnum.label>サボット(ガウスマグナム)</VWE_Bullet_GaussMagnum.label>
+  <!-- Gauss lance -->
+  <VWE_Bullet_GaussLance.label>サボット(ガウスランス)</VWE_Bullet_GaussLance.label>
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_PlanterBox.label>プランター</VFE_PlanterBox.label>
+  <VFE_PlanterBox.description>土の入った箱で植物を育てます。電源は必要ありません。</VFE_PlanterBox.description>
+
+  <VFE_Ecosystem.label>人工生態系 栽培器</VFE_Ecosystem.label>
+  <VFE_Ecosystem.description>人工的に密閉された生態を作り植物をすばやく成長させます。作動させるには大電力が必要です。電気が切れると植物は枯れ死にます。\n\n植物に光を供給する太陽ランプが内臓されています。</VFE_Ecosystem.description>
+
+</LanguageData>

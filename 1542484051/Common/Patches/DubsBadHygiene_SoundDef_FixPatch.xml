@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		  <operations>
+			<li Class="PatchOperationRemove">
+				<xpath>*/SoundDef[defName = "vacuumtoilet"]</xpath>
+			</li>
+			<!-- <li Class="PatchOperationAdd">
+				<xpath>/Defs</xpath>
+				<value>
+					<SoundDef>
+						<defName>vacuumtoilet</defName>
+						<context>MapOnly</context>
+						<maxSimultaneous>1</maxSimultaneous>
+						<eventNames />
+						<subSounds>
+							<li>
+								<gameSpeedRange>1~2</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Clip">
+										<clipPath>DBH/vacuumtoilet</clipPath>
+									</li>
+								</grains>
+								<volumeRange>7~7</volumeRange>
+								<pitchRange>0.95~1.05</pitchRange>
+								<distRange>0~5</distRange>
+								<sustainLoop>False</sustainLoop>
+							</li>
+							<li>
+								<gameSpeedRange>3~99</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Clip">
+										<clipPath>DBH/vacuumtoilet</clipPath>
+									</li>
+								</grains>
+								<volumeRange>3~3</volumeRange>
+								<pitchRange>1.1~3</pitchRange>
+								<distRange>0~2</distRange>
+								<sustainLoop>False</sustainLoop>
+							</li>
+						</subSounds>
+					</SoundDef>
+			  </value>
+			</li> -->
+		  </operations>
+	</Operation>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		  <operations>
+			<li Class="PatchOperationRemove">
+				<xpath>*/SoundDef[defName = "DrainHole"]</xpath>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs</xpath>
+				<value>
+					<SoundDef>
+						<defName>DrainHole</defName>
+						<context>MapOnly</context>
+						<eventNames />
+						<subSounds>
+							<!-- <li>
+								<gameSpeedRange>1~2</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Clip">
+										<clipPath>DBH/drain</clipPath>
+									</li>
+								</grains>
+								<volumeRange>30~30</volumeRange>
+								<distRange>0~5</distRange>
+								<sustainLoop>False</sustainLoop>
+							</li>
+							<li>
+								<gameSpeedRange>3~99</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Clip">
+										<clipPath>DBH/drain</clipPath>
+									</li>
+								</grains>
+								<volumeRange>0</volumeRange>
+								<distRange>0</distRange>
+								<sustainLoop>False</sustainLoop>
+							</li>-->
+						</subSounds>
+					</SoundDef>
+			  </value>
+			</li>
+		  </operations>
+	</Operation>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		  <operations>
+			<li Class="PatchOperationRemove">
+				<xpath>*/SoundDef[defName = "StallDoor"]</xpath>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs</xpath>
+				<value>
+					<SoundDef>
+						<defName>StallDoor</defName>
+						<context>MapOnly</context>
+						<maxSimultaneous>1</maxSimultaneous>
+						<eventNames />
+						<subSounds>
+							<!-- <li>
+								<gameSpeedRange>1~2</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Folder">
+										<clipFolderPath>DBH/stalldoor/close1</clipFolderPath>
+									</li>
+								</grains>
+								<volumeRange>75~75</volumeRange>
+								<distRange>0~5</distRange>
+							</li>
+							<li>
+								<gameSpeedRange>3~99</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Folder">
+										<clipFolderPath>DBH/stalldoor/close1</clipFolderPath>
+									</li>
+								</grains>
+								<volumeRange>0</volumeRange>
+								<distRange>0</distRange>
+							</li> -->
+						</subSounds>
+					</SoundDef>
+			  </value>
+			</li>
+		  </operations>
+	</Operation>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		  <operations>
+			<li Class="PatchOperationRemove">
+				<xpath>*/SoundDef[defName = "ToiletFlush"]</xpath>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs</xpath>
+				<value>
+					<SoundDef>
+						<defName>ToiletFlush</defName>
+						<context>MapOnly</context>
+						<maxSimultaneous>1</maxSimultaneous>
+						<eventNames />
+						<subSounds>
+							<!-- <li>
+								<gameSpeedRange>1~2</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Folder">
+										<clipFolderPath>DBH/flushes</clipFolderPath>
+									</li>
+								</grains>
+								<volumeRange>50~50</volumeRange>
+								<distRange>0~10</distRange>
+								<sustainLoop>False</sustainLoop>
+							</li>
+							<li>
+								<gameSpeedRange>3~99</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Folder">
+										<clipFolderPath>DBH/flushes</clipFolderPath>
+									</li>
+								</grains>
+								<volumeRange>0</volumeRange>
+								<distRange>0</distRange>
+								<sustainLoop>False</sustainLoop>
+							</li> -->
+						</subSounds>
+					</SoundDef>
+			  </value>
+			</li>
+		  </operations>
+	</Operation>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		  <operations>
+			<li Class="PatchOperationRemove">
+				<xpath>*/SoundDef[defName = "SewageStart"]</xpath>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs</xpath>
+				<value>
+					<SoundDef>
+						<defName>SewageStart</defName>
+						<context>MapOnly</context>
+						<maxSimultaneous>1</maxSimultaneous>
+						<eventNames />
+						<subSounds>
+							<!-- <li>
+								<gameSpeedRange>1~2</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Clip">
+										<clipPath>DBH/sewage</clipPath>
+									</li>
+								</grains>
+								<volumeRange>0~10</volumeRange>
+								<distRange>0~10</distRange>
+								<sustainLoop>False</sustainLoop>
+							</li>
+							<li>
+								<gameSpeedRange>3~99</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Clip">
+										<clipPath>DBH/sewage</clipPath>
+									</li>
+								</grains>
+								<volumeRange>0</volumeRange>
+								<distRange>0</distRange>
+								<sustainLoop>False</sustainLoop>
+							</li> -->
+						</subSounds>
+					</SoundDef>
+			  </value>
+			</li>
+		  </operations>
+	</Operation>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		  <operations>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs</xpath>
+				<value>
+					<SoundDef>
+						<defName>SewageStop</defName>
+						<context>MapOnly</context>
+						<maxSimultaneous>1</maxSimultaneous>
+						<eventNames />
+						<subSounds>
+							<!-- <li>
+								<gameSpeedRange>1~2</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Clip">
+										<clipPath>DBH/SewageStop</clipPath>
+									</li>
+								</grains>
+								<volumeRange>0~10</volumeRange>
+								<distRange>0~10</distRange>
+								<sustainLoop>False</sustainLoop>
+							</li>
+							<li>
+								<gameSpeedRange>3~99</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Clip">
+										<clipPath>DBH/SewageStop</clipPath>
+									</li>
+								</grains>
+								<volumeRange>0</volumeRange>
+								<distRange>0</distRange>
+								<sustainLoop>False</sustainLoop>
+							</li> -->
+						</subSounds>
+					</SoundDef>
+			  </value>
+			</li>
+		  </operations>
+	</Operation>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		  <operations>
+			<li Class="PatchOperationRemove">
+				<xpath>*/SoundDef[defName = "washingmachine"]</xpath>
+			</li>
+			<!-- <li Class="PatchOperationAdd">
+				<xpath>/Defs</xpath>
+				<value>
+					<SoundDef DBHLite="true">
+						<defName>washingmachine</defName>
+						<context>MapOnly</context>
+						<maxSimultaneous>1</maxSimultaneous>
+						<eventNames />
+						<subSounds>
+							<li>
+								<gameSpeedRange>1~2</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Clip">
+										<clipPath>DBH/sewage</clipPath>
+									</li>
+								</grains>
+								<volumeRange>40~40</volumeRange>
+								<distRange>0~10</distRange>
+							</li>
+							<li>
+								<gameSpeedRange>3~99</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Clip">
+										<clipPath>DBH/sewage</clipPath>
+									</li>
+								</grains>
+								<volumeRange>0</volumeRange>
+								<distRange>0</distRange>
+							</li>
+						</subSounds>
+					</SoundDef>
+			  </value>
+			</li> -->
+		  </operations>
+	</Operation>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		  <operations>
+			<li Class="PatchOperationRemove">
+				<xpath>*/SoundDef[defName = "sprinklers"]</xpath>
+			</li>
+			<!-- <li Class="PatchOperationAdd">
+				<xpath>/Defs</xpath>
+				<value>
+					<SoundDef DBHLite="true">
+						<defName>sprinklers</defName>
+						<sustain>True</sustain>
+						<context>MapOnly</context>
+						<maxSimultaneous>1</maxSimultaneous>
+						<eventNames />
+						<priorityMode>PrioritizeNearest</priorityMode>
+						<subSounds>
+							<li>
+								<gameSpeedRange>1~2</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Clip">
+										<clipPath>DBH/sprinkler</clipPath>
+									</li>
+								</grains>
+								<volumeRange>85~85</volumeRange>
+								<pitchRange>0.95~1.05</pitchRange>
+								<distRange>0~15</distRange>
+							</li>
+							<li>
+								<gameSpeedRange>3~99</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Clip">
+										<clipPath>DBH/sprinkler</clipPath>
+									</li>
+								</grains>
+								<volumeRange>85~85</volumeRange>
+								<pitchRange>1.1~3</pitchRange>
+								<distRange>0~7</distRange>
+							</li>
+						</subSounds>
+					</SoundDef>
+			  </value>
+			</li> -->
+		  </operations>
+	</Operation>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		  <operations>
+			<li Class="PatchOperationRemove">
+				<xpath>*/SoundDef[defName = "shower_Ambience"]</xpath>
+			</li>
+			<!-- <li Class="PatchOperationAdd">
+				<xpath>/Defs</xpath>
+				<value>
+					<SoundDef>
+						<defName>shower_Ambience</defName>
+						<sustain>True</sustain>
+						<context>MapOnly</context>
+						<maxSimultaneous>1</maxSimultaneous>
+						<eventNames />
+						<priorityMode>PrioritizeNearest</priorityMode>
+						<subSounds>
+							<li>
+								<gameSpeedRange>1~2</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Clip">
+										<clipPath>DBH/shower</clipPath>
+									</li>
+								</grains>
+								<volumeRange>80~80</volumeRange>
+								<distRange>0~10</distRange>
+								<sustainLoop>False</sustainLoop>
+							</li>
+							<li>
+								<gameSpeedRange>3~99</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Clip">
+										<clipPath>DBH/shower</clipPath>
+									</li>
+								</grains>
+								<volumeRange>0</volumeRange>
+								<distRange>0</distRange>
+								<sustainLoop>False</sustainLoop>
+							</li>
+						</subSounds>
+					</SoundDef>
+			  </value>
+			</li> -->
+		  </operations>
+	</Operation>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		  <operations>
+			<li Class="PatchOperationRemove">
+				<xpath>*/SoundDef[defName = "sewage_Ambience"]</xpath>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs</xpath>
+				<value>
+					<SoundDef>
+						<defName>sewage_Ambience</defName>
+						<sustain>True</sustain>
+						<context>MapOnly</context>
+						<maxSimultaneous>1</maxSimultaneous>
+						<eventNames />
+						<priorityMode>PrioritizeNearest</priorityMode>
+						<sustainStartSound>SewageStart</sustainStartSound>
+						<sustainStopSound>SewageStop</sustainStopSound>
+						<subSounds>
+							<!--<li>
+								<gameSpeedRange>1~2</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Clip">
+										<clipPath>DBH/sewageLoop</clipPath>
+									</li>
+								</grains>
+								<volumeRange>25~25</volumeRange>
+								<distRange>0~10</distRange>
+								<sustainLoop>False</sustainLoop>
+							</li>
+							<li>
+								<gameSpeedRange>3~99</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Clip">
+										<clipPath>DBH/sewageLoop</clipPath>
+									</li>
+								</grains>
+								<volumeRange>0</volumeRange>
+								<distRange>0</distRange>
+								<sustainLoop>False</sustainLoop>
+							</li>-->
+						</subSounds>
+					</SoundDef>
+			  </value>
+			</li>
+		  </operations>
+	</Operation>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		  <operations>
+			<li Class="PatchOperationRemove">
+				<xpath>*/SoundDef[defName = "hottub_Ambience"]</xpath>
+			</li>
+			<!-- <li Class="PatchOperationAdd">
+				<xpath>/Defs</xpath>
+				<value>
+					<SoundDef>
+						<defName>hottub_Ambience</defName>
+						<sustain>True</sustain>
+						<context>MapOnly</context>
+						<maxSimultaneous>1</maxSimultaneous>
+						<eventNames />
+						<priorityMode>PrioritizeNearest</priorityMode>
+						<subSounds>
+							<li>
+								<gameSpeedRange>1~2</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Clip">
+										<clipPath>DBH/hottub</clipPath>
+									</li>
+								</grains>
+								<volumeRange>85~85</volumeRange>
+								<pitchRange>0.95~1.05</pitchRange>
+								<distRange>0~10</distRange>
+							</li>
+							<li>
+								<gameSpeedRange>3~99</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Clip">
+										<clipPath>DBH/hottub</clipPath>
+									</li>
+								</grains>
+								<volumeRange>85~85</volumeRange>
+								<pitchRange>1.1~3</pitchRange>
+								<distRange>0~5</distRange>
+							</li>
+						</subSounds>
+					</SoundDef>
+			  </value>
+			</li> -->
+		  </operations>
+	</Operation>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		  <operations>
+			<li Class="PatchOperationRemove">
+				<xpath>*/SoundDef[defName = "plunging"]</xpath>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs</xpath>
+				<value>
+					<SoundDef>
+						<defName>plunging</defName>
+						<context>MapOnly</context>
+						<maxSimultaneous>1</maxSimultaneous>
+						<eventNames />
+						<priorityMode>PrioritizeNearest</priorityMode>
+						<subSounds>
+							<!-- <li>
+								<gameSpeedRange>1~2</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Clip">
+										<clipPath>DBH/plunger</clipPath>
+									</li>
+								</grains>
+								<volumeRange>5~5</volumeRange>
+								<distRange>0~10</distRange>
+								<sustainLoop>False</sustainLoop>
+							</li>
+							<li>
+								<gameSpeedRange>3~99</gameSpeedRange>
+								<muteWhenPaused>True</muteWhenPaused>
+								<grains>
+									<li Class="AudioGrain_Clip">
+										<clipPath>DBH/plunger</clipPath>
+									</li>
+								</grains>
+								<volumeRange>0</volumeRange>
+								<distRange>0</distRange>
+								<sustainLoop>False</sustainLoop>
+							</li> -->
+						</subSounds>
+					</SoundDef>
+			  </value>
+			</li>
+		  </operations>
+	</Operation>
+
+</Patch>

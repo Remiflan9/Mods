@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_CannibalCoffee.label>コーヒー・ザ・カニバル</VBE_CannibalCoffee.label>
+  <VBE_CannibalCoffee.description>こだわりのある...洗練されたコーヒーを飲む人のために</VBE_CannibalCoffee.description>
+  <VBE_CannibalCoffee.ingestible.ingestCommandString>{0}を飲む</VBE_CannibalCoffee.ingestible.ingestCommandString>
+  <VBE_CannibalCoffee.ingestible.ingestReportString>{0}を飲んでいる</VBE_CannibalCoffee.ingestible.ingestReportString>
+</LanguageData>

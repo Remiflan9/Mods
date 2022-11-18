@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_DalgonaCoffee.label>ダルゴナコーヒー</VBE_DalgonaCoffee.label>
+  <VBE_DalgonaCoffee.description>遠く離れた蒸気の世界から生まれたと噂されているコーヒーの世界で流行の新しい飲み物.コーヒーの顆粒は砂糖と急速に混合され,厚くて贅沢な甘い泡を形成します.その後,泡は飲む前に深く冷やされた牛乳の上に分散されます.勉強や読書をしながら飲むのに最適な飲み物は間違いありません.</VBE_DalgonaCoffee.description>
+  <VBE_DalgonaCoffee.ingestible.ingestCommandString>{0}を飲む</VBE_DalgonaCoffee.ingestible.ingestCommandString>
+  <VBE_DalgonaCoffee.ingestible.ingestReportString>{0}を飲んでいる</VBE_DalgonaCoffee.ingestible.ingestReportString>
+</LanguageData>

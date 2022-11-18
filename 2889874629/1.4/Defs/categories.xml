@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingCategoryDef>
+    <defName>yy_gem_category</defName>
+    <label>Planet Energy</label>
+    <parent>Root</parent>
+    <resourceReadoutRoot>true</resourceReadoutRoot>
+    <iconPath>yy_planetCore</iconPath>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>yy_gem_piece_category</defName>
+    <label>Energy shard</label>
+    <parent>yy_gem_category</parent>
+    <resourceReadoutRoot>true</resourceReadoutRoot>
+    <iconPath>yy_bep10</iconPath>
+  </ThingCategoryDef>
+</Defs>

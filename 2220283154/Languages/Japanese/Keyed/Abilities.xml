@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA.AbilityDisableReasonCooldown>{0}は{1}のクールダウン中です</VFEA.AbilityDisableReasonCooldown>
+  <VFEA.AbilityDisableReasonGeneral>{0}は必要条件を満たしていません</VFEA.AbilityDisableReasonGeneral>
+
+  <VFEA.AbilityStatsPower>威力</VFEA.AbilityStatsPower>
+  <VFEA.AbilityStatsDuration>持続期間</VFEA.AbilityStatsDuration>
+
+  <VFEA.TargetMustBeHostile>目標は敵だけです</VFEA.TargetMustBeHostile>
+
+  <VFEA.MinRadius>最小半径</VFEA.MinRadius>
+
+  <VFEA.RClickToAuto>右クリックで自動キャストを有効化します.</VFEA.RClickToAuto>
+  <VFEA.RClickToNoAuto>右クリックで自動キャストを無効化します.</VFEA.RClickToNoAuto>
+
+</LanguageData>

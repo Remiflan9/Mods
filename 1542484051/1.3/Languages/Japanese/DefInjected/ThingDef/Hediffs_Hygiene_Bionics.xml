@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BionicBladder.label>強化膀胱</BionicBladder.label>
+  <BionicBladder.description>先進的な人工膀胱です。衛生生体工学による生化学循環器系は、体内から排出される廃棄物を分子レベルに分解して再利用した後、残った分子をガスとして放出するもので、装着者が屁をしやすくなるという欠点があります。</BionicBladder.description>
+
+  <HygieneEnhancer.label>衛生エンハンサー</HygieneEnhancer.label>
+  <HygieneEnhancer.description>死んだ皮膚細胞や毛髪細胞やその他の残骸を分解するメカナイトを放出して、空気中に無害化して放出します。</HygieneEnhancer.description>
+
+</LanguageData>

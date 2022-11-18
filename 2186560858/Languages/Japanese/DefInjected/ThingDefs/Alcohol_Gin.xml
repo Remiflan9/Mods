@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_Gin.label>ジン</VBE_Gin.label>
+        <VBE_Gin.description>マイルドで無色のスピリッツで,その芳香には松の木のような香りと,ほのかに感じるフルーティーな香りがあります.この酒は,気軽に飲めて楽しくなれるとの評判があり,"ジン酔い"と呼ばれる共感と理解力が高まる酔い方でも知られています.</VBE_Gin.description>
+        <VBE_Gin.ingestible.ingestCommandString>{0}を 飲む</VBE_Gin.ingestible.ingestCommandString>
+        <VBE_Gin.ingestible.ingestReportString>{0}を 飲んでいる.</VBE_Gin.ingestible.ingestReportString>
+        <VBE_Gin.tools.0.label>ボトル</VBE_Gin.tools.0.label>
+        <VBE_Gin.tools.1.label>ネック</VBE_Gin.tools.1.label>
+    </LanguageData>

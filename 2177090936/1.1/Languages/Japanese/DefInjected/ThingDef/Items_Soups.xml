@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_UncookedSoupSimple.label>簡単なスープ(未調理)</VCE_UncookedSoupSimple.label>
+  <VCE_UncookedSoupSimple.description>調理されていない簡単なスープ. これは保温調理鍋で調理しないと食べられない.</VCE_UncookedSoupSimple.description>
+  <VCE_CookedSoupSimple.label>簡単なスープ</VCE_CookedSoupSimple.label>
+  <VCE_CookedSoupSimple.description>少ない食材で作れる調理されていない簡単なスープ. 保温調理鍋で調理しないと食べられない.</VCE_CookedSoupSimple.description>
+  <VCE_UncookedSoupFine.label>手の込んだスープ(未調理)</VCE_UncookedSoupFine.label>
+  <VCE_UncookedSoupFine.description>調理されていない手の込んだスープ. 保温調理鍋で調理しないと食べられない.</VCE_UncookedSoupFine.description>
+  <VCE_CookedSoupFine.label>手の込んだスープ</VCE_CookedSoupFine.label>
+  <VCE_CookedSoupFine.description>豊富な食材から手間をかけて組み立てられた手の込んだスープ.</VCE_CookedSoupFine.description>
+  <VCE_UncookedSoupLavish.label>豪華なスープ(未調理)</VCE_UncookedSoupLavish.label>
+  <VCE_UncookedSoupLavish.description>調理されていない豪華なスープ. 保温調理鍋で調理しないと食べられない.</VCE_UncookedSoupLavish.description>
+  <VCE_CookedSoupLavish.label>豪華なスープ</VCE_CookedSoupLavish.label>
+  <VCE_CookedSoupLavish.description>料理の最高傑作. このスープは体,心,魂に栄養を与えます.</VCE_CookedSoupLavish.description>
+  <VCE_UncookedSoupGourmet.label>至高のスープ(未調理)</VCE_UncookedSoupGourmet.label>
+  <VCE_UncookedSoupGourmet.description>調理されていない至高のスープ. 保温調理鍋で調理しないと食べられない.</VCE_UncookedSoupGourmet.description>
+  <VCE_CookedSoupGourmet.label>至高のスープ</VCE_CookedSoupGourmet.label>
+  <VCE_CookedSoupGourmet.description>少量のスープではありますが,厳選された食材から手間をかけて洗練され,見た目も豪華な芸術料理です.</VCE_CookedSoupGourmet.description>
+</LanguageData>

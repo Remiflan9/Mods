@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VEF_XenophobicRage.label>異種族嫌いの激情</VEF_XenophobicRage.label>
+  <VEF_XenophobicRage.beginLetter>{0}は異種族嫌いの激情に襲われた.\n\n[PAWN_pronoun]は{1}を殺害することに決めた.</VEF_XenophobicRage.beginLetter>
+  <VEF_XenophobicRage.recoveryMessage>{0}の異種族嫌いの激情は無くなった</VEF_XenophobicRage.recoveryMessage>
+  <VEF_XenophobicRage.baseInspectLine>精神状態：異種族嫌いの激情</VEF_XenophobicRage.baseInspectLine>
+
+</LanguageData>

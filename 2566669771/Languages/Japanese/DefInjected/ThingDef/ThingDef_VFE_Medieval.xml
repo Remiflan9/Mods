@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VFEM_DarkCandle.label>ロウソク(ダークライト)</VFEM_DarkCandle.label>
+<VFEM_DarkCandle.description>肉や脂で作られた原始的なダークライトのロウソクです.長時間燃焼させることができますが,周囲をうまく照らすことができません.</VFEM_DarkCandle.description>
+
+<VFEM_WallTorchDarkLamp.label>壁掛けダークトーチランプ</VFEM_WallTorchDarkLamp.label>
+<VFEM_WallTorchDarkLamp.description>壁掛け式の木製トーチです.周囲を照らします.人々が全速力で移動や仕事をするにはダークライトが必要です.木材を燃料として自動的に補給されます.少量の熱を発します.</VFEM_WallTorchDarkLamp.description>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_ChemfuelFromFecalSludge.label>下水汚泥から化学燃料を作る</Make_ChemfuelFromFecalSludge.label>
+  <Make_ChemfuelFromFecalSludge.description>下水汚泥からバイオ化学燃料を作ります。</Make_ChemfuelFromFecalSludge.description>
+  <Make_ChemfuelFromFecalSludge.jobString>下水汚泥からバイオ化学燃料を精製中</Make_ChemfuelFromFecalSludge.jobString>
+
+  <!-- <Make_CleanClothes.label>衣服を洗濯する</Make_CleanClothes.label>
+  <Make_CleanClothes.description>衣服を洗濯します。</Make_CleanClothes.description>
+  <Make_CleanClothes.jobString>衣服を洗濯中</Make_CleanClothes.jobString> -->
+
+</LanguageData>

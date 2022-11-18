@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>yy_planetCore</defName>
+    <label>planet energy core</label>
+    <description>A key material for building planet energy teleporters.
+    \nTo make this, you need biome energy shard.
+    \nResearch machining and build a biome energy extractor on a specific biome to collect the energy shards you need.</description>
+    <graphicData>
+      <texPath>yy_planetCore</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <stackLimit>250</stackLimit>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <statBases>
+      <MarketValue>4000</MarketValue>
+      <MaxHitPoints>600</MaxHitPoints>
+      <Mass>3</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+    </statBases>
+    <tradeability>None</tradeability>
+    <thingCategories>
+      <li>yy_gem_category</li>
+    </thingCategories>
+    <tradeTags>
+      <li>yy_gem</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>yy_biomeExtractor</defName>
+    <label>biome energy extractor</label>
+    <description>Extracts energy shards from the biome.\nDepending on the working biome, the types of biome energy shards generated differ.</description>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>yy_biomeExtractor</texPath>
+      <drawSize>(4.5,4.5)</drawSize>
+      <drawOffset>(0,0,0)</drawOffset>
+      <drawRotated>false</drawRotated>
+      <shadowData>
+        <volume>(0.52, 0.53, 0.09)</volume>
+        <offset>(0,0,-0.43)</offset>
+      </shadowData>
+    </graphicData>
+    <size>(2,4)</size>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <fillPercent>0.5</fillPercent>
+    <hasInteractionCell>true</hasInteractionCell>
+    <interactionCellOffset>(1,0,-2)</interactionCellOffset>
+    <designationCategory>Production</designationCategory>
+    <designationHotKey>Misc12</designationHotKey>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+    <uiIconOffset>(0, 0.03)</uiIconOffset>
+    <uiIconScale>0.85</uiIconScale>
+    <building>
+      <destroySound>BuildingDestroyed_Metal_Small</destroySound>
+    </building>
+    <costList>
+      <Steel>200</Steel>
+      <Plasteel>30</Plasteel>
+      <ComponentIndustrial>5</ComponentIndustrial>
+    </costList>
+    <placeWorkers>
+      <li>PlaceWorker_DeepDrill</li>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+      <li>PlaceWorker_NotUnderRoof</li>
+    </placeWorkers>
+    <drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+    <researchPrerequisites>
+      <li>Machining</li>
+    </researchPrerequisites>
+    <statBases>
+      <MaxHitPoints>500</MaxHitPoints>
+      <WorkToBuild>10000</WorkToBuild>
+      <Flammability>0.5</Flammability>
+      <Beauty>-25</Beauty>
+      <Mass>35</Mass>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>700</basePowerConsumption>
+      </li>
+      <!--<li Class="CompProperties_DeepDrill" />-->
+      <li Class="yayoEnding.CompProperties_GemMaker" />
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>yy_teleporter</defName>
+    <label>planet energy teleporter</label>
+    <description>Lights from planetary energy fragments explain this device.\nWe figured out how to make this device and that it is a device for moving to another planet, but we haven't figured out where this is pointing us.\nThose who made this seem to want us to come to them.</description>
+    <thingClass>yayoEnding.Building_Teleporter</thingClass>
+    <graphicData>
+      <texPath>yy_teleporter</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(8.5,8.5)</drawSize>
+      <drawOffset>(0,0,0.2)</drawOffset>
+      <shadowData>
+        <volume>(3.8,3.5,3.6)</volume>
+        <offset>(0,0,0)</offset>
+      </shadowData>
+      <damageData>
+        <rect>(0.9, 0.9, 4.1, 4.1)</rect>
+      </damageData>
+    </graphicData>
+    <size>(6,6)</size>
+    <researchPrerequisites>
+      <li>Machining</li>
+    </researchPrerequisites>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <blockWind>true</blockWind>
+    <fillPercent>1</fillPercent>
+    <blockLight>true</blockLight>
+    <canOverlapZones>false</canOverlapZones>
+    <statBases>
+      <WorkToBuild>90000</WorkToBuild>
+      <MaxHitPoints>1500</MaxHitPoints>
+      <Flammability>0</Flammability>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <designationCategory>Ship</designationCategory>
+    <building>
+      <destroySound>BuildingDestroyed_Metal_Big</destroySound>
+    </building>
+    <costList>
+      <yy_planetCore>1</yy_planetCore>
+      <Steel>250</Steel>
+      <Plasteel>30</Plasteel>
+      <Uranium>30</Uranium>
+    </costList>
+    <comps>
+      <li Class="CompProperties_Hibernatable">
+        <incidentTargetWhileStarting>Map_RaidBeacon</incidentTargetWhileStarting>
+        <sustainerActive>ShipReactor_Ambience</sustainerActive>
+      </li>
+      <li Class="CompProperties_MoteEmitter">
+        <mote>yy_distortA</mote>
+        <emissionInterval>150</emissionInterval>
+      </li>
+      <li Class="CompProperties_MoteEmitter">
+        <mote>yy_flashA</mote>
+        <emissionInterval>150</emissionInterval>
+        <soundOnEmission>ActivatorCountdown_Ambience</soundOnEmission>
+        <saveKeysPrefix>flash</saveKeysPrefix>
+      </li>
+      <li Class="CompProperties_MoteEmitter">
+        <mote>yy_flashB</mote>
+        <emissionInterval>150</emissionInterval>
+        <saveKeysPrefix>flash</saveKeysPrefix>
+      </li>
+      <li Class="CompProperties_MoteEmitter">
+        <mote>Mote_ActivatorCountdownGlow</mote>
+        <maintain>True</maintain>
+        <saveKeysPrefix>glow</saveKeysPrefix>
+      </li>
+      <li Class="CompProperties_MoteEmitter">
+        <mote>yy_flashC</mote>
+        <maintain>True</maintain>
+        <saveKeysPrefix>glow</saveKeysPrefix>
+      </li>
+      <li Class="CompProperties_MoteEmitter">
+        <mote>yy_flashD</mote>
+        <emissionInterval>10</emissionInterval>
+        <saveKeysPrefix>flash</saveKeysPrefix>
+      </li>
+    </comps>
+    <placeWorkers>
+      <li>PlaceWorker_NotUnderRoof</li>
+    </placeWorkers>
+    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+    <designationHotKey>Misc3</designationHotKey>
+    <constructionSkillPrerequisite>8</constructionSkillPrerequisite>
+  </ThingDef>
+  <!-- 기본 둥근 빛 -->
+  <ThingDef ParentName="MoteBase">
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <defName>yy_flashA</defName>
+    <mote>
+      <solidTime>0.5</solidTime>
+      <fadeOutTime>1</fadeOutTime>
+      <growthRate>37</growthRate>
+    </mote>
+    <graphicData>
+      <drawSize>0.2</drawSize>
+      <color>(255, 0, 174, 180)</color>
+      <texPath>Things/Mote/BrightFlash</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+  </ThingDef>
+  <!-- 빛 기둥 퍼짐 -->
+  <ThingDef ParentName="MoteBase">
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <defName>yy_flashB</defName>
+    <mote>
+      <solidTime>0.5</solidTime>
+      <fadeOutTime>1</fadeOutTime>
+      <growthRate>1</growthRate>
+    </mote>
+    <graphicData>
+      <drawSize>30</drawSize>
+      <color>(0, 224, 255, 50)</color>
+      <texPath>yy_ef0</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+  </ThingDef>
+  <!-- 빛 기둥 기본 -->
+  <ThingDef ParentName="MoteBase">
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <defName>yy_flashC</defName>
+    <mote>
+      <fadeInTime>0.1</fadeInTime>
+      <solidTime>999999999</solidTime>
+      <fadeOutTime>0.5</fadeOutTime>
+      <needsMaintenance>True</needsMaintenance>
+    </mote>
+    <graphicData>
+      <drawSize>30</drawSize>
+      <drawOffset>(0,0,1)</drawOffset>
+      <color>(0, 224, 255, 140)</color>
+      <texPath>yy_ef0</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+  </ThingDef>
+  <!-- 빛 기둥 변화 컬러 -->
+  <ThingDef ParentName="MoteBase">
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <defName>yy_flashD</defName>
+    <mote>
+      <fadeInTime>0.1</fadeInTime>
+      <solidTime>0.1</solidTime>
+      <fadeOutTime>0.1</fadeOutTime>
+      <growthRate>15</growthRate>
+    </mote>
+    <graphicData>
+      <drawSize>30</drawSize>
+      <drawOffset>(0,0,1)</drawOffset>
+      <color>(255, 0, 174, 180)</color>
+      <texPath>yy_ef0</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+  </ThingDef>
+  <ThingDef Name="yy_distort0" ParentName="MoteBase">
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <defName>yy_distortA</defName>
+    <mote>
+      <fadeInTime>0.1</fadeInTime>
+      <solidTime>0.62</solidTime>
+      <fadeOutTime>0.5</fadeOutTime>
+    </mote>
+    <graphicData>
+      <graphicClass>Graphic_MotePulse</graphicClass>
+      <texPath>Things/Mote/PsychicConditionCauserMask</texPath>
+      <shaderType>MotePsychicConditionCauser</shaderType>
+      <shaderParameters>
+        <_distortionIntensity>0.01</_distortionIntensity>
+        <_brightnessMultiplier>1.1</_brightnessMultiplier>
+        <_distortionScale>30</_distortionScale>
+      </shaderParameters>
+      <drawSize>20</drawSize>
+    </graphicData>
+  </ThingDef>
+</Defs>

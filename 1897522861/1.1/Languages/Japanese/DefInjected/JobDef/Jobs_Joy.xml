@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Play_Roulette.reportString>ルーレットで遊んでいます。</Play_Roulette.reportString>
+  <Play_Arcade.reportString>アーケードゲームで遊んでいます。</Play_Arcade.reportString>
+  <Play_Piano.reportString>ピアノを弾いています。</Play_Piano.reportString>
+  <Play_DartsBoard.reportString>ダーツで遊んでいます。</Play_DartsBoard.reportString>
+  <Play_PunchingBag.reportString>パンチングバッグを使用しています。</Play_PunchingBag.reportString>
+  <Play_ComputerIndustrial.reportString>コンピューターを使用しています。</Play_ComputerIndustrial.reportString>
+  <Play_ComputerModern.reportString>コンピューターを使用しています。</Play_ComputerModern.reportString>
+
+</LanguageData>

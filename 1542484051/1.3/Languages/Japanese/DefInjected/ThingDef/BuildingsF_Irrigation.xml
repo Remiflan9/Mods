@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Irrigation -->
+
+  <IrrigationSprinkler.label>灌漑用散水器</IrrigationSprinkler.label>
+  <IrrigationSprinkler.description>土壌の肥沃度をよくするために、毎朝1回周囲に散水します。散水するのに給水塔から大量の水が供給される必要があります。\n毎朝最大散水範囲に水を1000リットル消費します。</IrrigationSprinkler.description>
+  <Blueprint_IrrigationSprinkler.label>灌漑用散水器(設計)</Blueprint_IrrigationSprinkler.label>
+  <Blueprint_Install_IrrigationSprinkler.label>灌漑用散水器(移動先)</Blueprint_Install_IrrigationSprinkler.label>
+  <Frame_IrrigationSprinkler.label>灌漑用散水器(施工)</Frame_IrrigationSprinkler.label>
+  <Frame_IrrigationSprinkler.description>土壌の肥沃度をよくするために、毎朝1回周囲に散水します。散水するのに給水塔から大量の水が供給される必要があります。\n毎朝最大散水範囲に水を1000リットル消費します。</Frame_IrrigationSprinkler.description>
+
+  <FireSprinkler.label>消火用散水器</FireSprinkler.label>
+  <FireSprinkler.description>火災や高温によって引き金が反応して、散水によって炎を消化します。</FireSprinkler.description>
+  <FireSprinkler.comps.CompUsable.useLabel>消火用散水器 引き金</FireSprinkler.comps.CompUsable.useLabel>
+  <Blueprint_FireSprinkler.label>消火用散水器(設計)</Blueprint_FireSprinkler.label>
+  <Blueprint_Install_FireSprinkler.label>消火用散水器(移動先)</Blueprint_Install_FireSprinkler.label>
+  <Frame_FireSprinkler.label>消火用散水器(施工)</Frame_FireSprinkler.label>
+  <Frame_FireSprinkler.description>火災や高温によって引き金が反応して、散水によって炎を消化します。</Frame_FireSprinkler.description>
+
+  <BiosolidsComposter.label>堆肥容器 (バイオ肥料)</BiosolidsComposter.label>
+  <BiosolidsComposter.description>畑などの掘削可能な地形の肥沃度を高めるために、下水汚泥をバイオ肥料に変えるための堆肥容器です。</BiosolidsComposter.description>
+  <Blueprint_BiosolidsComposter.label>堆肥容器 (バイオ肥料)(設計)</Blueprint_BiosolidsComposter.label>
+  <Blueprint_Install_BiosolidsComposter.label>堆肥容器 (バイオ肥料)(移動先)</Blueprint_Install_BiosolidsComposter.label>
+  <Frame_BiosolidsComposter.label>堆肥容器 (バイオ肥料)(施工)</Frame_BiosolidsComposter.label>
+  <Frame_BiosolidsComposter.description>畑などの掘削可能な地形の肥沃度を高めるために、下水汚泥をバイオ肥料に変えるための堆肥容器です。</Frame_BiosolidsComposter.description>
+
+  <!--<BiosolidFertilizer.label>堆肥散布 (バイオ肥料)</BiosolidFertilizer.label>-->
+  <!--<BiosolidFertilizer.description>荒れた地形の肥沃度を高めるために使用されるバイオ肥料は、1年弱しか効果が続きません。</BiosolidFertilizer.description>-->
+  <!--<Blueprint_BiosolidFertilizer.label>堆肥散布 (バイオ肥料)(設計)</Blueprint_BiosolidFertilizer.label>-->
+  <!--<Frame_BiosolidFertilizer.label>堆肥散布 (バイオ肥料)(施工)</Frame_BiosolidFertilizer.label>-->
+  <!--<Frame_BiosolidFertilizer.description>荒れた地形の肥沃度を高めるために使用されるバイオ肥料は、1年弱しか効果が続きません。</Frame_BiosolidFertilizer.description>-->
+
+</LanguageData>

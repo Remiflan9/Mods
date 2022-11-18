@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Research Projects -->
+
+  <VFE_Res_Obelisk.label>オベリスク</VFE_Res_Obelisk.label>
+  <VFE_Res_Obelisk.description>重要な出来事の記念に、高さのある細長いオベリスクを彫る方法を研究します。</VFE_Res_Obelisk.description>
+
+  <VFE_Res_Pottery.label>陶器</VFE_Res_Pottery.label>
+  <VFE_Res_Pottery.description>地味な素材から美しい花瓶やその他の陶器を作る方法を研究します。</VFE_Res_Pottery.description>
+
+  <VFE_Res_WallCarvings.label>彫刻品</VFE_Res_WallCarvings.label>
+  <VFE_Res_WallCarvings.description>壁を彫刻する技術を会得して美しい柱やレリーフを作れます。</VFE_Res_WallCarvings.description>
+
+  <VFE_Res_ArtfulDisplay.label>飾り台</VFE_Res_ArtfulDisplay.label>
+  <VFE_Res_ArtfulDisplay.description>美しい台座を作って、工芸品や重要なコロニーアイテムを展示する方法を研究します。</VFE_Res_ArtfulDisplay.description>
+
+  <VFE_Res_Statues.label>彫像</VFE_Res_Statues.label>
+  <VFE_Res_Statues.description>芸術的なイラストが刻まれたリアルな彫像を作れます。</VFE_Res_Statues.description>
+
+  <VFE_Res_Monuments.label>モニュメント</VFE_Res_Monuments.label>
+  <VFE_Res_Monuments.description>コロニーの中心となる巨大なモニュメントを作って、亡くなった人々を記念して、今も頑張っている人々に感銘を与えましょう。</VFE_Res_Monuments.description>
+
+  <VFE_Res_Rugs.label>ラグマット</VFE_Res_Rugs.label>
+  <VFE_Res_Rugs.description>あなたのコロニーを飾るために美しいラグマットを作ってあなたのコロニーを飾る方法を研究します。</VFE_Res_Rugs.description>
+
+  <VFE_Res_Wallpapers.label>壁紙</VFE_Res_Wallpapers.label>
+  <VFE_Res_Wallpapers.description>望む色の壁紙で覆われた美しい壁を建築できます。</VFE_Res_Wallpapers.description>
+
+  <VFE_Res_Holograms.label>ホログラム</VFE_Res_Holograms.label>
+  <VFE_Res_Holograms.description>高度な立体画像表示技術を採用して、コロニー周辺の3次元マップを紹介します。</VFE_Res_Holograms.description>
+
+</LanguageData>

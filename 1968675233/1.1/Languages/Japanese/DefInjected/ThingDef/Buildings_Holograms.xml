@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UnfinishedHologram.label>ホログラム台(未完成)</UnfinishedHologram.label>
+
+  <HologramBase.label>ホログラム台</HologramBase.label>
+  <HologramBase.description>いろいろなプログラミング言語を使って作成された芸術作品を投射する、人間サイズの光学画像投影装置です。立体画像作品を表示するには接続する必要があります。</HologramBase.description>
+  <Blueprint_Install_HologramBase.label>ホログラム台 (移動先)</Blueprint_Install_HologramBase.label>
+
+
+  <!-- Holograms -->
+
+  <VFE_HologramOn.label>ホログラム</VFE_HologramOn.label>
+  <VFE_HologramOn.description>いろいろなプログラミング言語を使って作成された芸術作品を投射する、人間サイズの光学画像投影装置です。立体画像作品を表示するには接続する必要があります。</VFE_HologramOn.description>
+
+</LanguageData>

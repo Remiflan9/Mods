@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Misc -->
+
+  <VFEArt_SelectHologramText>台を選択</VFEArt_SelectHologramText>
+  <VFEArt_SelectHologramDesc>ホログラム台をクリック選択して停止したり解体したり移動したりします。</VFEArt_SelectHologramDesc>
+
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bed_Ergonomic.label>人間工学 ベッド</Bed_Ergonomic.label>
+  <Bed_Ergonomic.description>人間工学的に設計されたベッドで、背骨を支え、体重を分散させ、全体的に睡眠の質を高めます。</Bed_Ergonomic.description>
+  <Blueprint_Bed_Ergonomic.label>人間工学 ベッド(設計)</Blueprint_Bed_Ergonomic.label>
+  <Blueprint_Install_Bed_Ergonomic.label>人間工学 ベッド(移動先)</Blueprint_Install_Bed_Ergonomic.label>
+  <Frame_Bed_Ergonomic.label>人間工学 ベッド(施工)</Frame_Bed_Ergonomic.label>
+  <Frame_Bed_Ergonomic.description>人間工学的に設計されたベッドで、背骨を支え、体重を分散させ、全体的に睡眠の質を高めます。</Frame_Bed_Ergonomic.description>
+
+  <Bed_DoubleErgonomic.label>人間工学 ダブルベッド</Bed_DoubleErgonomic.label>
+  <Bed_DoubleErgonomic.description>人間工学的に設計されたベッドで、背骨を支え、体重を分散させ、全体的に睡眠の質を高めます。2人用です。</Bed_DoubleErgonomic.description>
+  <Blueprint_Bed_DoubleErgonomic.label>人間工学 ダブルベッド(設計)</Blueprint_Bed_DoubleErgonomic.label>
+  <Blueprint_Install_Bed_DoubleErgonomic.label>人間工学 ダブルベッド(移動先)</Blueprint_Install_Bed_DoubleErgonomic.label>
+  <Frame_Bed_DoubleErgonomic.label>人間工学 ダブルベッド(施工)</Frame_Bed_DoubleErgonomic.label>
+  <Frame_Bed_DoubleErgonomic.description>人間工学的に設計されたベッドで、背骨を支え、体重を分散させ、全体的に睡眠の質を高めます。2人用です。</Frame_Bed_DoubleErgonomic.description>
+
+  <Table_Wardrobe.label>ワードロープ</Table_Wardrobe.label>
+  <Table_Wardrobe.description>衣類やその他の品物を収納するための背の高いワードローブ。 近くのベッドすべてに小さな睡眠ボーナスを与えます。 同じベッドの近くに複数のワードローブを置いても効果はありません。</Table_Wardrobe.description>
+  <Blueprint_Table_Wardrobe.label>ワードロープ(設計)</Blueprint_Table_Wardrobe.label>
+  <Blueprint_Install_Table_Wardrobe.label>ワードロープ(移動先)</Blueprint_Install_Table_Wardrobe.label>
+  <Frame_Table_Wardrobe.label>ワードロープ(施工)</Frame_Table_Wardrobe.label>
+  <Frame_Table_Wardrobe.description>衣類やその他の品物を収納するための背の高いワードローブ。 近くのベッドすべてに小さな睡眠ボーナスを与えます。 同じベッドの近くに複数のワードローブを置いても効果はありません。</Frame_Table_Wardrobe.description>
+
+  <Seat_ModernChair.label>人間工学 チェア</Seat_ModernChair.label>
+  <Seat_ModernChair.description>人体の曲線にフィットするように設計された柔軟な人間工学チェア。快適さを向上させます。</Seat_ModernChair.description>
+  <Blueprint_Seat_ModernChair.label>人間工学 チェア(設計)</Blueprint_Seat_ModernChair.label>
+  <Blueprint_Install_Seat_ModernChair.label>人間工学 チェア(移動先)</Blueprint_Install_Seat_ModernChair.label>
+  <Frame_Seat_ModernChair.label>人間工学 チェア(施工)</Frame_Seat_ModernChair.label>
+  <Frame_Seat_ModernChair.description>人体の曲線にフィットするように設計された柔軟な人間工学チェア。快適さを向上させます。</Frame_Seat_ModernChair.description>
+
+</LanguageData>

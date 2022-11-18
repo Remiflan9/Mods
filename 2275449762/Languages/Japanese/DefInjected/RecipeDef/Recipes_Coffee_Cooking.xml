@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_BrewMintCoffee.label>ミントコーヒーを淹れる</VBE_BrewMintCoffee.label>
+  <VBE_BrewMintCoffee.description>苦いエスプレッソをクリームや牛乳と混ぜて醸造し,さらにミントオイルと混ぜて飾ります.涼しくてビロードのようなコーヒーは,素晴らしい香りの息は言うまでもなく,さらに涼しく,なだめるような後味に取って代わられます.</VBE_BrewMintCoffee.description>
+  <VBE_BrewMintCoffee.jobString>ミントコーヒーを淹れている</VBE_BrewMintCoffee.jobString>
+  <VBE_BrewDalgonaCoffee.label>ダルゴナコーヒーを淹れる</VBE_BrewDalgonaCoffee.label>
+  <VBE_BrewDalgonaCoffee.description>遠く離れた蒸気の世界から生まれたと噂されているコーヒーの世界で,トレンディで新しい飲み物を醸造しました.コーヒーの顆粒は砂糖と急速に混合され,厚くて贅沢な甘い泡を形成します.その後,泡は飲む前に深く冷やされた牛乳の上に分散されます.</VBE_BrewDalgonaCoffee.description>
+  <VBE_BrewDalgonaCoffee.jobString>ダルゴナコーヒーを淹れている</VBE_BrewDalgonaCoffee.jobString>
+</LanguageData>

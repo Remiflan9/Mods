@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_HelixienGeyser.label>ガス田</VPE_HelixienGeyser.label>
+  <VPE_HelixienGeyser.description>天然の高圧ガス源. ヘリクセンポンプを上部に設置してガスを取り出すことができます.</VPE_HelixienGeyser.description>
+
+  <VPE_ChemfuelPond.label>油田</VPE_ChemfuelPond.label>
+  <VPE_ChemfuelPond.description>乾燥したバイオームでは一般的な天然の燃料源. ここに化学燃料ポンプを設置して化学燃料を採取することができる. 油田はいずれ枯渇する.</VPE_ChemfuelPond.description>
+
+
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Facility_VitalsCentre.label>バイタル センター</Facility_VitalsCentre.label>
+  <Facility_VitalsCentre.description>複数の患者のバイタルを一度に監視する事が可能で、病院用ベッドか手術台の近くに設置すると、治療品質が10%向上して外科手術成功率と免疫獲得速度もそれぞれ向上します。病院用ベッドまたは手術台だけに機能します。医療用ベッドに指定しただけの普通のベッドには効果は重複しません。</Facility_VitalsCentre.description>
+  <Blueprint_Facility_VitalsCentre.label>バイタル センター(設計)</Blueprint_Facility_VitalsCentre.label>
+  <Blueprint_Install_Facility_VitalsCentre.label>バイタル センター(移動先)</Blueprint_Install_Facility_VitalsCentre.label>
+  <Frame_Facility_VitalsCentre.label>バイタル センター(施工)</Frame_Facility_VitalsCentre.label>
+  <Frame_Facility_VitalsCentre.description>複数の患者のバイタルを一度に監視する事が可能で、病院用ベッドか手術台の近くに設置すると、治療品質が10%向上して外科手術成功率と免疫獲得速度もそれぞれ向上します。病院用ベッドまたは手術台だけに機能します。医療用ベッドに指定しただけの普通のベッドには効果は重複しません。</Frame_Facility_VitalsCentre.description>
+
+  <Facility_IVDrip.label>点滴スタンド</Facility_IVDrip.label>
+  <Facility_IVDrip.description>失った血液を患者に対して迅速に輸血するための点滴スタンドです。病院用ベッドか手術台に直接隣接して設置すると、免疫獲得速度が+20%され出血の回復を向上させます。病院用ベッドまたは手術台だけに機能します。医療用ベッドに指定しただけの普通のベッドには効果がありません。同じベッドや手術台に複数の点滴スタンドを取り付けても効果は重複しません。</Facility_IVDrip.description>
+  <Blueprint_Facility_IVDrip.label>点滴スタンド(設計)</Blueprint_Facility_IVDrip.label>
+  <Blueprint_Install_Facility_IVDrip.label>点滴スタンド(移動先)</Blueprint_Install_Facility_IVDrip.label>
+  <Frame_Facility_IVDrip.label>点滴スタンド(施工)</Frame_Facility_IVDrip.label>
+  <Frame_Facility_IVDrip.description>失った血液を患者に対して迅速に輸血するための点滴スタンドです。病院用ベッドか手術台に直接隣接して設置すると、免疫獲得速度が+20%され出血の回復を向上させます。病院用ベッドまたは手術台だけに機能します。医療用ベッドに指定しただけの普通のベッドには効果がありません。同じベッドや手術台に複数の点滴スタンドを取り付けても効果は重複しません。</Frame_Facility_IVDrip.description>
+
+  <Facility_ResearchCounter.label>実験用 カウンター</Facility_ResearchCounter.label>
+  <Facility_ResearchCounter.description>重要で繊細な研究実験を行うための腰の高さまである表面が滅菌処理されたカンウターテーブルです。近くある研究設備をわずかに強化(1つに付き研究速度+1%)するだけでなく、室内を清潔に保つのにも役立ちます(1つに付き清潔さ+0.3)。効果は20個分まで重複します。</Facility_ResearchCounter.description>
+  <Blueprint_Facility_ResearchCounter.label>実験用 カウンター(設計)</Blueprint_Facility_ResearchCounter.label>
+  <Frame_Facility_ResearchCounter.label>実験用 カウンター(施工)</Frame_Facility_ResearchCounter.label>
+  <Frame_Facility_ResearchCounter.description>重要で繊細な研究実験を行うための腰の高さまである表面が滅菌処理されたカンウターテーブルです。近くある研究設備をわずかに強化(1つに付き研究速度+1%)するだけでなく、室内を清潔に保つのにも役立ちます(1つに付き清潔さ+0.3)。効果は20個分まで重複します。</Frame_Facility_ResearchCounter.description>
+
+</LanguageData>

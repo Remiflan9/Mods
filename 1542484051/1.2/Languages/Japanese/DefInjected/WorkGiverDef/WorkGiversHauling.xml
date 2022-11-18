@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <LoadFridge.label>冷蔵庫に入れる</LoadFridge.label>
+  <LoadFridge.verb>に入れる</LoadFridge.verb>
+  <LoadFridge.gerund>に入れる</LoadFridge.gerund> -->
+
+  <DoBillsBurnPit.label>汚泥を焼却する</DoBillsBurnPit.label>
+  <DoBillsBurnPit.verb>を焼却する</DoBillsBurnPit.verb>
+  <DoBillsBurnPit.gerund>を焼却する</DoBillsBurnPit.gerund>
+
+  <RemoveSewage.label>樽に汚水を詰める</RemoveSewage.label>
+  <RemoveSewage.verb>の汚水を取り除く</RemoveSewage.verb>
+  <RemoveSewage.gerund>の汚水を取り除く</RemoveSewage.gerund>
+
+  <UnloadWashing.label>洗濯物を取り出す</UnloadWashing.label>
+  <UnloadWashing.verb>から洗濯物を取り出す</UnloadWashing.verb>
+  <UnloadWashing.gerund>から洗濯物を取り出す</UnloadWashing.gerund>
+
+  <LoadWashing.label>洗濯物に入れる</LoadWashing.label>
+  <LoadWashing.verb>に洗濯物を入れる</LoadWashing.verb>
+  <LoadWashing.gerund>に洗濯物を入れる</LoadWashing.gerund>
+
+  <UnloadComposter.label>堆肥容器から堆肥を取り出す</UnloadComposter.label>
+  <UnloadComposter.verb>から堆肥を取り出す</UnloadComposter.verb>
+  <UnloadComposter.gerund>から堆肥を取り出す</UnloadComposter.gerund>
+
+  <FillComposter.label>堆肥容器に入れる</FillComposter.label>
+  <FillComposter.verb>に入れる</FillComposter.verb>
+  <FillComposter.gerund>に入れる</FillComposter.gerund>
+
+  <emptySepticTank.label>浄化槽を空にする</emptySepticTank.label>
+  <emptySepticTank.verb>を空にする</emptySepticTank.verb>
+  <emptySepticTank.gerund>を空にする</emptySepticTank.gerund>
+
+  <!-- <emptyLatrine.label>簡易トイレを空にする</emptyLatrine.label>
+  <emptyLatrine.verb>を空にする</emptyLatrine.verb>
+  <emptyLatrine.gerund>を空にする</emptyLatrine.gerund> -->
+
+  <!-- <RefillTub.label>水タライの水を入れ替える</RefillTub.label>
+  <RefillTub.verb>の水を入れ替える</RefillTub.verb>
+  <RefillTub.gerund>の水を入れ替える</RefillTub.gerund> -->
+
+  <RefillWater.label>水を補充する</RefillWater.label>
+  <RefillWater.verb>を補充する</RefillWater.verb>
+  <RefillWater.gerund>を補充する</RefillWater.gerund>
+
+  <CleanFilthIndoors.label>屋内の汚物を清掃する</CleanFilthIndoors.label>
+  <CleanFilthIndoors.verb>清掃</CleanFilthIndoors.verb>
+  <CleanFilthIndoors.gerund>を清掃する</CleanFilthIndoors.gerund>
+
+</LanguageData>

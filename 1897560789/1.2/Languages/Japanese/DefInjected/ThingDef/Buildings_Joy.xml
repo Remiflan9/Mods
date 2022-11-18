@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ID 2028381079 ver -->
+
+  <UltrascreenTV.label>ウルトラ スクリーン テレビ</UltrascreenTV.label>
+  <UltrascreenTV.description>巨大な画面が湾曲したウルトラテクノロジーのテレビです。視聴者は、自分自身が画面内に居るように感じます。とても楽しめます。コアワールドからの放送を受信することができます。</UltrascreenTV.description>
+  <Blueprint_UltrascreenTV.label>ultrascreen television (設計)</Blueprint_UltrascreenTV.label>
+  <Blueprint_Install_UltrascreenTV.label>ウルトラスクリーンテレビ (移動先)</Blueprint_Install_UltrascreenTV.label>
+  <Frame_UltrascreenTV.label>ウルトラスクリーンテレビ (施工)</Frame_UltrascreenTV.label>
+  <Frame_UltrascreenTV.description>巨大な画面が湾曲したウルトラテクノロジーのテレビです。視聴者は、自分自身が画面内に居るように感じます。とても楽しめます。コアワールドからの放送を受信することができます。</Frame_UltrascreenTV.description>
+
+</LanguageData>

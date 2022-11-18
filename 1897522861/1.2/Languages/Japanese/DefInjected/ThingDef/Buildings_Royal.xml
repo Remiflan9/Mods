@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bed_Kingsize.label>豪華な 天蓋付きベッド</Bed_Kingsize.label>
+  <Bed_Kingsize.description>金細工がはめ込んだ天蓋の柱やヘッドレストが付いた、貴族にふさわしいベッドです。非常に快適で美しく本当に贅沢品です。2人用です。</Bed_Kingsize.description>
+  <Blueprint_Bed_Kingsize.label>豪華な天蓋付きベッド(設計)</Blueprint_Bed_Kingsize.label>
+  <Blueprint_Install_Bed_Kingsize.label>豪華な天蓋付きベッド(移動先)</Blueprint_Install_Bed_Kingsize.label>
+  <Frame_Bed_Kingsize.label>豪華な天蓋付きベッド(施工)</Frame_Bed_Kingsize.label>
+  <Frame_Bed_Kingsize.description>金細工がはめ込んだ天蓋の柱やヘッドレストが付いた、貴族にふさわしいベッドです。非常に快適で美しく本当に贅沢品です。2人用です。</Frame_Bed_Kingsize.description>
+
+  <Table_RoyalEndTable.label>豪華な エンドテーブル</Table_RoyalEndTable.label>
+  <Table_RoyalEndTable.description>金で装飾された小さなベッドサイドテーブルです。設置された近くのベッドの眠りの質を向上させます。ベッドの頭側に直接隣接して配置する必要があります。同じベッドの近くに複数のエンドテーブルを置いても効果は重複しません。</Table_RoyalEndTable.description>
+  <Blueprint_Table_RoyalEndTable.label>豪華なエンドテーブル(設計)</Blueprint_Table_RoyalEndTable.label>
+  <Blueprint_Install_Table_RoyalEndTable.label>豪華なエンドテーブル(移動先)</Blueprint_Install_Table_RoyalEndTable.label>
+  <Frame_Table_RoyalEndTable.label>豪華なエンドテーブル(施工)</Frame_Table_RoyalEndTable.label>
+  <Frame_Table_RoyalEndTable.description>金で装飾された小さなベッドサイドテーブルです。設置された近くのベッドの眠りの質を向上させます。ベッドの頭側に直接隣接して配置する必要があります。同じベッドの近くに複数のエンドテーブルを置いても効果は重複しません。</Frame_Table_RoyalEndTable.description>
+
+  <Table_RoyalDresser.label>豪華なタンス</Table_RoyalDresser.label>
+  <Table_RoyalDresser.description>金で装飾された優雅なデザインのドレッサーです。近くのベッドの眠りをより快適にします。同じベッドの近くに複数のタンスを設置しても効果は重複しません。</Table_RoyalDresser.description>
+  <Blueprint_Table_RoyalDresser.label>豪華なタンス(設計)</Blueprint_Table_RoyalDresser.label>
+  <Blueprint_Install_Table_RoyalDresser.label>豪華なタンス(移動先)</Blueprint_Install_Table_RoyalDresser.label>
+  <Frame_Table_RoyalDresser.label>豪華なタンス(施工)</Frame_Table_RoyalDresser.label>
+  <Frame_Table_RoyalDresser.description>金で装飾された優雅なデザインのドレッサーです。近くのベッドの眠りを快適にします。同じベッドの近くに複数のタンスを設置しても効果は重複しません。</Frame_Table_RoyalDresser.description>
+
+  <Seat_RoyalChair.label>豪華なチェア</Seat_RoyalChair.label>
+  <Seat_RoyalChair.description>金で装飾されたフレームと高さのある背もたれの背板、快適なパッドが入ったシートなどが備えられた椅子です。テーブルや作業台などで利用できます。</Seat_RoyalChair.description>
+  <Blueprint_Seat_RoyalChair.label>豪華なチェア(設計)</Blueprint_Seat_RoyalChair.label>
+  <Blueprint_Install_Seat_RoyalChair.label>豪華なチェア(移動先)</Blueprint_Install_Seat_RoyalChair.label>
+  <Frame_Seat_RoyalChair.label>豪華なチェア(施工)</Frame_Seat_RoyalChair.label>
+  <Frame_Seat_RoyalChair.description>金で装飾されたフレームと高さのある背もたれの背板、快適なパッドが入ったシートなどが備えられた椅子です。テーブルや作業台などで利用できます。</Frame_Seat_RoyalChair.description>
+
+  <Seat_RoyalArmchair.label>豪華な アームチェア</Seat_RoyalArmchair.label>
+  <Seat_RoyalArmchair.description>大きくて柔らかい豪華な椅子です。最も裕福なエリートのために、金で装飾されたフレームが付いています。テーブルや作業台などで利用できます。</Seat_RoyalArmchair.description>
+  <Blueprint_Seat_RoyalArmchair.label>豪華なアームチェア(設計)</Blueprint_Seat_RoyalArmchair.label>
+  <Blueprint_Install_Seat_RoyalArmchair.label>豪華なアームチェア(移動先)</Blueprint_Install_Seat_RoyalArmchair.label>
+  <Frame_Seat_RoyalArmchair.label>豪華なアームチェア(施工)</Frame_Seat_RoyalArmchair.label>
+  <Frame_Seat_RoyalArmchair.description>大きくて柔らかい豪華な椅子です。最も裕福なエリートのために、金で装飾されたフレームが付いています。テーブルや作業台などで利用できます。</Frame_Seat_RoyalArmchair.description>
+
+  <Table_Royal1x1c.label>豪華なテーブル (1x1)</Table_Royal1x1c.label>
+  <Table_Royal1x1c.description>外枠が金で装飾されて縁が丸みを帯びた食事用テーブルで富裕層向けです。</Table_Royal1x1c.description>
+  <Blueprint_Table_Royal1x1c.label>豪華なテーブル(1x1)(設計)</Blueprint_Table_Royal1x1c.label>
+  <Blueprint_Install_Table_Royal1x1c.label>豪華なテーブル(1x1)(移動先)</Blueprint_Install_Table_Royal1x1c.label>
+  <Frame_Table_Royal1x1c.label>豪華なテーブル(1x1)(施工)</Frame_Table_Royal1x1c.label>
+  <Frame_Table_Royal1x1c.description>外枠が金で装飾されて縁が丸みを帯びた食事用テーブルで富裕層向けです。</Frame_Table_Royal1x1c.description>
+
+  <Table_Royal2x2c.label>豪華なテーブル (2x2)</Table_Royal2x2c.label>
+  <Table_Royal2x2c.description>外枠が金で装飾されて縁が丸みを帯びた食事用テーブルで富裕層向けです。</Table_Royal2x2c.description>
+  <Blueprint_Table_Royal2x2c.label>豪華なテーブル(2x2)(設計)</Blueprint_Table_Royal2x2c.label>
+  <Blueprint_Install_Table_Royal2x2c.label>豪華なテーブル(2x2)(移動先)</Blueprint_Install_Table_Royal2x2c.label>
+  <Frame_Table_Royal2x2c.label>豪華なテーブル(2x2)(施工)</Frame_Table_Royal2x2c.label>
+  <Frame_Table_Royal2x2c.description>外枠が金で装飾されて縁が丸みを帯びた食事用テーブルで富裕層向けです。</Frame_Table_Royal2x2c.description>
+
+  <Table_Royal1x2c.label>豪華なテーブル (1x2)</Table_Royal1x2c.label>
+  <Table_Royal1x2c.description>外枠が金で装飾されて縁が丸みを帯びた食事用テーブルで富裕層向けです。</Table_Royal1x2c.description>
+  <Blueprint_Table_Royal1x2c.label>豪華なテーブル(1x2)(設計)</Blueprint_Table_Royal1x2c.label>
+  <Blueprint_Install_Table_Royal1x2c.label>豪華なテーブル(1x2)(移動先)</Blueprint_Install_Table_Royal1x2c.label>
+  <Frame_Table_Royal1x2c.label>豪華なテーブル(1x2)(施工)</Frame_Table_Royal1x2c.label>
+  <Frame_Table_Royal1x2c.description>外枠が金で装飾されて縁が丸みを帯びた食事用テーブルで富裕層向けです。</Frame_Table_Royal1x2c.description>
+
+  <Table_Royal3x3c.label>豪華なテーブル (3x3)</Table_Royal3x3c.label>
+  <Table_Royal3x3c.description>外枠が金で装飾されて縁が丸みを帯びた食事用テーブルで富裕層向けです。</Table_Royal3x3c.description>
+  <Blueprint_Table_Royal3x3c.label>豪華なテーブル(3x3)(設計)</Blueprint_Table_Royal3x3c.label>
+  <Blueprint_Install_Table_Royal3x3c.label>豪華なテーブル(3x3)(移動先)</Blueprint_Install_Table_Royal3x3c.label>
+  <Frame_Table_Royal3x3c.label>豪華なテーブル(3x3)(施工)</Frame_Table_Royal3x3c.label>
+  <Frame_Table_Royal3x3c.description>外枠が金で装飾されて縁が丸みを帯びた食事用テーブルで富裕層向けです。</Frame_Table_Royal3x3c.description>
+
+  <Table_Royal2x4c.label>豪華なテーブル (2x4)</Table_Royal2x4c.label>
+  <Table_Royal2x4c.description>外枠が金で装飾されて縁が丸みを帯びた食事用テーブルで富裕層向けです。</Table_Royal2x4c.description>
+  <Blueprint_Table_Royal2x4c.label>豪華なテーブル(2x4)(設計)</Blueprint_Table_Royal2x4c.label>
+  <Blueprint_Install_Table_Royal2x4c.label>豪華なテーブル(2x4)(移動先)</Blueprint_Install_Table_Royal2x4c.label>
+  <Frame_Table_Royal2x4c.label>豪華なテーブル(2x4)(施工)</Frame_Table_Royal2x4c.label>
+  <Frame_Table_Royal2x4c.description>外枠が金で装飾されて縁が丸みを帯びた食事用テーブルで富裕層向けです。</Frame_Table_Royal2x4c.description>
+
+</LanguageData>

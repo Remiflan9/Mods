@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bed_StoneSlab.label>岩盤ベッド</Bed_StoneSlab.label>
+  <Bed_StoneSlab.description>滑らかにした大きな岩そのままで非常に寝心地が悪く、床で寝るよりわずかにマシなだけです。</Bed_StoneSlab.description>
+  <Blueprint_Bed_StoneSlab.label>岩盤ベッド(設計)</Blueprint_Bed_StoneSlab.label>
+  <Blueprint_Install_Bed_StoneSlab.label>岩盤ベッド(移動先)</Blueprint_Install_Bed_StoneSlab.label>
+  <Frame_Bed_StoneSlab.label>岩盤ベッド(施工)</Frame_Bed_StoneSlab.label>
+  <Frame_Bed_StoneSlab.description>滑らかにした大きな岩そのままで非常に寝心地が悪く、床で寝るよりわずかにマシなだけです。</Frame_Bed_StoneSlab.description>
+
+  <Bed_Simple.label>簡易ベッド</Bed_Simple.label>
+  <Bed_Simple.description>やや快適なマットレスと枕を頑丈なフレームの上に載せたものです。</Bed_Simple.description>
+  <Blueprint_Bed_Simple.label>簡易ベッド(設計)</Blueprint_Bed_Simple.label>
+  <Blueprint_Install_Bed_Simple.label>簡易ベッド(移動先)</Blueprint_Install_Bed_Simple.label>
+  <Frame_Bed_Simple.label>簡易ベッド(施工)</Frame_Bed_Simple.label>
+  <Frame_Bed_Simple.description>やや快適なマットレスと枕を頑丈なフレームの上に載せたものです。</Frame_Bed_Simple.description>
+
+</LanguageData>

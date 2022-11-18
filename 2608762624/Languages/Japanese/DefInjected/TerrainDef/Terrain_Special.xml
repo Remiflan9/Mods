@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEArch_BridgeSandstone.label>砂岩の石橋</VFEArch_BridgeSandstone.label>
+  <VFEArch_BridgeSandstone.description>水の上に通路を通すための構造物です. 泳いで渡るよりも,速く移動することができます. 一度建設すれば,重量のある構造物やあらゆる種類の壁など,多くの構造物を支えることができます. 湿地帯のバイオームでは橋の建設が容易になります.
+	
+どんな石材でも作ることができます.</VFEArch_BridgeSandstone.description>
+
+  <VFEArch_BridgeGranite.label>花崗岩の石橋</VFEArch_BridgeGranite.label>
+  <VFEArch_BridgeGranite.description>水の上に通路を通すための構造物です. 泳いで渡るよりも,速く移動することができます. 一度建設すれば,重量のある構造物やあらゆる種類の壁など,多くの構造物を支えることができます. 湿地帯のバイオームでは橋の建設が容易になります.
+	
+どんな石材でも作ることができます.</VFEArch_BridgeGranite.description>
+
+  <VFEArch_BridgeLimestone.label>石灰岩の石橋</VFEArch_BridgeLimestone.label>
+  <VFEArch_BridgeLimestone.description>水の上に通路を通すための構造物です. 泳いで渡るよりも,速く移動することができます. 一度建設すれば,重量のある構造物やあらゆる種類の壁など,多くの構造物を支えることができます. 湿地帯のバイオームでは橋の建設が容易になります.
+	
+どんな石材でも作ることができます.</VFEArch_BridgeLimestone.description>
+
+  <VFEArch_BridgeSlate.label>粘板岩の石橋</VFEArch_BridgeSlate.label>
+  <VFEArch_BridgeSlate.description>水の上に通路を通すための構造物です. 泳いで渡るよりも,速く移動することができます. 一度建設すれば,重量のある構造物やあらゆる種類の壁など,多くの構造物を支えることができます. 湿地帯のバイオームでは橋の建設が容易になります.
+	
+どんな石材でも作ることができます.</VFEArch_BridgeSlate.description>
+
+  <VFEArch_BridgeMarble.label>大理石の石橋</VFEArch_BridgeMarble.label>
+  <VFEArch_BridgeMarble.description>水の上に通路を通すための構造物です. 泳いで渡るよりも,速く移動することができます. 一度建設すれば,重量のある構造物やあらゆる種類の壁など,多くの構造物を支えることができます. 湿地帯のバイオームでは橋の建設が容易になります.
+	
+どんな石材でも作ることができます.</VFEArch_BridgeMarble.description>
+
+  <VFEArch_BridgeSteel.label>鉄製の橋</VFEArch_BridgeSteel.label>
+  <VFEArch_BridgeSteel.description>水の上に通路を通すための構造物です. 泳いで渡るよりも,速く移動することができます.一度建設すれば,重量のある構造物やあらゆる種類の壁など,多くの構造物を支えることができます. 鉄橋は耐久性に優れています, 湿地帯のバイオームでは橋の建設が容易になります.</VFEArch_BridgeSteel.description>
+
+  <VFEArch_ConcreteFoundation.label>コンクリート基礎</VFEArch_ConcreteFoundation.label>
+  <VFEArch_ConcreteFoundation.description>泥や流砂などの上に建築物を作る際に,これを土台にします. 土台があることで,不安定な地形でも移動しやすくなりますし, 一度建設すれば,重量のある構造物やその他の種類の壁を含む多くの構造物を支えることができます. 特に砂漠や湿地帯での建築が容易になります. 土台の上に床を作ることもできます.</VFEArch_ConcreteFoundation.description>
+
+
+</LanguageData>

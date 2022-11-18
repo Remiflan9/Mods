@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_MakeEnergyDrink.label>エナジードリンクを作る</VBE_MakeEnergyDrink.label>
+        <VBE_MakeEnergyDrink.description>酸味のある炭酸に,わずかな苦みを加えて作ります.砂糖とカフェインの組み合わせは,爆発的なエネルギーを前借りすることを意味しますが,後ほど急落します.</VBE_MakeEnergyDrink.description>
+        <VBE_MakeEnergyDrink.jobString>エナジードリンクを作成中</VBE_MakeEnergyDrink.jobString>
+    </LanguageData>

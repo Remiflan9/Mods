@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Table_1x1c.label>テーブル (1x1)</Table_1x1c.label>
+  <Table_1x1c.description>椅子をテーブルに向けて設置すると、人々はそこで食事を摂るようになります。</Table_1x1c.description>
+  <Blueprint_Table_1x1c.label>テーブル(1x1)(設計)</Blueprint_Table_1x1c.label>
+  <Blueprint_Install_Table_1x1c.label>テーブル(1x1)(移動先)</Blueprint_Install_Table_1x1c.label>
+  <Frame_Table_1x1c.label>テーブル(1x1)(施工)</Frame_Table_1x1c.label>
+  <Frame_Table_1x1c.description>椅子をテーブルに向けて設置すると、人々はそこで食事を摂るようになります。</Frame_Table_1x1c.description>
+
+  <Table_Counter.label>カウンター</Table_Counter.label>
+  <Table_Counter.description>食事をするキッチンやバーなどでよく見る、腰よりも高い滑らかな表面をしたテーブルです。</Table_Counter.description>
+  <Blueprint_Table_Counter.label>カウンター(設計)</Blueprint_Table_Counter.label>
+  <Blueprint_Install_Table_Counter.label>カウンター(移動先)</Blueprint_Install_Table_Counter.label>
+  <Frame_Table_Counter.label>カウンター(施工)</Frame_Table_Counter.label>
+  <Frame_Table_Counter.description>食事をするキッチンやバーなどでよく見る、腰よりも高い滑らかな表面をしたテーブルです。</Frame_Table_Counter.description>
+
+</LanguageData>

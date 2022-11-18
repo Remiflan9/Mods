@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BedPan.label>携帯型便器</BedPan.label>
+  <BedPan.description>動けない患者用の便器です。</BedPan.description>
+
+  <Biosolids.label>バイオ肥料</Biosolids.label>
+  <Biosolids.description>下水汚泥は適切に取り扱われて処理されると、肥料として栄養豊富で便利なバイオ肥料になります。それらは土地の肥沃度をわずかに高めることができ、栽培できる場所が限られている過酷な環境で役立ちます。バイオ肥料は、砂地の肥沃度を大幅に高め、灌漑と組み合わせると肥沃な土地にすることができます。</Biosolids.description>
+
+  <FecalSludge.label>下水汚泥</FecalSludge.label>
+  <FecalSludge.description>下水汚泥で満たされた樽は、投棄されたり焼かれたり、またはバイオ肥料として堆肥にされます。</FecalSludge.description>
+
+
+  <!-- Example of a drink for the thirst need, modExtension makes anything ingestible work as a drink, this is patched out when thirst is disabled -->
+  <!-- 渇きの欲求に合った飲み物の例で、modExtensionは飲み物として飲むことが可能なアイテムを作成します。これはのどの渇きが無効になると変更されます -->
+
+  <!--<DBH_WaterBottle.label>飲み水</DBH_WaterBottle.label>
+  <DBH_WaterBottle.description>ボトルに入った飲み水です。</DBH_WaterBottle.description>
+  <DBH_WaterBottle.ingestible.ingestCommandString>{0}を飲む</DBH_WaterBottle.ingestible.ingestCommandString>
+  <DBH_WaterBottle.ingestible.ingestReportString>{0}を飲んでいる</DBH_WaterBottle.ingestible.ingestReportString>-->
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AirConditioningUnit.label>エアコン装置</AirConditioningUnit.label>
+  <AirConditioningUnit.description>壁にフィットする空冷装置です。温かい空気を別の部屋に押し付けずに冷気を出します。夏場に室内の冷房や、ウォークイン冷凍庫のような使い方もできます。</AirConditioningUnit.description>
+  <Blueprint_AirConditioningUnit.label>エアコン装置 (設計)</Blueprint_AirConditioningUnit.label>
+  <Frame_AirConditioningUnit.label>エアコン装置 (施工)</Frame_AirConditioningUnit.label>
+  <Frame_AirConditioningUnit.description>壁にフィットする空冷装置です。温かい空気を別の部屋に押し付けずに冷気を出します。夏場に室内の冷房や、ウォークイン冷凍庫のような使い方もできます。</Frame_AirConditioningUnit.description>
+
+</LanguageData>

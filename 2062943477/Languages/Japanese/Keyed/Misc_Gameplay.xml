@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <!-- Gas pipe system -->
+  <VPE_PipesNotConnected>パイプが発電機やタンクに接続されていません</VPE_PipesNotConnected>
+  <VPE_PipeConnectedRateStored>パイプグリッド余剰/貯留: {0} ml / {1} ml-d</VPE_PipeConnectedRateStored>
+  <VPE_LiquidTankStored>蓄えたガス</VPE_LiquidTankStored>
+  <VPE_LiquidTankEfficiency>タンク効率</VPE_LiquidTankEfficiency>
+  <VPE_TankLeakage>最小限のシーラント漏れ</VPE_TankLeakage>
+  <VPE_NutrientNeeded>ガスが必要</VPE_NutrientNeeded>
+  <VPE_LiquidOutput>ガス出力</VPE_LiquidOutput>
+  <VPE_MustPlaceOnGasGeyser>この建物はヘリクセンガス間欠泉の上に置かなければなりません.</VPE_MustPlaceOnGasGeyser>
+  <VPE_PlugHole>穴を埋める</VPE_PlugHole>
+  <VPE_PlugHoleDesc>土で穴を埋めます. 警告：これは間欠泉や池を破壊します. それがもはや使用できない場合, またはスペースが必要な場合にのみ, これを行います.</VPE_PlugHoleDesc>
+  <VPE_CancelPlugHole>穴埋めをキャンセル</VPE_CancelPlugHole>
+  <VPE_CancelPlugHoleDesc>穴埋めをキャンセルします.</VPE_CancelPlugHoleDesc>
+  <VPE_MustPlaceAdjacentToPipe>ガスを動力源とする建物は, 上部ではなく, ガス管に隣接して配置する必要があります</VPE_MustPlaceAdjacentToPipe>
+  <VPE_DeconstructGasPipes>ガスネットワークの解体</VPE_DeconstructGasPipes>
+  <VPE_DeconstructGasPipesDesc>ガス管と地下ガス管のみを解体する</VPE_DeconstructGasPipesDesc>
+
+
+  <Fluffy.GasNetwork.GasNetworkInspectString>ネットワーク内のガス過剰(貯蔵)：{0}({1})</Fluffy.GasNetwork.GasNetworkInspectString>
+  <Fluffy.GasNetwork.Stored>貯蔵ガス：{0} / {1}</Fluffy.GasNetwork.Stored>
+  <Fluffy.GasNetwork.Production>生成されたガス：{0}</Fluffy.GasNetwork.Production>
+  <Fluffy.GasNetwork.Consumption>消費ガス：{0}</Fluffy.GasNetwork.Consumption>
+  <Fluffy.GasNetwork.GasOff>ガスが止まった.</Fluffy.GasNetwork.GasOff>
+  <Fluffy.GasNetwork.NoNetwork>ガスネットワークに接続されていません.</Fluffy.GasNetwork.NoNetwork>
+  <Fluffy.GasNetwork.ValveOpen>バルブが開いています.</Fluffy.GasNetwork.ValveOpen>
+  <Fluffy.GasNetwork.ValveClosed>バルブが閉じています.</Fluffy.GasNetwork.ValveClosed>
+  <Fluffy.GasNetwork.CommandToggleGas.Label>ガスの流れを切り替える</Fluffy.GasNetwork.CommandToggleGas.Label>
+  <Fluffy.GasNetwork.CommandToggleGas.Desc>オンまたはオフに切り替えるガスフローを指定します. 入植者がすぐにスイッチをフリックするために来ます.</Fluffy.GasNetwork.CommandToggleGas.Desc>
+  <Fluffy.GasNetwork.DesiredBuffer>対象ガス貯蔵量：{0} / {1}</Fluffy.GasNetwork.DesiredBuffer>
+  <Fluffy.GasNetwork.BufferOff>ガス貯蔵がオフになりました.</Fluffy.GasNetwork.BufferOff>
+
+  <Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>風速の優先単位</Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>
+  <Fluffy.GasNetwork.Settings.Wind.Category>風のシミュレーション</Fluffy.GasNetwork.Settings.Wind.Category>
+
+  <!-- Nucular Reactor -->
+  <VPE_RadiationProduced>警告:原子炉から半径{0}メートル内で放射線が発生しています</VPE_RadiationProduced>
+  <VPE_TempInReactorRoom>原子炉のある部屋の温度: {0}ºC</VPE_TempInReactorRoom>
+  <VPE_TempInReactorRoomCritical>警告:原子炉のある部屋の温度: {0}ºC</VPE_TempInReactorRoomCritical>
+  <VPE_Meltdown>警告:高温によりメルトダウン発生. 修理されるまで原子炉は半径内の全ての生命を殺します.</VPE_Meltdown>
+  <VPE_MeltdownLetterLabel>メルトダウン</VPE_MeltdownLetterLabel>
+  <VPE_MeltdownLetter>原子炉室が高温のため原子炉の一部がメルトダウンしました. 修理されるまでこの原子炉は生命に非常に有害です. これを無視すると数時間後にコロニーが終わるかもしれない.</VPE_MeltdownLetter>
+  <VPE_NoReactorRoom>原子炉室は屋根付きの閉鎖空間でなければなりません</VPE_NoReactorRoom>
+
+  <!-- Misc -->
+  <VPE_MustPlaceRoofed>この建物は屋内の屋根付きエリアに配置する必要があります</VPE_MustPlaceRoofed>
+
+  <!-- Violence Generator -->
+  <VPE_SoulsTime>魂が変換されている</VPE_SoulsTime>
+  <VPE_Producing>{0} Wの電力を発電しています</VPE_Producing>
+  <VPE_NotProducing>魂は吸収されない. 機械の神は人間の魂に飢えている.</VPE_NotProducing>
+  <VPE_ToggleViolenceGenerator>ジェネレータ切替</VPE_ToggleViolenceGenerator>
+  <VPE_ToggleViolenceGeneratorDesc>ジェネレータを動作状態と非アクティブ状態の間で切り替えます</VPE_ToggleViolenceGeneratorDesc>
+  <VPE_GeneratorIsOff>発電機は現在オフになっていて非アクティブです</VPE_GeneratorIsOff>
+
+  <!-- Lightning Generator -->
+  <VPE_LightningTime>雷エネルギーが蓄えられた</VPE_LightningTime>
+  <VPE_Producing>{0} Wの電力を発電しています</VPE_Producing>
+  <VPE_NotLightningProducing>雷のエネルギーが枯渇しました. 次の雷雨を待つしかなさそうです.</VPE_NotLightningProducing>
+
+  <!-- Gas pipe kaboom -->
+
+  <VPE_AGasPipe>ガス管</VPE_AGasPipe>
+  <VPE_GasExplosion>{0} の故障でガス爆発が発生しました.</VPE_GasExplosion>
+  <VPE_GasExplosionStartedFire>{0} の故障によりガス爆発が発生し火災が発生しました.</VPE_GasExplosionStartedFire>
+  <VPE_GasExplosionLostGas>接続されたガスタンク内の{0}l-dのガスは全て爆発で排出されました.</VPE_GasExplosionLostGas>
+  <VPE_GasExplosionLWasLarge>この大量のガスが, かなりの大きさの爆発を起こしました.</VPE_GasExplosionLWasLarge>
+  <VPE_GasExplosionLWasHuge>本当に大爆発ですね. うわー.</VPE_GasExplosionLWasHuge>
+  <VPE_LetterLabelGasExplosion>ドッカーン！</VPE_LetterLabelGasExplosion>
+
+  <!-- Chemfuel Pond -->
+
+  <VPE_PondHasFuel>この油田には {0} 単位の化学燃料が残っています.</VPE_PondHasFuel>
+  <VPE_PondNoFuel>この油田は枯渇している</VPE_PondNoFuel>
+  <VPE_MustPlaceOnChemfuelPond>化学燃料ポンプは, 油田の上に建設する必要があります.</VPE_MustPlaceOnChemfuelPond>
+  <VPE_PumpProducing>ポンプは{1}で{0}単位の化学燃料を精製します.</VPE_PumpProducing>
+
+  <!-- Tidal power plant -->
+
+  <VPE_NeedsWater>この発電所は水の上に建てなければならない</VPE_NeedsWater>
+  <VPE_NeedsDistance>潮力発電所は, 少なくとも40タイルの間隔で建設する必要があります</VPE_NeedsDistance>
+
+  <!-- Update Letter -->
+
+  <VPE_GasUpdateNoticeLetterLabel>Power Mod Update</VPE_GasUpdateNoticeLetterLabel>
+  <VPE_GasUpdateNoticeLetterText>Vanilla Furniture Expanded：Power modが更新され, Helixien GasNetworkに関する非常に重要な更新が行われました. \n\n元のコードは私(Sarg Bjornson)によって作成されたもので, かなりずさんで, 多くのバグと一貫性のない動作を引き起こしていました. 驚くべきFluffyのおかげで, ガスネットワークコード全体が書き直され, 完全に機能するようになりました. \n\n注：ガスネットワークを制御するクラスのほとんどが変更されたため, ガスネットワークコンポーネントを再作成する必要があります. 既存の保存で. 開発モードにアクセスして神モードをオンにすることで, 費用をかけずに建物を置き換えることができます. 次に, 現在のガスネットワークを(すべてのガスベースのオブジェクトで)分解し, 無料で交換します.</VPE_GasUpdateNoticeLetterText>
+
+
+</LanguageData>

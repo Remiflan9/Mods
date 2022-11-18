@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_UnfermentedCider.label>未発酵のシードル</VBE_UnfermentedCider.label>
+        <VBE_UnfermentedCider.description>密閉されたボトルに詰められた,スターター入りの未発酵のシードルです.適切に菌を育てて寝かせておくと,最終的に弱いアルコール飲料になります.</VBE_UnfermentedCider.description>
+        <VBE_Cider.label>シードル</VBE_Cider.label>
+        <VBE_Cider.description>フルーティーで爽やかな,アルコールをほとんど含まない飲み物です.シードルだけならいくら飲んでも酔っ払いはしないので,アルコール飲料を常飲していた人に人気があります.興味深い話として,多くの人が抗酸化作用があると褒めていることが挙げられます.</VBE_Cider.description>
+        <VBE_Cider.ingestible.ingestCommandString>{0}を 飲む</VBE_Cider.ingestible.ingestCommandString>
+        <VBE_Cider.ingestible.ingestReportString>{0}を 飲んでいる.</VBE_Cider.ingestible.ingestReportString>
+        <VBE_Cider.tools.0.label>ボトル</VBE_Cider.tools.0.label>
+        <VBE_Cider.tools.1.label>ネック</VBE_Cider.tools.1.label>
+    </LanguageData>

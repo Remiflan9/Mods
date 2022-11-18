@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BionicBladder.label>強化膀胱</BionicBladder.label>
+  <BionicBladder.description>埋め込まれた強化膀胱です.</BionicBladder.description>
+  <BionicBladder.labelNoun>強化膀胱</BionicBladder.labelNoun>
+
+  <HygieneEnhancer.label>衛生エンハンサー</HygieneEnhancer.label>
+  <HygieneEnhancer.description>埋め込まれた衛生エンハンサーです.</HygieneEnhancer.description>
+  <HygieneEnhancer.labelNoun>衛生エンハンサー</HygieneEnhancer.labelNoun>
+
+</LanguageData>

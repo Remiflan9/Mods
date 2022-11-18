@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VEF_AnimalResource.reportString>TargetA から動物資源を収穫します。</VEF_AnimalResource.reportString>
+  <VEF_DestroyItem.reportString>アイテムを破壊している。</VEF_DestroyItem.reportString>
+  <VEF_LayExplodingEgg.reportString>産卵しています。</VEF_LayExplodingEgg.reportString>
+  <VEF_IngestWeird.reportString>TargetAを摂っている。</VEF_IngestWeird.reportString>
+  <VEF_AutoNutrition.reportString>食事中</VEF_AutoNutrition.reportString>
+
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IP_InsertFirstIngredient.label>材料を持ってくる</IP_InsertFirstIngredient.label>
+  <IP_InsertFirstIngredient.verb>材料を持ってくる</IP_InsertFirstIngredient.verb>
+  <IP_InsertFirstIngredient.gerund>材料を持ってくる</IP_InsertFirstIngredient.gerund>
+  <IP_InsertSecondIngredient.label>材料を持ってくる</IP_InsertSecondIngredient.label>
+  <IP_InsertSecondIngredient.verb>材料を持ってくる</IP_InsertSecondIngredient.verb>
+  <IP_InsertSecondIngredient.gerund>材料を持ってくる</IP_InsertSecondIngredient.gerund>
+  <IP_InsertThirdIngredient.label>材料を持ってくる</IP_InsertThirdIngredient.label>
+  <IP_InsertThirdIngredient.verb>材料を持ってくる</IP_InsertThirdIngredient.verb>
+  <IP_InsertThirdIngredient.gerund>材料を持ってくる</IP_InsertThirdIngredient.gerund>
+  <IP_RemoveProduct.label>完成品の取り外し</IP_RemoveProduct.label>
+  <IP_RemoveProduct.verb>完成した製品を取り出す</IP_RemoveProduct.verb>
+  <IP_RemoveProduct.gerund>完成した製品を取り出す</IP_RemoveProduct.gerund>
+  <VCE_DoBillsGrill.label>グリルで調理する</VCE_DoBillsGrill.label>
+  <VCE_DoBillsGrill.verb>グリル</VCE_DoBillsGrill.verb>
+  <VCE_DoBillsGrill.gerund>グリルで調理</VCE_DoBillsGrill.gerund>
+  <VCE_DoBillsFryer.label>揚げ物機で調理する</VCE_DoBillsFryer.label>
+  <VCE_DoBillsFryer.verb>揚げる</VCE_DoBillsFryer.verb>
+  <VCE_DoBillsFryer.gerund>揚げ物機で調理</VCE_DoBillsFryer.gerund>
+  <VCE_DoBillsCanning.label>缶詰機を使う</VCE_DoBillsCanning.label>
+  <VCE_DoBillsCanning.verb>缶詰食品</VCE_DoBillsCanning.verb>
+  <VCE_DoBillsCanning.gerund>缶詰製作</VCE_DoBillsCanning.gerund>
+  <VCE_DoBillsPrep.label>調味料製作台で作成する</VCE_DoBillsPrep.label>
+  <VCE_DoBillsPrep.verb>調味料を準備する</VCE_DoBillsPrep.verb>
+  <VCE_DoBillsPrep.gerund>調味料製作台で作成</VCE_DoBillsPrep.gerund>
+</LanguageData>

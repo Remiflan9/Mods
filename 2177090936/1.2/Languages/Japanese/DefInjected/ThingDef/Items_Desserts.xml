@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_SimpleDessert.label>簡単なデザート</VCE_SimpleDessert.label>
+  <VCE_SimpleDessert.description>数種類の果物などで作れる簡単なデザート.</VCE_SimpleDessert.description>
+  <VCE_FineDessert.label>手の込んだデザート</VCE_FineDessert.label>
+  <VCE_FineDessert.description>豊富な食材から手間をかけて作られた手の込んだデザート.</VCE_FineDessert.description>
+  <VCE_LavishDessert.label>豪華なデザート</VCE_LavishDessert.label>
+  <VCE_LavishDessert.description>料理の最高傑作. このデザートは体,心,魂に栄養を与えます.</VCE_LavishDessert.description>
+  <VCE_GourmetDessert.label>至高のデザート</VCE_GourmetDessert.label>
+  <VCE_GourmetDessert.description>少量のデザートではありますが,厳選された食材から手間をかけて洗練され,見た目も豪華な芸術料理です.</VCE_GourmetDessert.description>
+</LanguageData>

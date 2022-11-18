@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Table_LightEndTable.label>照明付エンド テーブル</Table_LightEndTable.label>
+  <Table_LightEndTable.description>照明が取り付けられて、近くにあるベッドをより快適にする小さなベッドサイドテーブルです。ベッドの頭側に直接隣接させて配置する必要があります。同じベッドの近くに複数のエンドテーブルを置いても効果は重複しません。</Table_LightEndTable.description>
+  <Blueprint_Table_LightEndTable.label>照明付エンド テーブル (設計)</Blueprint_Table_LightEndTable.label>
+  <Blueprint_Install_Table_LightEndTable.label>照明付エンド テーブル (移動先)</Blueprint_Install_Table_LightEndTable.label>
+  <Frame_Table_LightEndTable.label>照明付エンド テーブル (施工)</Frame_Table_LightEndTable.label>
+  <Frame_Table_LightEndTable.description>照明が取り付けられて、近くにあるベッドをより快適にする小さなベッドサイドテーブルです。ベッドの頭側に直接隣接させて配置する必要があります。同じベッドの近くに複数のエンドテーブルを置いても効果は重複しません。</Frame_Table_LightEndTable.description>
+
+</LanguageData>

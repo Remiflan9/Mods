@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <VGE_StatsReport_Over40>40℃以上</VGE_StatsReport_Over40>
+  <VGE_StatsReport_Below0>0℃以下</VGE_StatsReport_Below0>
+  <VGE_StatsReport_Armoured>武装化</VGE_StatsReport_Armoured>
+  <VGE_StatsReport_NoSunlight>太陽光無し</VGE_StatsReport_NoSunlight>
+  <VGE_StatsReport_Water>水面の上</VGE_StatsReport_Water>
+  <VGE_StatsReport_NotWater>乾いた土地の上</VGE_StatsReport_NotWater>
+
+  <VGE_EggPregnancy>{0}の卵が受精しました！妊娠の手順は,受精卵が産まれるまで続きます.</VGE_EggPregnancy>
+  <VGE_EggPregnancyLabel>{0}が受精した！</VGE_EggPregnancyLabel>
+
+  <VGE_EggLaid>{0}が卵を産みました! 卵を暖かく保って、保護してくたさい.</VGE_EggLaid>
+  <VGE_EggLaidLabel>{0}が産卵した！</VGE_EggLaidLabel>
+
+  <VGE_EggHatched>{0}が卵から孵化しました！</VGE_EggHatched>
+  <VGE_EggHatchedLabel>{0}が孵化！</VGE_EggHatchedLabel>
+
+  <VGE_Male_Egg>オスは卵を産みません</VGE_Male_Egg>
+
+</LanguageData>

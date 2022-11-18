@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_PumpkinCoffee.label>パンプキン・スパイスコーヒー</VBE_PumpkinCoffee.label>
+  <VBE_PumpkinCoffee.description>安価な大量生産ジェネリック コーヒーは,スパイスの配列に染み込んだ,奇妙なことに任意の実際のカボチャを除いて.何千年も前に,コーヒーのこのタイプは,ステレオタイプ的に男のパンと赤毛のヒップスターによって消費されました.</VBE_PumpkinCoffee.description>
+  <VBE_PumpkinCoffee.ingestible.ingestCommandString>{0}を飲む</VBE_PumpkinCoffee.ingestible.ingestCommandString>
+  <VBE_PumpkinCoffee.ingestible.ingestReportString>{0}を飲んでいる</VBE_PumpkinCoffee.ingestible.ingestReportString>
+</LanguageData>

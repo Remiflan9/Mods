@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Blueprint_DBHMosaicTile.label>モザイク床 (設計)</Blueprint_DBHMosaicTile.label>
+  <Frame_DBHMosaicTile.label>モザイク床 (施工)</Frame_DBHMosaicTile.label>
+  <Frame_DBHMosaicTile.description>施工中</Frame_DBHMosaicTile.description>
+
+  <Blueprint_DBHMosaicSandstone.label>砂岩のモザイク床 (設計)</Blueprint_DBHMosaicSandstone.label>
+  <Frame_DBHMosaicSandstone.label>砂岩のモザイク床 (施工)</Frame_DBHMosaicSandstone.label>
+  <Frame_DBHMosaicSandstone.description>施工中</Frame_DBHMosaicSandstone.description>
+
+  <Blueprint_DBHMosaicGranite.label>花崗岩のモザイク床 (設計)</Blueprint_DBHMosaicGranite.label>
+  <Frame_DBHMosaicGranite.label>花崗岩のモザイク床 (施工)</Frame_DBHMosaicGranite.label>
+  <Frame_DBHMosaicGranite.description>施工中</Frame_DBHMosaicGranite.description>
+
+  <Blueprint_DBHMosaicLimestone.label>石灰岩のモザイク床 (設計)</Blueprint_DBHMosaicLimestone.label>
+  <Frame_DBHMosaicLimestone.label>石灰岩のモザイク床 (施工)</Frame_DBHMosaicLimestone.label>
+  <Frame_DBHMosaicLimestone.description>施工中</Frame_DBHMosaicLimestone.description>
+
+  <Blueprint_DBHMosaicSlate.label>粘板岩のモザイク床 (設計)</Blueprint_DBHMosaicSlate.label>
+  <Frame_DBHMosaicSlate.label>粘板岩のモザイク床 (施工)</Frame_DBHMosaicSlate.label>
+  <Frame_DBHMosaicSlate.description>施工中</Frame_DBHMosaicSlate.description>
+
+  <Blueprint_DBHMosaicMarble.label>大理石のモザイク床 (設計)</Blueprint_DBHMosaicMarble.label>
+  <Frame_DBHMosaicMarble.label>大理石のモザイク床 (施工)</Frame_DBHMosaicMarble.label>
+  <Frame_DBHMosaicMarble.description>施工中</Frame_DBHMosaicMarble.description>
+
+</LanguageData>

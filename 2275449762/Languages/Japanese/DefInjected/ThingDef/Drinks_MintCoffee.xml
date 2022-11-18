@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_MintCoffee.label>ミントコーヒー</VBE_MintCoffee.label>
+  <VBE_MintCoffee.description>苦いエスプレッソをクリームまたは牛乳と混ぜ,さらにミントオイルと混ぜて飾ります.涼しくてビロードのようなコーヒーは,素晴らしい香りの息は言うまでもなく,さらに涼しく,なだめるような後味に取って代わられます.</VBE_MintCoffee.description>
+  <VBE_MintCoffee.ingestible.ingestCommandString>{0}を飲む</VBE_MintCoffee.ingestible.ingestCommandString>
+  <VBE_MintCoffee.ingestible.ingestReportString>{0}を飲んでいる</VBE_MintCoffee.ingestible.ingestReportString>
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipe Users: FabricationBench -->
+
+  <Make_BionicBladder.label>強化膀胱を作る</Make_BionicBladder.label>
+  <Make_BionicBladder.description>強化膀胱を作る.</Make_BionicBladder.description>
+  <Make_BionicBladder.jobString>強化膀胱を製作中</Make_BionicBladder.jobString>
+
+  <Make_HygieneEnhancer.label>衛生エンハンサーを作る</Make_HygieneEnhancer.label>
+  <Make_HygieneEnhancer.description>衛生エンハンサーを作る.</Make_HygieneEnhancer.description>
+  <Make_HygieneEnhancer.jobString>衛生エンハンサーを製作中</Make_HygieneEnhancer.jobString>
+
+</LanguageData>

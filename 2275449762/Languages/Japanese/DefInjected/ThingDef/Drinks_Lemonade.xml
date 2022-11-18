@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_Lemonade.label>レモネード</VBE_Lemonade.label>
+  <VBE_Lemonade.description>レモン汁,砂糖,水などを混ぜ合わせた甘い飲み物です.</VBE_Lemonade.description>
+  <VBE_Lemonade.ingestible.ingestCommandString>{0}を飲む</VBE_Lemonade.ingestible.ingestCommandString>
+  <VBE_Lemonade.ingestible.ingestReportString>{0}を飲んでいる</VBE_Lemonade.ingestible.ingestReportString>
+</LanguageData>

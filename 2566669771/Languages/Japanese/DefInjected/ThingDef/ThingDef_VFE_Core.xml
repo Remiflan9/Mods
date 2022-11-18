@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Stone_DarklightCampfire.label>石の焚き火(ダークライト)</Stone_DarklightCampfire.label>
+<Stone_DarklightCampfire.description>食事を調理することもできますが,バニラ(Mod無し)の焚き火よりも発熱量が少なく,光は強くなり,燃料の薪はより早く燃え尽きます.他のすべての熱源と同じ様に暖房に使うためには密閉された室内に設置する必要があります.燃料を給油できます.</Stone_DarklightCampfire.description>
+
+<Light_ModernDarkLamp.label>モダンダークランプ</Light_ModernDarkLamp.label>
+<Light_ModernDarkLamp.description>電気をより効率的に光に変換する省電力ダークランプで,照明室での使用に適しています.雨に濡れるとショートします.</Light_ModernDarkLamp.description>
+
+<Table_DarkLightEndTable.label>ダークランプ付エンド テーブル</Table_DarkLightEndTable.label>
+<Table_DarkLightEndTable.description>ダークランプが取り付けられた小さなベッドサイドテーブルです.ベッドの頭側に直接隣接させて配置する必要があります.同じベッドの近くに複数のエンドテーブルを置いても効果は重複しません.</Table_DarkLightEndTable.description>
+
+<Light_OutdoorDarkLamp.label>街路灯(ダークライト)</Light_OutdoorDarkLamp.label>
+<Light_OutdoorDarkLamp.description>高さがあり周囲を照せるダークライトの電灯です.薪の必要性なく屋外に設置できるため,屋外の照明に最適で,暗くなる夜間だけ点灯します.</Light_OutdoorDarkLamp.description>
+<Light_OutdoorDarkLamp.comps.CompSchedule.offMessage>昼間なので消灯中</Light_OutdoorDarkLamp.comps.CompSchedule.offMessage>
+
+
+</LanguageData>

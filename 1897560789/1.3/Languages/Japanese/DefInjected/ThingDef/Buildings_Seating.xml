@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Seat_AdvChair.label>最先端チェア</Seat_AdvChair.label>
+  <Seat_AdvChair.description>最先端のこの椅子は、座る者の姿勢に応じて自動的に形状を変化させて、常に快適な背もたれを提供することで、ポーンの快適さを大幅に向上させます。究極の贅沢品です。</Seat_AdvChair.description>
+  <Blueprint_Seat_AdvChair.label>最先端チェア(設計)</Blueprint_Seat_AdvChair.label>
+  <Blueprint_Install_Seat_AdvChair.label>最先端チェア(移動先)</Blueprint_Install_Seat_AdvChair.label>
+  <Frame_Seat_AdvChair.label>最先端チェア(施工)</Frame_Seat_AdvChair.label>
+  <Frame_Seat_AdvChair.description>最先端のこの椅子は、座る者の姿勢に応じて自動的に形状を変化させて、常に快適な背もたれを提供することで、ポーンの快適さを大幅に向上させます。究極の贅沢品です。</Frame_Seat_AdvChair.description>
+
+</LanguageData>

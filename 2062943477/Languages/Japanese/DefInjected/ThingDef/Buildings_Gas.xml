@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_GasPipe.label>ガス管</VPE_GasPipe.label>
+  <VPE_GasPipe.description>ヘリクセンガスを送るパイプ.</VPE_GasPipe.description>
+  <VPE_GasPipe_Blueprint.label>ガス管 (設計)</VPE_GasPipe_Blueprint.label>
+  <VPE_GasPipe_Frame.label>ガス管 (施工)</VPE_GasPipe_Frame.label>
+  <VPE_GasPipe_Frame.description>ヘリクセンガスを送るパイプ.</VPE_GasPipe_Frame.description>
+
+  <VPE_GasPipeSub.label>地中ガス管</VPE_GasPipeSub.label>
+  <VPE_GasPipeSub.description>ヘリクセンガスを送るパイプ. このパイプは見えないようになっておりガスの爆発から守られている. 通常のパイプよりもはるかに高価である.</VPE_GasPipeSub.description>
+  <VPE_GasPipeSub_Blueprint.label>地中ガス管 (設計)</VPE_GasPipeSub_Blueprint.label>
+  <VPE_GasPipeSub_Frame.label>地中ガス管 (施工)</VPE_GasPipeSub_Frame.label>
+  <VPE_GasPipeSub_Frame.description>ヘリクセンガスを送るパイプ. このパイプは見えないようになっておりガスの爆発から守られている. 通常のパイプよりもはるかに高価である.</VPE_GasPipeSub_Frame.description>
+
+  <VPE_GasPipeValve.label>ガス管バルブ</VPE_GasPipeValve.label>
+  <VPE_GasPipeValve.description>ガスの流れのオンオフを切り替えます.</VPE_GasPipeValve.description>
+  <VPE_GasPipeValve_Blueprint.label>ガス管バルブ (設計)</VPE_GasPipeValve_Blueprint.label>
+  <VPE_GasPipeValve_Frame.label>ガス管バルブ (施工)</VPE_GasPipeValve_Frame.label>
+  <VPE_GasPipeValve_Frame.description>ガスの流れのオンオフを切り替えます.</VPE_GasPipeValve_Frame.description>
+
+  <VPE_GasTank.label>ガスタンク</VPE_GasTank.label>
+  <VPE_GasTank.description>ガス貯蔵用の大型スチールタンク. 破損すると爆発します.</VPE_GasTank.description>
+
+  <VPE_HelixienPump.label>ヘリクセンポンプ</VPE_HelixienPump.label>
+  <VPE_HelixienPump.description>ヘリクセンのガス田に搭載された抽気機です. 自家発電で貴重なガスを汲み上げるためパイプ網を利用して他のガス系ユーティリティーと接続する必要があります.</VPE_HelixienPump.description>
+
+  <VPE_HelixienGenerator.label>ガス発電</VPE_HelixienGenerator.label>
+  <VPE_HelixienGenerator.description>ヘリクセンガスを消費して発電する. ガス管ネットワークに接続されている必要があります.</VPE_HelixienGenerator.description>
+
+  <VPE_IndustrialHelixienGenerator.label>工業用ガス発電</VPE_IndustrialHelixienGenerator.label>
+  <VPE_IndustrialHelixienGenerator.description>ヘリクセンガスを消費して大容量の電力を発生させる. ガス管ネットワークに接続されている必要があります.</VPE_IndustrialHelixienGenerator.description>
+
+  <VPE_GasCrematorium.label>ガス火葬炉</VPE_GasCrematorium.label>
+  <VPE_GasCrematorium.description>超高温で死体を気化させる巨大な石造りの火葬場. ヘリクセンガスで稼働する.</VPE_GasCrematorium.description>
+
+  <VPE_GasSmelter.label>ガス溶鉱炉</VPE_GasSmelter.label>
+  <VPE_GasSmelter.description>鉄塊や他の混合金属から使用可能な金属を抽出します. ヘリクセンガスで稼働する.</VPE_GasSmelter.description>
+
+  <VPE_GasStove.label>ガスコンロ</VPE_GasStove.label>
+  <VPE_GasStove.description>食事の準備に便利なカウンター付きのガスコンロ.</VPE_GasStove.description>
+
+  <VPE_GasDrill.label>ガス掘削機</VPE_GasDrill.label>
+  <VPE_GasDrill.description>地表の深部から鉱物を採取する深層ボーリング掘削機. 地中透過スキャナーを使用して資源を検出します. この掘削機は資源がない場合は石の塊が出てきます. 自由に位置を変えることができます.</VPE_GasDrill.description>
+
+  <VPE_GasCooler.label>ガスクーラー</VPE_GasCooler.label>
+  <VPE_GasCooler.description>冷却された空気を自らの周りに放出する空冷機. ウォークインフリーザーとして使用できます. 温度調整はできず自動的に0℃以下の温度になります.</VPE_GasCooler.description>
+
+  <VPE_GasHeater.label>ガスヒーター</VPE_GasHeater.label>
+  <VPE_GasHeater.description>輻射熱にヘリクセンガスを変換する装置. それは自動的に特定の目標温度に到達するためにそれ自身をオンまたはオフにすることができます.</VPE_GasHeater.description>
+
+  <VPE_GasSunLamp.label>ガス太陽灯</VPE_GasSunLamp.label>
+  <VPE_GasSunLamp.description>作物を栽培するのに十分な明るさでエリアを照らす工業用ランプですが中程度のヘリクセンガスを消費します. 夜間になると自動的に消灯します.</VPE_GasSunLamp.description>
+  <VPE_GasSunLamp.comps.2.offMessage>植物が育たない時間はオフになります</VPE_GasSunLamp.comps.2.offMessage>
+
+  <VPE_GasSmithy.label>ガス工作台</VPE_GasSmithy.label>
+  <VPE_GasSmithy.description>非機械式の武器や工具の鍛冶用ステーション. ヘリクセンガスで稼働する.</VPE_GasSmithy.description>
+
+  <VPE_GasLamp.label>ガス灯</VPE_GasLamp.label>
+  <VPE_GasLamp.description>エリアを照らすガス灯. 人がフル回転で移動したり, 仕事をしたりするには光が必要です. ガス管ネットワークに接続する必要がある. 屋外でも安全に設置できる.</VPE_GasLamp.description>
+
+  <VPE_GasWallLight.label>ガス壁灯</VPE_GasWallLight.label>
+  <VPE_GasWallLight.description>一帯を照らすガス式の壁灯. 人が全力で動き, 作業するためには光が必要です. ガス管ネットワークに接続する必要があります. 屋外でも安全に設置できます.</VPE_GasWallLight.description>
+
+  <VPE_GasWallDarkLight.label>ガス式壁掛けダークライト</VPE_GasWallDarkLight.label>
+  <VPE_GasWallDarkLight.description>広範囲に薄暗い光を発するガス式の壁灯. 暗闇での作業を好む者はこの光源に満足しています. ガス管ネットワークに接続する必要があります. 屋外でも安全に設置できます.</VPE_GasWallDarkLight.description>
+
+  <VPE_GasFloodlight.label>ガス投光器</VPE_GasFloodlight.label>
+  <VPE_GasFloodlight.description>広範囲を照らすガス式の背の高い投光器. 人が効率的に行動するには光が必要です. 農作物を育てるのに十分な明るさではありません. ガス管ネットワークに接続する必要があります. 屋外でも安全に設置できます.</VPE_GasFloodlight.description>
+
+  <VPE_GasBiofuelRefinery.label>ガス精錬所</VPE_GasBiofuelRefinery.label>
+  <VPE_GasBiofuelRefinery.description>木や植物のような有機物を化学燃料に精製する. ガス管ネットワークに接続する必要があります.</VPE_GasBiofuelRefinery.description>
+
+  <VPE_GasVent.label>ヘリクセンガスベント</VPE_GasVent.label>
+  <VPE_GasVent.description>ヘリクセンガスの有毒化合物を対象エリアに放出することができる壁掛け型の換気口. ヘリクセンガスを一気に充満させることができます. ガスの流れを制限するために, 同じネットワーク内に設置されたガスバルブが必要です. ヘリクセンガスは非常に揮発性があり, 空気ともに移動します.</VPE_GasVent.description>
+
+  <VPE_GasPodLauncher.label>ガス式ポッドランチャー</VPE_GasPodLauncher.label>
+  <VPE_GasPodLauncher.description>輸送ポッドを1つ発射するための燃料補給口. ポッドランチャーはグループでの発射が可能だが, ランチャーは隣接して配置されている必要がある. ガス管ネットワークに接続する必要があります.</VPE_GasPodLauncher.description>
+
+
+</LanguageData>

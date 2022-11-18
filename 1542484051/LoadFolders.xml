@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+  <v1.1>
+    <li>1.1</li>
+  </v1.1>
+  <v1.2>
+    <li>1.2</li>
+  </v1.2>
+  <v1.3>
+    <li>Common</li>
+    <!-- Dubs Bad Hygiene : 836308268 -->
+    <li IfModActive="Dubwise.DubsBadHygiene">1.3</li>
+    <li IfModActive="Dubwise.DubsBadHygiene_copy">1.3</li>
+    <!-- Invisible Fire Sprinklers - DBH : 2590970001 -->
+    <li IfModActive="invisiblefiresprinkler.dbh.capi">InvFireSpri</li>
+    <!-- Hydroelectrics : 2860671882 -->
+    <li IfModActive="NesiAvali.DBHPatch">HydroElectrics</li>
+  </v1.3>
+  <v1.4>
+    <li>Common</li>
+    <li IfModActive="Dubwise.DubsBadHygiene, Dubwise.DubsBadHygiene_steam, Dubwise.DubsBadHygiene_copy">1.4</li>
+    <li IfModActive="Ludeon.RimWorld.Biotech">Biotech</li>
+  </v1.4>
+</loadFolders>

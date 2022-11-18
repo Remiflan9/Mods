@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Research Projects -->
+
+  <VFE_Res_AdvancedHydroponics.label>人工生態系</VFE_Res_AdvancedHydroponics.label>
+  <VFE_Res_AdvancedHydroponics.description>水耕栽培栽培器を大幅に改良した高度な生態系環境を再現した人工生態系栽培器の建設を研究します。</VFE_Res_AdvancedHydroponics.description>
+
+  <VFE_Res_Sprinkler.label>スプリンクラー</VFE_Res_Sprinkler.label>
+  <VFE_Res_Sprinkler.description>設置された周辺の畑に自動的に散水して、農作物の成長速度を上昇させる装置の回路図を研究します。</VFE_Res_Sprinkler.description>
+
+
+  <!-- miscellaneous things which ought to have a tech but don't, i.e. the scarecrow and feeder -->
+
+  <VFE_Res_FarmingTechniques.label>古い農業技術</VFE_Res_FarmingTechniques.label>
+  <VFE_Res_FarmingTechniques.description>農作物を野生動物に食べられないようにする給餌箱や専用のかかしなど、大規模農業経営の基礎的な理論を研究します。</VFE_Res_FarmingTechniques.description>
+
+</LanguageData>

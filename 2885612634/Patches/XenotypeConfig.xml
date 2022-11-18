@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+
+
+<!-- Sanguophage -->
+	<Operation Class="PatchOperationInsert">
+		<xpath>Defs/XenotypeDef[defName = "Sanguophage"]/genes/li[1]</xpath>
+		<value>
+			<li>Eyes_Red</li>
+      		<li>Ears_Pointed</li>
+		</value>
+	</Operation>
+
+
+<!-- Neanderthal -->
+	<Operation Class="PatchOperationInsert">
+		<xpath>Defs/XenotypeDef[defName = "Neanderthal"]/genes/li[1]</xpath>
+		<value>
+      		<li>Ears_Human</li>
+		</value>
+	</Operation>
+
+
+<!-- Impid -->
+	<Operation Class="PatchOperationInsert">
+		<xpath>Defs/XenotypeDef[defName = "Impid"]/genes/li[1]</xpath>
+		<value>
+      		<li>Ears_Pointed</li>
+		</value>
+	</Operation>
+
+
+
+
+<!-- Yttakin -->
+	<Operation Class="PatchOperationRemove">
+		<xpath>Defs/XenotypeDef[defName = "Yttakin"]/genes/li[4]</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationInsert">
+		<xpath>Defs/XenotypeDef[defName = "Yttakin"]/genes/li[1]</xpath>
+		<value>
+			<li>Skin_PaleYellow</li>
+  			<li>Skin_SheerWhite</li>
+  			<li>Skin_LightGray</li>
+  			<li>Skin_SlateGray</li>
+  			<li>Skin_InkBlack</li>
+  			<li>Ears_Floppy</li>
+		</value>
+	</Operation>
+
+
+
+
+</Patch>

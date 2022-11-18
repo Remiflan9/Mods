@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_MakeCoffee.label>コーヒーを淹れる</VBE_MakeCoffee.label>
+        <VBE_MakeCoffee.description>牛乳と砂糖を加えた,温かく苦みのある飲み物を作ります.カフェインを多く含み,香りがよいため,銀河系全体で学生やオフィスワーカーに人気があります.</VBE_MakeCoffee.description>
+        <VBE_MakeCoffee.jobString>コーヒーを淹れている</VBE_MakeCoffee.jobString>
+    </LanguageData>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SewageSludgeComposting.label>下水汚泥の堆肥化</SewageSludgeComposting.label>
+  <SewageSludgeComposting.description>下水汚泥は適切に取り扱われて処理されると、肥料として栄養豊富で便利なバイオ肥料になります。それらは土地の肥沃度をわずかに高めることができ、栽培できる場所が限られている過酷な環境で役立ちます。バイオ肥料は、砂地の肥沃度を大幅に高め、灌漑と組み合わせると肥沃な土地にすることができます。</SewageSludgeComposting.description>
+
+  <MultiSplitAirCon.label>総合空調システム</MultiSplitAirCon.label>
+  <MultiSplitAirCon.description>エアコン室内機や倉庫型冷却機をパイプで接続されたエアコン室外機を備えた分配可能な総合空調システムを建築できるようになります。</MultiSplitAirCon.description>
+
+  <Plumbing.label>配管</Plumbing.label>
+  <Plumbing.description>排水管や配管給水設備や給水タンク、そしてそれらを利用した暖房や老廃物除去、飲料水の提供ができる装置を利用できるようになります。</Plumbing.description>
+
+  <LogBoilers.label>暖房</LogBoilers.label>
+  <LogBoilers.description>室内を暖房するのに使用できて、風呂の水を温めるために風呂に隣接して配置できる薪式ボイラーを建設できるようになります。</LogBoilers.description>
+
+  <CentralHeating.label>セントラル空調方式</CentralHeating.label>
+  <CentralHeating.description>ガス式ボイラーと電気ボイラー、給湯タンクと熱交換器、温度調節器を建築できるようになります。</CentralHeating.description>
+
+  <GeothermalHeating.label>地熱暖房</GeothermalHeating.label>
+  <GeothermalHeating.description>間欠泉の上に建設可能な地熱ヒーターを建設して、セントラル空調による暖房や温水タンク用の熱を発生させる研究をします。</GeothermalHeating.description>
+
+  <Saunas.label>サウナ</Saunas.label>
+  <Saunas.description>入植者がリラックスして体を清潔にできるサウナヒーターのある専用の部屋を作って、頻繁に使用することで心臓発作の可能性を減らすことが可能になります。</Saunas.description>
+
+  <ModernFixtures.label>現代的な浴室設備</ModernFixtures.label>
+  <ModernFixtures.description>現代的なトイレやシャワーなどの浴室設備を建設できるようになります。</ModernFixtures.description>
+
+  <ElectricPumps.label>電気給水ポンプ</ElectricPumps.label>
+  <ElectricPumps.description>電気式の給水用加圧ポンプです。</ElectricPumps.description>
+
+  <AdvancedShowers.label>電気温水シャワー</AdvancedShowers.label>
+  <AdvancedShowers.description>シャワーにかかる時間を半分にして、より快適性を高める電気温水式のシャワーを作る事が出来るようになります。</AdvancedShowers.description>
+
+  <AdvancedToilets.label>電気温水トイレ</AdvancedToilets.label>
+  <AdvancedToilets.description>快適な自動洗浄機能と、標準的なトイレの半分になる消費水量効率を実現した電気温水スマートトイレを作って、より快適に過ごせるようになります。</AdvancedToilets.description>
+
+  <HotTubs.label>浴槽</HotTubs.label>
+  <HotTubs.description>温泉療法やリラクゼーション、娯楽を得ることができる浴槽を作れるようになります。</HotTubs.description>
+
+  <LargeWaterPumps.label>工業用給水規格</LargeWaterPumps.label>
+  <LargeWaterPumps.description>大規模な工業用の給水ポンプと給水塔を建設できるようになります。</LargeWaterPumps.description>
+
+  <DeepWells.label>給水用井戸</DeepWells.label>
+  <DeepWells.description>地下深くを流れる地下水をくみ上げるために深い井戸を掘削することができるようになります。</DeepWells.description>
+
+  <WashingMachines.label>洗濯機</WashingMachines.label>
+  <WashingMachines.description>それを着たまま死んだ人が居たとは判らないほど、きれいに衣服を洗うことができる洗濯機を作りましょう！</WashingMachines.description>
+
+  <WaterFiltration.label>上水処理施設</WaterFiltration.label>
+  <WaterFiltration.description>給水をフィルター処理して病気のリスクを排除する、上水処理施設を建築できるようになります。</WaterFiltration.description>
+
+  <HygieneBionics.label>衛生生体工学</HygieneBionics.label>
+  <HygieneBionics.description>排泄物の処理と個人の衛生管理に役立つ衛生生体工学の強化インプラントを作成します。</HygieneBionics.description>
+
+  <SepticTanks.label>浄化槽</SepticTanks.label>
+  <SepticTanks.description>下水を溜めて、溜めた下水を浄化する適切な処理を行うことができる浄化槽を建設できるようになります。</SepticTanks.description>
+
+  <SewageTreatment.label>下水処理施設</SewageTreatment.label>
+  <SewageTreatment.description>大量の下水を蓄積して、迅速に処理する大規模な下水処理施設を建設することができます。</SewageTreatment.description>
+
+  <SwimmingPools.label>水泳プール</SwimmingPools.label>
+  <SwimmingPools.description>泳ぐことが可能な水泳用プールを建設できます。</SwimmingPools.description>
+
+  <Irrigation.label>灌漑用散水器</Irrigation.label>
+  <Irrigation.description>肥沃度を向上させるために、土壌に水を撒くことができる灌漑用散水器を建設できるようになります。</Irrigation.description>
+
+  <FireSuppression.label>消火用散水器</FireSuppression.label>
+  <FireSuppression.description>消火用散水器を建設すると、稼働させた際に火災の延焼を抑えることができます。</FireSuppression.description>
+
+</LanguageData>

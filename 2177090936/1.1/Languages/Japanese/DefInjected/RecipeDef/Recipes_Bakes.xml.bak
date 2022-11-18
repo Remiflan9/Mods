@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_CookBakeSimple.label>簡単な焼き料理 x2を作る</VCE_CookBakeSimple.label>
+  <VCE_CookBakeSimple.description>小麦粉から作れる簡単な焼き料理を2つ調理する.</VCE_CookBakeSimple.description>
+  <VCE_CookBakeSimple.jobString>簡単な焼き料理 x2を調理中.</VCE_CookBakeSimple.jobString>
+  <VCE_CookBakeSimpleBulk.label>簡単な焼き料理 x8を作る</VCE_CookBakeSimpleBulk.label>
+  <VCE_CookBakeSimpleBulk.description>小麦粉から作れる簡単な焼き料理を8つ調理する.</VCE_CookBakeSimpleBulk.description>
+  <VCE_CookBakeSimpleBulk.jobString>簡単な焼き料理 x8を調理中.</VCE_CookBakeSimpleBulk.jobString>
+  <VCE_CookBakeFine.label>手の込んだ焼き料理 x2を作る</VCE_CookBakeFine.label>
+  <VCE_CookBakeFine.description>厳選された食材と小麦粉から手間をかけ,手の込んだ焼き料理を2つ調理する.</VCE_CookBakeFine.description>
+  <VCE_CookBakeFine.jobString>手の込んだ焼き料理 x2を調理中.</VCE_CookBakeFine.jobString>
+  <VCE_CookBakeFineBulk.label>手の込んだ焼き料理 x8を作る</VCE_CookBakeFineBulk.label>
+  <VCE_CookBakeFineBulk.description>厳選された食材と小麦粉から手間をかけ,手の込んだ焼き料理を8つ調理する.</VCE_CookBakeFineBulk.description>
+  <VCE_CookBakeFineBulk.jobString>手の込んだ焼き料理 x8を調理中.</VCE_CookBakeFineBulk.jobString>
+  <VCE_CookBakeLavish.label>豪華な焼き料理 x2を作る</VCE_CookBakeLavish.label>
+  <VCE_CookBakeLavish.description>芸術料理を調理を2つ調理する. この料理は,体,心,魂に栄養を与えます.</VCE_CookBakeLavish.description>
+  <VCE_CookBakeLavish.jobString>豪華な焼き料理 x2を調理中.</VCE_CookBakeLavish.jobString>
+  <VCE_CookBakeLavishBulk.label>豪華な焼き料理 x8を作る</VCE_CookBakeLavishBulk.label>
+  <VCE_CookBakeLavishBulk.description>芸術料理を調理を8つ調理する. この料理は,体,心,魂に栄養を与えます.</VCE_CookBakeLavishBulk.description>
+  <VCE_CookBakeLavishBulk.jobString>豪華な焼き料理 x8を調理中.</VCE_CookBakeLavishBulk.jobString>
+  <VCE_CookBakeGourmet.label>至高の焼き料理 x2を作る</VCE_CookBakeGourmet.label>
+  <VCE_CookBakeGourmet.description>Cook two culinary works of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity bake.</VCE_CookBakeGourmet.description>
+  <VCE_CookBakeGourmet.jobString>至高の焼き料理 x2を調理中.</VCE_CookBakeGourmet.jobString>
+</LanguageData>

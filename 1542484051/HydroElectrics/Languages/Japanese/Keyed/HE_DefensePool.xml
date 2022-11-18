@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ToggleDefensePoolOff>排水路の放水停止</ToggleDefensePoolOff>
+  <ToggleDefensePoolOn>排水路に放水開始</ToggleDefensePoolOn>
+  <ToggleDefensePoolOffDesc>この排水路に残った水を排出して,再び使用可能にします.</ToggleDefensePoolOffDesc>
+  <ToggleDefensePoolOnDesc>この排水路に放水して,排水路の中に居るポーンを溺れさせます.</ToggleDefensePoolOnDesc>
+
+</LanguageData>

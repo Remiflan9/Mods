@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_EnergyDrink.label>エナジードリンク</VBE_EnergyDrink.label>
+        <VBE_EnergyDrink.description>酸味と発泡性があり,ほのかな苦みで締めくくられる飲み物です.砂糖とカフェインの組み合わせは,爆発的なエネルギーを前借りすることを意味しますが,後ほど急落します.</VBE_EnergyDrink.description>
+        <VBE_EnergyDrink.ingestible.ingestCommandString>{0}を 飲む</VBE_EnergyDrink.ingestible.ingestCommandString>
+        <VBE_EnergyDrink.ingestible.ingestReportString>{0}を 飲んでいる.</VBE_EnergyDrink.ingestible.ingestReportString>
+    </LanguageData>

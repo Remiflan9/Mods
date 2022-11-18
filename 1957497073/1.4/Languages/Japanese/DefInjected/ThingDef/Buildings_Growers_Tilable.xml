@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_PlanterBox_Tilable.label>プランター (リンク)</VFE_PlanterBox_Tilable.label>
+  <VFE_PlanterBox_Tilable.description>土の入った箱で植物を育てます。電源は必要ありません。\n\nこの拡張バージョンはモジュール式で、必要な形状に繋げて組み立てられます。</VFE_PlanterBox_Tilable.description>
+
+  <VFE_Hydroponics_Tilable.label>水耕栽培器 (リンク)</VFE_Hydroponics_Tilable.label>
+  <VFE_Hydroponics_Tilable.description>植物を栽培するための人工培養容器です。栄養供給ポンプは動作し続ける必要があります。電源が切れると栽培中の植物は枯れます。\n\nこの拡張バージョンはモジュール式で、必要な形状に繋げて組み立てられます。</VFE_Hydroponics_Tilable.description>
+
+  <VFE_Ecosystem_Tilable.label>人工生態系 栽培器 (リンク)</VFE_Ecosystem_Tilable.label>
+  <VFE_Ecosystem_Tilable.description>人工的に密閉された生態を作り植物をすばやく成長させます。作動させるには大電力が必要で電気が切れると植物は枯れます。\n植物に光を供給する太陽ランプが内臓されています。\n\nこの拡張バージョンはモジュール式で、必要な形状に繋げて組み立てられます。</VFE_Ecosystem_Tilable.description>
+
+</LanguageData>

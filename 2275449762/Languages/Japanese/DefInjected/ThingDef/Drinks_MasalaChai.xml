@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_MasalaChai.label>マサラチャイ</VBE_MasalaChai.label>
+  <VBE_MasalaChai.description>シンプルな葉と複雑なスパイスで作られた,かび臭く,暖かく,ほとんど木質のお茶.高コレステロールに対して良いと言われています.</VBE_MasalaChai.description>
+  <VBE_MasalaChai.ingestible.ingestCommandString>{0}を飲む</VBE_MasalaChai.ingestible.ingestCommandString>
+  <VBE_MasalaChai.ingestible.ingestReportString>{0}を飲んでいる</VBE_MasalaChai.ingestible.ingestReportString>
+</LanguageData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Seat_Cushion.label>座布団</Seat_Cushion.label>
+  <Seat_Cushion.description>素朴な座布団で、部族で人気があります。テーブルや作業台などで使えます。</Seat_Cushion.description>
+  <Blueprint_Seat_Cushion.label>座布団(設計)</Blueprint_Seat_Cushion.label>
+  <Blueprint_Install_Seat_Cushion.label>座布団(移動先)</Blueprint_Install_Seat_Cushion.label>
+  <Frame_Seat_Cushion.label>座布団(施工)</Frame_Seat_Cushion.label>
+  <Frame_Seat_Cushion.description>素朴な座布団で、部族で人気があります。テーブルや作業台などで使えます。</Frame_Seat_Cushion.description>
+
+  <Seat_Bench.label>ベンチ</Seat_Bench.label>
+  <Seat_Bench.description>複数の人が同時に座ることができる単純な長椅子で、あまり快適ではありませんが、地面に座るよりはましです。テーブルや作業台などで使えます。</Seat_Bench.description>
+  <Blueprint_Seat_Bench.label>ベンチ(設計)</Blueprint_Seat_Bench.label>
+  <Blueprint_Install_Seat_Bench.label>ベンチ(移動先)</Blueprint_Install_Seat_Bench.label>
+  <Frame_Seat_Bench.label>ベンチ(施工)</Frame_Seat_Bench.label>
+  <Frame_Seat_Bench.description>複数の人が同時に座ることができる単純な長椅子で、あまり快適ではありませんが、地面に座るよりはましです。テーブルや作業台などで使えます。</Frame_Seat_Bench.description>
+
+  <Seat_SquareChair.label>スクウェア チェア</Seat_SquareChair.label>
+  <Seat_SquareChair.description>食堂専用ではない、快適で見た目の良い椅子です。テーブルや作業台などで使えます。</Seat_SquareChair.description>
+  <Blueprint_Seat_SquareChair.label>スクウェア チェア(設計)</Blueprint_Seat_SquareChair.label>
+  <Blueprint_Install_Seat_SquareChair.label>スクウェア チェア(移動先)</Blueprint_Install_Seat_SquareChair.label>
+  <Frame_Seat_SquareChair.label>スクウェア チェア(施工)</Frame_Seat_SquareChair.label>
+  <Frame_Seat_SquareChair.description>食堂専用ではない、快適で見た目の良い椅子です。テーブルや作業台などで使えます。</Frame_Seat_SquareChair.description>
+
+</LanguageData>

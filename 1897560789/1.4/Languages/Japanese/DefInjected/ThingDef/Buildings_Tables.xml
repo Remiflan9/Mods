@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Table_interactive_1x1c.label>ネットワーク テーブル(1x1)</Table_interactive_1x1c.label>
+  <Table_interactive_1x1c.description>動画を見たり、ゲームをしたり、食事中にメモを取ったりできるインタラクティブ(双方向通信機能)なディスプレイがはめ込まれた食事用のテーブルです。ポーンがこのテーブルで食事をする場合に、テーブルに電気が供給されていると、娯楽の欲求が回復します。</Table_interactive_1x1c.description>
+  <Blueprint_Table_interactive_1x1c.label>ネットワーク テーブル(1x1)(設計)</Blueprint_Table_interactive_1x1c.label>
+  <Blueprint_Install_Table_interactive_1x1c.label>ネットワーク テーブル(1x1)(移動先)</Blueprint_Install_Table_interactive_1x1c.label>
+  <Frame_Table_interactive_1x1c.label>ネットワーク テーブル(1x1)(施工)</Frame_Table_interactive_1x1c.label>
+  <Frame_Table_interactive_1x1c.description>動画を見たり、ゲームをしたり、食事中にメモを取ったりできるインタラクティブ(双方向通信機能)なディスプレイがはめ込まれた食事用のテーブルです。ポーンがこのテーブルで食事をする場合に、テーブルに電気が供給されていると、娯楽の欲求が回復します。</Frame_Table_interactive_1x1c.description>
+
+  <Table_interactive_2x2c.label>ネットワーク テーブル(2x2)</Table_interactive_2x2c.label>
+  <Table_interactive_2x2c.description>動画を見たり、ゲームをしたり、食事中にメモを取ったりできるインタラクティブ(双方向通信機能)なディスプレイがはめ込まれた食事用のテーブルです。ポーンがこのテーブルで食事をする場合に、テーブルに電気が供給されていると、娯楽の欲求が回復します。</Table_interactive_2x2c.description>
+  <Blueprint_Table_interactive_2x2c.label>ネットワーク テーブル(2x2)(設計)</Blueprint_Table_interactive_2x2c.label>
+  <Blueprint_Install_Table_interactive_2x2c.label>ネットワーク テーブル(2x2)(移動先)</Blueprint_Install_Table_interactive_2x2c.label>
+  <Frame_Table_interactive_2x2c.label>ネットワーク テーブル(2x2)(施工)</Frame_Table_interactive_2x2c.label>
+  <Frame_Table_interactive_2x2c.description>動画を見たり、ゲームをしたり、食事中にメモを取ったりできるインタラクティブ(双方向通信機能)なディスプレイがはめ込まれた食事用のテーブルです。ポーンがこのテーブルで食事をする場合に、テーブルに電気が供給されていると、娯楽の欲求が回復します。</Frame_Table_interactive_2x2c.description>
+
+</LanguageData>

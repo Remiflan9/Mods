@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_Plant_Coffee.label>コーヒーの木</VBE_Plant_Coffee.label>
+        <VBE_Plant_Coffee.description>この果実の種はコーヒー豆として知られており,焙煎することで天然のカフェインと同様なしっかりとした苦みを引き出すことができます.この低木は古くからあるものと比較すると,早くに熟するものが選ばれて育てられています.</VBE_Plant_Coffee.description>
+        <VBE_Plant_Tea.label>茶の木</VBE_Plant_Tea.label>
+        <VBE_Plant_Tea.description>葉の多い栽培しやすい低木です.人類はその歴史の初めのころには,これらの植物の葉を煮出すことで,素朴で心地よいお茶になることを発見しています.この低木は古くからあるものと比較すると,早くに熟するものが選ばれて育てられています.</VBE_Plant_Tea.description>
+        <VBE_Plant_Tobacco.label>たばこ</VBE_Plant_Tobacco.label>
+        <VBE_Plant_Tobacco.description>暖かい気候で栽培される,背の低い広葉の植物です.たばこの葉はとても簡単に乾燥することができ,筒状に丸めて吸うことで穏やかな刺激を得ることができます.</VBE_Plant_Tobacco.description>
+    </LanguageData>

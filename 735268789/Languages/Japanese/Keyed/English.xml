@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TAcfgmenulabel>Techadvancing 設定</TAcfgmenulabel>
+  <newTechLevelLetterTitle>新しい技術レベル</newTechLevelLetterTitle>
+  <newTechLevelLetterContents>おめでとうございます。研究者があなたの{0}をよりスマートにする研究プロジェクトを終了しました。新しい技術レベルは</newTechLevelLetterContents>
+  <ConfigEditTechlevelChange>Tech Advancingがゲームに与える影響を編集したため、テクノロジーレベルが次のように変更されました</ConfigEditTechlevelChange>
+  <configHeader>ここでルールを編集できます：</configHeader>
+  <configRuleAdesc>ルールA：\nプレーヤーが一定の技術レベル以下のすべての技術の研究を完了した場合、技術レベルが一段階上昇します。</configRuleAdesc>
+  <configRuleBdesc>ルールB：\nプレイヤーが一定の技術レベル以下の50%を超える技術の研究を完了した場合、技術レベルが一段階上昇します。</configRuleBdesc>
+  <configRuleBSliderdesc>このスライダーは、ルールBのしきい値を制御します。</configRuleBSliderdesc>
+  <configRadioBtnNeolithic>新石器時代\n/部族</configRadioBtnNeolithic>
+  <configRadioBtnAutoDetect>自動検出\n(デフォルト)</configRadioBtnAutoDetect>
+  <configRadioBtnIndustrial>産業革命\n/入植者</configRadioBtnIndustrial>
+  <configBaseTechLvl>基本技術レベル</configBaseTechLvl>
+  <configTribe>部族</configTribe>
+  <configColony>入植地</configColony>
+  <configSetToTribe>部族に設定</configSetToTribe>
+  <configSetToColony>入植者に設定</configSetToColony>
+  <configNeolithic>新石器時代</configNeolithic>
+  <configIndustrial>産業革命</configIndustrial>
+  <configWordDefault>デフォルト：</configWordDefault>
+  <configExpectedTechLvl>このルールに期待される技術レベル：</configExpectedTechLvl>
+  <configResultingTechLvl>最終的なテクノロジーレベル：</configResultingTechLvl>
+  <configCheckboxNeedTechColonists>このオプションを有効にすると、植民地/部族に部族のメンバーしかいない場合、\n「{0}」を超えて技術レベルを上げることが出来なくなります。</configCheckboxNeedTechColonists>
+  <configCheckboxNeedTechColonists_CappedAt>その結果、あなたの技術レベルは、あなたの入植者/部族が非部族の人を獲得するまで「{0}」に制限されます。</configCheckboxNeedTechColonists_CappedAt>
+  <configCheckboxDisableCostMultiplicatorCap>研究プロジェクトの速度ペナルティ計算の200%のバニラ制限を削除します。 (A18以前と同様)。</configCheckboxDisableCostMultiplicatorCap>
+  <newTechLevelMedievalCapRemLetterTitle>高度な技術レベルのロックを解除</newTechLevelMedievalCapRemLetterTitle>
+  <newTechLevelMedievalCapRemLetterContents>あなたの{0}は、これまでよりも高度な技術知識を持った入植者を獲得しました。そのため、中世の技術レベルの制限はなくなりました。おめでとう！</newTechLevelMedievalCapRemLetterContents>
+  <newTechLevelMedievalCapRemLetterTitleRev>ロックされた高度な技術レベル</newTechLevelMedievalCapRemLetterTitleRev>
+  <newTechLevelMedievalCapRemLetterContentsRev>もうハイテクなものに精通している入植者は一人も残っていません。そのため、中世の技術レベルの制限が復活しました。</newTechLevelMedievalCapRemLetterContentsRev>
+  <TAcfgunavailable>設定ボタンは、マップの再生中にのみ使用できます。</TAcfgunavailable>
+  <availableTechLvls>次のテクノロジーレベルを使用できます。</availableTechLvls>
+  <TA_TL_Archotech>アルコテック</TA_TL_Archotech>
+  <TA_TL_Ultra>最先端技術</TA_TL_Ultra>
+  <TA_TL_Spacer>宇宙世紀</TA_TL_Spacer>
+  <TA_TL_Industrial>産業革命</TA_TL_Industrial>
+  <TA_TL_Medieval>中世</TA_TL_Medieval>
+  <TA_TL_Neolithic>新石器時代</TA_TL_Neolithic>
+  <TA_TL_Animal>道具を使えない</TA_TL_Animal>
+  <TA_TL_Undefined>未定義</TA_TL_Undefined>
+  <config_menu_button_main>主な設定</config_menu_button_main>
+  <config_menu_button_research_project_settings>プロジェクト設定</config_menu_button_research_project_settings>
+  <config_menu_button_research_project_info>Project Info</config_menu_button_research_project_info>
+  <configCheckboxMakeHigherResearchesSuperExpensive>研究プロジェクトがあなたの派閥よりも進んでいる場合は、X倍の費用がかかります。</configCheckboxMakeHigherResearchesSuperExpensive>
+  <configCheckboxMakeHigherResearchesSuperExpensiveFac>上記の設定には次の基本乗数を使用します：(現在の係数：x{0})</configCheckboxMakeHigherResearchesSuperExpensiveFac>
+  <configChangeResearchCostFac>すべての研究プロジェクトのコストを次の値でスケーリングします：(現在の係数：x{0})</configChangeResearchCostFac>
+  <configDiscountPctForLowerTechs>技術レベルを下回る技術には、X^N パーセントの割引を適用します, ここで、Xはスライダーの値、 \n Nはプロジェクトのレベルより進んでいる技術レベルの数です。: (現在の割引: -{0}%)</configDiscountPctForLowerTechs>
+  <configCheckboxIgnoreNonMainTreeTechs>リサーチツリーのメインタブにないプロジェクトはすべて無視してください。</configCheckboxIgnoreNonMainTreeTechs>
+  <configCheckboxIgnoreResearchNeedingTechprints>前提条件としてtechprintsを直接必要とするプロジェクト、または必要な前提条件があるすべてのプロジェクトを無視します。</configCheckboxIgnoreResearchNeedingTechprints>
+  <configWordTechlevel>技術レベル</configWordTechlevel>
+  <configResearchProjectInfo_TechsRemainingSingular>研究すべきプロジェクトが1つ残っています。 現在の研究の完全性: {1}%\n残りのプロジェクトは: {2}</configResearchProjectInfo_TechsRemainingSingular>
+  <configResearchProjectInfo_TechsRemainingPlural>まだ調査が必要なプロジェクトが {0} 件あります. 現在の研究の完全性: {1}%\n残りのプロジェクトは:\n{2}</configResearchProjectInfo_TechsRemainingPlural>
+  <configResearchProjectInfo_TechsRemainingNone>この技術レベルのすべてのプロジェクトが調査されました。</configResearchProjectInfo_TechsRemainingNone>
+</LanguageData>

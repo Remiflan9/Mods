@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_NoonChai.label>ヌーンチャイ</VBE_NoonChai.label>
+  <VBE_NoonChai.description>茶葉,塩少々,重曹を混ぜ合わせた古代のカシミール茶は,美味しさだけでなく体にやさしいことで有名な印象的なピンクの飲み物になります.高血圧の人の治療に非常に効率的です.</VBE_NoonChai.description>
+  <VBE_NoonChai.ingestible.ingestCommandString>{0}を飲む</VBE_NoonChai.ingestible.ingestCommandString>
+  <VBE_NoonChai.ingestible.ingestReportString>{0}を飲んでいる</VBE_NoonChai.ingestible.ingestReportString>
+</LanguageData>

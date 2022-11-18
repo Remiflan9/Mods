@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_SimpleCocktail.label>簡単なカクテル</VBE_SimpleCocktail.label>
+        <VBE_SimpleCocktail.description>二つの材料を混ぜ合わせた簡単なカクテル.</VBE_SimpleCocktail.description>
+        <VBE_FineCocktail.label>手の込んだカクテル</VBE_FineCocktail.label>
+        <VBE_FineCocktail.description>いくつかの材料を的確に混ぜ合わせた,手の込んだ複雑なカクテル.</VBE_FineCocktail.description>
+        <VBE_LavishCocktail.label>豪華なカクテル</VBE_LavishCocktail.label>
+        <VBE_LavishCocktail.description>このカクテルは,多様な材料を完璧に冷やしてから,細心の注意を払ってシェイクしました. バーテンダーの化身による傑作.</VBE_LavishCocktail.description>
+        <VBE_GourmetCocktail.label>至高のカクテル</VBE_GourmetCocktail.label>
+        <VBE_GourmetCocktail.description>紛れもないカクテル技術の奇跡. このカクテルはグラスの温度,攪拌器の選択,飾り付けなどあらゆる要素を緻密に計算して,最大限の風味とコクを実現しています.</VBE_GourmetCocktail.description>
+    </LanguageData>

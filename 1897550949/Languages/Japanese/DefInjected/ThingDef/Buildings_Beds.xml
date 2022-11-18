@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bed_OperatingTable.label>手術台</Bed_OperatingTable.label>
+  <Bed_OperatingTable.description>多分手術を簡単にするための手術器具が乱雑に置かれている手術用のテーブルですが、清潔とは言い難いです。通常のベッドよりも治療の結果をわずかですが良くします。</Bed_OperatingTable.description>
+  <Blueprint_Bed_OperatingTable.label>手術台(設計)</Blueprint_Bed_OperatingTable.label>
+  <Blueprint_Install_Bed_OperatingTable.label>手術台(移動先)</Blueprint_Install_Bed_OperatingTable.label>
+  <Frame_Bed_OperatingTable.label>手術台(施工)</Frame_Bed_OperatingTable.label>
+  <Frame_Bed_OperatingTable.description>多分手術を簡単にするための手術器具が乱雑に置かれている手術用のテーブルですが、清潔とは言い難いです。通常のベッドよりも治療の結果をわずかですが良くします。</Frame_Bed_OperatingTable.description>
+
+  <Bed_CryptoBed.label>低温治療装置</Bed_CryptoBed.label>
+  <Bed_CryptoBed.description>冬眠カプセルと同じ副作用(冷凍睡眠病)がありますが症状は軽く、部分的に低温冬眠状態を利用して傷の悪化を遅らせて、肉体の回復を補助する医療器具です。</Bed_CryptoBed.description>
+  <Blueprint_Bed_CryptoBed.label>低温治療装置(設計)</Blueprint_Bed_CryptoBed.label>
+  <Blueprint_Install_Bed_CryptoBed.label>低温治療装置(移動先)</Blueprint_Install_Bed_CryptoBed.label>
+  <Frame_Bed_CryptoBed.label>低温治療装置(施工)</Frame_Bed_CryptoBed.label>
+  <Frame_Bed_CryptoBed.description>冬眠カプセルと同じ副作用(冷凍睡眠病)がありますが症状は軽く、部分的に低温冬眠状態を利用して傷の悪化を遅らせて、肉体の回復を補助する医療器具です。</Frame_Bed_CryptoBed.description>
+
+</LanguageData>

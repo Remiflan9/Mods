@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipe Users: TableSculpting, CraftingSpot -->
+
+  <Make_VFE_Pottery.label>陶器を作る</Make_VFE_Pottery.label>
+  <Make_VFE_Pottery.description>陶器を作る。</Make_VFE_Pottery.description>
+  <Make_VFE_Pottery.jobString>陶器を製作中</Make_VFE_Pottery.jobString>
+
+
+  <!-- Recipe Users: TableSculpting -->
+
+  <Make_VFE_StatueSmall.label>小さな彫像を作る</Make_VFE_StatueSmall.label>
+  <Make_VFE_StatueSmall.description>小さな彫像を作る。</Make_VFE_StatueSmall.description>
+  <Make_VFE_StatueSmall.jobString>小さな彫像を製作中</Make_VFE_StatueSmall.jobString>
+
+  <Make_VFE_Carving.label>彫刻品を作る</Make_VFE_Carving.label>
+  <Make_VFE_Carving.description>彫刻品を作る。</Make_VFE_Carving.description>
+  <Make_VFE_Carving.jobString>彫刻品を製作中</Make_VFE_Carving.jobString>
+
+  <Make_VFE_StatueLarge.label>大きな彫像を作る</Make_VFE_StatueLarge.label>
+  <Make_VFE_StatueLarge.description>大きな彫像を作る。</Make_VFE_StatueLarge.description>
+  <Make_VFE_StatueLarge.jobString>大きな彫像を製作中</Make_VFE_StatueLarge.jobString>
+
+  <Make_VFE_StatueGrand.label>巨大な彫像を作る</Make_VFE_StatueGrand.label>
+  <Make_VFE_StatueGrand.description>巨大な彫像を作る。</Make_VFE_StatueGrand.description>
+  <Make_VFE_StatueGrand.jobString>巨大な彫像を製作中</Make_VFE_StatueGrand.jobString>
+
+  <Make_VFE_Monument.label>モニュメントを作る</Make_VFE_Monument.label>
+  <Make_VFE_Monument.description>モニュメントを作る。</Make_VFE_Monument.description>
+  <Make_VFE_Monument.jobString>モニュメントを製作中</Make_VFE_Monument.jobString>
+
+  <Make_VFE_Relief.label>レリーフを作る</Make_VFE_Relief.label>
+  <Make_VFE_Relief.description>レリーフを作る。</Make_VFE_Relief.description>
+  <Make_VFE_Relief.jobString>レリーフを製作中</Make_VFE_Relief.jobString>
+
+  <Make_VFE_Pillar.label>装飾柱を作る</Make_VFE_Pillar.label>
+  <Make_VFE_Pillar.description>装飾柱を作る。</Make_VFE_Pillar.description>
+  <Make_VFE_Pillar.jobString>装飾柱を製作中</Make_VFE_Pillar.jobString>
+
+  <Make_VFE_Obelisk.label>オベリスクを作る</Make_VFE_Obelisk.label>
+  <Make_VFE_Obelisk.description>オベリスクを作る。</Make_VFE_Obelisk.description>
+  <Make_VFE_Obelisk.jobString>オベリスクを製作中</Make_VFE_Obelisk.jobString>
+
+  <Make_VFE_Plinth.label>飾り台を作る</Make_VFE_Plinth.label>
+  <Make_VFE_Plinth.description>飾り台を作る。</Make_VFE_Plinth.description>
+  <Make_VFE_Plinth.jobString>飾り台を製作中</Make_VFE_Plinth.jobString>
+
+  <Make_VFE_DecorativePlantPot.label>装飾付植木鉢を作る</Make_VFE_DecorativePlantPot.label>
+  <Make_VFE_DecorativePlantPot.description>装飾付植木鉢を作る。</Make_VFE_DecorativePlantPot.description>
+  <Make_VFE_DecorativePlantPot.jobString>装飾付植木鉢を製作中</Make_VFE_DecorativePlantPot.jobString>
+
+
+  <!-- Recipe Users: FabricationBench -->
+
+  <Make_HologramBase.label>ホログラム台を製作する</Make_HologramBase.label>
+  <Make_HologramBase.description>ホログラム台を製作する。</Make_HologramBase.description>
+  <Make_HologramBase.jobString>ホログラム台を製作中</Make_HologramBase.jobString>
+
+
+  <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->
+
+  <Make_VFE_RugSmall.label>小さなラグマットを織る</Make_VFE_RugSmall.label>
+  <Make_VFE_RugSmall.description>小さなラグマットを織る。</Make_VFE_RugSmall.description>
+  <Make_VFE_RugSmall.jobString>小さなラグマットを製作中</Make_VFE_RugSmall.jobString>
+
+  <Make_VFE_RugLarge.label>大きなラグマットを織る</Make_VFE_RugLarge.label>
+  <Make_VFE_RugLarge.description>大きなラグマットを織る。</Make_VFE_RugLarge.description>
+  <Make_VFE_RugLarge.jobString>大きなラグマットを製作中</Make_VFE_RugLarge.jobString>
+
+  <Make_VFE_RugGrand.label>巨大なラグマットを織る</Make_VFE_RugGrand.label>
+  <Make_VFE_RugGrand.description>巨大なラグマットを織る。</Make_VFE_RugGrand.description>
+  <Make_VFE_RugGrand.jobString>巨大なラグマットを製作中</Make_VFE_RugGrand.jobString>
+
+</LanguageData>

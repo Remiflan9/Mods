@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!-- Dubs Bad Hygiene Thirst Need patch -->
+
+	<Operation Class="PatchOperationFindMod">
+		<success>Always</success>
+		<mods>
+			<!-- Check Mod name or workshop ID written in PublishedFileId.txt (Confirm existence of other Mod from this Mod) -->
+			<li>Dubs Bad Hygiene</li>
+			<li>836308268</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+				<li Class="PatchOperationReplace">
+					<xpath>*/ThingDef[defName = "WaterTrough"]/label</xpath>
+					<value>
+						<label>家畜用水槽</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>*/ThingDef[defName = "WaterTrough"]/description</xpath>
+					<value>
+						<description>動物用の水槽で、ボールタップ(浮玉浮力式の自動的に開閉する水栓)付き水タンクにより水位が低いときに自動的に水を補充します。雨でも水を補充できます。</description>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>*/ThingDef[defName = "DBH_WaterBottle"]/label</xpath>
+					<value>
+						<label>飲み水</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>*/ThingDef[defName = "DBH_WaterBottle"]/description</xpath>
+					<value>
+						<description>ボトルに入った飲み水です。</description>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>*/ThingDef[defName = "DBH_WaterBottle"]/ingestible/ingestCommandString</xpath>
+					<value>
+						<ingestCommandString>{0}を飲む</ingestCommandString>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>*/ThingDef[defName = "DBH_WaterBottle"]/ingestible/ingestReportString</xpath>
+					<value>
+						<ingestReportString>{0}を飲んでいる</ingestReportString>
+					</value>
+				</li>
+			</operations>
+		</match>
+		<nomatch Class="PatchOperationTest">
+			<xpath>*/ThingDef[defName = "MealSurvivalPack"]</xpath>
+			<success>Always</success>
+		</nomatch>
+	</Operation>
+
+</Patch>

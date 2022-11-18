@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_IrishCoffee.label>アイリッシュコーヒー</VBE_IrishCoffee.label>
+  <VBE_IrishCoffee.description>ウイスキーとコーヒーを徹底的にブレンドしてからスプーン一杯のホイップクリームをトッピングしています.ベッドから出てきたばかりで,もう一回飲みたいと思っている人にぴったりです.</VBE_IrishCoffee.description>
+  <VBE_IrishCoffee.ingestible.ingestCommandString>{0}を飲む</VBE_IrishCoffee.ingestible.ingestCommandString>
+  <VBE_IrishCoffee.ingestible.ingestReportString>{0}を飲んでいる</VBE_IrishCoffee.ingestible.ingestReportString>
+</LanguageData>

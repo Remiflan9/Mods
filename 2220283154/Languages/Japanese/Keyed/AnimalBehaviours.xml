@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <NocturnalAnimals.BodyClock>体内時計</NocturnalAnimals.BodyClock>
+  <NocturnalAnimals.BodyClock_Description>動物が何時に眠り、何時に目覚めるかを決定します。\n\n昼行性の動物は夜に眠って日中活動し、夜行性の動物は日中に眠って夜に活動します。薄明薄暮性動物は主に明け方や夕暮れ時に活動します。</NocturnalAnimals.BodyClock_Description>
+
+  <NocturnalAnimals.BodyClock_Diurnal>昼行性</NocturnalAnimals.BodyClock_Diurnal>
+  <NocturnalAnimals.BodyClock_Nocturnal>夜行性</NocturnalAnimals.BodyClock_Nocturnal>
+  <NocturnalAnimals.BodyClock_Crepuscular>薄暮性</NocturnalAnimals.BodyClock_Crepuscular>
+
+
+  <VEF_AsexualHatched>{0}は無性生殖した.</VEF_AsexualHatched>
+  <VEF_AsexualCloning>{0}は自分自身のクローンを生成した.</VEF_AsexualCloning>
+  <VEF_AsexualHatchedEgg>{0}は胞子を形成した.</VEF_AsexualHatchedEgg>
+  <VEF_NotTameable>この生き物は手に負えない</VEF_NotTameable>
+  <VEF_TimeToMetamorphosis>変態が完了する時間：{0}</VEF_TimeToMetamorphosis>
+
+  <VEF_WarningEggExplodes>警告：この卵は孵化すると爆発します！</VEF_WarningEggExplodes>
+
+  <VEF_TimeToDie>動物の寿命：{0}</VEF_TimeToDie>
+
+  <VEF_DisableAnimal>{0}を無効にする</VEF_DisableAnimal>
+
+  <VEF_StomachContents>{0}生物を丸ごと飲み込んだ.</VEF_StomachContents>
+  <VEF_DigestionTime>{0}時間で消化されます</VEF_DigestionTime>
+
+  <VEF_TerrainsNeedsDiggable>これを実行するには,掘ることが可能な地形が必要です</VEF_TerrainsNeedsDiggable>
+
+  <VEF_WhileCaravaning>キャラバン中全ての{0}{1}を生成：</VEF_WhileCaravaning>
+
+  <!-- Mod options -->
+
+  <VCE_AffectsAllAnimalMods>これらの動物行動オプションは、Vanilla-Expanded-Frameworkのコードを共有するすべての動物Modに影響します</VCE_AffectsAllAnimalMods>
+  <VCE_CorpseDecayingEffectOption>腐敗状態の死体を許可する（例えば、Helixien-slugの効果）</VCE_CorpseDecayingEffectOption>
+  <VCE_DigWhenHungryOption>空腹状態の時に掘り返すのを許可する（例えば、Frostmitesが死体を掘る）</VCE_DigWhenHungryOption>
+  <VCE_DigPeriodicallyOption>動物が定期的に掘り返すのを許可する</VCE_DigPeriodicallyOption>
+  <VCE_AnimalParticlesOption>動物の放出物(ガスや汚物)を許可する</VCE_AnimalParticlesOption>
+  <VCE_AsexualReproductionOption>無性生殖を許可する</VCE_AsexualReproductionOption>
+  <VFE_AsexualReproductionDisabled>Modオプションで無性生殖を無効にする</VFE_AsexualReproductionDisabled>
+  <VCE_BlinkMechanicsOption>「ブリンク(blink)」する能力を許可する(例えば、Skiphounds)</VCE_BlinkMechanicsOption>
+  <VCE_BuildPeriodicallyOption>動物に建築物の建設を許可する（例えば、ビーバーがダムを作る）</VCE_BuildPeriodicallyOption>
+  <VCE_ChargeBatteriesOption>動物が近くのバッテリーを充電したり、燃料補給を可能にする</VCE_ChargeBatteriesOption>
+  <VCE_ExplodingEggsOption>動物(ドラゴンなど)の爆発する卵を許可する</VCE_ExplodingEggsOption>
+  <VCE_HoveringOption>地形移動コストを無視して、動物が「ホバリング」することを許可する</VCE_HoveringOption>
+  <VCE_GraphicChangingOption>動物が状態に合わせて画像変更を許可する（例えば、Chameleon-Yak）</VCE_GraphicChangingOption>
+  <VCE_EffecterOption>動物がhediffsや精神状態や思考を引き起こすのを許可する</VCE_EffecterOption>
+  <VCE_RegenerationOption>HP再生を許可する（回復行動と自動回復の両方）</VCE_RegenerationOption>
+  <VCE_ResurrectionOption>動物が自動復活することを許可する（例えば、Phoenix-Owlcat）</VCE_ResurrectionOption>
+  <VCE_UntameableOption>一部の動物で飼いならし不可能を許可する</VCE_UntameableOption>
+
+  <!-- Bills -->
+
+  <VEF_BillRequiresMass>総重量{0}Kgが必要</VEF_BillRequiresMass>
+
+</LanguageData>

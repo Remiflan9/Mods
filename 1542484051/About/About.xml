@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Dubs Bad Hygiene 日本語翻訳追加</name>
+	<author>Proxyer</author>
+	<packageId>proxyer.jpt.dubsbadhygienejp</packageId>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>
+		<li>1.3</li>
+		<li>1.4</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>dubwise.dubsbadhygiene</packageId>
+			<displayName>Dubs Bad Hygiene</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/836308268</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>dubwise.dubsbadhygiene</li>
+		<li>dubwise.dubsbadhygiene_copy</li>
+		<li>dubwise.dubsbadhygiene_steam</li>
+		<li>invisiblefiresprinkler.dbh.capi</li>
+	</loadAfter>
+	<description><![CDATA[
+<color=#87CEFA>説明(Description)：</color>
+このModはオリジナルModに日本語翻訳を追加するためのModであり、
+Mod本体の機能は一切含まれていません。
+必ずオリジナルModを先に導入してください。
+
+注意点:
+飲み水と喉乾きを利用しない場合、それに関係する翻訳が不要になります。
+しかし、Modシステム(dll)側で処理している関係でそれらを
+パッチ処理できないため、喉の渇きを使用しない場合に5つの黄色の
+翻訳エラーが記録されますが、ゲームには問題はありません。
+
+また、簡易モードを有効化すると、翻訳の多くが適用先を失うので
+黄色エラーが298個記録されます。これもゲームには問題はありません。
+
+
+Modリストで有効化されていると翻訳を追加するMod:
+以下のModが存在する場合は、自動的に判別して翻訳が適用されます。
+
+Invisible Fire Sprinklers - DBH
+Hydroelectrics
+
+
+Modリストでの読み込み順番は、上から
+
+Core
+Royalty (DLC)
+Ideogy (DLC)
+Biotech (DLC)
+<b>Dubs Bad Hygiene</b>
+Invisible Fire Sprinklers - DBH (利用する場合)
+Hydroelectrics (利用する場合)
+Dubs Bad Hygiene 日本語翻訳追加 (このMod)
+
+の順番になるのがベストです。
+
+
+[1.4] [Sub-MOD] Dubs Bad Hygiene add Japanese Translation
+
+This Mod is adding a Japanese translation to the original Mod "<b>Dubs Bad Hygiene</b>".
+
+The original Mod was created by <b>Dubwise</b>.
+This Modmod does not include the core part of the original Mod.
+Only Japanese translation files are included.
+
+
+<color=#87CEFA>翻訳エラーについて：</color>
+Dubs Bad HygieneのMod設定で、飲用水を使用しない場合に、含まれている日本語翻訳を使用しないため、ゲームスタート時に以下の24個分の黄色エラーが記録されます。これはゲームの進行に影響のないエラーなので無視してかまいせん。(24以上ある場合はこの日本語翻訳とは無関係な翻訳エラーです)
+
+<color=#FFFF33>Translation data for language Japanese has 24 errors. Generate translation report for more info.</color>
+
+飲用水を使用する場合は上記のエラーは記録されません。
+
+
+<color=#87CEFA>説明翻訳(Japanese translate description)：</color>
+v2.9.2051
+衛生と膀胱の欲求と、配管(排水管と送風管)やバスルーム(とその備品)、上水と下水、農業の灌漑とスプリンクラー、セントラルヒーティング(暖房)とセントラルエアコン(冷房)などを追加します。
+
+<color=#5AA9D6>セーブデータの互換性：</color>
+既存のセーブでも動作します！しかし、Mod導入後のセーブデータからは簡単に"Dubs Bad Hygiene"を削除できません。
+
+<color=#5AA9D6>水の確保：</color>
+まず最初に、あなたは水を汲み上げて貯蔵するための給水塔か井戸や各種の給水ポンプを建設する必要があります。下水排水口はどこにでも設置できますが、下水が給水塔と重なっていると、「汚染されている」と表示され、病気を引き起こす可能性があります。
+
+<color=#5AA9D6>お湯(温水)：</color>
+浴槽とシャワーにはお湯が必要です。各種温水器(火力式/ガス式/電気/太陽熱)を設置して水を加熱してお湯にします。そのお湯を貯めるために給湯タンク(電力でいうバッテリー)を設置してください。温水器の熱を利用して部屋を暖房するには熱交換器を(電気ストーブのように)設置して暖房することができます。
+
+<color=#5AA9D6>加熱：</color>
+温水と熱交換器は、それぞれ別々に各種温水器で処理されます。温水器で温められたお湯は、トイレやシャワーで使うために温水タンクへ貯蔵されます。温水器で発生した熱は、接続されているすべての熱交換器と給湯タンクに分割されます。給湯タンク内にお湯(温水)の貯蔵量が足りていない場合は、温水器の電源を入れたり、別の温水器を追加して建設しましょう。電気ボイラーとガス式ボイラーの場合、いちいち手動でスイッチ操作を行い加熱をせずに、自動で切り替えを行うには温度調節器を設置します。
+
+<color=#5AA9D6>プライバシー：</color>
+プライバシーは非常に重要な事です。トイレはプライベートな空間であるか、狭い屋内にあるか、または視界が通らない場所にあることを確認してください。入植者(とポーン)は同じ性別の人の前で風呂やシャワーを使う事には羞恥心を感じないので、共同浴場やトイレを性別によって制限することができます。ベッドに紐つけられた専用のバスルーム(浴槽やシャワー、トイレの空間)は問題なくカップルで共有できます。
+
+入植者(とポーン)は、コロニーや自室の外にいるとき、膀胱の欲求に応じて、非常に小さな範囲内でトイレを探すので、マップの反対側などの遠くで採掘を行っている場合には、簡易トイレやトイレが近くにあるようにしてください。無い場合は屋外で行って羞恥心を感じて心情にペナルティを受けます。
+
+<color=#5AA9D6>灌漑：</color>
+スプリンクラーは毎朝午前5時になると1時間だけオンになり、土地に対する灌漑ボーナスは、散布された水が蒸発するにつれてゆっくりと失われます。散水には大量の水を使用するので、あなたは十分な水の供給ができるか確認したり、シャワーやトイレに使う水を、使い果たしていないように通常の配管網から灌漑用のタンクを隔離してください。
+
+<color=#5AA9D6>新しい特性：</color>
+清潔に関する特性が、潔癖症、きれい好き、無頓着、不潔症の計4つ追加されます。
+
+
+<color=#5AA9D6>MODオプション：</color>
+必要に応じて無効にしたり、利用可能な水量を増やすなど、Modオプションメニューでいくつかの設定を微調整することができます。
+
+
+Original mod : <b>Dubs Bad Hygiene</b>
+Original Mod author : <b>Dubwise</b>
+Author Discord Link : <color=#66FFFF>https://discord.gg/bajcjsu</color>
+
+
+
+ ]]></description>
+</ModMetaData>

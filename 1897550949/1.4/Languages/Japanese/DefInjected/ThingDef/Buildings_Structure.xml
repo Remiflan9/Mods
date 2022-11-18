@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_Wall_Sterile.label>抗菌壁</VFEM_Wall_Sterile.label>
+  <VFEM_Wall_Sterile.description>屋根を支えることが可能で通り抜けられない壁です。清潔さを高めて、清潔な空間を作り出します(清潔さは研究速度に影響します)。</VFEM_Wall_Sterile.description>
+  <Blueprint_VFEM_Wall_Sterile.label>抗菌壁(設計)</Blueprint_VFEM_Wall_Sterile.label>
+  <Frame_VFEM_Wall_Sterile.label>抗菌壁(施工)</Frame_VFEM_Wall_Sterile.label>
+  <Frame_VFEM_Wall_Sterile.description>屋根を支えることが可能で通り抜けられない壁です。清潔さを高めて、清潔な空間を作り出します(清潔さは研究速度に影響します)。</Frame_VFEM_Wall_Sterile.description>
+
+</LanguageData>

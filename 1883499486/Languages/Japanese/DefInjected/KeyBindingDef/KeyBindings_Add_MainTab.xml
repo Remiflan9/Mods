@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MintMenus_BuildMenu.label>Mint建設メニュータブの切替</MintMenus_BuildMenu.label>
+  <MintMenus_MintResearch.label>Mint研究メニュータブの切替</MintMenus_MintResearch.label>
+  <MintMenus_MintWheel.label>Mintホイールの切替</MintMenus_MintWheel.label>
+  <MintMenus_PinningHide.label>資源の読み出しを非表示 (ピン除外)</MintMenus_PinningHide.label>
+  <MintMenus_MintBillMenu.label>Mint加工命令</MintMenus_MintBillMenu.label>
+
+</LanguageData>

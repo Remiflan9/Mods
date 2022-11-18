@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_MakeLuciferiumPowder.label>ルシフェリウムパウダーを作る</VBE_MakeLuciferiumPowder.label>
+        <VBE_MakeLuciferiumPowder.description>ルシフェリウムから作られる,細かく砕いて混ぜた粉末を作ります.よく裕福で有力な人がアルコール飲料を飾るために使います.</VBE_MakeLuciferiumPowder.description>
+        <VBE_MakeLuciferiumPowder.jobString>ルシフェリウムパウダーを作成中</VBE_MakeLuciferiumPowder.jobString>
+        <VBE_MakeGoJuiceStock.label>ゴージュースストックを作る</VBE_MakeGoJuiceStock.label>
+        <VBE_MakeGoJuiceStock.description>ゴージュースを糊化して,注射するのではなく,消化できるキューブ状にしたものを作ります.どんな食事にも使用できますが,スープやカクテルの増粘剤としても使用されます.</VBE_MakeGoJuiceStock.description>
+        <VBE_MakeGoJuiceStock.jobString>ゴージュースストックを作成中</VBE_MakeGoJuiceStock.jobString>
+        <VBE_MakeWakeUpPowder.label>ウェイクアップパウダーを作る</VBE_MakeWakeUpPowder.label>
+        <VBE_MakeWakeUpPowder.description>ウェイクアップを砕いて,パウダー状にして作ります.意外と甘いので,デザートの砂糖の代わりや朝のエスプレッソに溶かしたりして使用します.</VBE_MakeWakeUpPowder.description>
+        <VBE_MakeWakeUpPowder.jobString>ウェイクアップパウダーを作成中</VBE_MakeWakeUpPowder.jobString>
+        <VBE_MakeSodaSyrupBulk.label>ソーダシロップを作る(砂糖)</VBE_MakeSodaSyrupBulk.label>
+        <VBE_MakeSodaSyrupBulk.description>天然果汁と砂糖を混ぜることで,ソーダシロップを作ります.このレシピははるかに効率的です.</VBE_MakeSodaSyrupBulk.description>
+        <VBE_MakeSodaSyrupBulk.jobString>ソーダシロップを作成中(砂糖)</VBE_MakeSodaSyrupBulk.jobString>
+        <VBE_MakeCocktailGourmet.label>至高のカクテルを作る</VBE_MakeCocktailGourmet.label>
+        <VBE_MakeCocktailGourmet.description>グラスの温度,攪拌器の選択,飾り付けなどあらゆる要素を緻密に計算して,最大限の風味とコクを実現した至高のカクテルを作ります.</VBE_MakeCocktailGourmet.description>
+        <VBE_MakeCocktailGourmet.jobString>至高のカクテルを作成中</VBE_MakeCocktailGourmet.jobString>
+    </LanguageData>

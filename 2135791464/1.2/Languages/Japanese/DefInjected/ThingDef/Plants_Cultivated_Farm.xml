@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Grass -->
+
+  <VCE_Grass.label>雑草</VCE_Grass.label>
+  <VCE_Grass.description>栽培できる雑草で,わずかな明かりと栄養があれば,どこにでも繁茂します.</VCE_Grass.description>
+
+  <VCE_TallGrass.label>イネ科の草</VCE_TallGrass.label>
+  <VCE_TallGrass.description>栽培できる背丈が高い植物です.この草が生い茂った中は歩きにくいです.</VCE_TallGrass.description>
+
+
+  <!-- Food crops -->
+
+  <VCE_Agave.label>アガベ</VCE_Agave.label>
+  <VCE_Agave.description>砂漠に生える食用の花(リュウゼツラン)と茎を持つ大きな葉を持つ栽培可能な植物です。</VCE_Agave.description>
+
+  <VCE_Onion.label>タマネギ</VCE_Onion.label>
+  <VCE_Onion.description>調理用とほぼ同じ種類の刺激物を含んでおり、香ばしい味と香りを産み出す食用の球根です。疫病の影響を受けることはありません。</VCE_Onion.description>
+
+  <VCE_Pumpkin.label>カボチャ</VCE_Pumpkin.label>
+  <VCE_Pumpkin.description>厳密には巨大化した果実であるカボチャは、種を蒔くのも収穫するのも簡単なことで知られています。しかし、それらの頑丈さは重量と余計な体積がある事を意味します。水耕栽培枠には入らないでしょう。</VCE_Pumpkin.description>
+
+  <VCE_Pepper.label>トウガラシ</VCE_Pepper.label>
+  <VCE_Pepper.description>ソースや薬味や粉末にしてよく使われる、小さくて辛さの強い赤い莢植物です。味自体はマイルドですが含まれているカプサイシンは大量に摂取すると痛みを感じ、その辛さは妙に病みつきになることがあります。野生動物はその植物を絶対に食べないことが知られています。</VCE_Pepper.description>
+
+  <VCE_Peas.label>エンドウマメ</VCE_Peas.label>
+  <VCE_Peas.description>球形をした緑色の種子が、肉質の鞘の中に含まれています。エンドウ豆は非常に水分を必要とすることが知られており、雨が降ることで大きな恩恵を受けます。エンドウ豆は適切に乾燥させた場合、賞味期限が長くなることで知られています。</VCE_Peas.description>
+
+  <VCE_Eggplant.label>ナス</VCE_Eggplant.label>
+  <VCE_Eggplant.description>ナス科ナス属の紫色をした果実です。西洋ではナスが添え物として出されることはほとんどなく、おかずとなることが多いです。暖かい季節に花を咲かせます。</VCE_Eggplant.description>
+
+  <VCE_Cabbage.label>キャベツ</VCE_Cabbage.label>
+  <VCE_Cabbage.description>やや硬くて葉の多い緑色の野菜で、よく刻んでから発酵させたり\n(ザワークラウト)煮込んだりします。この特別な品種は、空気中の毒素や放射線に対して大きな耐性があるようです。</VCE_Cabbage.description>
+
+  <VCE_Beet.label>テンサイ</VCE_Beet.label>
+  <VCE_Beet.description>人間や家畜用に広く栽培されているハーブのような野菜です。特に栄養価が高く、歴史的に染料の製造に利用されています。テンサイは豊かな土壌を必要としますが、かなりの収穫量があり、冬の間でもゆっくりと成長し続けます。ただし、栽培期間中に植える必要があります。</VCE_Beet.description>
+
+  <VCE_Tomato.label>トマト</VCE_Tomato.label>
+  <VCE_Tomato.description>ブドウのような木になる水分の多い光沢のある赤い果実の連なりで、一般的に野菜として用いられます。しっかり煮込むことで、天然の糖分が溶け出し、中に含まれる酸味が食欲をそそります。トマトは収穫する際に根こそぎ刈り取る必要がなく簡単につるから収穫できます。</VCE_Tomato.description>
+
+</LanguageData>

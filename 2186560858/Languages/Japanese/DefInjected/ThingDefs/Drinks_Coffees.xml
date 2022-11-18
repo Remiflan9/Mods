@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_HotCoffee.label>コーヒー</VBE_HotCoffee.label>
+        <VBE_HotCoffee.description>暖かく,苦みのある飲み物で,通常はミルクと砂糖を加えます.カフェインを多く含み,香りがよいため,銀河系全体で学生やオフィスワーカーに人気があります.</VBE_HotCoffee.description>
+        <VBE_HotCoffee.ingestible.ingestCommandString>{0}を 飲む</VBE_HotCoffee.ingestible.ingestCommandString>
+        <VBE_HotCoffee.ingestible.ingestReportString>{0}を 飲んでいる.</VBE_HotCoffee.ingestible.ingestReportString>
+        <VBE_IceCoffee.label>アイスコーヒー</VBE_IceCoffee.label>
+        <VBE_IceCoffee.description>氷のように冷やしたコーヒーです.冷やしたコーヒーは,温暖な気候では多くの人に好まれます.逸話では,冷やすことで苦みを和らげ,微妙にではあるが,風味を引き立てると言われています.ホットコーヒーと同じように,学生や専門家達に好まれています.</VBE_IceCoffee.description>
+        <VBE_IceCoffee.ingestible.ingestCommandString>{0}を 飲む</VBE_IceCoffee.ingestible.ingestCommandString>
+        <VBE_IceCoffee.ingestible.ingestReportString>{0}を 飲んでいる.</VBE_IceCoffee.ingestible.ingestReportString>
+    </LanguageData>

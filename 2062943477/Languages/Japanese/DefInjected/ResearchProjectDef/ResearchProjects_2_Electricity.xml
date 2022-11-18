@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_IndustrialGenerators.label>工業用発電</VFE_IndustrialGenerators.label>
+  <VFE_IndustrialGenerators.description>より多くの燃料を貯蔵し, より高い出力を生み出すことができる工業用発電機を構築する.</VFE_IndustrialGenerators.description>
+
+  <VFE_AdvancedBatteries.label>発展型バッテリー</VFE_AdvancedBatteries.label>
+  <VFE_AdvancedBatteries.description>効率的に大量のエネルギーを蓄えることができるスペーサーテックのバッテリーを構築する.</VFE_AdvancedBatteries.description>
+
+  <VFE_AdvancedPowerSources.label>発展型発電</VFE_AdvancedPowerSources.label>
+  <VFE_AdvancedPowerSources.description>先進的な太陽光発電や風力発電機を含む, スペーサーテックの再生可能エネルギー発電機を建設.</VFE_AdvancedPowerSources.description>
+
+  <VFE_NuclearPower.label>原子力発電</VFE_NuclearPower.label>
+  <VFE_NuclearPower.description>究極の発電方法である原子力発電は破壊的な危険とそれに見合う発電量を併せ持ちます.</VFE_NuclearPower.description>
+
+  <VFE_TidalPower.label>潮汐発電</VFE_TidalPower.label>
+  <VFE_TidalPower.description>水上に潮汐発電機を建設し, 大量の持続可能な再生可能エネルギーを生産する.</VFE_TidalPower.description>
+
+  <VFE_GasExtraction.label>ガス採掘</VFE_GasExtraction.label>
+  <VFE_GasExtraction.description>ヘリクセンガスとそれがいかに有能な燃料なのかを研究しましょう.</VFE_GasExtraction.description>
+
+
+</LanguageData>

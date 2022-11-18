@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VEF_AnimalResource.label>動物資源を収穫</VEF_AnimalResource.label>
+  <VEF_AnimalResource.verb>収穫</VEF_AnimalResource.verb>
+  <VEF_AnimalResource.gerund>の動物資源を収穫する</VEF_AnimalResource.gerund>
+
+  <VEF_DestroyItems.label>アイテムを破壊</VEF_DestroyItems.label>
+  <VEF_DestroyItems.verb>破壊</VEF_DestroyItems.verb>
+  <VEF_DestroyItems.gerund>のアイテムを破壊する</VEF_DestroyItems.gerund>
+
+</LanguageData>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<!-- MissingEye -->
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/FleshTypeDef[defName = "Normal"]/hediffWounds/li/wounds/li/drawOffsetSouth</xpath>
+			<value>
+				<drawOffsetSouth>(0.00, 0, -0.25)</drawOffsetSouth>
+			</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/FleshTypeDef[defName = "Normal"]/hediffWounds/li/wounds/li/drawOffsetEastWest</xpath>
+			<value>
+				<drawOffsetEastWest>(0.05, 0, -0.24)</drawOffsetEastWest>
+			</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/FleshTypeDef[defName = "Normal"]/hediffWounds/li/wounds/li/scale</xpath>
+			<value>
+				<scale>0.8</scale>
+			</value>
+	</Operation>
+
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/FleshTypeDef[defName = "Normal"]/hediffWounds/li[2]/wounds/li[2]/textureSouth</xpath>
+			<value>
+	            <textureSouth>Things/Pawn/Wounds/MissingEye_Fresh_south</textureSouth>
+			</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/FleshTypeDef[defName = "Normal"]/hediffWounds/li[2]/wounds/li[2]/textureNorth</xpath>
+			<value>
+	            <textureNorth>Things/Pawn/Wounds/MissingEye_Fresh_south</textureNorth>
+	        </value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/FleshTypeDef[defName = "Normal"]/hediffWounds/li[2]/wounds/li[2]/textureEast</xpath>
+			<value>
+	            <textureEast>Things/Pawn/Wounds/MissingEye_Fresh_east</textureEast>
+			</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/FleshTypeDef[defName = "Normal"]/hediffWounds/li[2]/wounds/li[2]/textureWest</xpath>
+			<value>
+				<textureWest>Things/Pawn/Wounds/MissingEye_Fresh_east</textureWest>
+			</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/FleshTypeDef[defName = "Normal"]/hediffWounds/li[2]/wounds/li[2]</xpath>
+			<value>
+				<tintWithSkinColor>true</tintWithSkinColor>
+			</value>
+	</Operation>
+
+
+<!-- Hediff -->
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/HediffDef[defName = "ArchotechEye"]/eyeGraphicScale</xpath>
+			<value>
+				<eyeGraphicScale>0.28</eyeGraphicScale>
+			</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/HediffDef[defName = "BionicEye"]/eyeGraphicScale</xpath>
+			<value>
+				<eyeGraphicScale>0.28</eyeGraphicScale>
+			</value>
+	</Operation>
+
+</Patch>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_Tequila.label>テキーラ</VBE_Tequila.label>
+        <VBE_Tequila.description>蛮族や荒くれ者,マッファロー乗りなどに好まれる,リュウゼツランのしぼり汁を発酵して作るお酒です.ボトルの底には,幸運を呼ぶと信じられている高たんぱくなスナックが沈められています.テキーラを飲む人は,長時間の戦闘に秀でていることが知られています.</VBE_Tequila.description>
+        <VBE_Tequila.ingestible.ingestCommandString>{0}を 飲む</VBE_Tequila.ingestible.ingestCommandString>
+        <VBE_Tequila.ingestible.ingestReportString>{0}を 飲んでいる.</VBE_Tequila.ingestible.ingestReportString>
+        <VBE_Tequila.tools.0.label>ボトル</VBE_Tequila.tools.0.label>
+        <VBE_Tequila.tools.1.label>ネック</VBE_Tequila.tools.1.label>
+    </LanguageData>

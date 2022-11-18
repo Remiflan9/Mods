@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_BrewLemonCoffee.label>エスプレッソロマーノを淹れる</VBE_BrewLemonCoffee.label>
+  <VBE_BrewLemonCoffee.description>より酸性のレモンのくさびを添えたすでに酸性のコーヒーを淹れます.これは,熱いうちにすぐに飲む前にコーヒーに搾り出すことを目的としています.確かに後天的な味ですが,それを好む人からは称賛されています.</VBE_BrewLemonCoffee.description>
+  <VBE_BrewLemonCoffee.jobString>エスプレッソロマーノを淹れている</VBE_BrewLemonCoffee.jobString>
+</LanguageData>

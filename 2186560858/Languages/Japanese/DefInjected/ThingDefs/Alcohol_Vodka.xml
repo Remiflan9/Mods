@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_Vodka.label>ウォッカ</VBE_Vodka.label>
+        <VBE_Vodka.description>発酵させたジャガイモから作られる,香りの無い澄んだアルコールです.ウォッカは単独で飲むこともできますが,混成酒のベースとして理想的であることと,それを飲んだ人がどうしようもなく高い水準で大胆な行動を引き起こすが知られています.</VBE_Vodka.description>
+        <VBE_Vodka.ingestible.ingestCommandString>{0}を 飲む</VBE_Vodka.ingestible.ingestCommandString>
+        <VBE_Vodka.ingestible.ingestReportString>{0}を 飲んでいる.</VBE_Vodka.ingestible.ingestReportString>
+        <VBE_Vodka.tools.0.label>ボトル</VBE_Vodka.tools.0.label>
+        <VBE_Vodka.tools.1.label>ネック</VBE_Vodka.tools.1.label>
+    </LanguageData>

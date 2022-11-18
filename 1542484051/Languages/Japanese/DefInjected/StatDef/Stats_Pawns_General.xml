@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ThirstRateMultiplier.label>渇き率の係数</ThirstRateMultiplier.label>
+  <ThirstRateMultiplier.description>生物ののどが渇く速さの係数です。</ThirstRateMultiplier.description>
+
+  <HygieneRateMultiplier.label>衛生率の係数</HygieneRateMultiplier.label>
+  <HygieneRateMultiplier.description>生物の衛生レベルが低下する速さの係数です。</HygieneRateMultiplier.description>
+
+  <BladderRateMultiplier.label>膀胱率の係数</BladderRateMultiplier.label>
+  <BladderRateMultiplier.description>生物の膀胱レベルが低下する速さの係数です。</BladderRateMultiplier.description>
+
+</LanguageData>

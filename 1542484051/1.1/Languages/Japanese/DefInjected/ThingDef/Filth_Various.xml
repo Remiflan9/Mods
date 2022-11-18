@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FilthUrine.label>尿</FilthUrine.label>
+  <FilthUrine.description>床にこぼれた尿です。</FilthUrine.description>
+
+  <FilthFaeces.label>糞便</FilthFaeces.label>
+  <RawSewage.label>未処理の下水</RawSewage.label>
+
+</LanguageData>

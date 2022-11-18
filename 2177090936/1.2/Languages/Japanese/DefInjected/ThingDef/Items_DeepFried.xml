@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_DeepFriedBigMeat.label>揚げ物(肉)</VCE_DeepFriedBigMeat.label>
+  <VCE_DeepFriedBigMeat.description>肉を適度に切り,厚い衣をつけて,熱い油に浸して揚げます. 油の衣は不健康ですが,サクサクとしたおいしいソウルフードです. 食事として満たされませんが,非常に楽しんで食べることができます. 揚げ物にすると,生肉より賞味期限が短くなります.</VCE_DeepFriedBigMeat.description>
+  <VCE_DeepFriedVegetables.label>揚げ物(野菜)</VCE_DeepFriedVegetables.label>
+  <VCE_DeepFriedVegetables.description>野菜は乾燥させた後,黄金色になるまで熱い油に浸される. サクサクの食感が楽しめる御馳走ですが,健康的なものではありません. 揚げ物にすると,生野菜より賞味期限が短くなります.</VCE_DeepFriedVegetables.description>
+  <VCE_DeepFriedFish.label>揚げ物(魚)</VCE_DeepFriedFish.label>
+  <VCE_DeepFriedFish.description>魚に厚い衣をつけて,熱い油で揚げます. 油で満たされた衣は不健康でありながらも,カリカリでおいしいソウルフードです. 食事としては満たされませんが,食べることは非常に楽しいです. 揚げ物にすると,生魚より賞味期限が短くなります.</VCE_DeepFriedFish.description>
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_MakeCoffeeFast.label>エスプレッソを淹れる</VBE_MakeCoffeeFast.label>
+  <VBE_MakeCoffeeFast.description>ミルクと砂糖を加えた暖かく苦い飲み物.高カフェイン含有量と心地よい香りのために銀河全体の学生やオフィスワーカーの間でお気に入り.エスプレッソマシンでコーヒーを醸造することは,一般的に高速です.</VBE_MakeCoffeeFast.description>
+  <VBE_MakeCoffeeFast.jobString>エスプレッソを淹れている</VBE_MakeCoffeeFast.jobString>
+  <VBE_ReheatCoffee.label>アイスコーヒーを温める</VBE_ReheatCoffee.label>
+  <VBE_ReheatCoffee.description>このエスプレッソマシンは,アイスコーヒーを再加熱するための小さな内蔵グリルがあります.</VBE_ReheatCoffee.description>
+  <VBE_ReheatCoffee.jobString>アイスコーヒーの再加熱中</VBE_ReheatCoffee.jobString>
+  <VBE_BrewLatteCoffee.label>ラテコーヒーを淹れる</VBE_BrewLatteCoffee.label>
+  <VBE_BrewLatteCoffee.description>淹れた力強いエスプレッソの苦みを和らげるのにフレッシュミルクは役立ちます.ラテは,特に </VBE_BrewLatteCoffee.description>
+  <VBE_BrewLatteCoffee.jobString>ラテコーヒーを淹れている</VBE_BrewLatteCoffee.jobString>
+  <VBE_BrewMochaCoffee.label>モカコーヒーを淹れる</VBE_BrewMochaCoffee.label>
+  <VBE_BrewMochaCoffee.description>甘くて贅沢なチョコレートを混ぜたコーヒーを淹れてみましょう.上流気取りの人は,「モカコーヒーは,コーヒーでは無く,デザートだ！」と言いますが….</VBE_BrewMochaCoffee.description>
+  <VBE_BrewMochaCoffee.jobString>モカコーヒーを淹れている</VBE_BrewMochaCoffee.jobString>
+  <VBE_BrewIrishCoffee.label>アイリッシュコーヒーを淹れる</VBE_BrewIrishCoffee.label>
+  <VBE_BrewIrishCoffee.description>ウイスキーとコーヒーを十分にブレンドしたドリンクを淹れてから,スプーン一杯のホイップクリームをトッピングします.ベッドから出てきたばかりで,もう帰りたくなってしまった方にぴったりです.</VBE_BrewIrishCoffee.description>
+  <VBE_BrewIrishCoffee.jobString>アイリッシュコーヒーを淹れている</VBE_BrewIrishCoffee.jobString>
+  <VBE_BrewCannibalCoffee.label>コーヒー・ザ・カニバルを淹れる</VBE_BrewCannibalCoffee.label>
+  <VBE_BrewCannibalCoffee.description>飲み物を淹れる...特別な...洗練されたコーヒーを飲む人のために.</VBE_BrewCannibalCoffee.description>
+  <VBE_BrewCannibalCoffee.jobString>コーヒー・ザ・カニバルを淹れている</VBE_BrewCannibalCoffee.jobString>
+</LanguageData>

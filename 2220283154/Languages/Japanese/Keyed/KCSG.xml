@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <KCSG.Add>追加</KCSG.Add>
+  <KCSG.Remove>削除</KCSG.Remove>
+  <KCSG.SpawnNearCenter>中央付近に発生</KCSG.SpawnNearCenter>
+  <KCSG.AllowFoggedPosition>未知の場所を許可</KCSG.AllowFoggedPosition>
+  <KCSG.SpawnPartOfEnnemyFaction>敵対派閥の一員を発生</KCSG.SpawnPartOfEnnemyFaction>
+  <KCSG.Mapcontains>マップに含まれる物</KCSG.Mapcontains>
+
+</LanguageData>

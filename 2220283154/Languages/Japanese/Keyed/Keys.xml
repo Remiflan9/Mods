@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Shield -->
+  <VanillaFactionsExpanded.EquipShield>{0}をシールドとして装備</VanillaFactionsExpanded.EquipShield>
+  <VanillaFactionsExpanded.EquipWarningShieldUnusable>（{0}で使用不可）</VanillaFactionsExpanded.EquipWarningShieldUnusable>
+  <VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>（{0}は使用不可能）</VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>
+
+  <VanillaFactionsExpanded.Protects>防御</VanillaFactionsExpanded.Protects>
+  <VanillaFactionsExpanded.Protects_Desc>シールドが防御する身体部位です。</VanillaFactionsExpanded.Protects_Desc>
+
+  <!-- Scenario parts -->
+  <VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>派閥友好関係修正</VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>
+  <VanillaFactionsExpanded.NumberRange>{0}から{1}</VanillaFactionsExpanded.NumberRange>
+  <VanillaFactionsExpanded.AllFactions>すべての派閥</VanillaFactionsExpanded.AllFactions>
+  <VanillaFactionsExpanded.AllFactionsIncludingHidden>非表示を含むすべての派閥</VanillaFactionsExpanded.AllFactionsIncludingHidden>
+  <VanillaFactionsExpanded.AlwaysHostile>常に敵対させる</VanillaFactionsExpanded.AlwaysHostile>
+  <VanillaFactionsExpanded.AffectHiddenFactions>非表示にも影響</VanillaFactionsExpanded.AffectHiddenFactions>
+  <VanillaFactionsExpanded.StartingGoodwill>ゲーム開始時</VanillaFactionsExpanded.StartingGoodwill>
+  <VanillaFactionsExpanded.NaturalGoodwill>中立</VanillaFactionsExpanded.NaturalGoodwill>
+
+  <!-- Stat Draw Entries -->
+  <VanillaFactionsExpanded.UsableWithShield>シールドと一緒に使用可能</VanillaFactionsExpanded.UsableWithShield>
+  <VanillaFactionsExpanded.UsableWithShield_Desc>キャラクターがシールドを一緒に装備している場合に、この武器が使えるかどうか。</VanillaFactionsExpanded.UsableWithShield_Desc>
+
+  <!-- New Faction Spawning -->
+  <VanillaFactionsExpanded.FactionTitle>新しい派閥：{FactionName}</VanillaFactionsExpanded.FactionTitle>
+  <VanillaFactionsExpanded.ModInfo>この派閥は{ModName}によって追加されました。現在ゲーム内に存在しません。</VanillaFactionsExpanded.ModInfo>
+  <VanillaFactionsExpanded.AnUnknownMod>不明なMod</VanillaFactionsExpanded.AnUnknownMod>
+  <VanillaFactionsExpanded.HiddenFactionInfo>これは非表示派閥で、派閥リストには表示されません。</VanillaFactionsExpanded.HiddenFactionInfo>
+  <VanillaFactionsExpanded.RequiredFactionInfo>{ModName}によって必須に設定されています。</VanillaFactionsExpanded.RequiredFactionInfo>
+  <VanillaFactionsExpanded.NonSpawningFactionInfo>この派閥は拠点を持たない種類として設定されており、おそらく無視する必要があります。</VanillaFactionsExpanded.NonSpawningFactionInfo>
+  <VanillaFactionsExpanded.FactionSelectOption>追加方法を選択：</VanillaFactionsExpanded.FactionSelectOption>
+  <VanillaFactionsExpanded.FactionButtonAdd>派閥を追加</VanillaFactionsExpanded.FactionButtonAdd>
+  <VanillaFactionsExpanded.FactionButtonAddFull>拠点付きの派閥を追加</VanillaFactionsExpanded.FactionButtonAddFull>
+  <VanillaFactionsExpanded.FactionButtonSkip>何もしない</VanillaFactionsExpanded.FactionButtonSkip>
+  <VanillaFactionsExpanded.FactionButtonIgnore>二度とこの派閥について質問しない</VanillaFactionsExpanded.FactionButtonIgnore>
+  <VanillaFactionsExpanded.FactionMessageFailed>派閥を追加できませんでした。</VanillaFactionsExpanded.FactionMessageFailed>
+  <VanillaFactionsExpanded.FactionMessageFailedFull>拠点付きの派閥作成に失敗しました。</VanillaFactionsExpanded.FactionMessageFailedFull>
+  <VanillaFactionsExpanded.FactionMessageSuccessFull>{FactionName}の拠点を{Amount}ヵ所追加しました。</VanillaFactionsExpanded.FactionMessageSuccessFull>
+  <VanillaFactionsExpanded.FactionMessageSuccess>{FactionName}を追加しました。</VanillaFactionsExpanded.FactionMessageSuccess>
+
+  <VanillaFactionsExpanded.FactionSettlementsToSpawn>設置する拠点(推奨距離{0}): {1}</VanillaFactionsExpanded.FactionSettlementsToSpawn>
+  <VanillaFactionsExpanded.FactionMinDistance>プレーヤーコロニーからの最小距離（推奨は{0}）：{1}</VanillaFactionsExpanded.FactionMinDistance>
+  <VanillaFactionsExpanded.FactionButtonSpawn>設置</VanillaFactionsExpanded.FactionButtonSpawn>
+  <VanillaFactionsExpanded.FactionButtonCancel>中止</VanillaFactionsExpanded.FactionButtonCancel>
+
+  <VSE.Reinforcements>援軍部隊</VSE.Reinforcements>
+  <VSE.ReinforcementsDesc>あなたの部隊が損害を受けたのを見て、{FACTION_name}は自分たちの襲撃部隊を強化することに決めました</VSE.ReinforcementsDesc>
+
+  <VSE.CostGoodwill>費用：{0} 友好度</VSE.CostGoodwill>
+
+  <VWEL_ToggleHotshotLabel>武器の射撃準備</VWEL_ToggleHotshotLabel>
+  <VWEL_ToggleHotshotDesc>移動を停止した状態で、武器の射撃準備を実行した後に、武器を発射した場合の射撃は、発射速度の増加を可能にします。過剰な発射速度による武器の過熱は、暴発につながる場合があります。</VWEL_ToggleHotshotDesc>
+
+  <VFE_DeepDrillNo>深部ドリルマシンは{0}では使用できません.</VFE_DeepDrillNo>
+</LanguageData>

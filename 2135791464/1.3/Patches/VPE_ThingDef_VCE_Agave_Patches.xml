@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!-- Agave plant Path -->
+
+	<!-- If you need only Core Agave, remove coment tag -->
+	<!--<Operation Class="PatchOperationFindMod">
+		<success>Always</success>
+		<mods>
+			<li>Vanilla Plants Expanded</li>
+			<li>2134308522</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+				<li Class="PatchOperationRemove">
+					<xpath>/Defs/ThingDef[defName="VCE_Agave"]</xpath>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/ThingDef[defName="Plant_Agave"]/plant</xpath>
+					<value>
+						<sowTags>
+							<li>Ground</li>
+							<li>Hydroponic</li>
+						</sowTags>
+						<humanFoodPlant>true</humanFoodPlant>
+					</value>
+				</li>
+			</operations>
+		</match>
+		<nomatch Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+				<li Class="PatchOperationTest">
+					<xpath>/Defs/ThingDef[defName="Plant_Agave"]</xpath>
+				</li>
+			</operations>
+		</nomatch>
+	</Operation>-->
+
+</Patch>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Walls -->
+
+  <VFEArch_LogWall.label>丸太の壁</VFEArch_LogWall.label>
+  <VFEArch_LogWall.description>木の丸太を水平に配置した壁です. 暖かで自宅に居る気分になります. 屋根を支えます.</VFEArch_LogWall.description>
+  <VFEArch_LogWall_Blueprint.label>丸太の壁(設計)</VFEArch_LogWall_Blueprint.label>
+  <VFEArch_LogWall_Frame.label>丸太の壁(施工)</VFEArch_LogWall_Frame.label>
+  <VFEArch_LogWall_Frame.description>木の丸太を水平に配置した壁です. 暖かで自宅に居る気分になります. 屋根を支えます.</VFEArch_LogWall_Frame.description>
+  <VFEArch_FineWall.label>華麗な壁</VFEArch_FineWall.label>
+  <VFEArch_FineWall.description>外観が美しい壁です. 屋根を支えます.</VFEArch_FineWall.description>
+
+  <!-- Misc -->
+
+  <VFEArch_ChainlinkFence.label>金網フェンス</VFEArch_ChainlinkFence.label>
+  <VFEArch_ChainlinkFence.description>金網が張られた金属製のフェンスです. 特定の種類の動物のための檻を作るのに使われ, ある種類の動物はフェンスを通り抜けることができます. 捕食動物はフェンスを越えて中にいる生物を狩ることはありませんが,それでもフェンスの内をうろつくことがあります.</VFEArch_ChainlinkFence.description>
+  <VFEArch_ChainlinkFence_Blueprint.label>金網フェンス(設計)</VFEArch_ChainlinkFence_Blueprint.label>
+  <VFEArch_ChainlinkFence_Frame.label>金網フェンス(施工)</VFEArch_ChainlinkFence_Frame.label>
+  <VFEArch_ChainlinkFence_Frame.description>金網が張られた金属製のフェンスです. 特定の種類の動物のための檻を作るのに使われ, ある種類の動物はフェンスを通り抜けることができます. 捕食動物はフェンスを越えて中にいる生物を狩ることはありませんが,それでもフェンスの内をうろつくことがあります.</VFEArch_ChainlinkFence_Frame.description>
+
+  <VFEArch_PicketFence.label>ピケットフェンス</VFEArch_PicketFence.label>
+  <VFEArch_PicketFence.description>木の板を組み合わせたフェンスです. 特定の種類の動物のための檻を作るのに使われ, ある種類の動物はフェンスを通り抜けることができます. 捕食動物はフェンスを越えて中にいる生物を狩ることはありませんが,それでもフェンスの内をうろつくことがあります.
+	
+このフェンスは,他のフェンスに比べてかなり美しく,暖かで自宅に居る気分になります.</VFEArch_PicketFence.description>
+  <VFEArch_PicketFence_Blueprint.label>杭垣(設計)</VFEArch_PicketFence_Blueprint.label>
+  <VFEArch_PicketFence_Frame.label>杭垣(施工)</VFEArch_PicketFence_Frame.label>
+  <VFEArch_PicketFence_Frame.description>木の板を組み合わせたフェンスです. 特定の種類の動物のための檻を作るのに使われ, ある種類の動物はフェンスを通り抜けることができます. 捕食動物はフェンスを越えて中にいる生物を狩ることはありませんが,それでもフェンスの内をうろつくことがあります.
+	
+このフェンスは,他のフェンスに比べてかなり美しく,暖かで自宅に居る気分になります.</VFEArch_PicketFence_Frame.description>
+
+  <VFEArch_BrickFence.label>レンガ塀</VFEArch_BrickFence.label>
+  <VFEArch_BrickFence.description>高さのある詰まれた石材と,その間にある短い柵でできたレンガのフェンスです. 特定の種類の動物のための檻を作るのに使われ, ある種類の動物はフェンスを通り抜けることができます. 捕食動物はフェンスを越えて中にいる生物を狩ることはありませんが,それでもフェンスの内をうろつくことがあります.</VFEArch_BrickFence.description>
+  <VFEArch_BrickFence_Blueprint.label>レンガ塀(設計)</VFEArch_BrickFence_Blueprint.label>
+  <VFEArch_BrickFence_Frame.label>レンガ塀(施工)</VFEArch_BrickFence_Frame.label>
+  <VFEArch_BrickFence_Frame.description>高さのある詰まれた石材と,その間にある短い柵でできたレンガのフェンスです. 特定の種類の動物のための檻を作るのに使われ, ある種類の動物はフェンスを通り抜けることができます. 捕食動物はフェンスを越えて中にいる生物を狩ることはありませんが,それでもフェンスの内をうろつくことがあります.</VFEArch_BrickFence_Frame.description>
+
+  <VFEArch_InvisibleFence.label>透明のフェンス</VFEArch_InvisibleFence.label>
+  <VFEArch_InvisibleFence.description>デバッグ用の見えないフェンスです. フェンスのない囲いを作りたいプレイヤーや,川や木がフェンスの障害になるようにしたいプレイヤーのためのものです. パスコストはありませんので,通過しようとするPawnを減速させることはありません.</VFEArch_InvisibleFence.description>
+  <VFEArch_InvisibleFence_Blueprint.label>透明のフェンス(設計)</VFEArch_InvisibleFence_Blueprint.label>
+  <VFEArch_InvisibleFence_Frame.label>透明のフェンス(施工)</VFEArch_InvisibleFence_Frame.label>
+  <VFEArch_InvisibleFence_Frame.description>デバッグ用の見えないフェンスです. フェンスのない囲いを作りたいプレイヤーや,川や木がフェンスの障害になるようにしたいプレイヤーのためのものです. パスコストはありませんので,通過しようとするPawnを減速させることはありません.</VFEArch_InvisibleFence_Frame.description>
+
+  <VFEArch_LowFence.label>低いフェンス</VFEArch_LowFence.label>
+  <VFEArch_LowFence.description>特定の種類の動物のための檻を作るのに使われ, ある種類の動物はフェンスを通り抜けることができます. 捕食動物はフェンスを越えて中にいる生物を狩ることはありませんが,それでもフェンスの内をうろつくことがあります.</VFEArch_LowFence.description>
+  <VFEArch_LowFence_Blueprint.label>低いフェンス(設計)</VFEArch_LowFence_Blueprint.label>
+  <VFEArch_LowFence_Frame.label>低いフェンス(施工)</VFEArch_LowFence_Frame.label>
+  <VFEArch_LowFence_Frame.description>特定の種類の動物のための檻を作るのに使われ, ある種類の動物はフェンスを通り抜けることができます. 捕食動物はフェンスを越えて中にいる生物を狩ることはありませんが,それでもフェンスの内をうろつくことがあります.</VFEArch_LowFence_Frame.description>
+
+  <VFEArch_HedgeWall.label>生垣</VFEArch_HedgeWall.label>
+  <VFEArch_HedgeWall.description>装飾用の植物で作られた垣根. 非常に燃えやすいです.</VFEArch_HedgeWall.description>
+  <VFEArch_HedgeWall_Blueprint.label>生垣(設計)</VFEArch_HedgeWall_Blueprint.label>
+  <VFEArch_HedgeWall_Frame.label>生垣(施工)</VFEArch_HedgeWall_Frame.label>
+  <VFEArch_HedgeWall_Frame.description>装飾用の植物で作られた垣根. 非常に燃えやすいです.</VFEArch_HedgeWall_Frame.description>
+
+  <VFEArch_CellWall.label>鉄格子</VFEArch_CellWall.label>
+  <VFEArch_CellWall.description>牢屋に最適な,通過不可能な壁です. 囚人はこの壁を攻撃できません.</VFEArch_CellWall.description>
+  <VFEArch_CellWall_Blueprint.label>鉄格子(設計)</VFEArch_CellWall_Blueprint.label>
+  <VFEArch_CellWall_Frame.label>鉄格子(施工)</VFEArch_CellWall_Frame.label>
+  <VFEArch_CellWall_Frame.description>牢屋に最適な,通過不可能な壁です. 囚人はこの壁を攻撃できません.</VFEArch_CellWall_Frame.description>
+
+  <VFEArch_CellDoor.label>鉄格子ドア</VFEArch_CellDoor.label>
+  <VFEArch_CellDoor.description>部屋を隔てる牢屋に最適なドアです. 囚人はこのドアを攻撃できません.</VFEArch_CellDoor.description>
+
+  <VFEArch_ArmoredWall.label>装甲壁</VFEArch_ArmoredWall.label>
+  <VFEArch_ArmoredWall.description>装甲によって強化された通過不可能な壁です. 爆発に対して,ほぼ完全な耐性があります.</VFEArch_ArmoredWall.description>
+  <VFEArch_ArmoredWall_Blueprint.label>装甲壁(設計)</VFEArch_ArmoredWall_Blueprint.label>
+  <VFEArch_ArmoredWall_Frame.label>装甲壁(施工)</VFEArch_ArmoredWall_Frame.label>
+  <VFEArch_ArmoredWall_Frame.description>装甲によって強化された通過不可能な壁です. 爆発に対して,ほぼ完全な耐性があります.</VFEArch_ArmoredWall_Frame.description>
+
+  <VFEArch_ArmoredDoor.label>装甲ドア</VFEArch_ArmoredDoor.label>
+  <VFEArch_ArmoredDoor.description>部屋を隔てる手動扉です. 手で開け閉めしないといけない分だけ移動が遅くなります. 爆発に対して,ほぼ完全な耐性があります.</VFEArch_ArmoredDoor.description>
+
+  <VFEArch_SingleDoor.label>大型ドア</VFEArch_SingleDoor.label>
+  <VFEArch_SingleDoor.description>部屋を隔てる手動扉です. 手で開け閉めしないといけない分だけ移動が遅くなります. 移動速度が遅くなる量は,ドアの材質とは関係ありません..</VFEArch_SingleDoor.description>
+
+  <VFEArch_AnimalGate.label>動物用ゲート</VFEArch_AnimalGate.label>
+  <VFEArch_AnimalGate.description>動物が簡単に出入りできるゲートです. 動物が通れるようになっていますが,部屋の断熱にはなりません. 動物用ゲートは,温暖な地域の納屋の入り口としてよく使われます.</VFEArch_AnimalGate.description>
+
+
+</LanguageData>

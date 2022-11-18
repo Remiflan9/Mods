@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_ChopCondiments.label>すり鉢で調味料を混ぜる</VCE_ChopCondiments.label>
+  <VCE_ChopCondiments.description>かろうじて食べれる物の塊に,色々な調味料で味付けして混ぜた,動物に与えることができるペットフード. スーパーマーケットのペットフードよりもまだ良いです.</VCE_ChopCondiments.description>
+  <VCE_ChopCondiments.jobString>すり鉢で調味料を混ぜる.</VCE_ChopCondiments.jobString>
+  <VCE_MakeSalt.label>塩を作る(ブロック)</VCE_MakeSalt.label>
+  <VCE_MakeSalt.description>天然石を砕いて加工し,石塊から食用塩を抽出します.\n\n料理スキルを使います.</VCE_MakeSalt.description>
+  <VCE_MakeSalt.jobString>塩を作成中.</VCE_MakeSalt.jobString>
+  <VCE_MakeSaltfromBlocks.label>塩を作る(石材)</VCE_MakeSaltfromBlocks.label>
+  <VCE_MakeSaltfromBlocks.description>天然石を砕いて加工し,石材から食用塩を抽出します.\n\n料理スキルを使います.</VCE_MakeSaltfromBlocks.description>
+  <VCE_MakeSaltfromBlocks.jobString>塊から塩を作る.</VCE_MakeSaltfromBlocks.jobString>
+  <VCE_AgaveNectar.label>リュウゼツラン蜜を作る</VCE_AgaveNectar.label>
+  <VCE_AgaveNectar.description>リュウゼツランからリュウゼツラン蜜を作ります. リュウゼツラン蜜はコクのないやや甘口の蜜で,回復効果や抗炎症作用があることで知られています.</VCE_AgaveNectar.description>
+  <VCE_AgaveNectar.jobString>リュウゼツラン蜜を作成中.</VCE_AgaveNectar.jobString>
+  <VCE_InsectJellyPreserves.label>インセクトゼリージャムを作る</VCE_InsectJellyPreserves.label>
+  <VCE_InsectJellyPreserves.description>インセクトゼリーからインセクトゼリージャムを作ります. 濃厚な甘さでありながら,意外とヘルシー.</VCE_InsectJellyPreserves.description>
+  <VCE_InsectJellyPreserves.jobString>インセクトゼリージャムを作成中.</VCE_InsectJellyPreserves.jobString>
+  <VCE_Mayo.label>マヨネーズを作る</VCE_Mayo.label>
+  <VCE_Mayo.description>卵からマヨネーズを作ります. 卵,油,ハーブからなる濃厚な乳剤. マヨネーズはカロリーが高く,あなたの健康を脅かしますが,心地よい味わいです.</VCE_Mayo.description>
+  <VCE_Mayo.jobString>マヨネーズを作成中.</VCE_Mayo.jobString>
+  <VCE_SmokeleafButter.label>スモークリーフバターを作る</VCE_SmokeleafButter.label>
+  <VCE_SmokeleafButter.description>スモークリーフとミルクからスモークリーフバターを作る. ミルクを非常に濃厚なクリームになるまで撹拌し,スモークリーフオイルを配合して固めた,とろみのある脂肪質の物質. 非常に不健康なもので,ジョイントよりもかなりハードなものです.</VCE_SmokeleafButter.description>
+  <VCE_SmokeleafButter.jobString>スモークリーフバターを作成中.</VCE_SmokeleafButter.jobString>
+  <VCE_ChocolateSyrup.label>チョコレートシロップを作る</VCE_ChocolateSyrup.label>
+  <VCE_ChocolateSyrup.description>遺伝子組み換えチョコレートからチョコレートシロップを作ります. 体に良いものではありませんが,砂糖ほど悪いものではありません.</VCE_ChocolateSyrup.description>
+  <VCE_ChocolateSyrup.jobString>チョコレートシロップを作成中.</VCE_ChocolateSyrup.jobString>
+</LanguageData>

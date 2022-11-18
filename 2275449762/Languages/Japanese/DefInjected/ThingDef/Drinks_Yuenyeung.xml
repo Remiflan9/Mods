@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_Yuenyeung.label>鴛鴦茶</VBE_Yuenyeung.label>
+  <VBE_Yuenyeung.description>コーヒーとお茶の混合物.お茶とコーヒーを飲む人は,この不浄な融合を作り上げながら,それぞれの違いを脇に置きます.通常は冷やしてお召し上がりいただけますが,温かいものでも冷たいものでも,吸収者にとっては同様に混乱を招きます.</VBE_Yuenyeung.description>
+  <VBE_Yuenyeung.ingestible.ingestCommandString>{0}を飲む</VBE_Yuenyeung.ingestible.ingestCommandString>
+  <VBE_Yuenyeung.ingestible.ingestReportString>{0}を飲んでいる</VBE_Yuenyeung.ingestible.ingestReportString>
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_AgaveNectar.label>リュウゼツラン蜜</VCE_AgaveNectar.label>
+  <VCE_AgaveNectar.description>コクのないやや甘口の蜜で,回復効果や抗炎症作用があることで知られています. 砂糖よりは健康的ですが,果糖が多く含まれているため,常用すると有害な場合があります.</VCE_AgaveNectar.description>
+  <VCE_RawSugar.label>砂糖</VCE_RawSugar.label>
+  <VCE_RawSugar.description>シンプルな結晶性のサトウキビ砂糖は,はるかに望ましい甘さを追加します. 砂糖は舌に良いのですが,腎臓にはあまり良くなく,大量に食べるとすぐに糖尿病を引き起こす可能性があります. 砂糖は体内でエネルギーに変換されやすく,結果的にエネルギーの素敵なバーストをもたらす可能性があります.</VCE_RawSugar.description>
+  <VCE_RawSpices.label>スパイス</VCE_RawSpices.label>
+  <VCE_RawSpices.description>アロマティックで辛味のある様々なスパイスが,舌の上にいくつかのシャープなノートを加え,あなたの足元に少し元気を与えます.</VCE_RawSpices.description>
+  <VCE_Salt.label>塩</VCE_Salt.label>
+  <VCE_Salt.description>岩塩は,一般的な塩と同様に,調理された他の食材の風味を高める効果があります. この調味料を含む食べ物を食べると血圧が上昇しやすくなります.</VCE_Salt.description>
+  <VCE_Mayo.label>マヨネーズ</VCE_Mayo.label>
+  <VCE_Mayo.description>卵,油,ハーブからなる濃厚な乳剤. マヨネーズはカロリーが高く,あなたの健康を脅かしますが,心地よい味わいです.</VCE_Mayo.description>
+  <VCE_InsectJellyPreserves.label>インセクトゼリージャム</VCE_InsectJellyPreserves.label>
+  <VCE_InsectJellyPreserves.description>インセクトゼリーを甘さを抑えて保存用にしたもの. 濃厚な甘さでありながら,意外とヘルシー.</VCE_InsectJellyPreserves.description>
+  <VCE_SmokeleafButter.label>スモークリーフバター</VCE_SmokeleafButter.label>
+  <VCE_SmokeleafButter.description>ミルクを非常に濃厚なクリームになるまで撹拌し,スモークリーフオイルを配合して固めた,とろみのある脂肪質の物質. 非常に不健康なもので,ジョイントよりもかなりハードなものです.</VCE_SmokeleafButter.description>
+  <VCE_ChocolateSyrup.label>チョコレートシロップ</VCE_ChocolateSyrup.label>
+  <VCE_ChocolateSyrup.description>ココア,水,砂糖を混ぜたもので,苦くて甘いシロップを作り,デザートの飾りつけに最適です. 体に良いものではありませんが,砂糖ほど悪いものではありません.</VCE_ChocolateSyrup.description>
+  <VCE_DigestibleResurrectorNanites.label>消化性リザレクトナナイト</VCE_DigestibleResurrectorNanites.label>
+  <VCE_DigestibleResurrectorNanites.description>非常にハイテクなグリッターワールドの調合物で,苦味と軽い静脈内出血のために直接飲むのは安全ではありません. しかし,適切に調理して食べ物に混ぜると,不思議なことにこれらの効果は無効化されるようです. 死に際にこれを持ったポーンは奇跡のようにすぐに復活する.</VCE_DigestibleResurrectorNanites.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_MochaCoffee.label>モカコーヒー</VBE_MochaCoffee.label>
+  <VBE_MochaCoffee.description>C甘くて贅沢なチョコレートを混ぜたコーヒーを淹れてみましょう.上流気取りの人は,「モカは,コーヒーでは無く,デザートだ！」と言いますが….</VBE_MochaCoffee.description>
+  <VBE_MochaCoffee.ingestible.ingestCommandString>{0}を飲む</VBE_MochaCoffee.ingestible.ingestCommandString>
+  <VBE_MochaCoffee.ingestible.ingestReportString>{0}を飲んでいる</VBE_MochaCoffee.ingestible.ingestReportString>
+</LanguageData>

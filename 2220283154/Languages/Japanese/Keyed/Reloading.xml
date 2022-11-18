@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Reloading.Unload>{GEAR_labelShort}をアンロード</Reloading.Unload>
+  <Reloading.NoAmmo>弾薬なし</Reloading.NoAmmo>
+  <Reloading.Ammo>弾薬：{0}/{1}</Reloading.Ammo>
+  <Reloading.Reload>{AMMO_label}を{GEAR}にリロード</Reloading.Reload>
+</LanguageData>

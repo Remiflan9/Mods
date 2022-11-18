@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Workbenches -->
+
+  <VPE_DoBillsGasCrematorium.label>ガス火葬炉で働く</VPE_DoBillsGasCrematorium.label>
+  <VPE_DoBillsGasCrematorium.verb>ガス火葬炉で働く</VPE_DoBillsGasCrematorium.verb>
+  <VPE_DoBillsGasCrematorium.gerund>ガス火葬炉で働いている</VPE_DoBillsGasCrematorium.gerund>
+
+  <VPE_BurnGasCrematorium.label>ガス火葬炉で焼く</VPE_BurnGasCrematorium.label>
+  <VPE_BurnGasCrematorium.verb>で焼く</VPE_BurnGasCrematorium.verb>
+  <VPE_BurnGasCrematorium.gerund>で焼いている</VPE_BurnGasCrematorium.gerund>
+
+  <VPE_DoBillsGasSmelter.label>ガス溶鉱炉で働く</VPE_DoBillsGasSmelter.label>
+  <VPE_DoBillsGasSmelter.verb>ガス溶鉱炉で働く</VPE_DoBillsGasSmelter.verb>
+  <VPE_DoBillsGasSmelter.gerund>ガス溶鉱炉で働いている</VPE_DoBillsGasSmelter.gerund>
+
+  <VPE_DoBillsGasStove.label>ガスコンロで調理する</VPE_DoBillsGasStove.label>
+  <VPE_DoBillsGasStove.verb>調理</VPE_DoBillsGasStove.verb>
+  <VPE_DoBillsGasStove.gerund>で調理する</VPE_DoBillsGasStove.gerund>
+
+  <VPE_DoBillsGasSmithy.label>武器製造</VPE_DoBillsGasSmithy.label>
+  <VPE_DoBillsGasSmithy.verb>鍛冶</VPE_DoBillsGasSmithy.verb>
+  <VPE_DoBillsGasSmithy.gerund>で鍛冶をする</VPE_DoBillsGasSmithy.gerund>
+
+  <VPE_DoBillsGasRefinery.label>精製</VPE_DoBillsGasRefinery.label>
+  <VPE_DoBillsGasRefinery.verb>精製</VPE_DoBillsGasRefinery.verb>
+  <VPE_DoBillsGasRefinery.gerund>で精製する</VPE_DoBillsGasRefinery.gerund>
+
+  <VPE_WorkAtGasExcavator.label>ガス掘削機で掘削する</VPE_WorkAtGasExcavator.label>
+  <VPE_WorkAtGasExcavator.verb>ガス掘削機で掘削する</VPE_WorkAtGasExcavator.verb>
+  <VPE_WorkAtGasExcavator.gerund>ガス掘削機で掘削している</VPE_WorkAtGasExcavator.gerund>
+
+  <VPE_WorkGiverPluggingHole.label>穴を埋める</VPE_WorkGiverPluggingHole.label>
+  <VPE_WorkGiverPluggingHole.verb>埋める</VPE_WorkGiverPluggingHole.verb>
+  <VPE_WorkGiverPluggingHole.gerund>埋め立てている</VPE_WorkGiverPluggingHole.gerund>
+
+  <VPE_WorkGiverPluggingPond.label>油田を埋める</VPE_WorkGiverPluggingPond.label>
+  <VPE_WorkGiverPluggingPond.verb>埋める</VPE_WorkGiverPluggingPond.verb>
+  <VPE_WorkGiverPluggingPond.gerund>埋め立てている</VPE_WorkGiverPluggingPond.gerund>
+
+
+</LanguageData>

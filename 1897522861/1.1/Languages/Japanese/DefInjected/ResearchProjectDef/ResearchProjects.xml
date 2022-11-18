@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MF_BasicFurniture.label>家具の基本</MF_BasicFurniture.label>
+  <MF_BasicFurniture.description>簡易ベッドや岩盤ベッド、1マスサイズのテーブルやスツール、ベンチなどの簡単で基本的な家具を作れるようになります。</MF_BasicFurniture.description>
+
+  <MF_RoyalFurniture.label>家具職人の製品</MF_RoyalFurniture.label>
+  <MF_RoyalFurniture.description>ベッドやエンドテーブル、ダイニングチェア、アームチェア、タンス、ツールキャビネット、ビリヤード台、ポーカーテーブル、換気口、石棺などの複雑な家具類を作れるようになります。また、裕福な上級階級の家でしか見られない、実用性よりもデザイン性と見た目に重点を置いた豪華な家具も作れるようになります。天蓋付きベッドや豪華なチェア、テーブル、アームチェアなどが作れるようになります。</MF_RoyalFurniture.description>
+
+  <MF_ModernFurniture.label>現代的な家具</MF_ModernFurniture.label>
+  <MF_ModernFurniture.description>ルーレット台やワードローブ\nダーツボードやサンドバッグ\n人間工学に基づくベッドなど美しさを超えて実用性に焦点を当てた、現代的な家具の作り方を研究します。</MF_ModernFurniture.description>
+
+  <MF_WasteDisposal.label>廃棄物処理</MF_WasteDisposal.label>
+  <MF_WasteDisposal.description>設置されている周辺をゆっくりと掃除する、大小2種類のゴミ箱を作ることを研究します。</MF_WasteDisposal.description>
+
+</LanguageData>

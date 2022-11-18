@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_MakeSodaSyrup.label>ソーダシロップを作る(果糖)</VBE_MakeSodaSyrup.label>
+        <VBE_MakeSodaSyrup.description>天然果汁と果糖ブドウ糖液糖を混ぜることで,ソーダシロップを作ります.</VBE_MakeSodaSyrup.description>
+        <VBE_MakeSodaSyrup.jobString>ソーダシロップを作成中(果糖)</VBE_MakeSodaSyrup.jobString>
+        <VBE_AmbrosiaMush.label>アンブロージアマッシュを作る</VBE_AmbrosiaMush.label>
+        <VBE_AmbrosiaMush.description>薄く切ってつぶしたアンブロージアを,熟成させるために寝かせて,更に蒸留することで,繊細で素晴らしいアルコール飲料を作ります.</VBE_AmbrosiaMush.description>
+        <VBE_AmbrosiaMush.jobString>アンブロージアマッシュを作成中</VBE_AmbrosiaMush.jobString>
+        <VBE_MakeTequilaMust.label>テキーラマストを作る</VBE_MakeTequilaMust.label>
+        <VBE_MakeTequilaMust.description>リュウゼツランのしぼり汁やとげのあるサボテン,虫をまぜたスターターを薄く混ぜて作り,樽で発酵させます.</VBE_MakeTequilaMust.description>
+        <VBE_MakeTequilaMust.jobString>テキーラマストを作成中</VBE_MakeTequilaMust.jobString>
+        <VBE_MakeWhiskeyMash.label>ウィスキーマッシュを作る</VBE_MakeWhiskeyMash.label>
+        <VBE_MakeWhiskeyMash.description>でんぷん質とたっぷりの水を,どろどろになるまで混ぜ合わせたものを作ります.熟成の準備ができました.</VBE_MakeWhiskeyMash.description>
+        <VBE_MakeWhiskeyMash.jobString>ウィスキーマッシュを作成中</VBE_MakeWhiskeyMash.jobString>
+        <VBE_MakeVodkaMash.label>ウォッカマッシュを作る</VBE_MakeVodkaMash.label>
+        <VBE_MakeVodkaMash.description>生のじゃがいもとスターターで,どろっとしたマッシュを作り,発酵させます.</VBE_MakeVodkaMash.description>
+        <VBE_MakeVodkaMash.jobString>ウォッカマッシュを作成中</VBE_MakeVodkaMash.jobString>
+        <VBE_MakeGinMush.label>ジンマッシュを作る</VBE_MakeGinMush.label>
+        <VBE_MakeGinMush.description>澄んではいるが,ベリーの汁と雑穀を混ぜたものの濁りを含んだものを作り,発酵させます.</VBE_MakeGinMush.description>
+        <VBE_MakeGinMush.jobString>ジンマッシュを作成中</VBE_MakeGinMush.jobString>
+    </LanguageData>

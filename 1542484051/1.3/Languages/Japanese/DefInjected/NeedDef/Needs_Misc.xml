@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bladder.label>膀胱</Bladder.label>
+  <Bladder.description>病気の蔓延を避けるためには、廃棄物の除去や処理を行って、下水が綺麗な水の供給を汚染しないように防いで、衛生環境の状態を良好に保つことが重要です。</Bladder.description>
+
+
+  <!-- DONT CHANGE NAMES WILL BREAK RIMHUD -->
+
+  <Hygiene.label>衛生</Hygiene.label>
+  <Hygiene.description>衛生環境を良好に保つことは、病気の可能性を軽減し、入植者の幸福と健康を保つために重要な事です。\n\nMod設定：</Hygiene.description>
+
+  <!-- COMMON SENSE WILL FORCE THEM TO DRINK WHEN THIRST FALLS TO ONLY 80% -->
+
+  <DBHThirst.label>渇き</DBHThirst.label>
+  <DBHThirst.description>生命活動の大半には水が必要不可欠です。この値がゼロに達すると、生き物は徐々に脱水して最終的に死ぬでしょう。\n\nMod設定：</DBHThirst.description>
+
+</LanguageData>

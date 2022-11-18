@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pipes -->
+
+  <sewagePipeStuff.label>排水管</sewagePipeStuff.label>
+  <sewagePipeStuff.description>トイレなどから出る排水を処理施設に送るための配管です。</sewagePipeStuff.description>
+  <Blueprint_sewagePipeStuff.label>排水管(設計)</Blueprint_sewagePipeStuff.label>
+  <Frame_sewagePipeStuff.label>排水管(施工)</Frame_sewagePipeStuff.label>
+  <Frame_sewagePipeStuff.description>トイレなどから出る排水を処理施設に送るための配管です。</Frame_sewagePipeStuff.description>
+
+  <plumbingValve.label>配管用バルブ</plumbingValve.label>
+  <plumbingValve.description>パイプ同士の接続を開閉します。</plumbingValve.description>
+  <Blueprint_plumbingValve.label>配管用バルブ(設計)</Blueprint_plumbingValve.label>
+  <Blueprint_Install_plumbingValve.label>配管用バルブ(移動先)</Blueprint_Install_plumbingValve.label>
+  <Frame_plumbingValve.label>配管用バルブ(施工)</Frame_plumbingValve.label>
+  <Frame_plumbingValve.description>パイプ同士の接続を開閉します。</Frame_plumbingValve.description>
+
+  <airPipe.label>送風管</airPipe.label>
+  <airPipe.description>空調ユニットを接続するための送風パイプです。</airPipe.description>
+  <Blueprint_airPipe.label>送風管(設計)</Blueprint_airPipe.label>
+  <Frame_airPipe.label>送風管(施工)</Frame_airPipe.label>
+  <Frame_airPipe.description>空調ユニットを接続するための送風パイプです。</Frame_airPipe.description>
+
+</LanguageData>

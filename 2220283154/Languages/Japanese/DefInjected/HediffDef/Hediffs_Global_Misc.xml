@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VEF_PermanentBurn.label>永久に残る火傷</VEF_PermanentBurn.label>
+  <VEF_PermanentBurn.description>治療できない永久に残るやけどの傷です.</VEF_PermanentBurn.description>
+  <VEF_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>永久に残る火傷跡</VEF_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <VEF_PermanentBurn.injuryProps.destroyedLabel>燃え尽きた</VEF_PermanentBurn.injuryProps.destroyedLabel>
+  <VEF_PermanentBurn.injuryProps.destroyedOutLabel>燃え尽きた</VEF_PermanentBurn.injuryProps.destroyedOutLabel>
+  <VEF_PermanentBurn.labelNoun>永久に残る火傷</VEF_PermanentBurn.labelNoun>
+  <VEF_PermanentBurn.labelNounPretty>{0}内の{1}</VEF_PermanentBurn.labelNounPretty>
+
+  <VEF_AcidBuildup.label>酸やけど</VEF_AcidBuildup.label>
+  <VEF_AcidBuildup.description>攻撃を受けた後でも,かなり長時間にわたって火傷を引き起こし続ける酸の飛沫です.</VEF_AcidBuildup.description>
+  <VEF_AcidBuildup.stages.minor_receiving_burns.label>軽度,やけどを負った</VEF_AcidBuildup.stages.minor_receiving_burns.label>
+  <VEF_AcidBuildup.stages.moderate_receiving_burns.label>中度,やけどを負った</VEF_AcidBuildup.stages.moderate_receiving_burns.label>
+  <VEF_AcidBuildup.stages.serious_receiving_burns.label>深刻,やけどを負った</VEF_AcidBuildup.stages.serious_receiving_burns.label>
+
+  <VEF_AcidBurn.label>酸やけど</VEF_AcidBurn.label>
+  <VEF_AcidBurn.description>酸によるやけどです.</VEF_AcidBurn.description>
+  <VEF_AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>酸火傷痕</VEF_AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <VEF_AcidBurn.comps.HediffComp_TendDuration.labelTendedWell>包帯</VEF_AcidBurn.comps.HediffComp_TendDuration.labelTendedWell>
+  <VEF_AcidBurn.comps.HediffComp_TendDuration.labelTendedWellInner>縫合</VEF_AcidBurn.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <VEF_AcidBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>セット</VEF_AcidBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <VEF_AcidBurn.injuryProps.destroyedLabel>焼け落ちた (酸)</VEF_AcidBurn.injuryProps.destroyedLabel>
+  <VEF_AcidBurn.injuryProps.destroyedOutLabel>焼け落ちた (酸)</VEF_AcidBurn.injuryProps.destroyedOutLabel>
+  <VEF_AcidBurn.labelNoun>酸やけど</VEF_AcidBurn.labelNoun>
+  <VEF_AcidBurn.labelNounPretty>{0}内の{1}</VEF_AcidBurn.labelNounPretty>
+
+  <VEF_LightSustenance.label>日光の強度</VEF_LightSustenance.label>
+  <VEF_LightSustenance.description>この生物は日光を取り込み栄養にします。強さが不十分な光では死んでしまいます。</VEF_LightSustenance.description>
+  <VEF_LightSustenance.stages.adequate_light.label>十分な光</VEF_LightSustenance.stages.adequate_light.label>
+  <VEF_LightSustenance.stages.poor_light_levels.label>光量が不足</VEF_LightSustenance.stages.poor_light_levels.label>
+  <VEF_LightSustenance.stages.very_low_light_levels.label>光量が非常に弱い</VEF_LightSustenance.stages.very_low_light_levels.label>
+  <VEF_LightSustenance.stages.lack_of_sunlight.label>日光が不十分</VEF_LightSustenance.stages.lack_of_sunlight.label>
+  <VEF_LightSustenance.stages.extreme_lack_of_sustenance.label>極度の日光不足</VEF_LightSustenance.stages.extreme_lack_of_sustenance.label>
+
+  <VEF_ToxicBuildup.label>毒物が蓄積</VEF_ToxicBuildup.label>
+  <VEF_ToxicBuildup.description>血液中に毒素が溜まった状態です.これは,大気などの環境からの毒素や毒牙に噛まれたり,毒の付いた武器を含む色々な方法で体内に毒が入り込むことが原因です.\n摂取した毒素の量が多い場合,毒物の蓄積は致命的です.量が少なくても,悪性腫瘍を発生させる可能性があります.\nバニラでの毒物が蓄積とは反対で,この毒物ダメージで死んだ生物は食べることができます.</VEF_ToxicBuildup.description>
+  <VEF_ToxicBuildup.stages.initial-0.label>初期</VEF_ToxicBuildup.stages.initial-0.label>
+  <VEF_ToxicBuildup.stages.initial-1.label>初期</VEF_ToxicBuildup.stages.initial-1.label>
+  <VEF_ToxicBuildup.stages.minor.label>軽度</VEF_ToxicBuildup.stages.minor.label>
+  <VEF_ToxicBuildup.stages.moderate.label>中度</VEF_ToxicBuildup.stages.moderate.label>
+  <VEF_ToxicBuildup.stages.serious.label>重度</VEF_ToxicBuildup.stages.serious.label>
+  <VEF_ToxicBuildup.stages.extreme.label>極度</VEF_ToxicBuildup.stages.extreme.label>
+
+  <VFEP_HypothermicSlowdown.label>低体温硬直</VFEP_HypothermicSlowdown.label>
+  <VFEP_HypothermicSlowdown.description>危険なほど深部体温が低い状態です.再び体温を高めないと低体温症による全身の硬直が悪化して死に至ります.患者の体温を温め直せば,すぐに回復します.</VFEP_HypothermicSlowdown.description>
+  <VFEP_HypothermicSlowdown.stages.minor-0.label>初期</VFEP_HypothermicSlowdown.stages.minor-0.label>
+  <VFEP_HypothermicSlowdown.stages.minor-1.label>軽度</VFEP_HypothermicSlowdown.stages.minor-1.label>
+  <VFEP_HypothermicSlowdown.stages.moderate.label>中度</VFEP_HypothermicSlowdown.stages.moderate.label>
+  <VFEP_HypothermicSlowdown.stages.serious.label>重度</VFEP_HypothermicSlowdown.stages.serious.label>
+  <VFEP_HypothermicSlowdown.stages.extreme.label>極度</VFEP_HypothermicSlowdown.stages.extreme.label>
+
+</LanguageData>

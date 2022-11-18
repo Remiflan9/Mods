@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_SodaSyrup.label>ソーダシロップ</VBE_SodaSyrup.label>
+        <VBE_SodaSyrup.description>クエン酸と天然の砂糖を一緒に煮て作る,非常に甘い混合物です.砂糖は,通常はサトウキビから精製した砂糖かコーンシロップから得られます.飲む前に,水で薄めて密閉して短時間寝かせることで,炭酸を発生させる必要があります.</VBE_SodaSyrup.description>
+        <VBE_AmbrandyMush.label>アンブロージアマッシュ</VBE_AmbrandyMush.label>
+        <VBE_AmbrandyMush.description>薄く切ってつぶしたアンブロージアは,そのまま寝かせておくことで熟成し,更に蒸留することで,繊細で素晴らしいアルコール飲料となります.</VBE_AmbrandyMush.description>
+        <VBE_AmbrandyMust.label>アンブロージアマスト</VBE_AmbrandyMust.label>
+        <VBE_AmbrandyMust.description>完全に熟したアンブロージアは,濃いジュースのようなもので,発酵のための菌を育てるために寝かせておきます.飲用可能なものとして蒸留させる準備ができました.</VBE_AmbrandyMust.description>
+        <VBE_WhiskeyMash.label>ウィスキーマッシュ</VBE_WhiskeyMash.label>
+        <VBE_WhiskeyMash.description>でんぷん質とたっぷりの水を,どろどろになるまで混ぜ合わせたものです.熟成の準備ができました.</VBE_WhiskeyMash.description>
+        <VBE_TequilaMust.label>テキーラマスト</VBE_TequilaMust.label>
+        <VBE_TequilaMust.description>リュウゼツランのしぼり汁やとげのあるサボテン,虫をまぜたスターターを薄く混ぜたものです.樽で発酵させます.</VBE_TequilaMust.description>
+        <VBE_VodkaMash.label>ウォッカマッシュ</VBE_VodkaMash.label>
+        <VBE_VodkaMash.description>生のじゃがいもとスターターでどろっとしたマッシュです.発酵の準備ができました.</VBE_VodkaMash.description>
+        <VBE_GinMush.label>ジンマッシュ</VBE_GinMush.label>
+        <VBE_GinMush.description>澄んではいるが,ベリーの汁と雑穀を混ぜたものの濁りを含んでいます.発酵の準備ができました.</VBE_GinMush.description>
+    </LanguageData>

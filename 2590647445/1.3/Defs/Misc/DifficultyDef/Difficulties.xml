@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+  <DifficultyDef>
+    <defName>Ragnarok</defName>
+    <label>ragnarok awaits</label>
+    <description>Experience how Victoria felt leading her people against the overwhelming force of the corrupted gods. She managed to be triumphant, can you?
+
+(*SectionTitle)Recommended for:(/SectionTitle)
+
+- Experienced players who thinks losing is fun is still too easy
+- 500% threat scale ice caps naked brutality enjoyer
+- absolute masochists.</description>
+    <difficulty>6</difficulty>
+    <threatScale>5</threatScale>
+    <adaptationEffectFactor>0.4</adaptationEffectFactor>
+    <colonistMoodOffset>-5</colonistMoodOffset>
+    <tradePriceFactorLoss>0.20</tradePriceFactorLoss>
+    <cropYieldFactor>0.9</cropYieldFactor>
+    <mineYieldFactor>0.9</mineYieldFactor>
+    <butcherYieldFactor>0.9</butcherYieldFactor>
+    <researchSpeedFactor>0.75</researchSpeedFactor>
+    <diseaseIntervalFactor>0.9</diseaseIntervalFactor>
+    <enemyReproductionRateFactor>1.2</enemyReproductionRateFactor>
+    <playerPawnInfectionChanceFactor>1.1</playerPawnInfectionChanceFactor>
+    <deepDrillInfestationChanceFactor>1.2</deepDrillInfestationChanceFactor>
+    <foodPoisonChanceFactor>1.2</foodPoisonChanceFactor>
+    <maintenanceCostFactor>1</maintenanceCostFactor>
+    <enemyDeathOnDownedChanceFactor>1</enemyDeathOnDownedChanceFactor>
+    <adaptationGrowthRateFactorOverZero>1</adaptationGrowthRateFactorOverZero>
+    <scariaRotChance>0.869</scariaRotChance> <!-- calculated from difficulty 3 and threatScale -->
+  </DifficultyDef>
+  
+</Defs>

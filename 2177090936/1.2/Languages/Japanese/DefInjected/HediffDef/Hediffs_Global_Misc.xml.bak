@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_ConsumedMayo.label>マヨネーズを食べた</VCE_ConsumedMayo.label>
+  <VCE_ConsumedMayo.description>マヨネーズは,卵,油,ハーブからなる濃厚な乳剤. マヨネーズはカロリーが高く,あなたの健康を脅かしますが,心地よい味わいです.24時間,飢えやすさを15%減少させる.</VCE_ConsumedMayo.description>
+  <VCE_ConsumedAgave.label>リュウゼツラン蜜を食べた</VCE_ConsumedAgave.label>
+  <VCE_ConsumedAgave.description>リュウゼツラン蜜は,癒しや抗炎症作用で知られる,薄くて半甘めの蜜です.24時間,免疫を得る速度を15%増加させる.</VCE_ConsumedAgave.description>
+  <VCE_ConsumedSpices.label>スパイスを食べた</VCE_ConsumedSpices.label>
+  <VCE_ConsumedSpices.description>香り高い辛味のある様々なスパイスを口にした.24時間,指の機能を10%増加させる.</VCE_ConsumedSpices.description>
+  <!-- This one is unused, I keep it for compat purposes -->
+  <VCE_WellFed.label>満腹(炙り焼きを食べた)</VCE_WellFed.label>
+  <VCE_WellFed.description>美味しくて食べ応えのある炙り肉を口にした.12時間,飢えやすさを35%減少させる.</VCE_WellFed.description>
+  <VCE_WellFedSimple.label>満腹(炙り焼きを食べた)</VCE_WellFedSimple.label>
+  <VCE_WellFedSimple.description>美味しくて食べ応えのある炙り肉を口にした.12時間,飢えやすさを35%減少させる.</VCE_WellFedSimple.description>
+  <VCE_WellFedFine.label>満腹(炙り焼きを食べた)</VCE_WellFedFine.label>
+  <VCE_WellFedFine.description>美味しくて食べ応えのある炙り肉を口にした.12時間,飢えやすさを35%減少させる.</VCE_WellFedFine.description>
+  <VCE_WellFedLavish.label>満腹(炙り焼きを食べた)</VCE_WellFedLavish.label>
+  <VCE_WellFedLavish.description>美味しくて食べ応えのある炙り肉を口にした.12時間,飢えやすさを35%減少させる.</VCE_WellFedLavish.description>
+  <VCE_WellFedGourmet.label>満腹(炙り焼きを食べた)</VCE_WellFedGourmet.label>
+  <VCE_WellFedGourmet.description>美味しくて食べ応えのある炙り肉を口にした.12時間,飢えやすさを35%減少させる.</VCE_WellFedGourmet.description>
+  <VCE_ConsumedDigestibleResurrectorNanites.label>リザレクトナナイト(摂取)</VCE_ConsumedDigestibleResurrectorNanites.label>
+  <VCE_ConsumedDigestibleResurrectorNanites.description>リザレクトナナイトは活動している限り,この人を復活させます. 効果は12時間持続する.</VCE_ConsumedDigestibleResurrectorNanites.description>
+  <VCE_SugarRush.label>砂糖を食べた</VCE_SugarRush.label>
+  <VCE_SugarRush.description>Sugar is easily converted into energy by the body, which may result in a nice burst of energy. It increases moving stat by 15% for 24 hours.</VCE_SugarRush.description>
+  <VCE_AteGourmetMeal.label>究極の料理を食べた</VCE_AteGourmetMeal.label>
+  <VCE_AteGourmetMeal.description>この入植者は信じられない食べ物を口にした.</VCE_AteGourmetMeal.description>
+</LanguageData>

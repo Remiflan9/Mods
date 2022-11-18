@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Irrigation -->
+
+  <InvisibleFireSprinkler.label>消火用散水器 (天井)</InvisibleFireSprinkler.label>
+  <InvisibleFireSprinkler.description>天井に取り付けられているスプリンクラーです.火災や高温によって引き金が反応して,散水によって炎を消化します.</InvisibleFireSprinkler.description>
+  <InvisibleFireSprinkler.comps.CompUsable.useLabel>散水の切替</InvisibleFireSprinkler.comps.CompUsable.useLabel>
+
+</LanguageData>

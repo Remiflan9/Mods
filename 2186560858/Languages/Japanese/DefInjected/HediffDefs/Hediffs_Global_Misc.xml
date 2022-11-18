@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_DrankSoda.label>ソーダを飲んだ</VBE_DrankSoda.label>
+        <VBE_DrankSoda.description>糖分が血流を駆け巡り,短時間ですがエネルギーを供給します.指の機能が5時間上昇します.</VBE_DrankSoda.description>
+        <VBE_DrankTea.label>お茶を飲んだ</VBE_DrankTea.label>
+        <VBE_DrankTea.description>お茶に含まれるタンニンは,神経系を刺激し,睡眠衝動を抑え,免疫力を高めます.5時間の間疲れやすさを10%減少し,免疫獲得速度を15%上昇させます.</VBE_DrankTea.description>
+        <VBE_TequilaAsIngredient.label>テキーラベースのカクテルを飲んだ</VBE_TequilaAsIngredient.label>
+        <VBE_TequilaAsIngredient.description>材料の一つにテキーラを使ったカクテルを飲んだ.動物の手なずけ成功率を15%上昇します.</VBE_TequilaAsIngredient.description>
+        <VBE_WhiskeyAsIngredient.label>ウイスキーベースのカクテルを飲んだ</VBE_WhiskeyAsIngredient.label>
+        <VBE_WhiskeyAsIngredient.description>材料の一つにウィスキーを使ったカクテルを飲んだ.射撃命中率にボーナスを得ます.</VBE_WhiskeyAsIngredient.description>
+        <VBE_VodkaAsIngredient.label>ウォッカベースのカクテルを飲んだ</VBE_VodkaAsIngredient.label>
+        <VBE_VodkaAsIngredient.description>材料の一つにウォッカを使ったカクテルを飲んだ.白兵戦回避率が20%上昇します.</VBE_VodkaAsIngredient.description>
+        <VBE_GinAsIngredient.label>ジンベースのカクテルを飲んだ</VBE_GinAsIngredient.label>
+        <VBE_GinAsIngredient.description>材料の一つにジンを使ったカクテルを飲んだ.</VBE_GinAsIngredient.description>
+        <VBE_AmbrandyAsIngredient.label>アンブランデーベースのカクテルを飲んだ</VBE_AmbrandyAsIngredient.label>
+        <VBE_AmbrandyAsIngredient.description>材料の一つにアンブランデーを使ったカクテルを飲んだ.</VBE_AmbrandyAsIngredient.description>
+        <VBE_RBMeadAsIngredient.label>ミードベースのカクテルを飲んだ</VBE_RBMeadAsIngredient.label>
+        <VBE_RBMeadAsIngredient.description>材料の一つにミードを使ったカクテルを飲んだ.</VBE_RBMeadAsIngredient.description>
+        <VBE_WineAsIngredient.label>ワインベースのカクテルを飲んだ</VBE_WineAsIngredient.label>
+        <VBE_WineAsIngredient.description>材料の一つにワインを使ったカクテルを飲んだ.怪物め.</VBE_WineAsIngredient.description>
+        <VBE_ConsumedLuciferiumPowder.label>ルシフェリウムパウダーを摂取した(食事)</VBE_ConsumedLuciferiumPowder.label>
+        <VBE_ConsumedLuciferiumPowder.description>ルシフェリウムパウダーは,ルシフェリウムを細かく砕いて混ぜた粉末です.このように薄められたことで,このドラッグは傷を癒すことはなくなりますが,使用者に相当な活力をもたらします.</VBE_ConsumedLuciferiumPowder.description>
+        <VBE_ConsumedGoStock.label>ゴージュースストックを摂取した(食事)</VBE_ConsumedGoStock.label>
+        <VBE_ConsumedGoStock.description>ゴージュースストックは,ゴージュースを糊化してキューブ上に固めたものです.注射するのではなく,消化することができます.このように薄められたことで,このドラッグはあまり痛みを軽減することがなくなり,戦闘時の利点は,ずっと微妙なものになります.</VBE_ConsumedGoStock.description>
+        <VBE_ConsumedWakeupPowder.label>ウェイクアップパウダーを摂取した(食事)</VBE_ConsumedWakeupPowder.label>
+        <VBE_ConsumedWakeupPowder.description>ウェイクアップパウダーは,ウェイクアップを砕いて粉末状にしたもので,驚くような甘さがあり,砂糖の代わりとしてデザートや朝のエスプレッソに溶かして使われます.このように薄められたことで,このドラッグは刺激的なものではなくなります.ですが,常習性は無くとも,非常に小さいながら,心筋梗塞のリスクがあることだけは気をつけておいてください.</VBE_ConsumedWakeupPowder.description>
+    </LanguageData>

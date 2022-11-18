@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--
+  <LoadFridge.reportString>TargetAを冷蔵庫に入れている。</LoadFridge.reportString> -->
+
+  <takeShower.reportString>TargetAで体を洗っている</takeShower.reportString>
+  <takeBath.reportString>TargetAで入浴している</takeBath.reportString>
+
+</LanguageData>

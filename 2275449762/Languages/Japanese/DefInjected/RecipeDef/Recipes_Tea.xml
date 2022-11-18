@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_MakeTeaFast.label>お茶を淹れる</VBE_MakeTeaFast.label>
+  <VBE_MakeTeaFast.description>沸騰したお湯に茶葉の袋を浸すことによって準備された喜ばしい,芳香飲料を作る.この特別に準備されたエスプレッソマシンでお茶を醸造することは,一般的にはるかに高速です.</VBE_MakeTeaFast.description>
+  <VBE_MakeTeaFast.jobString>お茶を淹れている</VBE_MakeTeaFast.jobString>
+  <VBE_MakeBlackTea.label>紅茶を淹れる</VBE_MakeBlackTea.label>
+  <VBE_MakeBlackTea.description>特に苦みのある紅茶をクリーミーなミルクで作ると,少し目が覚めて,心がリラックスします.</VBE_MakeBlackTea.description>
+  <VBE_MakeBlackTea.jobString>紅茶を淹れている</VBE_MakeBlackTea.jobString>
+  <VBE_MakeYuenYeung.label>鴛鴦茶を淹れる</VBE_MakeYuenYeung.label>
+  <VBE_MakeYuenYeung.description>これはコーヒーと紅茶を混ぜた物です.お茶とコーヒーを飲む人はこの不浄な混合物を作っている間は違いを脇に置いています.それがホットまたはコールドで提供されているかどうか,それは大酒呑み同様に混乱しています.</VBE_MakeYuenYeung.description>
+  <VBE_MakeYuenYeung.jobString>鴛鴦茶を淹れている</VBE_MakeYuenYeung.jobString>
+  <VBE_MakeKombucha.label>コンブチャを淹れる</VBE_MakeKombucha.label>
+  <VBE_MakeKombucha.description>お茶に砂糖を加えた物に更にきのこを加えて発酵させたお茶.完成品は甘くて酸っぱい,時には自然に発泡する飲み物コンブチャとして知られている.いくつかの懐疑的なままにもかかわらず,健康上の利点を賞賛します.</VBE_MakeKombucha.description>
+  <VBE_MakeKombucha.jobString>コンブチャを淹れている</VBE_MakeKombucha.jobString>
+</LanguageData>

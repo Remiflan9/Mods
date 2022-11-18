@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--<MintNeedsMenu.label>mint欲求メニュー</MintNeedsMenu.label>
+  <MintNeedsMenu.description>ポーンの欲求を全て表示します。</MintNeedsMenu.description>
+
+  <MintHealthMenu.label>mint健康メニュー</MintHealthMenu.label>
+  <MintHealthMenu.description>ポーンの健康状態を全て表示します。</MintHealthMenu.description>-->
+
+  <MintMenus.label>Mintメニュー</MintMenus.label>
+  <MintMenus.description>すべてのModから建物を検索します。</MintMenus.description>
+
+  <MintResearch.label>Mint研究メニュー</MintResearch.label>
+  <MintResearch.description>研究を検索します。</MintResearch.description>
+
+  <MintDesignators.label>Mint一覧</MintDesignators.label>
+  <MintDesignators.description>メニュー表示から素早く選択します。</MintDesignators.description>
+
+  <MintBillMenu.label>Mint加工メニュー</MintBillMenu.label>
+  <MintBillMenu.description>全ての加工リスト一覧です。</MintBillMenu.description>
+
+  <MintGearMenu.label>Mint装備メニュー</MintGearMenu.label>
+  <MintGearMenu.description>ポーンの全装備の一覧です。</MintGearMenu.description>
+
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Blueprint_VCE_TilledSoil.label>耕した土 (設計)</Blueprint_VCE_TilledSoil.label>
+  <Frame_VCE_TilledSoil.label>耕した土 (施工)</Frame_VCE_TilledSoil.label>
+  <Frame_VCE_TilledSoil.description>施行中</Frame_VCE_TilledSoil.description>
+
+</LanguageData>

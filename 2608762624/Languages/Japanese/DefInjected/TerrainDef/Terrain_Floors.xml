@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEArch_Asphalt.label>アスファルト</VFEArch_Asphalt.label>
+  <VFEArch_Asphalt.description>アスファルトで舗装された産業的な道路. 人や車両の行き来が容易になります.</VFEArch_Asphalt.description>
+
+  <VFEArch_WoodenParquet.label>寄木細工のフローリング</VFEArch_WoodenParquet.label>
+  <VFEArch_WoodenParquet.description>美しく敷き詰められた高級感のある木製フローリングです. とても燃えやすく,建設に時間がかかります.</VFEArch_WoodenParquet.description>
+
+  <VFEArch_WoodenParquetWalnut.label>寄木細工のクルミ材 フローリング</VFEArch_WoodenParquetWalnut.label>
+  <VFEArch_WoodenParquetWalnut.description>美しく敷き詰められた高級感のある木製フローリングです. とても燃えやすく,建設に時間がかかります.</VFEArch_WoodenParquetWalnut.description>
+
+  <VFEArch_WoodenParquetBirch.label>寄木細工のシラカバ材 フローリング</VFEArch_WoodenParquetBirch.label>
+  <VFEArch_WoodenParquetBirch.description>美しく敷き詰められた高級感のある木製フローリングです. とても燃えやすく,建設に時間がかかります.</VFEArch_WoodenParquetBirch.description>
+
+  <VFEArch_WoodenParquetMahogany.label>寄木細工のマホガニー材 フローリング</VFEArch_WoodenParquetMahogany.label>
+  <VFEArch_WoodenParquetMahogany.description>美しく敷き詰められた高級感のある木製フローリングです. とても燃えやすく,建設に時間がかかります.</VFEArch_WoodenParquetMahogany.description>
+
+
+  <!-- Wooden floor colour variations -->
+
+  <VFEArch_WoodPlankFloorWalnut.label>クルミ材 フローリング</VFEArch_WoodPlankFloorWalnut.label>
+  <VFEArch_WoodPlankFloorWalnut.description>木のフローリング.暖かで自宅に居る気分になります.敷き詰めるのも早いですが,非常に燃えやすいです.</VFEArch_WoodPlankFloorWalnut.description>
+
+  <VFEArch_WoodPlankFloorBirch.label>シラカバ材 フローリング</VFEArch_WoodPlankFloorBirch.label>
+  <VFEArch_WoodPlankFloorBirch.description>木のフローリング.暖かで自宅に居る気分になります.敷き詰めるのも早いですが,非常に燃えやすいです.</VFEArch_WoodPlankFloorBirch.description>
+
+  <VFEArch_WoodPlankFloorMahogany.label>マホガニー材 フローリング</VFEArch_WoodPlankFloorMahogany.label>
+  <VFEArch_WoodPlankFloorMahogany.description>木のフローリング.暖かで自宅に居る気分になります.敷き詰めるのも早いですが,非常に燃えやすいです.</VFEArch_WoodPlankFloorMahogany.description>
+
+
+  <!-- Cobblestone floor -->
+
+  <VFEArch_CobblestoneFloorSandstone.label>砂岩の石畳</VFEArch_CobblestoneFloorSandstone.label>
+  <VFEArch_CobblestoneFloorSandstone.description>ランダムなサイズの石材が敷かれた素朴な造りですが,どこかお城のような雰囲気を感じさせる床です. 一般的な石材タイルに比べて建設にかかる時間が短く,ストーンカッターの知識も必要ありませんが, 美しさには欠けます.</VFEArch_CobblestoneFloorSandstone.description>
+
+  <VFEArch_CobblestoneFloorGranite.label>花崗岩の石畳</VFEArch_CobblestoneFloorGranite.label>
+  <VFEArch_CobblestoneFloorGranite.description>ランダムなサイズの石材が敷かれた素朴な造りですが,どこかお城のような雰囲気を感じさせる床です. 一般的な石材タイルに比べて建設にかかる時間が短く,ストーンカッターの知識も必要ありませんが, 美しさには欠けます.</VFEArch_CobblestoneFloorGranite.description>
+
+  <VFEArch_CobblestoneFloorLimestone.label>石灰岩の石畳</VFEArch_CobblestoneFloorLimestone.label>
+  <VFEArch_CobblestoneFloorLimestone.description>ランダムなサイズの石材が敷かれた素朴な造りですが,どこかお城のような雰囲気を感じさせる床です. 一般的な石材タイルに比べて建設にかかる時間が短く,ストーンカッターの知識も必要ありませんが, 美しさには欠けます.</VFEArch_CobblestoneFloorLimestone.description>
+
+  <VFEArch_CobblestoneFloorSlate.label>粘板岩の石畳</VFEArch_CobblestoneFloorSlate.label>
+  <VFEArch_CobblestoneFloorSlate.description>ランダムなサイズの石材が敷かれた素朴な造りですが,どこかお城のような雰囲気を感じさせる床です. 一般的な石材タイルに比べて建設にかかる時間が短く,ストーンカッターの知識も必要ありませんが, 美しさには欠けます.</VFEArch_CobblestoneFloorSlate.description>
+
+  <VFEArch_CobblestoneFloorMarble.label>大理石の石畳</VFEArch_CobblestoneFloorMarble.label>
+  <VFEArch_CobblestoneFloorMarble.description>ランダムなサイズの石材が敷かれた素朴な造りですが,どこかお城のような雰囲気を感じさせる床です. 一般的な石材タイルに比べて建設にかかる時間が短く,ストーンカッターの知識も必要ありませんが, 美しさには欠けます.</VFEArch_CobblestoneFloorMarble.description>
+
+　<!-- うんち -->
+
+  <VFEArch_FineWoodenFloor.label>華麗なフローリング</VFEArch_FineWoodenFloor.label>
+  <VFEArch_FineWoodenFloor.description>経済的地位を示すための,妥協のない,美しい木の寄木細工です. 建設に時間がかかります.</VFEArch_FineWoodenFloor.description>
+
+  <VFEArch_FineWoodenFloorWalnut.label>華麗なクルミ材 フローリング</VFEArch_FineWoodenFloorWalnut.label>
+  <VFEArch_FineWoodenFloorWalnut.description>経済的地位を示すための,妥協のない,美しい木の寄木細工です. 建設に時間がかかります.</VFEArch_FineWoodenFloorWalnut.description>
+
+  <VFEArch_FineWoodenFloorBirch.label>華麗なシラカバ材 フローリング</VFEArch_FineWoodenFloorBirch.label>
+  <VFEArch_FineWoodenFloorBirch.description>経済的地位を示すための,妥協のない,美しい木の寄木細工です. 建設に時間がかかります.</VFEArch_FineWoodenFloorBirch.description>
+
+  <VFEArch_FineWoodenFloorMahogany.label>華麗なマホガニー材 フローリング</VFEArch_FineWoodenFloorMahogany.label>
+  <VFEArch_FineWoodenFloorMahogany.description>経済的地位を示すための,妥協のない,美しい木の寄木細工です. 建設に時間がかかります.</VFEArch_FineWoodenFloorMahogany.description>
+
+  <!-- Polished stone floor -->
+
+  <VFEArch_PolishedStoneFloorSandstone.label>磨かれた砂岩タイル</VFEArch_PolishedStoneFloorSandstone.label>
+  <VFEArch_PolishedStoneFloorSandstone.description>洗練された石造の床で,邸宅のようなエレガントな空間を演出します. 華麗な床ほど建設に時間はかかりませんが,それでも多くの資源を消費します. 見た目の美しさは格別です.</VFEArch_PolishedStoneFloorSandstone.description>
+
+  <VFEArch_PolishedStoneFloorGranite.label>磨かれた花崗岩タイル</VFEArch_PolishedStoneFloorGranite.label>
+  <VFEArch_PolishedStoneFloorGranite.description>洗練された石造の床で,邸宅のようなエレガントな空間を演出します. 華麗な床ほど建設に時間はかかりませんが,それでも多くの資源を消費します. 見た目の美しさは格別です.</VFEArch_PolishedStoneFloorGranite.description>
+
+  <VFEArch_PolishedStoneFloorLimestone.label>磨かれた石灰岩タイル</VFEArch_PolishedStoneFloorLimestone.label>
+  <VFEArch_PolishedStoneFloorLimestone.description>洗練された石造の床で,邸宅のようなエレガントな空間を演出します. 華麗な床ほど建設に時間はかかりませんが,それでも多くの資源を消費します. 見た目の美しさは格別です.</VFEArch_PolishedStoneFloorLimestone.description>
+
+  <VFEArch_PolishedStoneFloorSlate.label>磨かれた粘板岩タイル</VFEArch_PolishedStoneFloorSlate.label>
+  <VFEArch_PolishedStoneFloorSlate.description>洗練された石造の床で,邸宅のようなエレガントな空間を演出します. 華麗な床ほど建設に時間はかかりませんが,それでも多くの資源を消費します. 見た目の美しさは格別です.</VFEArch_PolishedStoneFloorSlate.description>
+
+  <VFEArch_PolishedStoneFloorMarble.label>磨かれた大理石タイル</VFEArch_PolishedStoneFloorMarble.label>
+  <VFEArch_PolishedStoneFloorMarble.description>洗練された石造の床で,邸宅のようなエレガントな空間を演出します. 華麗な床ほど建設に時間はかかりませんが,それでも多くの資源を消費します. 見た目の美しさは格別です.</VFEArch_PolishedStoneFloorMarble.description>
+
+
+  <!-- Stone slabs -->
+
+  <VFEArch_SlabsSandstone.label>砂岩 舗装タイル</VFEArch_SlabsSandstone.label>
+  <VFEArch_SlabsSandstone.description>大きな石の板をランダムに敷き詰めて,神殿のような外観にしています. 見た目は美しいですが,建設に時間がかかり,大量の資源を消費します.</VFEArch_SlabsSandstone.description>
+
+  <VFEArch_SlabsGranite.label>花崗岩 舗装タイル</VFEArch_SlabsGranite.label>
+  <VFEArch_SlabsGranite.description>大きな石の板をランダムに敷き詰めて,神殿のような外観にしています. 見た目は美しいですが,建設に時間がかかり,大量の資源を消費します.</VFEArch_SlabsGranite.description>
+
+  <VFEArch_SlabsLimestone.label>石灰岩 舗装タイル</VFEArch_SlabsLimestone.label>
+  <VFEArch_SlabsLimestone.description>大きな石の板をランダムに敷き詰めて,神殿のような外観にしています. 見た目は美しいですが,建設に時間がかかり,大量の資源を消費します.</VFEArch_SlabsLimestone.description>
+
+  <VFEArch_SlabsSlate.label>粘板岩 舗装タイル</VFEArch_SlabsSlate.label>
+  <VFEArch_SlabsSlate.description>大きな石の板をランダムに敷き詰めて,神殿のような外観にしています. 見た目は美しいですが,建設に時間がかかり,大量の資源を消費します.</VFEArch_SlabsSlate.description>
+
+  <VFEArch_SlabsMarble.label>大理石 舗装タイル</VFEArch_SlabsMarble.label>
+  <VFEArch_SlabsMarble.description>大きな石の板をランダムに敷き詰めて,神殿のような外観にしています. 見た目は美しいですが,建設に時間がかかり,大量の資源を消費します.</VFEArch_SlabsMarble.description>
+ 
+  <!-- うんち -->
+  <VFEArch_FineSteelTile.label>華麗な鉄製タイル</VFEArch_FineSteelTile.label>
+  <VFEArch_FineSteelTile.description>経済的地位を示すための,妥協のない,精巧な金属製タイルです. 建設に時間がかかります.</VFEArch_FineSteelTile.description>
+
+  <VFEArch_FineSilverTile.label>華麗な銀製タイル</VFEArch_FineSilverTile.label>
+  <VFEArch_FineSilverTile.description>経済的地位を示すための,妥協のない,精巧な金属製タイルです. 建設に時間がかかります.</VFEArch_FineSilverTile.description>
+
+  <VFEArch_FineGoldTile.label>華麗な黄金タイル</VFEArch_FineGoldTile.label>
+  <VFEArch_FineGoldTile.description>経済的地位を示すための,妥協のない,精巧な金属製タイルです. 建設に時間がかかります.</VFEArch_FineGoldTile.description>
+
+</LanguageData>

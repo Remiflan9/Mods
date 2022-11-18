@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_Mechanoids_Power.label>電力</VFE_Mechanoids_Power.label>
+  <VFE_Mechanoids_Power.description>電気は,メカノイドの内部バッテリーの蓄電状態を表します.残量が低くなりすぎると,メカノイドは任務の実行を停止して,ステーションに戻って再充電します.</VFE_Mechanoids_Power.description>
+
+</LanguageData>

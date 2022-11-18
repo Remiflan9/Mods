@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_Whiskey.label>ウィスキー</VBE_Whiskey.label>
+        <VBE_Whiskey.description>発酵した穀物を蒸留して作る強い酒です.熟成された樽の香りは,他のものよりもよくこの酒に浸透します.全体的にウッディでスモーキーな香りが顕著です.シンプルなウィスキーというと,荒っぽい肉体労働者やハードワーカーを連想しますが,銀河系のSteamworldではよく見られる光景です.</VBE_Whiskey.description>
+        <VBE_Whiskey.ingestible.ingestCommandString>{0}を 飲む</VBE_Whiskey.ingestible.ingestCommandString>
+        <VBE_Whiskey.ingestible.ingestReportString>{0}を 飲んでいる.</VBE_Whiskey.ingestible.ingestReportString>
+        <VBE_Whiskey.tools.0.label>ボトル</VBE_Whiskey.tools.0.label>
+        <VBE_Whiskey.tools.1.label>ネック</VBE_Whiskey.tools.1.label>
+        <VBE_DoubleWhiskey.label>ダブルエイジウィスキー</VBE_DoubleWhiskey.label>
+        <VBE_DoubleWhiskey.description>未使用の樽や,軽く使われた別の樽でもう一度熟成されたものです.その特徴ある風味がより強くなり,喉に残る余韻が大きく減少します.高級ウィスキーの長い熟成期間は,一般的な消費者にとって商業主義と高級感を強めます.</VBE_DoubleWhiskey.description>
+        <VBE_DoubleWhiskey.ingestible.ingestCommandString>{0}を 飲む</VBE_DoubleWhiskey.ingestible.ingestCommandString>
+        <VBE_DoubleWhiskey.ingestible.ingestReportString>{0}を 飲んでいる.</VBE_DoubleWhiskey.ingestible.ingestReportString>
+        <VBE_DoubleWhiskey.tools.0.label>ボトル</VBE_DoubleWhiskey.tools.0.label>
+        <VBE_DoubleWhiskey.tools.1.label>ネック</VBE_DoubleWhiskey.tools.1.label>
+    </LanguageData>

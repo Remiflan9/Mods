@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IP_InsertFirstIngredient.label>材料を運搬する</IP_InsertFirstIngredient.label>
+  <IP_InsertFirstIngredient.verb>材料運搬</IP_InsertFirstIngredient.verb>
+  <IP_InsertFirstIngredient.gerund>に材料を運搬する</IP_InsertFirstIngredient.gerund>
+
+  <IP_InsertSecondIngredient.label>材料を運搬する</IP_InsertSecondIngredient.label>
+  <IP_InsertSecondIngredient.verb>材料運搬</IP_InsertSecondIngredient.verb>
+  <IP_InsertSecondIngredient.gerund>に材料を運搬する</IP_InsertSecondIngredient.gerund>
+
+  <IP_InsertThirdIngredient.label>材料を運搬する</IP_InsertThirdIngredient.label>
+  <IP_InsertThirdIngredient.verb>材料運搬</IP_InsertThirdIngredient.verb>
+  <IP_InsertThirdIngredient.gerund>に材料を運搬する</IP_InsertThirdIngredient.gerund>
+
+  <IP_RemoveProduct.label>最終製品を取り出す</IP_RemoveProduct.label>
+  <IP_RemoveProduct.verb>製品排出</IP_RemoveProduct.verb>
+  <IP_RemoveProduct.gerund>から最終製品を取り出し中</IP_RemoveProduct.gerund>
+
+</LanguageData>

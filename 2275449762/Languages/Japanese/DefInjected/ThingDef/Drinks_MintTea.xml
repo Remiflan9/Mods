@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBE_MintTea.label>ミントティー</VBE_MintTea.label>
+  <VBE_MintTea.description>紅茶の葉にミントの葉を混ぜて深く浸し,さらにミントの葉を添えます.驚くほど新鮮な息を残します.</VBE_MintTea.description>
+  <VBE_MintTea.ingestible.ingestCommandString>{0}を飲む</VBE_MintTea.ingestible.ingestCommandString>
+  <VBE_MintTea.ingestible.ingestReportString>{0}を飲んでいる</VBE_MintTea.ingestible.ingestReportString>
+</LanguageData>

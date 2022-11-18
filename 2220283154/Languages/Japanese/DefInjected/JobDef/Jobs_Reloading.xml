@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BetterReload.reportString>TargetAをリロード中</BetterReload.reportString>
+  <ReloadFromInventory.reportString>TargetAをインベントリからリロード中</ReloadFromInventory.reportString>
+  <Unload.reportString>TargetAをアンロード中</Unload.reportString>
+
+</LanguageData>

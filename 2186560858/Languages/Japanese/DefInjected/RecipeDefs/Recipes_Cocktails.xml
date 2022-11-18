@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_MakeCocktailSimple.label>簡単なカクテルを作る</VBE_MakeCocktailSimple.label>
+        <VBE_MakeCocktailSimple.description>二つの材料を混ぜ合わせた,簡単なカクテルを作ります.</VBE_MakeCocktailSimple.description>
+        <VBE_MakeCocktailSimple.jobString>簡単なカクテルを作成中</VBE_MakeCocktailSimple.jobString>
+        <VBE_MakeCocktailFine.label>手の込んだカクテルを作る</VBE_MakeCocktailFine.label>
+        <VBE_MakeCocktailFine.description>いくつかの材料を的確に混ぜ合わせた,手の込んだ複雑なカクテルを作ります.</VBE_MakeCocktailFine.description>
+        <VBE_MakeCocktailFine.jobString>手の込んだカクテルを作成中</VBE_MakeCocktailFine.jobString>
+        <VBE_MakeCocktailLavish.label>豪華なカクテルを作る</VBE_MakeCocktailLavish.label>
+        <VBE_MakeCocktailLavish.description>多様な材料を完璧に冷やしてから,細心の注意を払ってシェイクした豪華なカクテルを作ります.</VBE_MakeCocktailLavish.description>
+        <VBE_MakeCocktailLavish.jobString>豪華なカクテルを作成中</VBE_MakeCocktailLavish.jobString>
+    </LanguageData>

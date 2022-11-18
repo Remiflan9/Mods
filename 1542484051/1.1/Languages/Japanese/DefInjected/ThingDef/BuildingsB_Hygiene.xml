@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ToiletStallDoor.label>仕切りドア</ToiletStallDoor.label>
+  <ToiletStallDoor.description>バスルームの設備を使用する人々の視線を遮断するだけの薄いドアです。仕切られたことで新しい部屋をつくることも、熱を遮断することもありません。</ToiletStallDoor.description>
+  <Blueprint_ToiletStallDoor.label>仕切りドア(移動先)</Blueprint_ToiletStallDoor.label>
+  <Frame_ToiletStallDoor.label>仕切りドア(施工)</Frame_ToiletStallDoor.label>
+  <Frame_ToiletStallDoor.description>バスルームの設備を使用する人々の視線を遮断するだけの薄いドアです。仕切られたことで新しい部屋をつくることも、熱を遮断することもありません。</Frame_ToiletStallDoor.description>
+
+
+  <!-- Low Tech Stuff -->
+
+  <PitLatrine.label>簡易トイレ</PitLatrine.label>
+  <PitLatrine.description>地面に穴を掘って廃棄物を集める簡易トイレです。手動で空にしなければなりませんが、配管することは可能です。\n使用する度に14リットルの水を消費します。</PitLatrine.description>
+  <Blueprint_PitLatrine.label>簡易トイレ(設計)</Blueprint_PitLatrine.label>
+  <Blueprint_Install_PitLatrine.label>簡易トイレ(移動先)</Blueprint_Install_PitLatrine.label>
+  <Frame_PitLatrine.label>簡易トイレ(施工)</Frame_PitLatrine.label>
+  <Frame_PitLatrine.description>地面に穴を掘って廃棄物を集める簡易トイレです。手動で空にしなければなりませんが、配管することは可能です。\n使用する度に14リットルの水を消費します。</Frame_PitLatrine.description>
+
+  <PrimitiveWell.label>原始的な井戸</PrimitiveWell.label>
+  <PrimitiveWell.description>地下水を汲み上げて、その水を洗濯をしたり飲むには、水を水タライに移す必要があります。</PrimitiveWell.description>
+  <Blueprint_PrimitiveWell.label>原始的な井戸(設計)</Blueprint_PrimitiveWell.label>
+  <Frame_PrimitiveWell.label>原始的な井戸(施工)</Frame_PrimitiveWell.label>
+  <Frame_PrimitiveWell.description>地下水を汲み上げて、その水を洗濯をしたり飲むには、水を水タライに移す必要があります。</Frame_PrimitiveWell.description>
+
+  <WashBucket.label>水タライ</WashBucket.label>
+  <WashBucket.description>体を拭くために使われるタライです。喉の渇きが有効なら、水を飲むこともできます。</WashBucket.description>
+  <Blueprint_WashBucket.label>水タライ(設計)</Blueprint_WashBucket.label>
+  <Blueprint_Install_WashBucket.label>水タライ(移動先)</Blueprint_Install_WashBucket.label>
+  <Frame_WashBucket.label>水タライ(施工)</Frame_WashBucket.label>
+  <Frame_WashBucket.description>体を拭くために使われるタライです。喉の渇きが有効なら、水を飲むこともできます。</Frame_WashBucket.description>
+
+  <LitterBox.label>家畜用トイレ</LitterBox.label>
+  <LitterBox.description>藁が敷かれた小動物のための屋内用の糞尿収集箱です。</LitterBox.description>
+  <Blueprint_LitterBox.label>家畜用トイレ(設計)</Blueprint_LitterBox.label>
+  <Blueprint_Install_LitterBox.label>家畜用トイレ(移動先)</Blueprint_Install_LitterBox.label>
+  <Frame_LitterBox.label>家畜用トイレ(施工)</Frame_LitterBox.label>
+  <Frame_LitterBox.description>藁が敷かれた小動物のための屋内用糞尿収集箱です。</Frame_LitterBox.description>
+
+  <BurnPit.label>焼却穴</BurnPit.label>
+  <BurnPit.description>下水汚泥を燃料として燃やすことで下水汚泥を処理します。また死体や他のゴミを焼却するために使用することができます。入植者は燃やしているゴミの近くに居ると健康に悪影響を及ぼすことがあります。</BurnPit.description>
+  <Blueprint_BurnPit.label>焼却穴(設計)</Blueprint_BurnPit.label>
+  <Frame_BurnPit.label>焼却穴(施工)</Frame_BurnPit.label>
+  <Frame_BurnPit.description>下水汚泥を燃料として燃やすことで下水汚泥を処理します。また死体や他のゴミを焼却するために使用することができます。入植者は燃やしているゴミの近くに居ると健康に悪影響を及ぼすことがあります。</Frame_BurnPit.description>
+
+
+  <!-- Basins -->
+
+  <Fountain.label>噴水</Fountain.label>
+  <Fountain.description>水を飲んだり手を洗うのに利用される噴水です。</Fountain.description>
+  <Blueprint_Fountain.label>噴水(設計)</Blueprint_Fountain.label>
+  <Blueprint_Install_Fountain.label>噴水(移動先)</Blueprint_Install_Fountain.label>
+  <Frame_Fountain.label>噴水(施工)</Frame_Fountain.label>
+  <Frame_Fountain.description>水を飲んだり手を洗うのに利用される噴水です。</Frame_Fountain.description>
+
+  <BasinStuff.label>洗面所</BasinStuff.label>
+  <BasinStuff.description>トイレ使用した後に手を洗って清潔に保つための清潔でシンプルな洗面所です。洗濯には使用できません。</BasinStuff.description>
+  <Blueprint_BasinStuff.label>洗面所(設計)</Blueprint_BasinStuff.label>
+  <Blueprint_Install_BasinStuff.label>洗面所(移動先)</Blueprint_Install_BasinStuff.label>
+  <Frame_BasinStuff.label>洗面所(施工)</Frame_BasinStuff.label>
+  <Frame_BasinStuff.description>トイレ使用した後に手を洗って清潔に保つための清潔でシンプルな洗面所です。洗濯には使用できません。</Frame_BasinStuff.description>
+
+  <KitchenSink.label>台所流し台</KitchenSink.label>
+  <KitchenSink.description>台所用流し台のセットです。部屋の清潔さを向上させます。</KitchenSink.description>
+  <Blueprint_KitchenSink.label>台所流し台(設計)</Blueprint_KitchenSink.label>
+  <Blueprint_Install_KitchenSink.label>台所流し台(移動先)</Blueprint_Install_KitchenSink.label>
+  <Frame_KitchenSink.label>台所流し台(施工)</Frame_KitchenSink.label>
+  <Frame_KitchenSink.description>台所用流し台のセットです。部屋の清潔さを向上させます。</Frame_KitchenSink.description>
+
+
+  <!-- Toilets -->
+
+  <ToiletStuff.label>トイレ</ToiletStuff.label>
+  <ToiletStuff.description>人間の尿や糞便の処理に使用される衛生設備です。\n使用する度に14リットルの水を消費します。</ToiletStuff.description>
+  <Blueprint_ToiletStuff.label>トイレ(設計)</Blueprint_ToiletStuff.label>
+  <Blueprint_Install_ToiletStuff.label>トイレ(移動先)</Blueprint_Install_ToiletStuff.label>
+  <Frame_ToiletStuff.label>トイレ(施工)</Frame_ToiletStuff.label>
+  <Frame_ToiletStuff.description>人間の尿や糞便の処理に使用される衛生設備です。\n使用する度に14リットルの水を消費します。</Frame_ToiletStuff.description>
+
+  <!-- <ToiletAdv.description>標準的なトイレの2倍の消費水効率を実現して、自動洗浄と脱臭などの最適化された多機能を提供します。\n使用する度に7リットルの水を消費します。</ToiletAdv.description>
+  <Blueprint_ToiletAdv.label>電気式 トイレ (設計)</Blueprint_ToiletAdv.label>
+  <Blueprint_Install_ToiletAdv.label>電気式 トイレ (移動先)</Blueprint_Install_ToiletAdv.label>
+  <Frame_ToiletAdv.label>電気式 トイレ (施工)</Frame_ToiletAdv.label>
+  <Frame_ToiletAdv.description>標準的なトイレの2倍の消費水効率を実現して、自動洗浄と脱臭などの最適化された多機能を提供します。\n使用する度に7リットルの水を消費します。</Frame_ToiletAdv.description> -->
+
+  <ToiletAdvStuff.label>電気温水 トイレ</ToiletAdvStuff.label>
+  <ToiletAdvStuff.description>標準的なトイレの2倍の消費水効率を実現して、自動洗浄と脱臭などの最適化された多機能を提供します。\n使用する度に7リットルの水を消費します。</ToiletAdvStuff.description>
+  <Blueprint_ToiletAdvStuff.label>電気温水 トイレ(設計)</Blueprint_ToiletAdvStuff.label>
+  <Blueprint_Install_ToiletAdvStuff.label>電気温水 トイレ(移動先)</Blueprint_Install_ToiletAdvStuff.label>
+  <Frame_ToiletAdvStuff.label>電気温水 トイレ(施工)</Frame_ToiletAdvStuff.label>
+  <Frame_ToiletAdvStuff.description>標準的なトイレの2倍の消費水効率を実現して、自動洗浄と脱臭などの最適化された多機能を提供します。\n使用する度に7リットルの水を消費します。</Frame_ToiletAdvStuff.description>
+
+
+  <!-- Baths -->
+
+  <BathtubStuff.label>浴槽</BathtubStuff.label>
+  <BathtubStuff.description>ゆったりと利用するのに大量の水が必要ですが、非常に快適です。たき火か薪式ボイラーを隣接させるか、温水タンクを介して加熱することができます。下水排出口は不要です。\n使用する度に190リットルの水を消費します。</BathtubStuff.description>
+  <Blueprint_BathtubStuff.label>浴槽(設計)</Blueprint_BathtubStuff.label>
+  <Blueprint_Install_BathtubStuff.label>浴槽(移動先)</Blueprint_Install_BathtubStuff.label>
+  <Frame_BathtubStuff.label>浴槽(施工)</Frame_BathtubStuff.label>
+  <Frame_BathtubStuff.description>ゆったりと利用するのに大量の水が必要ですが、非常に快適です。たき火か薪式ボイラーを隣接させるか、温水タンクを介して加熱することができます。下水排出口は不要です。\n使用する度に190リットルの水を消費します。</Frame_BathtubStuff.description>
+
+
+  <!-- Showers -->
+
+  <ShowerStuff.label>シャワー</ShowerStuff.label>
+  <ShowerStuff.description>簡単なシャワーです。給水塔からの給水が必要で、給湯タンクで加熱できます。下水排出口は不要です。\n使用する度に65リットルの水を消費します。</ShowerStuff.description>
+  <Blueprint_ShowerStuff.label>シャワー(設計)</Blueprint_ShowerStuff.label>
+  <Blueprint_Install_ShowerStuff.label>シャワー(移動先)</Blueprint_Install_ShowerStuff.label>
+  <Frame_ShowerStuff.label>シャワー(施工)</Frame_ShowerStuff.label>
+  <Frame_ShowerStuff.description>簡単なシャワーです。給水塔からの給水が必要で、給湯タンクで加熱できます。下水排出口は不要です。\n使用する度に65リットルの水を消費します。</Frame_ShowerStuff.description>
+
+  <ShowerSimple.label>簡易シャワー</ShowerSimple.label>
+  <ShowerSimple.description>簡単なシャワーです。給水塔からの給水が必要で、給湯タンクで加熱できます。下水排出口は不要です。\n使用する度に65リットルの水を消費します。</ShowerSimple.description>
+  <Blueprint_ShowerSimple.label>簡易シャワー(設計)</Blueprint_ShowerSimple.label>
+  <Blueprint_Install_ShowerSimple.label>簡易シャワー(移動先)</Blueprint_Install_ShowerSimple.label>
+  <Frame_ShowerSimple.label>簡易シャワー(施工)</Frame_ShowerSimple.label>
+  <Frame_ShowerSimple.description>簡単なシャワーです。給水塔からの給水が必要で、給湯タンクで加熱できます。下水排出口は不要です。\n使用する度に65リットルの水を消費します。</Frame_ShowerSimple.description>
+
+  <ShowerAdvStuff.label>電気温水 シャワー</ShowerAdvStuff.label>
+  <ShowerAdvStuff.description>疲れを和らげて肉体をリラックスさせる大型110mm口径で4個スプレー式シャワーヘッドです。必要に応じて水を加熱して、体を洗う速度を2倍にします。\n使用する度に90
+  リットルの水を消費します。</ShowerAdvStuff.description>
+  <Blueprint_ShowerAdvStuff.label>電気温水 シャワー(設計)</Blueprint_ShowerAdvStuff.label>
+  <Blueprint_Install_ShowerAdvStuff.label>電気温水 シャワー(移動先)</Blueprint_Install_ShowerAdvStuff.label>
+  <Frame_ShowerAdvStuff.label>電気温水 シャワー(施工)</Frame_ShowerAdvStuff.label>
+  <Frame_ShowerAdvStuff.description>疲れを和らげて肉体をリラックスさせる大型110mm口径で4個スプレー式シャワーヘッドです。必要に応じて水を加熱して、体を洗う速度を2倍にします。\n使用する度に90リットルの水を消費します。</Frame_ShowerAdvStuff.description>
+
+</LanguageData>

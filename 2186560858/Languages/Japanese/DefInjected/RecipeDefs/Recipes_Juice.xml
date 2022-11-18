@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_MixJuice.label>ジュースを作る</VBE_MixJuice.label>
+        <VBE_MixJuice.description>いくつかのフルーツから,簡単なフルーツジュースを作ります.</VBE_MixJuice.description>
+        <VBE_MixJuice.jobString>ジュースを調理中</VBE_MixJuice.jobString>
+    </LanguageData>

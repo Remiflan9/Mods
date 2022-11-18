@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_TobaccoHigh.label>たばこによる高揚状態</VBE_TobaccoHigh.label>
+        <VBE_TobaccoHigh.labelNoun>たばこによる高揚状態</VBE_TobaccoHigh.labelNoun>
+        <VBE_TobaccoHigh.description>血中にニコチンが浸透しています.穏やかな気持ちと,ぼんやりとした幸福感を得ます.</VBE_TobaccoHigh.description>
+        <VBE_DeluxeTobaccoHigh.label>高級なたばこによる高揚状態</VBE_DeluxeTobaccoHigh.label>
+        <VBE_DeluxeTobaccoHigh.labelNoun>高級なたばこによる高揚状態</VBE_DeluxeTobaccoHigh.labelNoun>
+        <VBE_DeluxeTobaccoHigh.description>血中にニコチンが浸透しています.穏やかな気持ちと,ぼんやりとした幸福感を得ます.</VBE_DeluxeTobaccoHigh.description>
+        <VBE_TobaccoTolerance.label>たばこ耐性</VBE_TobaccoTolerance.label>
+        <VBE_TobaccoTolerance.description>たばこに対する強さです.この耐性が大きいほど,同じ効果を及ぼすのに,より多くのたばこが必要です.</VBE_TobaccoTolerance.description>
+        <VBE_TobaccoTolerance.stages.0.label>小</VBE_TobaccoTolerance.stages.0.label>
+        <VBE_TobaccoTolerance.stages.1.label>大</VBE_TobaccoTolerance.stages.1.label>
+        <VBE_TobaccoTolerance.stages.2.label>極大</VBE_TobaccoTolerance.stages.2.label>
+        <VBE_TobaccoAddiction.label>たばこ依存症</VBE_TobaccoAddiction.label>
+        <VBE_TobaccoAddiction.description>たばこによる薬物中毒.長期間たばこを使用していると細胞レベルで神経学的に適応してしまい,薬物なしでは脳は適切に機能できなくなります./n/nたばこを定期的に消費しないと禁断症状が始まります.しかし長期間たばこを断つことで,脳を正常に機能させ依存症を解決できます.</VBE_TobaccoAddiction.description>
+        <VBE_TobaccoAddiction.stages.1.label>離脱症状</VBE_TobaccoAddiction.stages.1.label>
+    </LanguageData>

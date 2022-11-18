@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_RawOnion.label>タマネギ(生)</VCE_RawOnion.label>
+  <VCE_RawOnion.description>調理用とほぼ同じ種類の刺激物を含んでおり、香ばしい味と香りを産み出す食用の球根です。</VCE_RawOnion.description>
+
+  <VCE_RawPumpkin.label>カボチャ(生)</VCE_RawPumpkin.label>
+  <VCE_RawPumpkin.description>厳密には巨大化した果実であるカボチャは、種を蒔くのも収穫するのも簡単なことで知られています。</VCE_RawPumpkin.description>
+
+  <VCE_RawPepper.label>トウガラシ(生)</VCE_RawPepper.label>
+  <VCE_RawPepper.description>ソースや薬味や粉末にしてよく使われる、小さくて辛さの強い赤い莢植物です。味自体はマイルドですが含まれているカプサイシンは大量に摂取すると痛みを感じ、その辛さは妙に病みつきになることがあります。野生動物はその植物を絶対に食べないことが知られています。</VCE_RawPepper.description>
+
+  <VCE_RawPeas.label>エンドウマメ(生)</VCE_RawPeas.label>
+  <VCE_RawPeas.description>球形をした緑色の種子が、肉質の鞘の中に含まれています。エンドウ豆は適切に乾燥させた場合、賞味期限が長くなることで知られています。</VCE_RawPeas.description>
+
+  <VCE_RawEggplant.label>ナス(生)</VCE_RawEggplant.label>
+  <VCE_RawEggplant.description>ナス科ナス属の紫色をした果実です。西洋ではナスが添え物として出されることはほとんどなく、おかずになることが多いです。</VCE_RawEggplant.description>
+
+  <VCE_RawCabbage.label>キャベツ(生)</VCE_RawCabbage.label>
+  <VCE_RawCabbage.description>やや硬くて葉の多い緑色の野菜で、よく刻んでから発酵させたり\n(ザワークラウト)煮込んだりします。</VCE_RawCabbage.description>
+
+  <VCE_RawBeets.label>テンサイ(生)</VCE_RawBeets.label>
+  <VCE_RawBeets.description>人間や家畜用に広く栽培されているハーブのような野菜です。特に栄養価が高く、歴史的に染料の製造に利用されています。</VCE_RawBeets.description>
+
+  <VCE_RawTomatoes.label>トマト(生)</VCE_RawTomatoes.label>
+  <VCE_RawTomatoes.description>ブドウのような木になる水分の多い光沢のある赤い果実の連なりで、一般的に野菜として用いられます。しっかり煮込むことで、天然の糖分が溶け出し、中に含まれる酸味が食欲をそそります。</VCE_RawTomatoes.description>
+
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_MixologyResearch.label>カクテル技術</VBE_MixologyResearch.label>
+        <VBE_MixologyResearch.description>電気を利用した高度な発酵法,工業的なボトル詰め,カクテルのミキシングのためのバーテーブル作業台といった,高度な設備の建設を可能にします.</VBE_MixologyResearch.description>
+        <VBE_LiquorBrewing.label>醸造</VBE_LiquorBrewing.label>
+        <VBE_LiquorBrewing.description>高濃度の蒸留酒を作るための蒸留と発酵を可能にする,高度な醸造技術を利用します.</VBE_LiquorBrewing.description>
+    </LanguageData>

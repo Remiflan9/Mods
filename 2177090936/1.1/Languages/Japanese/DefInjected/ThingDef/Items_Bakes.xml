@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_SimpleBake.label>簡単な焼き料理</VCE_SimpleBake.label>
+  <VCE_SimpleBake.description>小麦粉から作れる簡単な焼き料理.</VCE_SimpleBake.description>
+  <VCE_FineBake.label>手の込んだ焼き料理</VCE_FineBake.label>
+  <VCE_FineBake.description>豊富な食材と小麦粉から手間をかけて組み立てられた手の込んだ焼き料理.</VCE_FineBake.description>
+  <VCE_LavishBake.label>豪華な焼き料理</VCE_LavishBake.label>
+  <VCE_LavishBake.description>料理の最高傑作. この料理は体,心,魂に栄養を与えます.</VCE_LavishBake.description>
+  <VCE_GourmetBake.label>至高の焼き料理</VCE_GourmetBake.label>
+  <VCE_GourmetBake.description>少量の焼き料理ではありますが,厳選された食材から手間をかけて洗練され,見た目も豪華な芸術料理です.</VCE_GourmetBake.description>
+</LanguageData>

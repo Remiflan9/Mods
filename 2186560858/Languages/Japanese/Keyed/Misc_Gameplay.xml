@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_InsertSyrupDesc>シロップを投入</VBE_InsertSyrupDesc>
+        <VBE_StartInsertion>シロップを加える</VBE_StartInsertion>
+        <VBE_StartInsertionDesc>ソーダマシンにシロップを加えて処理を開始します.</VBE_StartInsertionDesc>
+        <VBE_CancelBringingSyrup>シロップの追加を取り消し</VBE_CancelBringingSyrup>
+        <VBE_CancelBringingSyrupDesc>ソーダマシンへのシロップの追加を取り消します.</VBE_CancelBringingSyrupDesc>
+        <VBE_SyrupFailurePower>ソーダマシンの停電によりソーダは腐敗しました.</VBE_SyrupFailurePower>
+        <VBE_InsertAmbMustDesc>マストを投入</VBE_InsertAmbMustDesc>
+        <VBE_StartInsertionAmbMust>マストを加える</VBE_StartInsertionAmbMust>
+        <VBE_StartInsertionAmbMustDesc>アンブランデー蒸溜所にアンブランデーマストを加えて醸造する.</VBE_StartInsertionAmbMustDesc>
+        <VBE_CancelBringingAmbMust>マストの追加を取り消し</VBE_CancelBringingAmbMust>
+        <VBE_CancelBringingAmbMustDesc>アンブランデー蒸溜所へのマストの追加を取り消します.</VBE_CancelBringingAmbMustDesc>
+        <VBE_AmbrandyFailurePower>アンブランデー蒸溜所の停電によりアンブランデーは腐敗しました.</VBE_AmbrandyFailurePower>
+        <VBE_RemoveAmbrandy>アンブランデーを取り出す({0})</VBE_RemoveAmbrandy>
+        <VBE_RemoveAmbrandyDesc>アンブランデー蒸溜所からアンブランデーを取り出します.現在の品質レベル({0})でアンブランデーが出来上がります.</VBE_RemoveAmbrandyDesc>
+        <VBE_InsertMustOrWhiskeyDesc>マッシュかウィスキーを投入</VBE_InsertMustOrWhiskeyDesc>
+        <VBE_StartInsertionMustOrWhiskey>マッシュかウィスキーを加える</VBE_StartInsertionMustOrWhiskey>
+        <VBE_StartInsertionMustOrWhiskeyDesc>ウィスキーの樽にマッシュを入れて発酵を開始するか,ウィスキーのダブルエージングを開始します.</VBE_StartInsertionMustOrWhiskeyDesc>
+        <VBE_CancelBringingMustOrWhiskey>マッシュまたはウィスキーの追加を取り消し</VBE_CancelBringingMustOrWhiskey>
+        <VBE_CancelBringingMustOrWhiskeyDesc>ウィスキー樽へのマッシュまたはウィスキーの追加を取り消します.</VBE_CancelBringingMustOrWhiskeyDesc>
+        <VBE_InsertTequilaMustDesc>マストを投入</VBE_InsertTequilaMustDesc>
+        <VBE_StartInsertionTequilaMust>マストを加える</VBE_StartInsertionTequilaMust>
+        <VBE_StartInsertionTequilaMustDesc>テキーラマストをテキーラ樽に投入して発酵プロセスを開始します.</VBE_StartInsertionTequilaMustDesc>
+        <VBE_CancelBringingTequilaMust>マストの追加を取り消し</VBE_CancelBringingTequilaMust>
+        <VBE_CancelBringingTequilaMustDesc>テキーラ樽へのテキーラマストの追加を取り消します.</VBE_CancelBringingTequilaMustDesc>
+        <VBE_InsertVodkaMustDesc>マッシュを投入</VBE_InsertVodkaMustDesc>
+        <VBE_StartInsertionVodkaMust>マッシュを加える</VBE_StartInsertionVodkaMust>
+        <VBE_StartInsertionVodkaMustDesc>ウォッカマッシュをウォッカドラムに投入して発酵プロセスを開始します.</VBE_StartInsertionVodkaMustDesc>
+        <VBE_CancelBringingVodkaMust>マッシュの追加を取り消し</VBE_CancelBringingVodkaMust>
+        <VBE_CancelBringingVodkaMustDesc>ウォッカドラムへのウォッカマッシュの追加を取り消します.</VBE_CancelBringingVodkaMustDesc>
+        <VBE_InsertGinMushDesc>マッシュを投入</VBE_InsertGinMushDesc>
+        <VBE_StartInsertionGinMush>マッシュを加える</VBE_StartInsertionGinMush>
+        <VBE_StartInsertionGinMushDesc>ジンマッシュをジン蒸留器に投入して発酵プロセスを開始します.</VBE_StartInsertionGinMushDesc>
+        <VBE_CancelBringingGinMush>マッシュの追加を取り消し</VBE_CancelBringingGinMush>
+        <VBE_CancelBringingGinMushDesc>ジン蒸留器へのジンマッシュの追加を取り消します.</VBE_CancelBringingGinMushDesc>
+        <VBE_MushRipening>マッシュの熟成</VBE_MushRipening>
+        <VBE_MushCurrentlyFrozen>このマッシュは冷凍されており,アンブランデーマストとして熟成することはありません.</VBE_MushCurrentlyFrozen>
+        <VBE_MushCurrentlyRefrigerated>このマッシュは,冷蔵されているため,アンブランデーマストとして熟成するために時間がかかります.(熟成まで {0})</VBE_MushCurrentlyRefrigerated>
+        <VBE_MushDryingCorrectly>このマッシュは正しくアンブランデーマストとして熟成しています.(熟成まで {0})</VBE_MushDryingCorrectly>
+        <VBE_CiderMaturing>シードルの発酵</VBE_CiderMaturing>
+        <VBE_CiderCurrentlyFrozen>この未発酵のシードルは,冷凍されているため,シードルとして発酵しません</VBE_CiderCurrentlyFrozen>
+        <VBE_CiderCurrentlyRefrigerated>この未発酵のシードルは冷蔵されているため,シードルとして発酵するために時間がかかります.(発酵まで {0})</VBE_CiderCurrentlyRefrigerated>
+        <VBE_CiderMaturingCorrectly>この未発酵のシードルは,正しくシードルとして発酵しています.(発酵まで {0})</VBE_CiderMaturingCorrectly>
+    </LanguageData>

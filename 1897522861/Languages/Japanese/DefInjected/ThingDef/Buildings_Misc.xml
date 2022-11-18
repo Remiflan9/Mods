@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Light_Streetlamp.label>街路灯</Light_Streetlamp.label>
+  <Light_Streetlamp.description>高さがあり周囲を照せる電灯です。薪の必要性なく屋外に設置できるため、屋外の照明に最適で、暗くなる夜間だけ点灯します。</Light_Streetlamp.description>
+  <Light_Streetlamp.comps.CompSchedule.offMessage>昼間なので消灯中</Light_Streetlamp.comps.CompSchedule.offMessage>
+  <Blueprint_Light_Streetlamp.label>街路灯(設計)</Blueprint_Light_Streetlamp.label>
+  <Blueprint_Install_Light_Streetlamp.label>街路灯(移動先)</Blueprint_Install_Light_Streetlamp.label>
+  <Frame_Light_Streetlamp.label>街路灯(施工)</Frame_Light_Streetlamp.label>
+  <Frame_Light_Streetlamp.description>高さがあり周囲を照せる電灯です。薪の必要性なく屋外に設置できるため、屋外の照明に最適で、暗くなる夜間だけ点灯します。</Frame_Light_Streetlamp.description>
+
+  <Misc_FileCabinet.label>書類棚</Misc_FileCabinet.label>
+  <Misc_FileCabinet.description>書類や記録用紙を入れて管理するための家具です。</Misc_FileCabinet.description>
+  <Blueprint_Misc_FileCabinet.label>書類棚(設計)</Blueprint_Misc_FileCabinet.label>
+  <Blueprint_Install_Misc_FileCabinet.label>書類棚(移動先)</Blueprint_Install_Misc_FileCabinet.label>
+  <Frame_Misc_FileCabinet.label>書類棚(施工)</Frame_Misc_FileCabinet.label>
+  <Frame_Misc_FileCabinet.description>書類や記録用紙を入れて管理するための家具です。</Frame_Misc_FileCabinet.description>
+
+  <Stone_Campfire.label>石の焚き火</Stone_Campfire.label>
+  <Stone_Campfire.description>食事を調理することもできますが、バニラ(Mod無し)の焚き火よりも発熱量が少なく、光は強くなり、燃料の薪はより早く燃え尽きます。他のすべての熱源と同じ様に暖房に使うためには密閉された室内に設置する必要があります。燃料を給油できます。</Stone_Campfire.description>
+  <Blueprint_Stone_Campfire.label>石の焚き火(設計)</Blueprint_Stone_Campfire.label>
+  <Frame_Stone_Campfire.label>石の焚き火(施工)</Frame_Stone_Campfire.label>
+  <Frame_Stone_Campfire.description>食事を調理することもできますが、バニラ(Mod無し)の焚き火よりも発熱量が少なく、光は強くなり、燃料の薪はより早く燃え尽きます。他のすべての熱源と同じ様に暖房に使うためには密閉された室内に設置する必要があります。燃料を給油できます。</Frame_Stone_Campfire.description>
+
+  <Shelf_1x1c.label>小物棚 (1x1)</Shelf_1x1c.label>
+  <Shelf_1x1c.description>小物を収納できる小さな棚。屋外に置いても収納したアイテムは劣化しません(腐敗はする)。</Shelf_1x1c.description>
+  <Blueprint_Shelf_1x1c.label>小物棚(1x1)(設計)</Blueprint_Shelf_1x1c.label>
+  <Blueprint_Install_Shelf_1x1c.label>小物棚(1x1)(移動先)</Blueprint_Install_Shelf_1x1c.label>
+  <Frame_Shelf_1x1c.label>小物棚(1x1)(施工)</Frame_Shelf_1x1c.label>
+  <Frame_Shelf_1x1c.description>小物を収納できる小さな棚。屋外に置いても収納したアイテムは劣化しません(腐敗はする)。</Frame_Shelf_1x1c.description>
+
+  <Shelf_WeaponRack.label>武器ラック</Shelf_WeaponRack.label>
+  <Shelf_WeaponRack.description>武器を収納するための頑丈なロッカーです。この中に保管されている武器は屋外でも劣化しません。</Shelf_WeaponRack.description>
+  <Blueprint_Shelf_WeaponRack.label>武器ラック(設計)</Blueprint_Shelf_WeaponRack.label>
+  <Blueprint_Install_Shelf_WeaponRack.label>武器ラック(移動先)</Blueprint_Install_Shelf_WeaponRack.label>
+  <Frame_Shelf_WeaponRack.label>武器ラック(施工)</Frame_Shelf_WeaponRack.label>
+  <Frame_Shelf_WeaponRack.description>武器を収納するための頑丈なロッカーです。この中に保管されている武器は屋外でも劣化しません。</Frame_Shelf_WeaponRack.description>
+
+  <Bin_Small.label>ゴミ箱(小)</Bin_Small.label>
+  <Bin_Small.description>設置された周囲を清潔を保つ小さなゴミ箱です。半径10マス内のゴミや汚れをゆっくりと取り除きます。</Bin_Small.description>
+  <Blueprint_Bin_Small.label>ゴミ箱(小)(設計)</Blueprint_Bin_Small.label>
+  <Blueprint_Install_Bin_Small.label>ゴミ箱(小)(移動先)</Blueprint_Install_Bin_Small.label>
+  <Frame_Bin_Small.label>ゴミ箱(小)(施工)</Frame_Bin_Small.label>
+  <Frame_Bin_Small.description>設置された周囲を清潔を保つ小さなゴミ箱です。半径10マス内のゴミや汚れをゆっくりと取り除きます。</Frame_Bin_Small.description>
+
+  <Bin_Large.label>ゴミ箱(大)</Bin_Large.label>
+  <Bin_Large.description>設置された周囲を清潔を保つ大きなゴミ箱です。半径20マス内のゴミや汚れをゆっくりと取り除きます。</Bin_Large.description>
+  <Blueprint_Bin_Large.label>ゴミ箱(大)(設計)</Blueprint_Bin_Large.label>
+  <Blueprint_Install_Bin_Large.label>ゴミ箱(大)(移動先)</Blueprint_Install_Bin_Large.label>
+  <Frame_Bin_Large.label>ゴミ箱(大)(施工)</Frame_Bin_Large.label>
+  <Frame_Bin_Large.description>設置された周囲を清潔を保つ大きなゴミ箱です。半径20マス内のゴミや汚れをゆっくりと取り除きます。</Frame_Bin_Large.description>
+
+</LanguageData>

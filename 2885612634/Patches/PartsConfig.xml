@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<!-- Core HeadTypeDef -->
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/HeadTypeDef[@Name = "NarrowBase"]/hairMeshSize</xpath>
+		<value>
+			<hairMeshSize>(1.5, 1.5)</hairMeshSize>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>Defs/HeadTypeDef[@Name = "NarrowBase"]/beardOffset</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>Defs/HeadTypeDef[@Name = "NarrowBase"]/beardOffsetXEast</xpath>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/HeadTypeDef[@Name = "AverageBase"]</xpath>
+			<value>
+				<eyeOffsetEastWest>(0.1, 0, 0.18)</eyeOffsetEastWest>
+			</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/HeadTypeDef[defName = "Male_AveragePointy"]/eyeOffsetEastWest</xpath>
+			<value>
+				<eyeOffsetEastWest>(0.1, 0, 0.18)</eyeOffsetEastWest>
+			</value>
+	</Operation>
+
+
+<!-- Ears -->
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/GeneDef[defName = "Ears_Human"]</xpath>
+			<value>
+				<graphicData>
+				    <graphicPath>Things/Pawn/Humanlike/HeadAttachments/HumanEars/HumanEars</graphicPath>
+				    <colorType>Skin</colorType>
+    			</graphicData>
+			</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/GeneDef[defName = "Ears_Cat"]/graphicData/colorType</xpath>
+			<value>
+				<colorType>Hair</colorType>
+				<useSkinShader>false</useSkinShader>
+			</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/GeneDef[defName = "Ears_Floppy"]/graphicData/colorType</xpath>
+			<value>
+				<colorType>Hair</colorType>
+				<useSkinShader>false</useSkinShader>
+			</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/GeneDef[defName = "Ears_Pig"]/graphicData/colorType</xpath>
+			<value>
+				<colorType>Hair</colorType>
+				<useSkinShader>false</useSkinShader>
+			</value>
+	</Operation>
+
+
+<!-- Brow -->
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/GeneDef[defName = "Brow_Heavy"]/graphicData/layer</xpath>
+			<value>
+				<layer>PostHair</layer>
+			</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/GeneDef[defName = "Brow_Heavy"]/graphicData/colorType</xpath>
+			<value>
+				<colorType>Hair</colorType>
+			</value>
+	</Operation>
+
+
+<!-- Furskin -->
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/GeneDef[defName = "Furskin"]/forcedHeadTypes</xpath>
+			<value>
+				<forcedHeadTypes>
+			      <li>Furskin_Average1</li>
+			      <li>Furskin_Average2</li>
+			      <li>Furskin_Average3</li>
+			      <li>Furskin_Narrow1</li>
+			      <li>Furskin_Narrow2</li>
+			      <li>Furskin_Narrow3</li>
+    			</forcedHeadTypes>
+			</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/GeneDef[defName = "Furskin"]/graphicData/colorType</xpath>
+			<value>
+				<colorType>Skin</colorType>
+			</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/GeneDef[defName = "Furskin"]/graphicData/skinIsHairColor</xpath>
+			<value>
+				<skinIsHairColor>false</skinIsHairColor>
+			</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/GeneDef[defName = "Furskin"]/graphicData/tattoosVisible</xpath>
+			<value>
+      			<tattoosVisible>true</tattoosVisible>
+			</value>
+	</Operation>
+
+
+<!-- HeavyJawBase -->
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/HeadTypeDef[@Name = "HeavyJawBase"]/beardMeshSize</xpath>
+			<value>
+				<beardMeshSize>(1.5, 1.5)</beardMeshSize>
+			</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/GeneDef[defName = "Jaw_Heavy"]/forcedHeadTypes</xpath>
+			<value>
+				<forcedHeadTypes>
+			    	<li>Male_HeavyJawNormal1</li>
+			    	<li>Male_HeavyJawNormal2</li>
+			    	<li>Male_HeavyJawNormal3</li>
+			    	<li>Male_HeavyJawNormal4</li>
+			    	<li>Male_HeavyJawNormal5</li>
+			    	<li>Male_HeavyJawNormal6</li>
+				    <li>Female_HeavyJawNormal1</li>
+				    <li>Female_HeavyJawNormal2</li>
+				    <li>Female_HeavyJawNormal3</li>
+				    <li>Female_HeavyJawNormal4</li>
+				    <li>Female_HeavyJawNormal5</li>
+				    <li>Female_HeavyJawNormal6</li>
+			    </forcedHeadTypes>
+			</value>
+	</Operation>
+
+
+<!-- Head_Gaunt -->
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/GeneDef[defName = "Head_Gaunt"]/forcedHeadTypes</xpath>
+			<value>
+				<forcedHeadTypes>
+			    	<li>Gaunt1</li>
+			    	<li>Gaunt2</li>
+			    	<li>Gaunt3</li>
+			    	<li>Gaunt4</li>
+			    	<li>Gaunt5</li>
+			    	<li>Gaunt6</li>
+    			</forcedHeadTypes>
+			</value>
+	</Operation>
+
+
+<!-- Nose_Pig -->
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/GeneDef[defName = "Nose_Pig"]/graphicData/narrowCrownHorizontalOffset</xpath>
+			<value>
+				<narrowCrownHorizontalOffset>0</narrowCrownHorizontalOffset>
+			</value>
+	</Operation>
+</Patch>

@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WATER PUMPING -->
+
+  <WaterWellInlet.label>井戸</WaterWellInlet.label>
+  <WaterWellInlet.description>給水ポンプで汲み上げることができる地下水に接続します。汚水やその他の汚染物質の存在は水質を低下させ、水の汚染を引き起こす可能性があります。</WaterWellInlet.description>
+  <Blueprint_WaterWellInlet.label>井戸(設計)</Blueprint_WaterWellInlet.label>
+  <Frame_WaterWellInlet.label>井戸(施工)</Frame_WaterWellInlet.label>
+  <Frame_WaterWellInlet.description>給水ポンプで汲み上げることができる地下水に接続します。汚水やその他の汚染物質の存在は水質を低下させ、水の汚染を引き起こす可能性があります。</Frame_WaterWellInlet.description>
+
+  <DeepWaterWellInlet.label>井戸(深層)</DeepWaterWellInlet.label>
+  <DeepWaterWellInlet.description>給水ポンプで汲み上げることができるより広範囲な地下水に接続します。深層まで掘り下げた井戸は地表での汚染による影響を受けません。</DeepWaterWellInlet.description>
+  <Blueprint_DeepWaterWellInlet.label>井戸(深層)(設計)</Blueprint_DeepWaterWellInlet.label>
+  <Frame_DeepWaterWellInlet.label>井戸(深層)(施工)</Frame_DeepWaterWellInlet.label>
+  <Frame_DeepWaterWellInlet.description>給水ポンプで汲み上げることができるより広範囲な地下水に接続します。深層まで掘り下げた井戸は地表での汚染による影響を受けません。</Frame_DeepWaterWellInlet.description>
+
+  <WaterButt.label>水タンク</WaterButt.label>
+  <WaterButt.description>配管設備を通して給水するための水を保管します。タンクの水が汚染された場合は、タンク内の水を全て排水する必要があります。</WaterButt.description>
+  <Blueprint_WaterButt.label>水タンク(設計)</Blueprint_WaterButt.label>
+  <Blueprint_Install_WaterButt.label>水タンク(移動先)</Blueprint_Install_WaterButt.label>
+  <Frame_WaterButt.label>水タンク(施工)</Frame_WaterButt.label>
+  <Frame_WaterButt.description>配管設備を通して給水するための水を保管します。タンクの水が汚染された場合は、タンク内の水を全て排水する必要があります。</Frame_WaterButt.description>
+
+  <WaterTowerS.label>給水塔</WaterTowerS.label>
+  <WaterTowerS.description>配管設備を通して給水するための水をタンクに保管します。タンクの水が汚染された場合は、タンク内の水を全て排水する必要があります。</WaterTowerS.description>
+  <Blueprint_WaterTowerS.label>給水塔(設計)</Blueprint_WaterTowerS.label>
+  <Frame_WaterTowerS.label>給水塔(施工)</Frame_WaterTowerS.label>
+  <Frame_WaterTowerS.description>配管設備を通して給水するための水をタンクに保管します。タンクの水が汚染された場合は、タンク内の水を全て排水する必要があります。</Frame_WaterTowerS.description>
+
+  <WaterTowerL.label>給水塔(大型)</WaterTowerL.label>
+  <WaterTowerL.description>配管設備を通して給水するための水をタンクに保管します。タンクの水が汚染された場合は、タンク内の水を全て排水する必要があります。</WaterTowerL.description>
+  <Blueprint_WaterTowerL.label>給水塔(大型)(設計)</Blueprint_WaterTowerL.label>
+  <Frame_WaterTowerL.label>給水塔(大型)(施工)</Frame_WaterTowerL.label>
+  <Frame_WaterTowerL.description>配管設備を通して給水するための水をタンクに保管します。タンクの水が汚染された場合は、タンク内の水を全て排水する必要があります。</Frame_WaterTowerL.description>
+
+  <WindPump.label>風力ポンプ</WindPump.label>
+  <WindPump.description>地下水を井戸から汲み上げて給水塔にポンプで送ります。ポンプの容量：3000リットル/日</WindPump.description>
+  <Blueprint_WindPump.label>風力ポンプ(設計)</Blueprint_WindPump.label>
+  <Frame_WindPump.label>風力ポンプ(施工)</Frame_WindPump.label>
+  <Frame_WindPump.description>地下水を井戸から汲み上げて給水塔にポンプで送ります。ポンプの容量：3000リットル/日</Frame_WindPump.description>
+
+  <!-- <WindPumpStuffed.label>風力ポンプ</WindPumpStuffed.label> -->
+  <!-- <WindPumpStuffed.description>地下水を井戸から汲み上げて給水塔にポンプで送ります。ポンプの容量：3000リットル/日</WindPumpStuffed.description> -->
+  <!-- <Blueprint_WindPumpStuffed.label>風力ポンプ(設計)</Blueprint_WindPumpStuffed.label> -->
+  <!-- <Frame_WindPumpStuffed.label>風力ポンプ(施工)</Frame_WindPumpStuffed.label> -->
+  <!-- <Frame_WindPumpStuffed.description>地下水を井戸から汲み上げて給水塔にポンプで送ります。ポンプの容量：3000リットル/日</Frame_WindPumpStuffed.description> -->
+
+  <ElectricPump.label>電力ポンプ</ElectricPump.label>
+  <ElectricPump.description>地下水を井戸から汲み上げて給水塔にポンプで送ります。ポンプの容量：1500リットル/日</ElectricPump.description>
+  <Blueprint_ElectricPump.label>電力ポンプ(設計)</Blueprint_ElectricPump.label>
+  <Blueprint_Install_ElectricPump.label>電力ポンプ (移動先)</Blueprint_Install_ElectricPump.label>
+  <Frame_ElectricPump.label>電力ポンプ(施工)</Frame_ElectricPump.label>
+  <Frame_ElectricPump.description>地下水を井戸から汲み上げて給水塔にポンプで送ります。ポンプの容量：1500リットル/日</Frame_ElectricPump.description>
+
+  <PumpingStation.label>給水ポンプ</PumpingStation.label>
+  <PumpingStation.description>地下水を井戸から汲み上げて給水塔にポンプで送ります。ポンプの容量：10000リットル/日</PumpingStation.description>
+  <Blueprint_PumpingStation.label>給水ポンプ(設計)</Blueprint_PumpingStation.label>
+  <Frame_PumpingStation.label>給水ポンプ(施工)</Frame_PumpingStation.label>
+  <Frame_PumpingStation.description>地下水を井戸から汲み上げて給水塔にポンプで送ります。ポンプの容量：10000リットル/日</Frame_PumpingStation.description>
+
+  <SewageOutlet.label>下水排水口</SewageOutlet.label>
+  <SewageOutlet.description>どこにでも設置することが可能で、下水は地面上の場合はいつまでも溜って広がります。水域の場合には汚れと共に拡散します。下水は時間の経過とともに清掃されます。木や水域、雨などによって浄化速度が早くなります。</SewageOutlet.description>
+  <Blueprint_SewageOutlet.label>下水排水口(設計)</Blueprint_SewageOutlet.label>
+  <Frame_SewageOutlet.label>下水排水口(施工)</Frame_SewageOutlet.label>
+  <Frame_SewageOutlet.description>どこにでも設置することが可能で、下水は地面上の場合はいつまでも溜って広がります。水域の場合には汚れと共に拡散します。下水は時間の経過とともに清掃されます。木や水域、雨などによって浄化速度が早くなります。</Frame_SewageOutlet.description>
+
+  <SewageSepticTank.label>浄化槽</SewageSepticTank.label>
+  <SewageSepticTank.description>下水を貯めることができ、ゆっくりと汚れた下水を浄化します。下水は配管を通ってまず最初に浄化槽に向かい、浄化槽が満水に達して入りきらない下水は、下水排水口に送られます。</SewageSepticTank.description>
+  <Blueprint_SewageSepticTank.label>浄化槽(設計)</Blueprint_SewageSepticTank.label>
+  <Frame_SewageSepticTank.label>浄化槽(施工)</Frame_SewageSepticTank.label>
+  <Frame_SewageSepticTank.description>下水を貯めることができ、ゆっくりと汚れた下水を浄化します。下水は配管を通ってまず最初に浄化槽に向かい、浄化槽が満水に達して入りきらない下水は、下水排水口に送られます。</Frame_SewageSepticTank.description>
+
+  <SewageTreatment.label>下水処理施設</SewageTreatment.label>
+  <SewageTreatment.description>ゆっくりと汚れた下水を浄化します。下水処理施設の容量上限に達すると入りきらない余分な下水は処理されずに直接下水排水口に送られます。</SewageTreatment.description>
+  <Blueprint_SewageTreatment.label>下水処理施設(設計)</Blueprint_SewageTreatment.label>
+  <Frame_SewageTreatment.label>下水処理施設(施工)</Frame_SewageTreatment.label>
+  <Frame_SewageTreatment.description>ゆっくりと汚れた下水を浄化します。下水処理施設の容量上限に達すると入りきらない余分な下水は処理されずに直接下水排水口に送られます。</Frame_SewageTreatment.description>
+
+  <WaterTreatment.label>上水処理施設</WaterTreatment.label>
+  <WaterTreatment.description>細菌やウィルスを99.99％ろ過します！給水塔タンクの水をろ過して、\n接続された衛生設備で使用される水から病気の可能性と危険を排除します。</WaterTreatment.description>
+  <Blueprint_WaterTreatment.label>上水処理施設(設計)</Blueprint_WaterTreatment.label>
+  <Frame_WaterTreatment.label>上水処理施設(施工)</Frame_WaterTreatment.label>
+  <Frame_WaterTreatment.description>細菌やウィルスを99.99％ろ過します！給水塔タンクの水をろ過して、\n接続された衛生設備で使用される水から病気の可能性と危険を排除します。</Frame_WaterTreatment.description>
+
+</LanguageData>

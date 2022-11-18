@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_LuciferiumPowder.label>ルシフェリウムパウダー</VBE_LuciferiumPowder.label>
+        <VBE_LuciferiumPowder.description>ルシフェリウムを細かく砕いて混ぜた粉末です.よく裕福で有力な人がアルコール飲料を飾るために使います.中毒リスクのない非常に薄められたドラッグとなります.</VBE_LuciferiumPowder.description>
+        <VBE_WakeUpPowder.label>ウェイクアップパウダー</VBE_WakeUpPowder.label>
+        <VBE_WakeUpPowder.description>ウェイクアップを砕いて粉末状にしたもので,驚くような甘さがあり,砂糖の代わりとしてデザートや朝のエスプレッソに溶かして使われます.中毒リスクのない非常に薄められたドラッグとなります.</VBE_WakeUpPowder.description>
+        <VBE_GoJuiceStock.label>ゴージュースストック</VBE_GoJuiceStock.label>
+        <VBE_GoJuiceStock.description>ゴージュースを糊化してキューブ上に固めたものです.注射するのではなく消化することができます.どんな食事にも使用できますが,スープやカクテルの増粘剤としても使用されます.中毒リスクのない非常に薄められたドラッグとなります.</VBE_GoJuiceStock.description>
+    </LanguageData>

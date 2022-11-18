@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MVCF.Toggle>{0}を切り替える</MVCF.Toggle>
+  <MVCF.ToggleUsing>{0}を自動使用に切り替える</MVCF.ToggleUsing>
+  <MVCF.ToggleAuto>自動使用に切り替える</MVCF.ToggleAuto>
+  <MVCF.Cooldown>まだ冷却時間中.残り{0}.</MVCF.Cooldown>
+  <MVCF.Setting>多重Verb戦闘フレームワーク</MVCF.Setting>
+  <MVCF.Settings.Debug>開発者モード</MVCF.Settings.Debug>
+  <MVCF.Settings.LogLevel>ログレベル:</MVCF.Settings.LogLevel>
+  <MVCF.Settings.LogLevel.None>なし</MVCF.Settings.LogLevel.None>
+  <MVCF.Settings.LogLevel.Important>重要</MVCF.Settings.LogLevel.Important>
+  <MVCF.Settings.LogLevel.Verbose>詳細</MVCF.Settings.LogLevel.Verbose>
+  <MVCF.Settings.LogLevel.Silly>無差別</MVCF.Settings.LogLevel.Silly>
+  <MVCF.Settings.LogLevel.Tick>Tick単位</MVCF.Settings.LogLevel.Tick>
+</LanguageData>

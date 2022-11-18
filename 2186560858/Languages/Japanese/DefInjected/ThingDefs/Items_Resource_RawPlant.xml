@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_RawCoffee.label>コーヒー豆</VBE_RawCoffee.label>
+        <VBE_RawCoffee.description>単にコーヒー豆として知られている,コーヒーの木の種です.それを焙煎することで,天然のカフェインと同様なしっかりとした苦みを引き出すことができます</VBE_RawCoffee.description>
+        <VBE_RawTea.label>お茶の葉</VBE_RawTea.label>
+        <VBE_RawTea.description>茶の木の葉です. それを煮出すことで,素朴で心地よい飲み物になります.</VBE_RawTea.description>
+        <VBE_RawTobacco.label>たばこの葉</VBE_RawTobacco.label>
+        <VBE_RawTobacco.description>たばこと呼ばれる低木の植物の葉です.たばこの葉はとても簡単に乾燥することができ,筒状に丸めて吸うことで穏やかな刺激を得ることができます.</VBE_RawTobacco.description>
+    </LanguageData>

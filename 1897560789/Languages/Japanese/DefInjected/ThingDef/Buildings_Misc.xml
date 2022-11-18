@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Spacer_SunLamp.label>太陽灯 (生科研用)</Spacer_SunLamp.label>
+  <Spacer_SunLamp.description>最適な電力しか消費せずに農作物を育てるのに十分な明るさで広い地域を照らし、必要な熱量も供給する大型の太陽灯です。夜間でも電源は落ちずに、雨に濡れてもショートしません。</Spacer_SunLamp.description>
+  <Blueprint_Spacer_SunLamp.label>太陽灯 (生科研用)(設計)</Blueprint_Spacer_SunLamp.label>
+  <Blueprint_Install_Spacer_SunLamp.label>太陽灯 (生科研用)(移動先)</Blueprint_Install_Spacer_SunLamp.label>
+  <Frame_Spacer_SunLamp.label>太陽灯 (生科研用)(施工)</Frame_Spacer_SunLamp.label>
+  <Frame_Spacer_SunLamp.description>最適な電力しか消費せずに農作物を育てるのに十分な明るさで広い地域を照らし、必要な熱量も供給する大型の太陽灯です。夜間でも電源は落ちずに、雨に濡れてもショートしません。</Frame_Spacer_SunLamp.description>
+
+  <Light_SpacerLamp.label>最先端ランプ</Light_SpacerLamp.label>
+  <Light_SpacerLamp.description>最高気温15度まで部屋を暖めて維持する統合型温度調節装置を使用しながら、部屋を明るく効果的に照らす強力な最先端のランプです。雨に濡れてもショートしません。</Light_SpacerLamp.description>
+  <Blueprint_Light_SpacerLamp.label>最先端ランプ(設計)</Blueprint_Light_SpacerLamp.label>
+  <Blueprint_Install_Light_SpacerLamp.label>最先端ランプ(移動先)</Blueprint_Install_Light_SpacerLamp.label>
+  <Frame_Light_SpacerLamp.label>最先端ランプ(施工)</Frame_Light_SpacerLamp.label>
+  <Frame_Light_SpacerLamp.description>最高気温15度まで部屋を暖めて維持する統合型温度調節装置を使用しながら、部屋を明るく効果的に照らす強力な最先端のランプです。雨に濡れてもショートしません。</Frame_Light_SpacerLamp.description>
+
+  <Shelf_RepairRack.label>自動修復 ロッカー(1x1)</Shelf_RepairRack.label>
+  <Shelf_RepairRack.description>ナノマシン型メカノイド(mechanites)を利用して、収納された衣服や防具、武器などのダメージをゆっくりと修理する高性能なハイテクロッカーです。</Shelf_RepairRack.description>
+  <Blueprint_Shelf_RepairRack.label>自動修復 ロッカー(1x1)(設計)</Blueprint_Shelf_RepairRack.label>
+  <Blueprint_Install_Shelf_RepairRack.label>自動修復 ロッカー(1x1)(移動先)</Blueprint_Install_Shelf_RepairRack.label>
+  <Frame_Shelf_RepairRack.label>自動修復 ロッカー(1x1)(施工)</Frame_Shelf_RepairRack.label>
+  <Frame_Shelf_RepairRack.description>ナノマシン型メカノイド(mechanites)を利用して、収納された衣服や防具、武器などのダメージをゆっくりと修理する高性能なハイテクロッカーです。</Frame_Shelf_RepairRack.description>
+
+  <Spacer_OutdoorLamp.label>太陽光発電 ランプ</Spacer_OutdoorLamp.label>
+  <Spacer_OutdoorLamp.description>自家発電用の太陽光パネルが付いた太陽光発電ランプ。\n通常の電気スタンドよりも明るさは弱いものの、日中は太陽光パネルで自家発電を行い内臓バッテリーに電気を溜めるので外部から電力供給する必要が無く、24時間60日間絶えまず働き続けます。雨に濡れてもショートしません。</Spacer_OutdoorLamp.description>
+  <Blueprint_Spacer_OutdoorLamp.label>太陽光発電 ランプ(設計)</Blueprint_Spacer_OutdoorLamp.label>
+  <Blueprint_Install_Spacer_OutdoorLamp.label>太陽光発電 ランプ(移動先)</Blueprint_Install_Spacer_OutdoorLamp.label>
+  <Frame_Spacer_OutdoorLamp.label>太陽光発電 ランプ(施工)</Frame_Spacer_OutdoorLamp.label>
+  <Frame_Spacer_OutdoorLamp.description>自家発電用の太陽光パネルが付いた太陽光発電ランプ。\n通常の電気スタンドよりも明るさは弱いものの、日中は太陽光パネルで自家発電を行い内臓バッテリーに電気を溜めるので外部から電力供給する必要が無く、24時間60日間絶えまず働き続けます。雨に濡れてもショートしません。</Frame_Spacer_OutdoorLamp.description>
+
+  <Reinforced_WallAT.label>積層強化壁</Reinforced_WallAT.label>
+  <Reinforced_WallAT.description>材料を交互に積み重ねる事で補強された、通り抜けられない壁です。屋根を支えることが出来ます。</Reinforced_WallAT.description>
+  <Blueprint_Reinforced_WallAT.label>積層強化壁(設計)</Blueprint_Reinforced_WallAT.label>
+  <Frame_Reinforced_WallAT.label>積層強化壁(施工)</Frame_Reinforced_WallAT.label>
+  <Frame_Reinforced_WallAT.description>材料を交互に積み重ねる事で補強された、通り抜けられない壁です。屋根を支えることが出来ます。</Frame_Reinforced_WallAT.description>
+
+</LanguageData>

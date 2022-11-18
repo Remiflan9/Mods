@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LogBoiler.comps.CompBoiler.GizmoLabel>動力方式</LogBoiler.comps.CompBoiler.GizmoLabel>
+  <GasBoiler.comps.CompBoiler.GizmoLabel>動力方式</GasBoiler.comps.CompBoiler.GizmoLabel>
+  <ElectricBoiler.comps.CompBoiler.GizmoLabel>動力方式</ElectricBoiler.comps.CompBoiler.GizmoLabel>
+  <SolarHeater.comps.CompBoilerSolar.GizmoLabel>動力方式</SolarHeater.comps.CompBoilerSolar.GizmoLabel>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_CiderAsIngredient.label>シードルベースのカクテルを飲んだ</VBE_CiderAsIngredient.label>
+        <VBE_CiderAsIngredient.description>材料の一つにシードルを使ったカクテルを飲んだ.シードルはその抗酸化作用が賞賛されています.毒物の蓄積をわずかですか除去します.</VBE_CiderAsIngredient.description>
+        <VBE_CiderHigh.label>シードルによる興奮状態</VBE_CiderHigh.label>
+        <VBE_CiderHigh.labelNoun>シードル・ハイ</VBE_CiderHigh.labelNoun>
+        <VBE_CiderHigh.description>血中にアルコールが浸透しています.それは人々をハッピーにさせますが,仕事の能力を減らします.いくら飲んでも"酔い始め"の段階を超えることはありません.</VBE_CiderHigh.description>
+        <VBE_CiderHigh.stages.0.label>酔い始め</VBE_CiderHigh.stages.0.label>
+    </LanguageData>

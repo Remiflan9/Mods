@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <HygieneRefrigerator.label>冷蔵庫</HygieneRefrigerator.label>
+  <HygieneRefrigerator.description>低温で食べ物を保管して、簡単に出し入れできます。</HygieneRefrigerator.description>
+  <Blueprint_HygieneRefrigerator.label>冷蔵庫(設計)</Blueprint_HygieneRefrigerator.label>
+  <Blueprint_Install_HygieneRefrigerator.label>冷蔵庫(移動先)</Blueprint_Install_HygieneRefrigerator.label>
+  <Frame_HygieneRefrigerator.label>冷蔵庫(施工)</Frame_HygieneRefrigerator.label>
+  <Frame_HygieneRefrigerator.description>低温で食べ物を保管して、簡単に出し入れできます。</Frame_HygieneRefrigerator.description>  -->
+
+  <DBHSwimmingPool.label>水泳プール</DBHSwimmingPool.label>
+  <DBHSwimmingPool.description>水治療やくつろいだり、娯楽に使われる水泳用プールです。最初に給水塔から水を流し込んで満水にしなければ使えません。</DBHSwimmingPool.description>
+  <Blueprint_DBHSwimmingPool.label>水泳プール(設計)</Blueprint_DBHSwimmingPool.label>
+  <Frame_DBHSwimmingPool.label>水泳プール(施工)</Frame_DBHSwimmingPool.label>
+  <Frame_DBHSwimmingPool.description>水治療やくつろいだり、娯楽に使われる水泳用プールです。最初に給水塔から水を流し込んで満水にしなければ使えません。</Frame_DBHSwimmingPool.description>
+
+  <HotTub.label>ジャグジー</HotTub.label>
+  <HotTub.description>温泉療法やリラクゼーション、または娯楽のために使用される温水用の浴槽です。最初に給水塔からの水で満たされ、浴槽によって加熱されます。排水口を必要としません。</HotTub.description>
+  <Blueprint_HotTub.label>ジャグジー(設計)</Blueprint_HotTub.label>
+  <Blueprint_Install_HotTub.label>ジャグジー(移動先)</Blueprint_Install_HotTub.label>
+  <Frame_HotTub.label>ジャグジー(施工)</Frame_HotTub.label>
+  <Frame_HotTub.description>温泉療法やリラクゼーション、または娯楽のために使用される風呂用の浴槽です。最初に給水塔からの水で満たされ、浴槽によって加熱されます。排水口を必要としません。</Frame_HotTub.description>
+
+  <WashingMachine.label>洗濯機</WashingMachine.label>
+  <WashingMachine.description>それを死んだ誰かが着ていたと言われないように、きれいに衣服を洗濯する事が可能です。</WashingMachine.description>
+  <Blueprint_WashingMachine.label>洗濯機(設計)</Blueprint_WashingMachine.label>
+  <Blueprint_Install_WashingMachine.label>洗濯機(移動先)</Blueprint_Install_WashingMachine.label>
+  <Frame_WashingMachine.label>洗濯機(施工)</Frame_WashingMachine.label>
+  <Frame_WashingMachine.description>それを死んだ誰かが着ていたと言われないように、きれいに衣服を洗濯する事が可能です。</Frame_WashingMachine.description>
+
+</LanguageData>

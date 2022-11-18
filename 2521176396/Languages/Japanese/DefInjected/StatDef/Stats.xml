@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VAEA_RangedCooldownFactor.label>射撃武器クールダウン係数</VAEA_RangedCooldownFactor.label>
+  <VAEA_RangedCooldownFactor.description>着用者の射撃武器のクールダウンは、この値で乗算されます。</VAEA_RangedCooldownFactor.description>
+</LanguageData>

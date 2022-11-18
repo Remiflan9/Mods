@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Automatic Pistol -->
+  <VWE_Gun_AutomaticPistol.label>オートマチックピストル</VWE_Gun_AutomaticPistol.label>
+  <VWE_Gun_AutomaticPistol.description>先進的なな自動拳銃です.  ストッピングパワーはありませんが素早く発射できます. 3点バーストで射撃します.</VWE_Gun_AutomaticPistol.description>
+  <VWE_Gun_AutomaticPistol.tools.0.label>グリップ</VWE_Gun_AutomaticPistol.tools.0.label>
+  <VWE_Gun_AutomaticPistol.tools.1.label>バレル</VWE_Gun_AutomaticPistol.tools.1.label>
+  <!-- Bullpup Rifle -->
+  <VWE_Gun_BullpupRifle.label>ブルパップライフル</VWE_Gun_BullpupRifle.label>
+  <VWE_Gun_BullpupRifle.description>トリガーの後ろに弾倉が付いたアサルトライフルです.適度な威力を持ちかつ長射程で高精度, そして軽量な素材でできているために素早く射撃体勢に移ることができます.</VWE_Gun_BullpupRifle.description>
+  <VWE_Gun_BullpupRifle.tools.0.label>ストック</VWE_Gun_BullpupRifle.tools.0.label>
+  <VWE_Gun_BullpupRifle.tools.1.label>バレル</VWE_Gun_BullpupRifle.tools.1.label>
+  <!-- Bullpup DMR -->
+  <Bullet_BullpupDMR.label>銃弾(ブルパップDMR)</Bullet_BullpupDMR.label>
+  <VWE_Gun_BullpupDMR.label>ブルパップDMR</VWE_Gun_BullpupDMR.label>
+  <VWE_Gun_BullpupDMR.description>マークスマンライフルとして設計されたブルパップ銃です.\n\n標準のボルトアクションライフルと類似点がありますが, ダメージと引き換えに2発の銃弾をすばやく連続して発射します.  軽量素材のため素早く射撃体勢に移ることができます.</VWE_Gun_BullpupDMR.description>
+  <VWE_Gun_BullpupDMR.tools.0.label>ストック</VWE_Gun_BullpupDMR.tools.0.label>
+  <VWE_Gun_BullpupDMR.tools.1.label>バレル</VWE_Gun_BullpupDMR.tools.1.label>
+  <!-- PDW -->
+  <VWE_Gun_PDW.label>PDW</VWE_Gun_PDW.label>
+  <VWE_Gun_PDW.description>個人防衛火器として使われる小型軽量のサブマシンガンです.素早く射撃することができます.</VWE_Gun_PDW.description>
+  <VWE_Gun_PDW.tools.0.label>グリップ</VWE_Gun_PDW.tools.0.label>
+  <VWE_Gun_PDW.tools.1.label>バレル</VWE_Gun_PDW.tools.1.label>
+</LanguageData>

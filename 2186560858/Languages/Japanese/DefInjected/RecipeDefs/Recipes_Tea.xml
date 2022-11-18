@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_MakeTea.label>お茶を淹れる</VBE_MakeTea.label>
+        <VBE_MakeTea.description>茶葉の袋を煮立った湯に浸して,心地よい香りの飲み物を作ります.</VBE_MakeTea.description>
+        <VBE_MakeTea.jobString>お茶を淹れている</VBE_MakeTea.jobString>
+    </LanguageData>

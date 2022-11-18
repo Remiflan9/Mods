@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MintMenus_BuildMenu.label>Mint建設メニュー</MintMenus_BuildMenu.label>
+  <MintMenus_MintResearch.label>Mint研究メニュー</MintMenus_MintResearch.label>
+  <MintMenus_MintWheel.label>Mintホイール</MintMenus_MintWheel.label>
+  <MintMenus_MintBillMenu.label>Mint加工命令</MintMenus_MintBillMenu.label>
+  <MintMenus_PinningHide.label>資源の読み出しを非表示 (ピン除外)</MintMenus_PinningHide.label>
+  <MintMenus_MintGearMenu.label>Mint装備メニュー</MintMenus_MintGearMenu.label>
+
+</LanguageData>

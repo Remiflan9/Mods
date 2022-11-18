@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FloodCanal.label>防衛排水路</FloodCanal.label>
+  <FloodCanal.description>防御用の大規模な洪水用の排水路で,コロニー全体の給水備蓄量が急速に空になり,その濁流の中に立っていると,不幸な結果になります.\n\nこの防衛施設を使用するには,貯水量が少なくとも,14万4千リットル必要です.\n(放水中に排水路内に居ると,毎Tickごとに5ダメージ)</FloodCanal.description>
+  <Blueprint_FloodCanal.label>防衛排水路(設計)</Blueprint_FloodCanal.label>
+  <Frame_FloodCanal.label>防衛排水路(施工)</Frame_FloodCanal.label>
+  <Frame_FloodCanal.description>防御用の大規模な洪水用の排水路で,コロニー全体の給水備蓄量が急速に空になり,その濁流の中に立っていると,不幸な結果になります.\n\nこの防衛施設を使用するには,貯水量が少なくとも,14万4千リットル必要です.\n(放水中に排水路内に居ると,毎Tickごとに5ダメージ)</Frame_FloodCanal.description>
+
+</LanguageData>

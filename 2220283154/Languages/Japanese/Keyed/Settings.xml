@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GeneralTitle>全般</GeneralTitle>
+  <!-- CSG -->
+  <CSGTitle>カスタム建造物生成:</CSGTitle>
+  <CSGLog>建造物生成デバッグログを有効化:</CSGLog>
+
+  <!-- Toggable patches -->
+  <TPTitle>パッチの切替</TPTitle>
+  <NeedRestart>すべての設定を適用するには再起動が必要です</NeedRestart>
+  <XPatchFound>{0}個のパッチが見つかった</XPatchFound>
+
+  <!-- Weather damages -->
+  <VEF.WeatherDamages>天候によるダメージ</VEF.WeatherDamages>
+  <VEF.EnableWeatherDamage>{0}</VEF.EnableWeatherDamage>
+
+  <!-- Faction Discovery -->
+  <FDTitle>Faction Discovery</FDTitle>
+  <NeedToBeInGame>最初にセーブを読み込む必要があります</NeedToBeInGame>
+  <AskForPopUp>派閥を追加しました</AskForPopUp>
+  <AskForPopUpExplained>ゲームに追加する場合、ここをクリックすると追加する各派閥について質問されます</AskForPopUpExplained>
+  <CanAddXFaction>{0}派閥を現在のセーブに追加可能です</CanAddXFaction>
+
+  <VEF.DisableModSourceReport>情報カードのMod由来報告を無効化</VEF.DisableModSourceReport>
+
+  <VEF.Shields.Search>検索:</VEF.Shields.Search>
+  <VEF.Shields.ResetModSettingsToDefault>Mod設定をデフォルトにリセット</VEF.Shields.ResetModSettingsToDefault>
+  <VEF.Shields.ExplanationTitle>武器をシールドと一緒に使用可能か使用不可に設定します.</VEF.Shields.ExplanationTitle>
+  <VEF.Shields.ShowMeleeWeapons>近接武器を表示</VEF.Shields.ShowMeleeWeapons>
+  <VEF.Shields.ShowRangeWeapons>遠距離武器を表示</VEF.Shields.ShowRangeWeapons>
+</LanguageData>

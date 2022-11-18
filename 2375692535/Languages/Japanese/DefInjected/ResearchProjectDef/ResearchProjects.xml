@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Mass drivers -->
+  <VWE_MassDrivers.label>マスドライバー</VWE_MassDrivers.label>
+  <VWE_MassDrivers.description>電磁石を利用してサボットを超高速で射出し, 厚い鎧をターゲットごと貫通する武器を組み立てます. 作製には先進コンポーネントが必要であることに注意してください.</VWE_MassDrivers.description>
+</LanguageData>

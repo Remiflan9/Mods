@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_SodaFountain.label>ソーダ・ファウンテン</VBE_SodaFountain.label>
+        <VBE_SodaFountain.description>シロップと水をよく混ぜて,炭酸を充填し,良く冷やして滅菌したボトルに充填します.</VBE_SodaFountain.description>
+        <VBE_AmbrandyDistillery.label>アンブランデー蒸溜所</VBE_AmbrandyDistillery.label>
+        <VBE_AmbrandyDistillery.description>極めて繊細な職人技で,アンブロージアマストを飲みやすく加工するための金色の蒸留所です.</VBE_AmbrandyDistillery.description>
+        <VBE_WhiskeyCask.label>ウィスキー樽</VBE_WhiskeyCask.label>
+        <VBE_WhiskeyCask.description>大量のウィスキーを一度に熟成させるための大きな樽です.発酵の過程で液体の一部が樽に吸収され,自然の木の香りが付与されます.日光が当たると,発酵が遅くなったり作業がすべて台無しになります.</VBE_WhiskeyCask.description>
+        <VBE_TequilaBarrel.label>テキーラ樽</VBE_TequilaBarrel.label>
+        <VBE_TequilaBarrel.description>小型の蒸留器と発酵漕を組み合わせてあり,暖かな酒場のカウンターの後ろに保管するには最適ですが,雨の中に置くのは良いことではないでしょう.</VBE_TequilaBarrel.description>
+        <VBE_VodkaDrum.label>ウォッカドラム</VBE_VodkaDrum.label>
+        <VBE_VodkaDrum.description>短期間で発酵できるように,気密性が高くなるよう改造された水を入れるための安価な容器です.</VBE_VodkaDrum.description>
+        <VBE_GinStill.label>ジン蒸留器</VBE_GinStill.label>
+        <VBE_GinStill.description>ジンを飲用にするために,精製と発酵を行う金属で作られた工業用の蒸留装置です.金属製のデザインは,幅広い環境と温度での熟成を可能にします.</VBE_GinStill.description>
+    </LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_CookDessertSimple.label>簡単なデザートを作る</VCE_CookDessertSimple.label>
+  <VCE_CookDessertSimple.description>数種類の果物などで作れる簡単なデザートを1つ調理する.</VCE_CookDessertSimple.description>
+  <VCE_CookDessertSimple.jobString>簡単なデザートを調理中.</VCE_CookDessertSimple.jobString>
+  <VCE_CookDessertSimpleBulk.label>簡単なデザート x4を作る</VCE_CookDessertSimpleBulk.label>
+  <VCE_CookDessertSimpleBulk.description>数種類の果物などで作れる簡単なデザートを4つ調理する.</VCE_CookDessertSimpleBulk.description>
+  <VCE_CookDessertSimpleBulk.jobString>簡単なデザート x4を調理中.</VCE_CookDessertSimpleBulk.jobString>
+  <VCE_CookDessertFine.label>手の込んだデザートを作る</VCE_CookDessertFine.label>
+  <VCE_CookDessertFine.description>料理の最高傑作. このデザートは体,心,魂に栄養を与えます.\n\nメモ:チョコレートの栄養価は1個あたり0.10なので,このレシピの調理中に一部が無駄になってしまいます. 無駄にならないように,このレシピの(x4)バージョンを使用することを検討してください.</VCE_CookDessertFine.description>
+  <VCE_CookDessertFine.jobString>手の込んだデザートを調理中.</VCE_CookDessertFine.jobString>
+  <VCE_CookDessertFineBulk.label>手の込んだデザート x4を作る</VCE_CookDessertFineBulk.label>
+  <VCE_CookDessertFineBulk.description>豊富な食材から手間をかけて作られた手の込んだデザートを4つ調理する.</VCE_CookDessertFineBulk.description>
+  <VCE_CookDessertFineBulk.jobString>手の込んだデザート x4を調理中.</VCE_CookDessertFineBulk.jobString>
+  <VCE_CookDessertLavish.label>豪華なデザートを作る</VCE_CookDessertLavish.label>
+  <VCE_CookDessertLavish.description>料理の最高傑作. このデザートは体,心,魂に栄養を与えます.\n\nメモ:チョコレートの栄養価は1個あたり0.10なので,このレシピの調理中に一部が無駄になってしまいます. 無駄にならないように,このレシピの(x4)バージョンを使用することを検討してください.</VCE_CookDessertLavish.description>
+  <VCE_CookDessertLavish.jobString>豪華なデザートを調理中.</VCE_CookDessertLavish.jobString>
+  <VCE_CookDessertLavishBulk.label>豪華なデザート x4を作る</VCE_CookDessertLavishBulk.label>
+  <VCE_CookDessertLavishBulk.description>料理の最高傑作を4つ作ります. このデザートは体,心,魂に栄養を与えます.</VCE_CookDessertLavishBulk.description>
+  <VCE_CookDessertLavishBulk.jobString>豪華なデザート x4を調理中.</VCE_CookDessertLavishBulk.jobString>
+  <VCE_CookDessertGourmet.label>至高のデザートを作る</VCE_CookDessertGourmet.label>
+  <VCE_CookDessertGourmet.description>少量のデザートではありますが,厳選された食材から手間をかけて洗練され,見た目も豪華な芸術料理を作ります.</VCE_CookDessertGourmet.description>
+  <VCE_CookDessertGourmet.jobString>至高のデザートを調理中.</VCE_CookDessertGourmet.jobString>
+</LanguageData>

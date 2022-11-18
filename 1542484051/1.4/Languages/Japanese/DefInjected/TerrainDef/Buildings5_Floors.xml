@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DBHMosaicTile.label>モザイク床</DBHMosaicTile.label>
+  <DBHMosaicTile.description>モザイク模様に敷かれた鉄製タイルで,バスルームやキッチンをおしゃれに飾ります.</DBHMosaicTile.description>
+
+  <DBHMosaicSandstone.label>モザイク床 (砂岩)</DBHMosaicSandstone.label>
+  <DBHMosaicSandstone.description>モザイク模様に敷かれた砂岩石タイルを丁寧に切り嵌めて,バスルームやキッチンをおしゃれに飾ります.</DBHMosaicSandstone.description>
+
+  <DBHMosaicGranite.label>モザイク床 (花崗岩)</DBHMosaicGranite.label>
+  <DBHMosaicGranite.description>モザイク模様に敷かれた花崗岩タイルを丁寧に切り嵌めて,バスルームやキッチンをおしゃれに飾ります.</DBHMosaicGranite.description>
+
+  <DBHMosaicLimestone.label>モザイク床 (石灰岩)</DBHMosaicLimestone.label>
+  <DBHMosaicLimestone.description>モザイク模様に敷かれた石灰岩タイルを丁寧に切り嵌めて,バスルームやキッチンをおしゃれに飾ります.</DBHMosaicLimestone.description>
+
+  <DBHMosaicSlate.label>モザイク床 (粘板岩)</DBHMosaicSlate.label>
+  <DBHMosaicSlate.description>モザイク模様に敷かれた粘板岩タイルを丁寧に切り嵌めて,バスルームやキッチンをおしゃれに飾ります.</DBHMosaicSlate.description>
+
+  <DBHMosaicMarble.label>モザイク床 (大理石)</DBHMosaicMarble.label>
+  <DBHMosaicMarble.description>モザイク模様に敷かれた大理石タイルを丁寧に切り嵌めて,バスルームやキッチンをおしゃれに飾ります.</DBHMosaicMarble.description>
+
+</LanguageData>

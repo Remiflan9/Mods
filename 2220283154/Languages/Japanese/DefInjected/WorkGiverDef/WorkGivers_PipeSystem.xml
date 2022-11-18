@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+ <PS_DrainOutOfStorage.label>収納庫から排出</PS_DrainOutOfStorage.label>
+ <PS_DrainOutOfStorage.verb>排出</PS_DrainOutOfStorage.verb>
+ <PS_DrainOutOfStorage.gerund>で収納庫から排出する</PS_DrainOutOfStorage.gerund>
+
+ <PS_FillStorage.label>収納庫を満たす</PS_FillStorage.label>
+ <PS_FillStorage.verb>満たす</PS_FillStorage.verb>
+ <PS_FillStorage.gerund>で収納庫を満たす</PS_FillStorage.gerund>
+
+</LanguageData>

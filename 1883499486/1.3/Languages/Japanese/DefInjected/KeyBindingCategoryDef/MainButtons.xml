@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--<MintNeedsMenu.label>mint欲求メニュー</MintNeedsMenu.label>
+  <MintNeedsMenu.description>ポーンの欲求を全て表示</MintNeedsMenu.description>
+  <MintHealthMenu.label>mint健康メニュー</MintHealthMenu.label>
+  <MintHealthMenu.description>ポーンの健康状態を全て表示</MintHealthMenu.description>-->
+
+  <MintMenus.label>Dubs Mint Menus</MintMenus.label>
+  <MintMenus.description>Dubs_Mint_Menusのキー設定</MintMenus.description>
+
+</LanguageData>

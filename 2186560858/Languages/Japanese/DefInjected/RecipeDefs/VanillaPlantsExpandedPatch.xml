@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <LanguageData>
+        <VBE_MakeUnfermentedCider.label>未発酵のシードルを作る</VBE_MakeUnfermentedCider.label>
+        <VBE_MakeUnfermentedCider.description>密閉されたボトルに詰められた,スターター入りの未発酵のシードルを作ります.適切に菌を育てて寝かせておくと,最終的に弱いアルコール飲料になります.</VBE_MakeUnfermentedCider.description>
+        <VBE_MakeUnfermentedCider.jobString>未発酵のシードルを作成中</VBE_MakeUnfermentedCider.jobString>
+    </LanguageData>

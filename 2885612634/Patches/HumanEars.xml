@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!-- Baseliner -->
+<!-- 	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/XenotypeDef[defName = "Baseliner"]</xpath>
+		<value>
+			<genes>
+      			<li>Ears_Human</li>
+    		</genes>
+		</value>
+	</Operation> -->
+
+	<!-- Dirtmole -->
+<!-- 	<Operation Class="PatchOperationInsert">
+		<xpath>Defs/XenotypeDef[defName = "Dirtmole"]/genes/li[1]</xpath>
+		<value>
+      		<li>Ears_Human</li>
+		</value>
+	</Operation> -->
+
+
+<!-- Genie -->
+<!-- 	<Operation Class="PatchOperationInsert">
+		<xpath>Defs/XenotypeDef[defName = "Genie"]/genes/li[1]</xpath>
+		<value>
+      		<li>Ears_Human</li>
+		</value>
+	</Operation>
+ -->
+
+<!-- Hussar -->
+<!-- 	<Operation Class="PatchOperationInsert">
+		<xpath>Defs/XenotypeDef[defName = "Hussar"]/genes/li[1]</xpath>
+		<value>
+      		<li>Ears_Human</li>
+		</value>
+	</Operation> -->
+
+<!-- Waster -->
+<!-- 	<Operation Class="PatchOperationInsert">
+		<xpath>Defs/XenotypeDef[defName = "Waster"]/genes/li[1]</xpath>
+		<value>
+      		<li>Ears_Human</li>
+		</value>
+	</Operation> -->
+
+<!-- Highmate -->
+<!-- 	<Operation Class="PatchOperationInsert">
+		<xpath>Defs/XenotypeDef[defName = "Highmate"]/genes/li[1]</xpath>
+		<value>
+      		<li>Ears_Human</li>
+		</value>
+	</Operation> -->
+
+</Patch>

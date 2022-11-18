@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlaceFertilizer.label>バイオ肥料を追肥する</PlaceFertilizer.label>
+  <PlaceFertilizer.verb>追肥する</PlaceFertilizer.verb>
+  <PlaceFertilizer.gerund>追肥している</PlaceFertilizer.gerund>
+
+  <TipSewage.label>下水汚泥をばら撒く</TipSewage.label>
+  <TipSewage.verb>をばら撒く</TipSewage.verb>
+  <TipSewage.gerund>をばら撒く</TipSewage.gerund>
+
+  <DrainWaterTank.label>水を抜く</DrainWaterTank.label>
+  <DrainWaterTank.verb>の水を抜く</DrainWaterTank.verb>
+  <DrainWaterTank.gerund>の水を抜く</DrainWaterTank.gerund>
+
+  <!--<DBHAdministerFluids.label>水を飲ませる</DBHAdministerFluids.label>
+  <DBHAdministerFluids.verb>に水を飲ませる</DBHAdministerFluids.verb>
+  <DBHAdministerFluids.gerund>に水を飲ませる</DBHAdministerFluids.gerund>-->
+
+  <!--<DBHAdministerFluidsWarden.label>水を飲ませる</DBHAdministerFluidsWarden.label>
+  <DBHAdministerFluidsWarden.verb>に水を飲ませる</DBHAdministerFluidsWarden.verb>
+  <DBHAdministerFluidsWarden.gerund>に水を飲ませる</DBHAdministerFluidsWarden.gerund>-->
+
+  <ClearBlockage.label>詰まりを取る</ClearBlockage.label>
+  <ClearBlockage.verb>の詰まりを取る</ClearBlockage.verb>
+  <ClearBlockage.gerund>の詰まりを取る</ClearBlockage.gerund>
+
+  <washPatient.label>患者を洗う</washPatient.label>
+  <washPatient.verb>を洗う</washPatient.verb>
+  <washPatient.gerund>を洗う</washPatient.gerund>
+
+  <DocCleanBedpan.label>洗濯カゴを掃除</DocCleanBedpan.label>
+  <DocCleanBedpan.verb>を掃除する</DocCleanBedpan.verb>
+  <DocCleanBedpan.gerund>を掃除する</DocCleanBedpan.gerund>
+
+  <cleanBedpan.label>便器を掃除</cleanBedpan.label>
+  <cleanBedpan.verb>を掃除する</cleanBedpan.verb>
+  <cleanBedpan.gerund>を掃除する</cleanBedpan.gerund>
+
+</LanguageData>
