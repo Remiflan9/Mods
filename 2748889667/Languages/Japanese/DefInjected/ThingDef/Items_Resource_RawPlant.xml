@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_RawCelery.label>セロリ(生)</VCE_RawCelery.label>
+  <VCE_RawCelery.description>繊維質の長い茎から葉に先細りになっている野菜です.葉には強い香りがあり,スープやシチューの香り付け,または乾燥させてハーブとして使われることが多いです.セロリは多くのスープにとって主役のような具材です.</VCE_RawCelery.description>
+
+  <VCE_RawLettuce.label>レタス(生)</VCE_RawLettuce.label>
+  <VCE_RawLettuce.description>生食やサラダとしてよく食べられている葉野菜です.レタスは一般にビタミンKやビタミンAを豊富に含んでいます.</VCE_RawLettuce.description>
+
+  <VCE_RawRadish.label>ラディッシュ(生)</VCE_RawRadish.label>
+  <VCE_RawRadish.description>食用の根菜です.非常に育てやすく,収穫も早いため,ガーデニング初心者がよく植える野菜です.</VCE_RawRadish.description>
+
+  <VCE_RawBuckwheat.label>ソバ(生)</VCE_RawBuckwheat.label>
+  <VCE_RawBuckwheat.description>穀物のような種子を取るために栽培される擬穀類です.白い花は末広がりに咲き,結実すると三角形の種子になり,暗褐色または灰色の堅い皮に包まれます.</VCE_RawBuckwheat.description>
+
+  <VCE_RawPeanut.label>ラッカセイ(生)</VCE_RawPeanut.label>
+  <VCE_RawPeanut.description>紙のような種皮と,長方形の種子を持つ豆科の植物です.クルミやアーモンドなどの木の実と味や栄養が似ています.</VCE_RawPeanut.description>
+
+  <VCE_RawSunflower.label>ヒマワリの種(生)</VCE_RawSunflower.label>
+  <VCE_RawSunflower.description>ヒマワリの種は,食事の一部としてよりも,おやつとして食べるのが一般的です.また,様々なレシピの添え物や材料として使われることもあります.</VCE_RawSunflower.description>
+
+  <VCE_RawOkra.label>オクラ(生)</VCE_RawOkra.label>
+  <VCE_RawOkra.description>食用の緑色の種子のさやです.切り開くとぬるぬるねばねばした食感があることで有名です.オクラは貴重な栄養素の宝庫とされています.</VCE_RawOkra.description>
+
+  <VCE_RawGarlic.label>ニンニク(生)</VCE_RawGarlic.label>
+  <VCE_RawGarlic.description>葉の付け根にできる球根のために栽培される非常に古い作物です.辛味と独特の風味があり,料理にもよく使われています.</VCE_RawGarlic.description>
+
+  <VCE_RawCarrot.label>ニンジン(生)</VCE_RawCarrot.label>
+  <VCE_RawCarrot.description>この根菜類は一般的にオレンジ色をしていますが,他にも紫,黒,赤,白,黄色の品種も存在します.刻んで茹でたり,炒めたり,蒸したり,スープやシチューに入れたり,離乳食やペットフードにも使える万能な野菜です.</VCE_RawCarrot.description>
+
+  <VCE_RawBrusselsSprouts.label>芽キャベツ(生)</VCE_RawBrusselsSprouts.label>
+  <VCE_RawBrusselsSprouts.description>キャベツの一種で,「子持甘藍」と呼ばれる小さなキャベツの玉を1株で40～60個ほど実をつけます.芽キャベツは通常調理して食べますが,若い小さな芽は,古いものより繊細な風味を持ってます.</VCE_RawBrusselsSprouts.description>
+
+  <VCE_RawOlives.label>オリーブ(生)</VCE_RawOlives.label>
+  <VCE_RawOlives.description>黒または緑色の卵形の小さな果実です.食用や油の原料として利用されます.収穫したばかりのオリーブはオレウロペインを含んでおり,すぐに食べることはできないため,塩漬けにしたり,発酵させたりして使用します.</VCE_RawOlives.description>
+
+  <VCE_RawSweetPotatoes.label>サツマイモ(生)</VCE_RawSweetPotatoes.label>
+  <VCE_RawSweetPotatoes.description>大粒でデンプン質が多く,甘味のある（カボチャに似た味）塊状の根です.根菜として利用されます.サツマイモは,一般的なジャガイモと遠縁にあります.</VCE_RawSweetPotatoes.description>
+
+  <VCE_RawCassava.label>キャッサバ(生)</VCE_RawCassava.label>
+  <VCE_RawCassava.description>マンジョク,マンディオカ,ユカとも呼ばれる塊茎の食用植物です.マイルドなナッツのような味で,根菜類として煮込み料理やおかずとしてよく食べられています.キャッサバの根は,小麦粉,パン,洗濯糊のタピオカ,アルコール飲料の原料になる万能な野菜です.</VCE_RawCassava.description>
+
+  <VCE_RawBeans.label>インゲンマメ(生)</VCE_RawBeans.label>
+  <VCE_RawBeans.description>古代から栽培されている豆科の植物です.蒸す,煮る,炒める,焼くなどして食べられます.スープやシチュー,キャセロールなど,他の料理にもよく使われています.キュウリと同じように,インゲンマメも漬物にすることができます.</VCE_RawBeans.description>
+
+  <VCE_RawBellPeppers.label>赤ピーマン(生)</VCE_RawBellPeppers.label>
+  <VCE_RawBellPeppers.description>別名アマトウガラシと呼ばれるこの赤ピーマンは,植物学的にはナス科でトウガラシの仲間です.この種は,果実の中でカプサイシンが作られないようにする劣性遺伝子を持つ唯一のトウガラシなので辛くありません.</VCE_RawBellPeppers.description>
+
+  <VCE_RawYellowBellPeppers.label>黄ピーマン(生)</VCE_RawYellowBellPeppers.label>
+  <VCE_RawYellowBellPeppers.description>別名アマトウガラシと呼ばれるこの黄ピーマンは,植物学的にはナス科でトウガラシの仲間です.この種は,果実の中でカプサイシンが作られないようにする劣性遺伝子を持つ唯一のトウガラシなので辛くありません.</VCE_RawYellowBellPeppers.description>
+
+  <VCE_RawChickpeas.label>ヒヨコマメ(生)</VCE_RawChickpeas.label>
+  <VCE_RawChickpeas.description>古代から栽培されている豆科の植物です.ヒヨコマメは食物繊維とタンパク質が豊富で,鉄分,リン,葉酸を多く含んでいます.</VCE_RawChickpeas.description>
+
+  <VCE_RawTaro.label>タロイモ(生)</VCE_RawTaro.label>
+  <VCE_RawTaro.description>外皮は褐色で,肉は白色,全体に紫色の斑点を持つでんぷん質の根菜です.調理すると,まろやかな甘みとジャガイモに似た食感になります.</VCE_RawTaro.description>
+
+  <VCE_RawWatercress.label>クレソンの葉(生)</VCE_RawWatercress.label>
+  <VCE_RawWatercress.description>ケールやブロッコリーと同じ仲間で,ビタミンやミネラルが豊富な緑の葉野菜です.</VCE_RawWatercress.description>
+
+  <VCE_RawLotus.label>ハスの実(生)</VCE_RawLotus.label>
+  <VCE_RawLotus.description>ハスの種子です.タンパク質,炭水化物,ビタミンなど,健康的な食生活に欠かせない栄養素がたくさん含まれています.</VCE_RawLotus.description>
+
+  <VCE_RawWaterChestnut.label>シログワイ(生)</VCE_RawWaterChestnut.label>
+  <VCE_RawWaterChestnut.description>小型で丸みを帯びた球茎です.果肉は白くてさっぱりしており,生食や,少し茹でて食べたり,焼いて食べたりすることができます.</VCE_RawWaterChestnut.description>
+
+  <VCE_RawCucumber.label>キュウリ(生)</VCE_RawCucumber.label>
+  <VCE_RawCucumber.description>皮は緑色で硬く,果肉は透明で湿っている細長い野菜です.生でも食べられます.</VCE_RawCucumber.description>
+
+  <VCE_RawButternutSquash.label>バターナッツカボチャ(生)</VCE_RawButternutSquash.label>
+  <VCE_RawButternutSquash.description>カボチャに似た甘みとナッツのような風味を持つ野菜です.皮は褐色,果肉はオレンジ色で,花の先に種子が含まれています.</VCE_RawButternutSquash.description>
+
+
+</LanguageData>

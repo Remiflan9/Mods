@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tunneller crops -->
+
+  <VCE_Moss.label>ホラアナゴケ</VCE_Moss.label>
+  <VCE_Moss.description>栄養豊富なコケです.洞窟に住む動物たちの餌になり,食用にはなりません.菌床の上で育てることができますが,暗闇の中でしか育たないため,ダークライトを含む光に当てると死滅します.</VCE_Moss.description>
+
+  <VCE_Tinctshroom.label>ティンクッシュルーム</VCE_Tinctshroom.label>
+  <VCE_Tinctshroom.description>自己変異式の染料を分泌するように遺伝子改造されたキノコのような植物です.この色素は様々な色に変化させることができ,衣料品の染色に使用することができます.菌床の上で育てることができますが,暗闇の中でしか育たないため,ダークライトを含む光に当てると死滅します.</VCE_Tinctshroom.description>
+
+  <VCE_Healshroom.label>ヒールッシュルーム</VCE_Healshroom.label>
+  <VCE_Healshroom.description>成長が遅く,収穫すると薬草が得られるキノコです.ヒールッシュルームは壊れやすいため,種まきと収穫は非常に手間がかかります.菌床の上で育てることができますが,暗闇の中でしか育たないため,ダークライトを含む光に当てると死滅します.</VCE_Healshroom.description>
+
+
+</LanguageData>

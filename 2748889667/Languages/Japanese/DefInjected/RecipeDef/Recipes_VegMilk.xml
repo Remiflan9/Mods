@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_MilkFromRice.label>米からミルクを作る</VCE_MilkFromRice.label>
+  <VCE_MilkFromRice.description>米から植物性ミルクを抽出します. このミルクは,ミルクを必要とするあらゆるレシピに使用することができます.\n\n米はミルクにするには非常に効率が悪く,その過程で多くの栄養が失われてしまいます.</VCE_MilkFromRice.description>
+  <VCE_MilkFromRice.jobString>米からミルクを作成中</VCE_MilkFromRice.jobString>
+
+  <VCE_MilkFromAlmonds.label>アーモンドからミルクを作る</VCE_MilkFromAlmonds.label>
+  <VCE_MilkFromAlmonds.description>アーモンドから植物性ミルクを抽出します. このミルクは,ミルクを必要とするあらゆるレシピに使用することができます.\n\n植物性ミルクは一般的に,その過程で多くの栄養が失われるため,効率が悪いと言われています.</VCE_MilkFromAlmonds.description>
+  <VCE_MilkFromAlmonds.jobString>アーモンドからミルクを作成中</VCE_MilkFromAlmonds.jobString>
+
+  <VCE_MilkFromCoconuts.label>ココナッツからミルクを作る</VCE_MilkFromCoconuts.label>
+  <VCE_MilkFromCoconuts.description>ココナッツから植物性ミルクを抽出します. このミルクは,ミルクを必要とするあらゆるレシピに使用することができます.\n\n植物性ミルクは一般的に,その過程で多くの栄養が失われるため,効率が悪いと言われています.</VCE_MilkFromCoconuts.description>
+  <VCE_MilkFromCoconuts.jobString>ココナッツからミルクを作成中</VCE_MilkFromCoconuts.jobString>
+
+  <VCE_MilkFromOats.label>オーツ麦からミルクを作る</VCE_MilkFromOats.label>
+  <VCE_MilkFromOats.description>オーツ麦から植物性ミルクを抽出します. このミルクは,ミルクを必要とするあらゆるレシピに使用することができます.\n\n植物性ミルクは一般的に,その過程で多くの栄養が失われるため,効率が悪いと言われています.</VCE_MilkFromOats.description>
+  <VCE_MilkFromOats.jobString>オーツ麦からミルクを作成中</VCE_MilkFromOats.jobString>
+
+
+</LanguageData>

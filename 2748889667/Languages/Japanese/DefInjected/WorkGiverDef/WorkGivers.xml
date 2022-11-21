@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Growing -->
+
+  <VCE_HarvestAquatic.label>水田で収穫</VCE_HarvestAquatic.label>
+  <VCE_HarvestAquatic.verb>水田で収穫</VCE_HarvestAquatic.verb>
+  <VCE_HarvestAquatic.gerund>を収穫する</VCE_HarvestAquatic.gerund>
+
+  <VCE_SowAquatic.label>水田で種まき</VCE_SowAquatic.label>
+  <VCE_SowAquatic.verb>水田で種まき</VCE_SowAquatic.verb>
+  <VCE_SowAquatic.gerund>に種をまく</VCE_SowAquatic.gerund>
+
+  <VCE_HarvestSandy.label>砂地で収穫</VCE_HarvestSandy.label>
+  <VCE_HarvestSandy.verb>砂地で収穫</VCE_HarvestSandy.verb>
+  <VCE_HarvestSandy.gerund>を収穫する</VCE_HarvestSandy.gerund>
+
+  <VCE_SowSandy.label>砂地で種まき</VCE_SowSandy.label>
+  <VCE_SowSandy.verb>砂地で種まき</VCE_SowSandy.verb>
+  <VCE_SowSandy.gerund>に種をまく</VCE_SowSandy.gerund>
+
+
+</LanguageData>

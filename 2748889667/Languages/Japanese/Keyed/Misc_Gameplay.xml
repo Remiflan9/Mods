@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_AquaticGrowingZone>農業ゾーン (水田)</VCE_AquaticGrowingZone>
+  <VCE_AquaticGrowingZoneDesc>入植者が水生植物を栽培しようとするためのゾーンを作成します.水生植物は地形の肥沃度を無視できますが,種まきと収穫に非常に時間がかかります.\n\nこれらのゾーンは,海水（塩水）の上には作成できません.</VCE_AquaticGrowingZoneDesc>
+
+  <VCE_SandyGrowingZone>農業ゾーン (砂地)</VCE_SandyGrowingZone>
+  <VCE_SandyGrowingZoneDesc>入植者が砂地植物を栽培しようとするためのゾーンを作成します.砂地植物は地形の肥沃度を無視できますが,種まきと収穫に非常に長い時間がかかります.</VCE_SandyGrowingZoneDesc>
+
+  <VCE_NotInEquator>赤道域ではないため通常どおり成長します.（この惑星では緯度{0}以下）</VCE_NotInEquator>
+  <VCE_InEquator>赤道域なので30%早く成長します.</VCE_InEquator>
+
+  <VCE_NeedsShade>日陰で育てる必要があります: 屋外の屋根の下.</VCE_NeedsShade>
+
+  <VCE_Pollinated>近くに養蜂場がある</VCE_Pollinated>
+  <VCE_NotPollinated>半径6タイル内に養蜂場がない(種まき開始時に算出)</VCE_NotPollinated>
+
+  <VCE_CarrotsNearby>近くに植えられているニンジン: {0}/100</VCE_CarrotsNearby>
+  <VCE_BeansNearby>近くに植えられているインゲンマメ: {0}/100</VCE_BeansNearby>
+
+  <VCE_StuntedGrowthFertility>岩盤ではないため成長速度が低下します</VCE_StuntedGrowthFertility>
+  <VCE_StoppedGrowthFertility>肥沃すぎる地形により成長できません</VCE_StoppedGrowthFertility>
+
+  <VCE_WaterNearby>近くの水域が植物の成長を妨げています</VCE_WaterNearby>
+  <VCE_NoWaterNearby>近くに水域が無いことが植物の成長を妨げています</VCE_NoWaterNearby>
+
+  <VCE_NoSeaTilesNearby>海から遠すぎるため成長ボーナスはありません</VCE_NoSeaTilesNearby>
+  <VCE_SeaTilesNearby>近くに{0}の海タイルが存在するため,{0}%の成長ボーナスが加算されます</VCE_SeaTilesNearby>
+
+
+</LanguageData>

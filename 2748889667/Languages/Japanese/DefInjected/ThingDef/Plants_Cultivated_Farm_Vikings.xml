@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Food crops -->
+
+  <VCE_Blueberry.label>ブルーベリー</VCE_Blueberry.label>
+  <VCE_Blueberry.description>甘い食用の果実が珍重される低木です.スーパーフードとして知られ,デザートフルーツとして生食されるほか,様々なお菓子に混ぜて焼いて食べることもできます.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; ブルーベリーはミツバチによって受粉されます.半径6タイル以内に養蜂場があると,成長が促進されます.ラグを避けるために,この計算は植物を蒔いたときに一度だけ行われるので,蒔いた後に置かれた養蜂場は何の効果も持ちません.養蜂場がない場合は,ゆっくり成長する苺です.</VCE_Blueberry.description>
+
+
+</LanguageData>

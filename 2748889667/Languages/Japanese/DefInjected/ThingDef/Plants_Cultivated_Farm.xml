@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Food crops -->
+
+  <VCE_Celery.label>セロリ</VCE_Celery.label>
+  <VCE_Celery.description>繊維質の長い茎から葉に先細りになっている野菜です.葉には強い香りがあり,スープやシチューの香り付け,または乾燥させてハーブとして使われることが多いです.セロリは多くのスープにとって主役のような具材です.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; セロリは生育期間が非常に長い野菜です（ほぼ1年!）.その間,ずっと生き続けることができれば,トウモロコシよりも大きな収穫を得ることができます.</VCE_Celery.description>
+
+  <VCE_Pineapple.label>パイナップル</VCE_Pineapple.label>
+  <VCE_Pineapple.description>皮が硬く,葉はとげがある甘い熱帯果実です.パイナップルの語源は「Pine cone(松ぼっくり)」から由来しており,果実が大きな松ぼっくりに似ていることから,この名がつきました.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; パイナップルは生育期間が非常に長いですが,栄養価が高く,備蓄スペースも少なくて済みます.</VCE_Pineapple.description>
+
+  <VCE_Lettuce.label>レタス</VCE_Lettuce.label>
+  <VCE_Lettuce.description>生食やサラダとしてよく食べられている葉野菜です.レタスは一般にビタミンKやビタミンAを豊富に含んでいます.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; レタスはイチゴのように生で食べられますが,日陰,つまり屋外でも屋根の下で育てる必要があります.室内では育ちません.</VCE_Lettuce.description>
+
+  <VCE_BrusselsSprout.label>芽キャベツ</VCE_BrusselsSprout.label>
+  <VCE_BrusselsSprout.description>キャベツの一種で,「子持甘藍」と呼ばれる小さなキャベツの玉を1株で40～60個ほど実をつけます.芽キャベツは通常調理して食べますが,若い小さな芽は,古いものより繊細な風味を持ってます.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; 他の植物とは異なり,芽キャベツは雪に強く,雪が降ると成長度がかなり促進されます.(でないと育たず,植えられません).寒さで死ぬことはありません.</VCE_BrusselsSprout.description>
+
+  <VCE_Cassava.label>キャッサバ</VCE_Cassava.label>
+  <VCE_Cassava.description>マンジョク,マンディオカ,ユカとも呼ばれる塊茎の食用植物です.マイルドなナッツのような味で,根菜類として煮込み料理やおかずとしてよく食べられています.キャッサバの根は,小麦粉,パン,洗濯糊のタピオカ,アルコール飲料の原料になる万能な野菜です.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; キャッサバは熱帯の温暖で湿度の高い気候の中で最もよく育ちます.そのため,天候が霧の場合,かなりの生育ボーナスを得ることができます.</VCE_Cassava.description>
+
+  <VCE_SweetPotato.label>サツマイモ</VCE_SweetPotato.label>
+  <VCE_SweetPotato.description>大粒でデンプン質が多く,甘味のある（カボチャに似た味）塊状の根です.根菜として利用されます.サツマイモは,一般的なジャガイモと遠縁にあります.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; サツマイモは岩石質の土壌を好み,その上でよく育ちます.対して,豊かな土壌はかえって不利になります.霜には弱く,平均気温24℃で最もよく育ち,20℃以下ではペナルティを受けます.</VCE_SweetPotato.description>
+
+  <VCE_Radish.label>ラディッシュ</VCE_Radish.label>
+  <VCE_Radish.description>食用の根菜です.非常に育てやすく,収穫も早いため,ガーデニング初心者がよく植える野菜です.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; この遺伝子改造されたラディッシュは,生育期間が非常に短い（2日以内）のが特徴です.つまり,少量の食料を迅速に必要とする場合に有効な作物であり,種まきと収穫の作業が最も重要な要素となるのです.</VCE_Radish.description>
+
+  <VCE_Buckwheat.label>ソバ</VCE_Buckwheat.label>
+  <VCE_Buckwheat.description>穀物のような種子を取るために栽培される擬穀類です.白い花は末広がりに咲き,結実すると三角形の種子になり,暗褐色または灰色の堅い皮に包まれます.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; ソバは火にとても強く,特にこの品種は完全に燃えないように改良されています.</VCE_Buckwheat.description>
+
+  <VCE_Peanut.label>ラッカセイ</VCE_Peanut.label>
+  <VCE_Peanut.description>紙のような種皮と,長方形の種子を持つ豆科の植物です.クルミやアーモンドなどの木の実と味や栄養が似ています.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; この遺伝子改造されたラッカセイは,農業ゾーンに種をまく際に,75％の確率で隣のタイルに自動的に植え付けられます.これにより,種まきの手間がはぶけます.超便利です.</VCE_Peanut.description>
+
+  <VCE_Sunflower.label>ヒマワリ</VCE_Sunflower.label>
+  <VCE_Sunflower.description>食用油や食用果実として利用される大型の作物です.ヒマワリの名は,花の頭の形が太陽に似ていることに由来しているようです.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; ひまわりは赤道域で30％早く成長します.赤道域の大きさは,惑星の全体的な温度によって決まります.15度以下は普通,35度以下は温暖,65度以下は高温,非常に高温は惑星全体が高温となります.通常温度以下の惑星は,赤道域がないものとみなされます.</VCE_Sunflower.description>
+
+  <VCE_Okra.label>オクラ</VCE_Okra.label>
+  <VCE_Okra.description>食用の緑色の種子のさやです.切り開くとぬるぬるねばねばした食感があることで有名です.オクラは貴重な栄養素の宝庫とされています.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; オクラはとても傷みにくい作物です.オクラは長時間の光量不足によるダメージが少なく,他の手段で受けたダメージも再生します.</VCE_Okra.description>
+
+  <VCE_Garlic.label>ニンニク</VCE_Garlic.label>
+  <VCE_Garlic.description>草のような平らな長い葉が茎を形成し,食用や薬用にされる部分のある花球から直接立ち上がっている植物です.球根は,紙のような皮に覆われたたくさんの小さなチョウジによって形成されています.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; ニンニクは収穫量は少ないですが,どんな地形でも育ちます.乾燥ニンニクは料理にも使うことができて,腐敗が遅く,とんでもなく長持ちします.</VCE_Garlic.description>
+
+  <VCE_Carrot.label>ニンジン</VCE_Carrot.label>
+  <VCE_Carrot.description>セリ科の草本植物で,食用の根を出します.地上部には細かく分かれた複葉の直立したロゼットができ,食用のニンジンと付属の根はその下にあります.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; 組み合わせボーナス: 同じマップでインゲンマメを栽培すると,ニンジンの成長が早くなります（100本見つかると最大30％早くなります）.</VCE_Carrot.description>
+
+  <VCE_Beans.label>インゲンマメ</VCE_Beans.label>
+  <VCE_Beans.description>古代から栽培されている豆科の植物です.他の豆類とは異なり,インゲンマメはエンドウマメのように種子が成熟する前にさやごと収穫され,食用になります.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; 組み合わせボーナス: ニンジンが同じマップにあると,インゲンマメの生育が早くなります（100本見つかると最大30％早くなります）.</VCE_Beans.description>
+
+  <VCE_Chickpea.label>ヒヨコマメ</VCE_Chickpea.label>
+  <VCE_Chickpea.description>古代から栽培されている豆科の植物です.栄養価の高い種子をとるため広く栽培されています.食物繊維やタンパク質が豊富で,鉄やリン,葉酸も多く含まれています.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; ヒヨコマメは成長が早く,収穫量も多いですが,備蓄に多くのスペースを必要とします（これはスタック増加MODによって否定されるかもしれません.汚いチーターとしてゲームのバランスを台無しにするかは,あなたの判断次第です）.</VCE_Chickpea.description>
+
+  <VCE_BellPepper.label>ピーマン</VCE_BellPepper.label>
+  <VCE_BellPepper.description>別名アマトウガラシと呼ばれるこのピーマンは,植物学的にはナス科でトウガラシの仲間です.この種は,果実の中でカプサイシンが作られないようにする劣性遺伝子を持つ唯一のトウガラシなので辛くありません.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; 平均して25％の確率で黄色いピーマンに,75％の確率で赤いピーマンに成熟します.前者の方が栄養価が高いです.大量に植えれば,平均収量が増えます.</VCE_BellPepper.description>
+
+  <VCE_YellowBellPepper.label>ピーマン</VCE_YellowBellPepper.label>
+  <VCE_YellowBellPepper.description>別名アマトウガラシと呼ばれるこのピーマンは,植物学的にはナス科でトウガラシの仲間です.この種は,果実の中でカプサイシンが作られないようにする劣性遺伝子を持つ唯一のトウガラシなので辛くありません.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; 平均して25％の確率で黄色いピーマンに,75％の確率で赤いピーマンに成熟します.前者の方が栄養価が高いです.大量に植えれば,平均収量が増えます.</VCE_YellowBellPepper.description>
+
+  <VCE_Taro.label>タロイモ</VCE_Taro.label>
+  <VCE_Taro.description>主に根菜である球茎を食用として栽培される熱帯植物です.タロイモは,株元が常に水中にある湛水下で栽培できる数少ない作物のひとつです.これは,葉柄に空洞があり,水中で大気と気体交換ができるためです.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; タロイモは水田でしか栽培できないため,肥沃度を無視することができます.これらの水生植物は種まきと収穫に長い時間がかかりますが,入植者の拘束時間と引き換えに,建築できない無駄なスペースを有効活用することができます.タロイモは水生植物の基本です.</VCE_Taro.description>
+
+  <VCE_Watercress.label>クレソン</VCE_Watercress.label>
+  <VCE_Watercress.description>クレソンは急速に成長する多年生植物です.人類が食用とした最古の葉菜の一つと言われています.クレソンとその近縁種の多くは,そのピリッとした風味で注目されています.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; クレソンは水田でしか栽培できないため,肥沃度を無視することができます.これらの水生植物は種まきと収穫に長い時間がかかりますが,入植者の拘束時間と引き換えに,建築できない無駄なスペースを有効活用することができます.クレソンはサトイモより早く成長しますが,多くのスペースを必要とするため,隣接するスペースに種まきすることができません.</VCE_Watercress.description>
+
+  <VCE_Lotus.label>ハス</VCE_Lotus.label>
+  <VCE_Lotus.description>ハスは,流れの緩やかな河川の氾濫原や,デルタ地帯に適応して生育する水生植物です.俗にスイレンと呼ばれることもあります.蓮の根茎は歯ごたえがあり,甘辛い味付けで,揚げたり,炒めたり,肉や果物の詰め物にしたりすることができます.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; ハスは水田でしか栽培できないため,肥沃度を無視することができます.これらの水生植物は種まきと収穫に長い時間がかかりますが,入植者の拘束時間と引き換えに,建築できない無駄なスペースを有効活用することができます.ハスの栽培には長い時間がかかります.</VCE_Lotus.description>
+
+  <VCE_WaterChestnut.label>シログワイ</VCE_WaterChestnut.label>
+  <VCE_WaterChestnut.description>沼地,水中,泥中に生育する水生植物です.茎のような筒状の緑色の葉と,小さく丸い球茎があり,白くてさわやかな肉質で,生食や少し茹でて食べたり,焼いて食べることができます.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; シログワイは水田でしか栽培できないため,肥沃度を無視することができます.これらの水生植物は種まきと収穫に長い時間がかかりますが,入植者の拘束時間と引き換えに,建築できない無駄なスペースを有効活用することができます.シログワイは暑い（37～60℃）と30％速く成長します.</VCE_WaterChestnut.description>
+
+  <VCE_Melon.label>メロン</VCE_Melon.label>
+  <VCE_Melon.description>甘く,食用に適し,肉厚で,かなりの大きさの果実をつける植物です.メロンは温暖な地方でよく栽培されています.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; メロンは砂地でしか栽培できないため,肥沃度を無視することができます.これらの砂地植物は種まきと収穫に長い時間がかかりますが,入植者の拘束時間と引き換えに,建築できない無駄なスペースを有効活用することができます.メロンは広いスペースを必要とするので,隣接するスペースに種まきすることはできませんが,収穫は失敗しません.</VCE_Melon.description>
+
+  <VCE_Cucumber.label>キュウリ</VCE_Cucumber.label>
+  <VCE_Cucumber.description>大きな葉と巻きついた蔓,三角形の刺毛のある葉を持ち,黄色の花でのびのびとした植物です.果実は細長い野菜で,硬い緑色の皮と濡れた透明な果肉が特徴です.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; キュウリは砂地でしか栽培できないため,肥沃度を無視することができます.これらの砂地植物は種まきと収穫に長い時間がかかりますが,入植者の拘束時間と引き換えに,建築できない無駄なスペースを有効活用することができます.キュウリは成長が早く,短期間で収穫できます.また,生で食べられます.</VCE_Cucumber.description>
+
+  <VCE_ButternutSquash.label>バターナッツカボチャ</VCE_ButternutSquash.label>
+  <VCE_ButternutSquash.description>カボチャに似た甘みとナッツのような風味を持つ,つる植物です.皮は褐色,果肉はオレンジ色で,花の先に種子が含まれています.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; バターナッツカボチャは砂地でしか栽培できないため,肥沃度を無視することができます.これらの砂地植物は種まきと収穫に長い時間がかかりますが,入植者の拘束時間と引き換えに,建築できない無駄なスペースを有効活用することができます.バターナッツカボチャは栽培に時間がかかります.</VCE_ButternutSquash.description>
+
+  <VCE_AloeVera.label>アロエベラ</VCE_AloeVera.label>
+  <VCE_AloeVera.description>多肉質の葉がロゼット状に並ぶ薬草の一種です.葉は灰色から緑色で,表面に白い斑点があることもあります.葉の縁にはピンク色の鋭い棘があり,多くの医薬品に使用される無色のゲルの原料になります.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; アロエベラは砂地でしか栽培できないため,肥沃度を無視することができます.これらの砂地植物は種まきと収穫に長い時間がかかりますが,入植者の拘束時間と引き換えに,建築できない無駄なスペースを有効活用することができます.アロエベラは薬草の原料になります.</VCE_AloeVera.description>
+
+
+</LanguageData>

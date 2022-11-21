@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Flower crops -->
+
+  <VCE_Canola.label>キャノーラの花</VCE_Canola.label>
+  <VCE_Canola.description>鮮やかな黄色の花を咲かせた菜種の一種です.主に油分を多く含む種子のために栽培されます.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; そのまま食べることはできませんが,製油所で非常に効率よく化学燃料に変換することができます.</VCE_Canola.description>
+
+
+</LanguageData>

@@ -129,6 +129,13 @@
 			</value>
 	</Operation>
 
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/HeadTypeDef[@Name = "HeavyJawBase"]</xpath>
+			<value>
+				<eyeOffsetEastWest>(0.1, 0, 0.18)</eyeOffsetEastWest>
+			</value>
+	</Operation>
+
 	<Operation Class="PatchOperationReplace">
 		<xpath>Defs/GeneDef[defName = "Jaw_Heavy"]/forcedHeadTypes</xpath>
 			<value>
@@ -151,6 +158,7 @@
 
 
 <!-- Head_Gaunt -->
+
 	<Operation Class="PatchOperationReplace">
 		<xpath>Defs/GeneDef[defName = "Head_Gaunt"]/forcedHeadTypes</xpath>
 			<value>

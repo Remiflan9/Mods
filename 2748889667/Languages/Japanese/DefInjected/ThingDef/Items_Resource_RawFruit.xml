@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_RawAvocado.label>アボカド(生)</VCE_RawAvocado.label>
+  <VCE_RawAvocado.description>濃い緑色の果実です.中心部に大きな種または穴があり,とてもマイルドでクリーミーな食感が特徴です.ヒップスターが大好きな果物です.</VCE_RawAvocado.description>
+
+  <VCE_RawMelon.label>メロン(生)</VCE_RawMelon.label>
+  <VCE_RawMelon.description>甘くて食べやすい大きな果実です.温暖な地方でよく栽培されています.</VCE_RawMelon.description>
+
+  <VCE_RawPineapple.label>パイナップル(生)</VCE_RawPineapple.label>
+  <VCE_RawPineapple.description>皮が硬く,葉はとげがある甘い熱帯果実です.パイナップルの語源は「Pine cone(松ぼっくり)」から由来しており,果実が大きな松ぼっくりに似ていることから,この名がつきました.</VCE_RawPineapple.description>
+
+  <VCE_RawCoconut.label>ココナッツ(生)</VCE_RawCoconut.label>
+  <VCE_RawCoconut.description>ココヤシ科の食用果実です.ココナッツの果肉は脂肪分が多く,乾燥させたり,生食したり,ココナッツミルクやココナッツオイルに加工したりすることができます.また,ココナッツウォーターと呼ばれる実の液体も飲むことができます.</VCE_RawCoconut.description>
+
+  <VCE_RawAlmonds.label>アーモンド(生)</VCE_RawAlmonds.label>
+  <VCE_RawAlmonds.description>楕円形の果実です.生食や,焼いてそのまま食べることが多いですが,様々な料理の材料としても使われています.アーモンドを主原料としたお菓子は数多くあります.</VCE_RawAlmonds.description>
+
+  <VCE_Mangoes.label>マンゴー</VCE_Mangoes.label>
+  <VCE_Mangoes.description>赤や黄色の濃淡で鮮やかに彩られている楕円形の果実です.大きな種子は扁平で,それを包む果肉は黄色からオレンジ色をしており,ジューシーで独特の甘辛い風味があります.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt; マンゴーを凍らせると破壊されます.ゲームはこの欠点を検知するほどスマートではないため,手動で冷凍庫からマンゴーを除外してください.</VCE_Mangoes.description>
+
+
+</LanguageData>
