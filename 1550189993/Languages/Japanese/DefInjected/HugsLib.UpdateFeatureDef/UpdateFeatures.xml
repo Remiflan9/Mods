@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SimpleSidearms_1_1_0.modNameReadable>Simple Sidearms</SimpleSidearms_1_1_0.modNameReadable>
+  <SimpleSidearms_1_1_0.content>&lt;i&gt;Simple_Sidearmsはカスタマイズを主眼にデザインされています。特定の機能が気になる場合は、Mod設定で無効にしたり変更したりするオプションがあります。&lt;/i&gt;|&lt;b&gt;ポーンは現在、自分たちの武器を覚えています！&lt;/b&gt;|img:tuts/havePunch|img:tuts/rememberDropped|ポーンは、どの武器がメイン武器であるかを記憶しています。また彼らは、それらの武器を下に落とすことを強制されたときに失った武器のことを覚えています。これは、倒れた際にメイン武器を落とすことも含まれています。徴兵を解除されたり病院室で回復したら、自動的に元の武器を探し出して装備します。</SimpleSidearms_1_1_0.content>
+
+</LanguageData>

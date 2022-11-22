@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ActiveTab_desc></ActiveTab_desc>
+  <ActiveTab_title>設定タブ</ActiveTab_title>
+  <ToolAutoSwitch_desc>ポーンは現在の仕事用に、ステータス強化重視で道具や武器を交換しますか?</ToolAutoSwitch_desc>
+  <ToolAutoSwitch_title>道具：仕事時に自動切換</ToolAutoSwitch_title>
+  <OptimalMelee_desc>ポーンが自動的により高いDPSを出す近接武器に切り替えるようにしますか？ （目標の防御力を計算します）</OptimalMelee_desc>
+  <OptimalMelee_title>近接格闘: 最適な近接武器に切替</OptimalMelee_title>
+  <CQCAutoSwitch_desc>近接攻撃された時に遠隔武器を使用している場合、ポーンは近接武器の携帯武器に切り替えます。</CQCAutoSwitch_desc>
+  <CQCAutoSwitch_title>近接格闘: 近接時に遠隔武器を切換</CQCAutoSwitch_title>
+  <CQCFistSwitch_desc>近接攻撃された時に拳を使用している場合、ポーンは近接武器の携帯武器に切り替えます。</CQCFistSwitch_desc>
+  <CQCFistSwitch_title>近接格闘: 拳を切換</CQCFistSwitch_title>
+  <CQCTargetOnly_desc>On=現在のターゲットから近接攻撃された場合のみ切替えます。\nOff=誰からでも近接攻撃された場合は切替えます。</CQCTargetOnly_desc>
+  <CQCTargetOnly_title>近接格闘: 目標からのみ切替</CQCTargetOnly_title>
+
+  <DropMode_desc>ポーンは、どのような状況で武器を在庫に移動させずにその場に落としますか？</DropMode_desc>
+  <DropMode_title>ドロップモード</DropMode_title>
+  <ReEquipBest_desc>武器を落とした後、自動装備の機能は（最も近くにある武器ではなく）マップ内で利用可能な最高の武器を見つけようとします</ReEquipBest_desc>
+  <ReEquipBest_title>最強武器を再装備</ReEquipBest_title>
+
+  <LimitCarryInfo_desc></LimitCarryInfo_desc>
+  <LimitCarryInfo_title>*常にポーンの運搬能力によって制限する</LimitCarryInfo_title>
+
+  <CEOverrideInfo_desc></CEOverrideInfo_desc>
+  <CEOverrideInfo_title>CEのシステムのために無効になっています。</CEOverrideInfo_title>
+
+  <LimitModeAmountMelee_desc>全ての近接格闘携帯武器に対する制限。</LimitModeAmountMelee_desc>
+  <LimitModeAmountMelee_title>近接携帯武器制限モード(全て)</LimitModeAmountMelee_title>
+  <LimitModeAmountRanged_desc>全ての遠隔射撃携帯武器に対する制限。</LimitModeAmountRanged_desc>
+  <LimitModeAmountRanged_title>遠隔携帯武器制限モード(全て)</LimitModeAmountRanged_title>
+  <LimitModeAmount_desc>全ての携帯武器に対する制限。</LimitModeAmount_desc>
+  <LimitModeAmount_title>携帯武器制限モード(全て)</LimitModeAmount_title>
+  <LimitModeSingleMelee_desc>個々の近接格闘携帯武器に対する制限。</LimitModeSingleMelee_desc>
+  <LimitModeSingleMelee_title>近接携帯武器制限モード(個別)</LimitModeSingleMelee_title>
+  <LimitModeSingleRanged_desc>個々の遠隔射撃携帯武器に対する制限。</LimitModeSingleRanged_desc>
+  <LimitModeSingleRanged_title>遠隔携帯武器制限モード(個別)</LimitModeSingleRanged_title>
+  <LimitModeSingle_desc>個々の携帯武器に対する制限。</LimitModeSingle_desc>
+  <LimitModeSingle_title>携帯武器制限モード(個別)</LimitModeSingle_title>
+
+  <LimitModeAmountTotal_title>全ての携帯武器に対しての制限</LimitModeAmountTotal_title>
+  <LimitModeAmountTotal_desc>全種類の携帯武器に対しての制限。</LimitModeAmountTotal_desc>
+
+  <MaximumMassAmountAbsolute_desc>ポーンに許される全携帯武器武器の最大合計重量。</MaximumMassAmountAbsolute_desc>
+  <MaximumMassAmountAbsolute_title>携帯武器最大重量 (合計)</MaximumMassAmountAbsolute_title>
+  <MaximumMassAmountRelative_desc>全携帯武器の合計重量をポーンに許される最大運搬重量で割ったパーセンテージ。</MaximumMassAmountRelative_desc>
+  <MaximumMassAmountRelative_title>携帯武器最大重量 (合計)％</MaximumMassAmountRelative_title>
+  <MaximumMassSingleAbsolute_desc>ポーンが運ぶことができる携帯武器１つあたりの最大重量。</MaximumMassSingleAbsolute_desc>
+  <MaximumMassSingleAbsolute_title>携帯武器最大重量 (単品)</MaximumMassSingleAbsolute_title>
+  <MaximumMassSingleRelative_desc>携帯武器１つあたりに許される重量 を ポーンに許される最大運搬重量 で割ったパーセンテージ。</MaximumMassSingleRelative_desc>
+  <MaximumMassSingleRelative_title>携帯武器最大重量 (単品)</MaximumMassSingleRelative_title>
+  <MaximumSlots_desc>ポーンに何個携帯武器を持たせますか？</MaximumSlots_desc>
+  <MaximumSlots_title>スロット</MaximumSlots_title>
+  <RangedCombatAutoSwitchMaxWarmup_desc>ポーンが主武器の攻撃を中断して携帯武器に切り替えることを拒否する閾値(確率)はいくつですか？</RangedCombatAutoSwitchMaxWarmup_desc>
+  <RangedCombatAutoSwitchMaxWarmup_title>射撃戦時：自動切換: 最大武器準備率</RangedCombatAutoSwitchMaxWarmup_title>
+  <RangedCombatAutoSwitch_desc>遠隔戦闘する際、ポーンは射程に応じた遠隔武器の携帯武器に切り替えますか？</RangedCombatAutoSwitch_desc>
+  <RangedCombatAutoSwitch_title>射撃戦時：自動切換</RangedCombatAutoSwitch_title>
+  <SeparateModes_desc>近接武器と遠隔武器は制限を共有しますかそれとも別々にしますか？</SeparateModes_desc>
+  <SeparateModes_title>近接/遠隔 別制限</SeparateModes_title>
+  <SidearmSelection_desc></SidearmSelection_desc>
+  <SidearmSelection_title>携帯武器選択</SidearmSelection_title>
+  <SingleshotAutoSwitch_desc>使い捨ての単発武器を使い果たした後、ポーンは携帯武器に切り替えますか？</SingleshotAutoSwitch_desc>
+  <SingleshotAutoSwitch_title>単発射撃後 切替</SingleshotAutoSwitch_title>
+  <SpeedSelectionBiasMelee_desc>より攻撃速度が速い近接武器を選ぶ方向にバイアスをかける。</SpeedSelectionBiasMelee_desc>
+  <SpeedSelectionBiasMelee_title>攻撃速度傾向 (近接)</SpeedSelectionBiasMelee_title>
+  <SpeedSelectionBiasRanged_desc>より早い発射準備速度の遠隔武器を選ぶ方向にバイアスをかける。</SpeedSelectionBiasRanged_desc>
+  <SpeedSelectionBiasRanged_title>攻撃速度傾向 (遠隔)</SpeedSelectionBiasRanged_title>
+  <WeaponMatch_desc>これらは与えられた基準に合う武器です。</WeaponMatch_desc>
+  <WeaponMatch_title></WeaponMatch_title>
+
+  <SidearmSpawnChance_desc>武器を持ったポーンが生成された時に携帯武器が追加される可能性。</SidearmSpawnChance_desc>
+  <SidearmSpawnChance_title>携帯武器所持率</SidearmSpawnChance_title>
+  <SidearmSpawnChanceDropoff_desc>携帯武器を追加するごとに、携帯武器が生成される確率が減少します。</SidearmSpawnChanceDropoff_desc>
+  <SidearmSpawnChanceDropoff_title>武器追加毎の生成減少率</SidearmSpawnChanceDropoff_title>
+  <SidearmBudgetMultiplier_desc>初期の主武器を基準にした、携帯武器の価格の範囲です。</SidearmBudgetMultiplier_desc>
+  <SidearmBudgetMultiplier_title>携帯武器のNPC予算倍率</SidearmBudgetMultiplier_title>
+  <SidearmBudgetDropoff_desc>携帯武器を追加毎に予算から引かれる価格ポイントです。</SidearmBudgetDropoff_desc>
+  <SidearmBudgetDropoff_title>武器追加毎の予算削減率</SidearmBudgetDropoff_title>
+  <ColonistDefaultWeaponMode_desc>プレイヤーが制御するポーンの初期武器モード設定です</ColonistDefaultWeaponMode_desc>
+  <ColonistDefaultWeaponMode_title>入植者の初期武器モード：</ColonistDefaultWeaponMode_title>
+  <NPCDefaultWeaponMode_desc>NPCポーンの初期武器モード設定です</NPCDefaultWeaponMode_desc>
+  <NPCDefaultWeaponMode_title>NPC初期武器モード：</NPCDefaultWeaponMode_title>
+
+  <PrimaryWeaponMode_option_Ranged>射撃</PrimaryWeaponMode_option_Ranged>
+  <PrimaryWeaponMode_option_Melee>近接</PrimaryWeaponMode_option_Melee>
+  <PrimaryWeaponMode_option_BySkill>スキル重視</PrimaryWeaponMode_option_BySkill>
+  <PrimaryWeaponMode_option_ByGenerated>主武器</PrimaryWeaponMode_option_ByGenerated>
+
+
+  <LimitModeSingle_option_None>無制限</LimitModeSingle_option_None>
+  <LimitModeSingle_option_RelativeWeight>重量％</LimitModeSingle_option_RelativeWeight>
+  <LimitModeSingle_option_AbsoluteWeight>重量</LimitModeSingle_option_AbsoluteWeight>
+  <LimitModeSingle_option_Selection>武器別</LimitModeSingle_option_Selection>
+
+  <LimitModeAmount_option_MaximumCarryWeightOnly>無制限</LimitModeAmount_option_MaximumCarryWeightOnly>
+  <LimitModeAmount_option_RelativeWeight>重量％</LimitModeAmount_option_RelativeWeight>
+  <LimitModeAmount_option_AbsoluteWeight>重量</LimitModeAmount_option_AbsoluteWeight>
+  <LimitModeAmount_option_Slots>スロット</LimitModeAmount_option_Slots>
+
+  <ActiveTab_option_Folded>&lt;</ActiveTab_option_Folded>
+  <ActiveTab_option_Presets>初期値</ActiveTab_option_Presets>
+  <ActiveTab_option_Automation>トリガー</ActiveTab_option_Automation>
+  <ActiveTab_option_Allowances>制限</ActiveTab_option_Allowances>
+  <ActiveTab_option_Spawning>所持</ActiveTab_option_Spawning>
+  <ActiveTab_option_Misc>その他</ActiveTab_option_Misc>
+
+  <DropMode_option_Never>しない</DropMode_option_Never>
+  <DropMode_option_InDistress>近接時</DropMode_option_InDistress>
+  <DropMode_option_InCombat>戦闘時</DropMode_option_InCombat>
+  <DropMode_option_Always>いつでも</DropMode_option_Always>
+
+
+  <PresetExport_title></PresetExport_title>
+  <PresetExport_desc></PresetExport_desc>
+  <PresetExport_label>設定をクリップボードへコピー</PresetExport_label>
+
+
+  <PresetCustom_title>カスタム</PresetCustom_title>
+  <PresetCustom_desc>カスタム設定。変更時に自動的に選択されます。</PresetCustom_desc>
+  <PresetCustom_label>Custom</PresetCustom_label>
+  <Preset0_title>無効</Preset0_title>
+  <Preset0_desc>すべてのオプションが無効になっています。Mod機能のほんの一部だけを使用する設定です。</Preset0_desc>
+  <Preset0_label>Preset0</Preset0_label>
+  <Preset1half_title>簡易</Preset1half_title>
+  <Preset1half_desc>軽量武器を1つサイドアームとして使用できます。</Preset1half_desc>
+  <Preset1half_label>Preset0.5</Preset1half_label>
+  <Preset1_title>在庫</Preset1_title>
+  <Preset1_desc>携帯武器の装備は可能ですが、他には何もありません。便利な在庫拡張機能だけです。</Preset1_desc>
+  <Preset1_label>Preset1</Preset1_label>
+  <Preset2_title>基本</Preset2_title>
+  <Preset2_desc>簡単な設定。ポーンは、いくつかの軽い武器を使用することが可能で、適切な状況でそれらを使用しようとします。</Preset2_desc>
+  <Preset2_label>Preset2</Preset2_label>
+  <Preset3_title>拡張</Preset3_title>
+  <Preset3_desc>ポーンは武器の選択でより独創的になりますが、危険なRimworldで生き残ろうとしている普通の人々が行える範囲内にとどまります。</Preset3_desc>
+  <Preset3_label>Preset3</Preset3_label>
+  <Preset4_title>やりすぎ</Preset4_title>
+  <Preset4_desc>ガドリングガン全部持っていく？スピアーを2本とも？私のコレクション全てを鞄に入れて全部持って行くよ!</Preset4_desc>
+  <Preset4_label>Preset4</Preset4_label>
+  <Preset5_title>カチコミ</Preset5_title>
+  <Preset5_desc>みんな丸太は持ったな!!いくぞぉ!!うぉぉぉおお!!</Preset5_desc>
+  <Preset5_label>Preset5</Preset5_label>
+
+
+  <SidearmPickupFail_NoFreeSpace>これ以上持ち運べません</SidearmPickupFail_NoFreeSpace>
+  <SidearmPickupFail_TooHeavyForSidearm>荷物が重すぎる</SidearmPickupFail_TooHeavyForSidearm>
+  <SidearmPickupFail_TooHeavyForSidearmMelee>近接武器の重量が重すぎる</SidearmPickupFail_TooHeavyForSidearmMelee>
+  <SidearmPickupFail_TooHeavyForSidearmRanged>遠隔武器の重量が重すぎる</SidearmPickupFail_TooHeavyForSidearmRanged>
+  <SidearmPickupFail_SidearmsTooHeavy>携帯武器には重すぎる</SidearmPickupFail_SidearmsTooHeavy>
+  <SidearmPickupFail_SidearmsTooHeavyMelee>近接武器には重すぎる</SidearmPickupFail_SidearmsTooHeavyMelee>
+  <SidearmPickupFail_SidearmsTooHeavyRanged>遠隔武器には重すぎる</SidearmPickupFail_SidearmsTooHeavyRanged>
+  <SidearmPickupFail_SidearmsTooHeavyInTotal>携帯武器には重すぎる</SidearmPickupFail_SidearmsTooHeavyInTotal>
+  <SidearmPickupFail_NotASidearm>携帯武器ではない</SidearmPickupFail_NotASidearm>
+  <SidearmPickupFail_NotASidearmMelee>携帯武器(近接)ではない</SidearmPickupFail_NotASidearmMelee>
+  <SidearmPickupFail_NotASidearmRanged>携帯武器(遠隔)ではない</SidearmPickupFail_NotASidearmRanged>
+  <SidearmPickupFail_AllSlotsFull>スロットが満杯</SidearmPickupFail_AllSlotsFull>
+  <SidearmPickupFail_MeleeSlotsFull>近接武器スロットが満杯</SidearmPickupFail_MeleeSlotsFull>
+  <SidearmPickupFail_RangedSlotsFull>遠隔武器スロットが満杯</SidearmPickupFail_RangedSlotsFull>
+  <SidearmPickupFail_NotAToolForPacifist>道具ではない。{0}は暴力を振るえません。</SidearmPickupFail_NotAToolForPacifist>
+  <SidearmPickupFail_NotYetBladelinkBonded>まだ絆が結ばれていない</SidearmPickupFail_NotYetBladelinkBonded>
+  <SidearmPickupPass>問題なし</SidearmPickupPass>
+  <AsSidearm> (携帯武器として)</AsSidearm>
+  <AsTool> (道具として)</AsTool>
+
+  <Preset_option_NoneApplied>なし</Preset_option_NoneApplied>
+  <Preset_option_Custom>カスタム</Preset_option_Custom>
+  <Preset_option_Disabled>無効</Preset_option_Disabled>
+  <Preset_option_Lite>簡易</Preset_option_Lite>
+  <Preset_option_LoadoutOnly>在庫</Preset_option_LoadoutOnly>
+  <Preset_option_Basic>基本</Preset_option_Basic>
+  <Preset_option_Advanced>拡張</Preset_option_Advanced>
+  <Preset_option_Excessive>やりすぎ</Preset_option_Excessive>
+  <Preset_option_Brawler>カチコミ</Preset_option_Brawler>
+
+  <WeaponListKind_option_Both>両方</WeaponListKind_option_Both>
+  <WeaponListKind_option_Melee>近接</WeaponListKind_option_Melee>
+  <WeaponListKind_option_Ranged>遠隔</WeaponListKind_option_Ranged>
+
+  <TribalWeapons>部族武器</TribalWeapons>
+  <NonTribalWeapons>非部族武器</NonTribalWeapons>
+
+  <ConsideredSidearms>携帯武器</ConsideredSidearms>
+  <NotConsideredSidearms>非携帯武器</NotConsideredSidearms>
+
+  <LockedWeaponSwitch>自動持替OFF(遠)</LockedWeaponSwitch>
+  <UnlockedWeaponSwitch>自動持替ON(遠)</UnlockedWeaponSwitch>
+
+  <WeaponSwitchAutolockOn>自動持替を停止</WeaponSwitchAutolockOn>
+  <WeaponSwitchAutolockOff>再開</WeaponSwitchAutolockOff>
+
+  <DrawSidearm_gizmoTitle>武器切替</DrawSidearm_gizmoTitle>
+  <SidearmPreference_Ranged>射撃武器を使用</SidearmPreference_Ranged>
+  <SidearmPreference_Skill>スキルや情熱に応じて武器を自動選択</SidearmPreference_Skill>
+  <SidearmPreference_Melee>近接武器を使用</SidearmPreference_Melee>
+  <DrawSidearm_gizmoTooltipRanged>左クリック:\n{0}を\n初期射撃武器に設定\n\n右クリック:\n{0}を\nその場に落とす</DrawSidearm_gizmoTooltipRanged>
+  <DrawSidearm_gizmoTooltipMelee>左クリック:\n{0}を\n優先近接武器に設定\n\n右クリック:\n{0}を\nその場に落とす</DrawSidearm_gizmoTooltipMelee>
+  <DrawSidearm_gizmoTooltipRangedDefault>左クリック:\n{0}の\n使用を強制\n\n右クリック:\n{0}を\n初期射撃武器から解除</DrawSidearm_gizmoTooltipRangedDefault>
+  <DrawSidearm_gizmoTooltipMeleePreferred>左クリック:\n{0}の\n使用を強制\n\n右クリック:\n{0}を\n優先近接武器から解除</DrawSidearm_gizmoTooltipMeleePreferred>
+  <DrawSidearm_gizmoTooltipForced>右クリック:\n{0}の強制を解除</DrawSidearm_gizmoTooltipForced>
+  <DrawSidearm_gizmoTooltipWhileDrafted>左クリック:\n戦闘終了まで{0}を強制</DrawSidearm_gizmoTooltipWhileDrafted>
+  <DrawSidearm_gizmoTooltipForcedWhileDrafted>右クリック:\n{0}の強制を解除</DrawSidearm_gizmoTooltipForcedWhileDrafted>
+  <DrawSidearm_gizmoTooltipMemory>右クリック:\n{0}を主武器として忘れる</DrawSidearm_gizmoTooltipMemory>
+  <DrawSidearm_gizmoTooltipMemoryWhileDrafted>徴兵中は干渉しない</DrawSidearm_gizmoTooltipMemoryWhileDrafted>
+  <DrawSidearm_gizmoTooltipUnarmed>左クリック:\n素手の戦闘に切替</DrawSidearm_gizmoTooltipUnarmed>
+  <DrawSidearm_gizmoTooltipUnarmedPreferred>左クリック:\n非武装戦闘を強制\n右クリック:\n優先近接武器の使用オプションから非武装戦闘を解除</DrawSidearm_gizmoTooltipUnarmedPreferred>
+  <DrawSidearm_gizmoTooltipUnarmedForced>右クリック:\n非武装戦闘の強制を解除</DrawSidearm_gizmoTooltipUnarmedForced>
+  <DrawSidearm_gizmoTooltipUnarmedWhileDrafted>左クリック:\n戦闘終了まで非武装戦闘を強制</DrawSidearm_gizmoTooltipUnarmedWhileDrafted>
+  <DrawSidearm_gizmoTooltipUnarmedForcedWhileDrafted>右クリック:\n非武装戦闘の強制を解除</DrawSidearm_gizmoTooltipUnarmedForcedWhileDrafted>
+
+  <Alert_MissingSidearm_label>入植者は携帯武器を見失いました。</Alert_MissingSidearm_label>
+  <Alert_MissingPrimary_label>入植者は主武器を見失いました。</Alert_MissingPrimary_label>
+
+  <Alert_MissingSidearm_desc>次の入植者は自分の携帯武器を１つ以上見失っています:\n\n{0}</Alert_MissingSidearm_desc>
+  <Alert_MissingPrimary_desc>次の入植者は自分の主武器を見失っています:\n\n{0}</Alert_MissingPrimary_desc>
+
+  <!-- Legacy -->
+  <DropMode_option_Panic>パニック時</DropMode_option_Panic>
+  <DropMode_option_PanicOrRange>戦闘中</DropMode_option_PanicOrRange>
+
+  <SidearmsEnableNeolithicExtension_desc>蛮族(部族)でも多くの武器を携帯武器として使用できるようにする。</SidearmsEnableNeolithicExtension_desc>
+  <SidearmsEnableNeolithicExtension_title>新石器時代携帯武器拡張</SidearmsEnableNeolithicExtension_title>
+  <SidearmsNeolithicExtension_desc></SidearmsNeolithicExtension_desc>
+  <SidearmsNeolithicExtension_title>携帯武器一覧</SidearmsNeolithicExtension_title>
+
+</LanguageData>

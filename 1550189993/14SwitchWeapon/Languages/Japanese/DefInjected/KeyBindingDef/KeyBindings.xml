@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SSSW_Ranged.label>遠距離に切替</SSSW_Ranged.label>
+  <SSSW_Melee.label>近接に切替</SSSW_Melee.label>
+  <SSSW_Disable.label>デフォルトに切替</SSSW_Disable.label>
+  <SSSW_Unarmed.label>非武装に切替</SSSW_Unarmed.label>
+  <SSSW_Next.label>次の武器に切替</SSSW_Next.label>
+  <SSSW_Previous.label>前の武器に切替</SSSW_Previous.label>
+
+</LanguageData>

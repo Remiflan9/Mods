@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!-- Replace HugsLib Update Feature Japanese Translation -->
+
+	<Operation Class="PatchOperationReplace"> 
+		<xpath>/Defs/HugsLib.UpdateFeatureDef[defName = "SimpleSidearms_1_1_0"]/content</xpath>
+		<value>
+			<content>&lt;i&gt;SimpleSidearmsはカスタマイズを考慮して設計されています。特定の機能が気になる場合は、mod設定で無効にしたり設定を変更できるオプションがあります。&lt;/i&gt;|&lt;b&gt;ポーンは現在、自分が使っていた武器を記憶しています！&lt;/b&gt;|img:tuts/havePunch|img:tuts/rememberDropped|ポーンは、どの武器がメイン武器なのかを記憶しています。また、彼らは、それらを地面に落とすことを強いられた際に、失った武器も記憶しています。これには、倒れた際にメイン武器を落とした場合も含まれます。そして、医療用ベッドで徴兵解除されたり、負傷から回復すると、自動的に失った装備の回収に向かいます。</content>
+		</value>
+	</Operation>
+
+</Patch>

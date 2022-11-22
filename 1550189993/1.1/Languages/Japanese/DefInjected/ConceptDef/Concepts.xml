@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Concept_SimpleSidearmsBasic.label>SS: 携帯武器</Concept_SimpleSidearmsBasic.label>
+  <Concept_SimpleSidearmsBasic.helpText>シンプルサイドアーム\n\n武器を携帯武器として装備するには、それらを右クリックして、携帯武器として装備オプションを選択します。\n\nデフォルトでは、入植者は最もLvの高い武器か情熱を持つスキルの武器を使用します。射程距離のある武器の使用者は、近接戦闘に参加すると近接武器に切り替わります。この動作は、mod設定で変更することができます。</Concept_SimpleSidearmsBasic.helpText>
+
+  <Concept_SidearmsDropping.label>SS: 武器を落とす</Concept_SidearmsDropping.label>
+  <Concept_SidearmsDropping.helpText>背景が灰色の携帯武器は現在入植者のインベントリ内にあり、いつでも使用することができます。マウスを右クリックすると落とします。</Concept_SidearmsDropping.helpText>
+
+  <Concept_SidearmsMissing.label>SS: 失くした携帯武器</Concept_SidearmsMissing.label>
+  <Concept_SidearmsMissing.helpText>背景が暗い紫色の携帯武器は、現在、耐久度が0になって壊れたなどの理由によって植民者の所持品リストにありません。彼らはできる限り早くそれらを交換しようと試みます。右クリックでその携帯武器を忘れます。</Concept_SidearmsMissing.helpText>
+
+  <Concept_SimpleSidearmsPreference.label>SS: 携帯武器の優先</Concept_SimpleSidearmsPreference.label>
+  <Concept_SimpleSidearmsPreference.helpText>入植者は携帯武器の使用を個別に設定できます。オプションは以下の通り\n遠距離武器を使用する\n入植者が情熱を持つかスキルが高い武器を使用する\n近接武器を使用する</Concept_SimpleSidearmsPreference.helpText>
+
+  <Concept_SimpleSidearmsAdvancedRanged.label>SS: 高度な設定 (遠距離)</Concept_SimpleSidearmsAdvancedRanged.label>
+  <Concept_SimpleSidearmsAdvancedRanged.helpText>携行している遠距離武器を左クリックしてデフォルトの武器に設定します。入植者の武器の優先が遠距離武器(射撃スキルの高い入植者)に設定されている場合、この武器を近接戦中ではない際に入植者が装備します。狩猟にも使われます。\n\n範囲やDPSに関係なく使用を強制するには、デフォルトの遠距離武器を再度クリックします。\n\n右クリックすると強制使用状態を削除します。</Concept_SimpleSidearmsAdvancedRanged.helpText>
+
+  <Concept_SimpleSidearmsAdvancedMelee.label>SS: 高度な設定 (近接)</Concept_SimpleSidearmsAdvancedMelee.label>
+  <Concept_SimpleSidearmsAdvancedMelee.helpText>携行している近接武器を左クリックしてデフォルトの武器に設定します。入植者は、武器の優先が(格闘スキルの高い入植者に)近接武器に設定された際と近接戦を強制された時は、常にこの武器を使用します。\n\nお気に入りの近接武器を再度クリックすると、武器の使用を常に強制します。\n\n右クリックすると強制使用設定を削除します。</Concept_SimpleSidearmsAdvancedMelee.helpText>
+
+  <Concept_SimpleSidearmsAdvancedDrafted.label>SS: 高度な設定 (徴兵)</Concept_SimpleSidearmsAdvancedDrafted.label>
+  <Concept_SimpleSidearmsAdvancedDrafted.helpText>徴兵中に携行武器を左クリックすると戦闘が終了するまで使用を強制します。\n\n携帯武器の積み下ろしに関するほとんどの変更で、ポーンが徴兵されていないことが必要なことに注意してください。</Concept_SimpleSidearmsAdvancedDrafted.helpText>
+
+  <Concept_SimpleSidearmsLosingWeapons.label>SS: 武器の喪失</Concept_SimpleSidearmsLosingWeapons.label>
+  <Concept_SimpleSidearmsLosingWeapons.helpText>設定によって、シンプルサイドアームは、様々な状況(デフォルトは近接武器での攻撃)で彼らの武器を落とすことがあります。心配しないでください-入植者は戦いの後で自分の武器を取り戻すでしょう。\n\nこれはカスタマイズ可能な機能です。詳細はMod設定ダイアログを参照してください。</Concept_SimpleSidearmsLosingWeapons.helpText>
+
+  <Concept_CEOverride.label>SS: CEパッチ</Concept_CEOverride.label>
+  <Concept_CEOverride.helpText>Combat-Extendedが優先的にロードされます。SimpleSidearmsのインベントリ管理機能は無効になります。</Concept_CEOverride.helpText>
+
+</LanguageData>

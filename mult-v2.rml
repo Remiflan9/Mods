@@ -31,6 +31,7 @@
 			<li>vanillaexpanded.vplantse</li>
 			<li>vanillaexpanded.vplantsemore</li>
 			<li>vanillaexpanded.vplantsesucculents</li>
+			<li>vanillaexpanded.vcef</li>
 			<li>vanillaexpanded.vcooke</li>
 			<li>vanillaexpanded.vappe</li>
 			<li>vanillaexpanded.vaeaccessories</li>
@@ -53,14 +54,21 @@
 			<li>proxyer.jpt.vfespacerjp</li>
 			<li>ghxx.techadvancing</li>
 			<li>akarthus.thecosmicodyssey.victoriavaliant</li>
+			<li>petetimessix.simplesidearms</li>
 			<li>dubwise.dubsbadhygiene</li>
 			<li>proxyer.jpt.dubsbadhygienejp</li>
+			<li>orion.hospitality</li>
+			<li>proxyer.jpt.hospitalityjp</li>
 		</modIds>
 		<modSteamIds>
 			<li>0</li>
 			<li>0</li>
 			<li>1149640</li>
 			<li>1392840</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
@@ -139,6 +147,7 @@
 			<li>Vanilla Plants Expanded</li>
 			<li>Vanilla Plants Expanded - More Plants</li>
 			<li>Vanilla Plants Expanded - Succulents</li>
+			<li>Vanilla Fishing Expanded</li>
 			<li>Vanilla Cooking Expanded</li>
 			<li>Vanilla Apparel Expanded</li>
 			<li>Vanilla Apparel Expanded — Accessories</li>
@@ -161,8 +170,11 @@
 			<li>VFE - Spacer Module 日本語翻訳追加</li>
 			<li>Tech Advancing</li>
 			<li>The Cosmic Odyssey - Victoria Valiant</li>
+			<li>Simple sidearms</li>
 			<li>Dubs Bad Hygiene</li>
 			<li>Dubs Bad Hygiene 日本語翻訳追加</li>
+			<li>Hospitality</li>
+			<li>Hospitality 日本語翻訳追加</li>
 		</modNames>
 	</meta>
 	<modList>
@@ -219,6 +231,7 @@
 			<li>ghxx.techadvancing</li>
 			<li>akarthus.thecosmicodyssey.victoriavaliant</li>
 			<li>petetimessix.simplesidearms</li>
+			<li>proxyer.jpt.simplesidearmsjp</li>
 			<li>dubwise.dubsbadhygiene</li>
 			<li>proxyer.jpt.dubsbadhygienejp</li>
 			<li>orion.hospitality</li>
@@ -277,6 +290,7 @@
 			<li>Tech Advancing</li>
 			<li>The Cosmic Odyssey - Victoria Valiant</li>
 			<li>Simple sidearms</li>
+			<li>Simple sidearms 日本語翻訳追加</li>
 			<li>Dubs Bad Hygiene</li>
 			<li>Dubs Bad Hygiene 日本語翻訳追加</li>
 			<li>Hospitality</li>

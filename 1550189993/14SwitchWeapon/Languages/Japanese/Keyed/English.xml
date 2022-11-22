@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SSSW_SwitchWeaponsLabel>Simple Sidearms - Switch Weapons</SSSW_SwitchWeaponsLabel>
+  <SSSW_SwitchWeaponsDesc>遠距離武器,近接武器,素手格闘を切り替えます</SSSW_SwitchWeaponsDesc>
+  <SSSW_Switch>切替</SSSW_Switch>
+
+  <SSSW_Ranged>遠距離: 遠距離武器を使用</SSSW_Ranged>
+  <SSSW_Melee>近接: 近接武器の使用を強制\n(近接武器が無いと効果無し)</SSSW_Melee>
+  <SSSW_Unarmed>素手: 非武装戦闘を強制</SSSW_Unarmed>
+  <SSSW_Disable>優先: 優先武器を使用</SSSW_Disable>
+
+  <SSSW_Next>次へ:次の武器に切替\n(複数の遠距離/近接武器を所持する場合)</SSSW_Next>
+  <SSSW_Previous>前へ:以前の武器に切替\n(複数の遠距離/近接武器を所持する場合)</SSSW_Previous>
+
+  <SSSW_ShowAfterDraftToggle>徴兵/徴兵解除ボタンの後に表示</SSSW_ShowAfterDraftToggle>
+  <SSSW_ShowAfterDraftToggleDesc>「徴兵/徴兵解除」ボタンの後に「切替」ボタンを配置します</SSSW_ShowAfterDraftToggleDesc>
+
+</LanguageData>

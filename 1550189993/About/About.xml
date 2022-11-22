@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Simple sidearms 日本語翻訳追加</name>
+  <author>Proxyer</author>
+	<packageId>Proxyer.JPT.SimpleSidearmsJP</packageId>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>
+		<li>1.3</li>
+		<li>1.4</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>UnlimitedHugs.HugsLib</packageId>
+			<displayName>HugsLib</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/818773962</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>PeteTimesSix.SimpleSidearms</packageId>
+			<displayName>Simple sidearms</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/927155256</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+		<li>brrainz.harmony</li>
+		<li>UnlimitedHugs.HugsLib</li>
+		<li>PeteTimesSix.SimpleSidearms</li>
+		<li>Syrus.SimpleSidearmsSwitchWeapon</li>
+	</loadAfter>
+	<description><![CDATA[
+<color=#5AA9D6><size=17>説明</size> (Description)：</color>
+これは Simple sidearms に日本語の翻訳を追加します。
+Mod本体の機能は一切含まれていません。
+必ずオリジナルModと、対応する<b>HugsLib</b>を導入した上でご利用ください。
+1.1以降は<b>Harmony</b>パッチModも必須です。
+
+Modリストで有効化されていると翻訳を追加するMod:
+以下のModが存在する場合は、自動的に判別して翻訳が適用されます。
+
+<b>Simple Sidearms - Switch Weapon</b>
+
+
+Modリストでの読み込み順番は、上から
+
+<b>Harmony</b>
+Core
+Royalty (DLC)
+Ideogy (DLC)
+Biotech (DLC)
+<b>Simple sidearms</b>
+<b>Simple Sidearms - Switch Weapon</b> (導入する場合)
+Simple sidearms 日本語翻訳追加 (このMod)
+
+の順番になるのがベストです。
+
+
+[1.4] [Sub-MOD] Simple sidearms add Japanese Translation
+
+This Mod is adding a Japanese translation to the original Mod "<b>Simple sidearms</b>".
+
+The original Mod was created by <b>PeteTimesSix</b>.
+This Modmod does not include the core part of the original Mod.
+Only Japanese translation files are included.
+
+
+<color=#5AA9D6><size=17>説明翻訳</size> (Japanese translate description)：</color>
+ポケットの発明によって、もっと武器を持ってよいという考えがもたらされます。なぜと発明されたか?それはあなたの狙撃手は、足元をうろつく相手を狙撃するのが本当に面倒だからです。
+
+フォーラムのスレッドで詳細が見れます。
+https://ludeon.com/forums/index.php?topic=32497.0
+
+HugsLibが必要です。ローカル向けの入手はこちらから:
+https://github.com/UnlimitedHugs/RimworldHugsLib/releases
+
+
+Original mod : <b>Simple sidearms</b>
+Original Mod author : <b>PeteTimesSix</b>
+Official Ludeon forums Link : <color=#66FFFF>https://ludeon.com/forums/index.php?topic=32497.0</color>
+
+Original mod : <b>Simple Sidearms - Switch Weapon</b>
+Original Mod author : <b>Syrus</b>
+Steam Workshop Link : <color=#66FFFF>https://steamcommunity.com/sharedfiles/filedetails/?id=2652962609</color>
+
+
+ ]]></description>
+</ModMetaData>
