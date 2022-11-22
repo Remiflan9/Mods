@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GuestPaidFee.stages.had_to_pay_fee.label>宿泊費を払わされた</GuestPaidFee.stages.had_to_pay_fee.label>
+  <GuestPaidFee.stages.had_to_pay_fee.description>私はここに泊まるために料金を支払わされた。</GuestPaidFee.stages.had_to_pay_fee.description>
+
+  <GuestAngered.stages.angered_by_recruitment.label>勧誘したことへの怒り</GuestAngered.stages.angered_by_recruitment.label>
+  <GuestAngered.stages.angered_by_recruitment.description>お前達は我々のメンバーを引き抜こうとしている!</GuestAngered.stages.angered_by_recruitment.description>
+
+  <GuestRecruitmentForced.stages.involuntarily_recruited.label>仕方なく勧誘された</GuestRecruitmentForced.stages.involuntarily_recruited.label>
+  <GuestRecruitmentForced.stages.involuntarily_recruited.description>私は本当にここにいるべきなのか。</GuestRecruitmentForced.stages.involuntarily_recruited.description>
+
+  <GuestOffendedRelationship.stages.insulted_by_colonist.label>入植者によって侮辱された</GuestOffendedRelationship.stages.insulted_by_colonist.label>
+  <GuestOffendedRelationship.stages.insulted_by_colonist.labelSocial>私を侮辱した</GuestOffendedRelationship.stages.insulted_by_colonist.labelSocial>
+  <GuestOffendedRelationship.stages.insulted_by_colonist.description>ここの連中は負け犬だ!</GuestOffendedRelationship.stages.insulted_by_colonist.description>
+
+  <GuestPleasedRelationship.stages.charmed_by_colonist.label>入植者に誘惑された</GuestPleasedRelationship.stages.charmed_by_colonist.label>
+  <GuestPleasedRelationship.stages.charmed_by_colonist.labelSocial>私を誘惑した</GuestPleasedRelationship.stages.charmed_by_colonist.labelSocial>
+  <GuestPleasedRelationship.stages.charmed_by_colonist.description>なんていい人達なんだ!</GuestPleasedRelationship.stages.charmed_by_colonist.description>
+
+  <EndorsedByRecruiter.stages.endorsed_by_recruiter.label>勧誘者を支持した</EndorsedByRecruiter.stages.endorsed_by_recruiter.label>
+  <EndorsedByRecruiter.stages.endorsed_by_recruiter.labelSocial>私によって支持された</EndorsedByRecruiter.stages.endorsed_by_recruiter.labelSocial>
+  <EndorsedByRecruiter.stages.endorsed_by_recruiter.description>この人物は私から推薦されました。</EndorsedByRecruiter.stages.endorsed_by_recruiter.description>
+
+  <GuestDismissiveAttitude.stages.tired_of_talking.label>会話で疲れた</GuestDismissiveAttitude.stages.tired_of_talking.label>
+  <GuestDismissiveAttitude.stages.tired_of_talking.description>今私は話をしたくないんです。一人にして下さい。</GuestDismissiveAttitude.stages.tired_of_talking.description>
+
+</LanguageData>

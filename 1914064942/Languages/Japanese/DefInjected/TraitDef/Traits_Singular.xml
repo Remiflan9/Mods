@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCEF_Fisherman.degreeDatas.0.label>漁師</VCEF_Fisherman.degreeDatas.0.label>
+  <VCEF_Fisherman.degreeDatas.0.description>{PAWN_nameDef}は釣り特有の孤独と静けさを楽しみます. {PAWN_pronoun}は他の娯楽より釣りを好むでしょう.</VCEF_Fisherman.degreeDatas.0.description>
+
+
+</LanguageData>

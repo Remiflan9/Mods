@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <CharmGuest.reportString>TargetAに入植地に留まらせよう試みた。</CharmGuest.reportString>
+  <GuestImproveRelationship.reportString>TargetAの派閥との関係を改善しようと試みた。</GuestImproveRelationship.reportString>
+  <BuyItem.reportString>TargetAへ買い付けに行った。</BuyItem.reportString>
+  <BrowseItems.reportString>商品を見て回った。</BrowseItems.reportString>
+  <ClaimGuestBed.reportString>寝るためのベッドを要求している。</ClaimGuestBed.reportString>
+
+</LanguageData>

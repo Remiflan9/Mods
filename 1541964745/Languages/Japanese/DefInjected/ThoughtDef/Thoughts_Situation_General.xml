@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GuestCantAffordBed.stages.cant_afford_a_bed.label>空きベッドがない</GuestCantAffordBed.stages.cant_afford_a_bed.label>
+  <GuestCantAffordBed.stages.cant_afford_a_bed.description>ここには私が眠れる空きベッドが1つもない。</GuestCantAffordBed.stages.cant_afford_a_bed.description>
+
+  <GuestBedCount.stages.no_guest_beds.label>来客用ベッドが無い</GuestBedCount.stages.no_guest_beds.label>
+  <GuestBedCount.stages.no_guest_beds.description>この連中は客が使うベッドすら置いてない。</GuestBedCount.stages.no_guest_beds.description>
+  <GuestBedCount.stages.not_enough_guest_beds.label>来客用ベッドが足りない</GuestBedCount.stages.not_enough_guest_beds.label>
+  <GuestBedCount.stages.not_enough_guest_beds.description>来客用にもっとベッドが必要ですよね。</GuestBedCount.stages.not_enough_guest_beds.description>
+  <GuestBedCount.stages.enough_beds.label>十分な数のベッド</GuestBedCount.stages.enough_beds.label>
+  <GuestBedCount.stages.enough_beds.description>ここには我々全員のために十分な数のベッドが客室にあります。</GuestBedCount.stages.enough_beds.description>
+  <GuestBedCount.stages.lots_of_beds.label>余る程のベッド</GuestBedCount.stages.lots_of_beds.label>
+  <GuestBedCount.stages.lots_of_beds.description>凄い!こんなにもベッドがある!</GuestBedCount.stages.lots_of_beds.description>
+
+</LanguageData>

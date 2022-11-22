@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Diplomat.label>接待</Diplomat.label>
+  <Diplomat.description>交渉役は訪問客を接待したり、友人関係を築いたりします。</Diplomat.description>
+  <Diplomat.labelShort>接待</Diplomat.labelShort>
+  <Diplomat.pawnLabel>交渉役</Diplomat.pawnLabel>
+  <Diplomat.gerundLabel>接待</Diplomat.gerundLabel>
+  <Diplomat.verb>接待する</Diplomat.verb>
+
+</LanguageData>

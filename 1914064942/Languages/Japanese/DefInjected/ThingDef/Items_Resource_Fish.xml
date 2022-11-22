@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anchovy -->
+
+  <VCEF_RawAnchovy.label>アンチョビ</VCEF_RawAnchovy.label>
+  <VCEF_RawAnchovy.description>生のアンチョビです. 小さく,カタクチイワシ科に属し飼料としてよく使われる群魚です. ほとんどの種は海水魚ですが,数種類は汽水域にも生息し,淡水より先には行きません. </VCEF_RawAnchovy.description>
+  <VCEF_RawAnchovy.tools.0.label>アンチョビ</VCEF_RawAnchovy.tools.0.label>
+
+
+  <!-- Angelfish -->
+
+  <VCEF_RawAngelfish.label>エンゼルフィッシュ</VCEF_RawAngelfish.label>
+  <VCEF_RawAngelfish.description>生のエンゼルフィッシュ,別名テンニンイシダイ（天人石鯛）です. エンゼルフィッシュは数種類の種を指し,淡水海水の両方に生息し,大抵は派手な色と潰れたような平たい体を持ってます.</VCEF_RawAngelfish.description>
+  <VCEF_RawAngelfish.tools.0.label>エンゼルフィッシュ</VCEF_RawAngelfish.tools.0.label>
+
+
+  <!-- Anglerfish -->
+
+  <VCEF_RawAnglerfish.label>アンコウ</VCEF_RawAnglerfish.label>
+  <VCEF_RawAnglerfish.description>生の鮟鱇です. アンコウはその独特なやり方の捕食行動から英語ではアングラー（釣り人）フィッシュと呼ばれており, 頭の肉質が変化してできた疑餌状体（エスカ:先端部分）と誘引突起（イリシウム:竿状部分）を他の魚の目の前でルアーのように動かして誘い込みます.</VCEF_RawAnglerfish.description>
+  <VCEF_RawAnglerfish.tools.0.label>アンコウ</VCEF_RawAnglerfish.tools.0.label>
+
+
+  <!-- Bass -->
+
+  <VCEF_RawBass.label>バス</VCEF_RawBass.label>
+  <VCEF_RawBass.description>生のバスです. バスはたくさんの種を含む名前です. 海水と淡水の種の両方を含む呼び方で,すべての魚が大型のスズキ目に属します.</VCEF_RawBass.description>
+  <VCEF_RawBass.tools.0.label>バス</VCEF_RawBass.tools.0.label>
+
+
+  <!-- Catfish -->
+
+  <VCEF_RawCatfish.label>ナマズ</VCEF_RawCatfish.label>
+  <VCEF_RawCatfish.description>生の鯰です. ナマズは条鰭類（じょうきるい）の様々な魚を言います. その目立つ口ひげはまるで猫のようなので,英語ではキャットフィッシュと呼ばれます.</VCEF_RawCatfish.description>
+  <VCEF_RawCatfish.tools.0.label>ナマズ</VCEF_RawCatfish.tools.0.label>
+
+
+  <!-- Clownfish -->
+
+  <VCEF_RawClownfish.label>カクレクマノミ</VCEF_RawClownfish.label>
+  <VCEF_RawClownfish.description>生の隠隈魚（隠熊乃実）です. 野生では,カクレクマノミはイソギンチャクと共生しています. 種類によって,黄色やオレンジ,赤みがかったり黒みがかったりした下地に, 帯状やまだら状の白い模様が入っている種が多いです.</VCEF_RawClownfish.description>
+  <VCEF_RawClownfish.tools.0.label>カクレクマノミ</VCEF_RawClownfish.tools.0.label>
+
+
+  <!-- Cod -->
+
+  <VCEF_RawCod.label>タラ</VCEF_RawCod.label>
+  <VCEF_RawCod.description>生の鱈です. タラは多くが食欲旺盛な大型の魚類で,主に他の魚や無脊椎動物を食料としています. タラはそのほぐれやすい肉質と,高タンパク低脂肪の栄養価で,人間が摂取するべき完璧な魚として古くから知られています.</VCEF_RawCod.description>
+  <VCEF_RawCod.tools.0.label>タラ</VCEF_RawCod.tools.0.label>
+
+
+  <!-- Eel -->
+
+  <VCEF_RawEel.label>ウナギ</VCEF_RawEel.label>
+  <VCEF_RawEel.description>生の鰻です. ウナギはウナギ目に属する条鰭類（じょうきるい）の魚です. その体は細長く,すべてのウナギは腹ビレを持たず,多くの種は胸ビレもありません. その長い体をヘビのように波立たせるようくねらせて泳ぎます.</VCEF_RawEel.description>
+  <VCEF_RawEel.tools.0.label>ウナギ</VCEF_RawEel.tools.0.label>
+
+
+  <!-- Goldfish -->
+
+  <VCEF_RawGoldfish.label>キンギョ</VCEF_RawGoldfish.label>
+  <VCEF_RawGoldfish.description>生の金魚です. キンギョ(学名:Carassius auratus)はコイ目コイ科に属する淡水魚です. 観賞魚として飼われる代表的な魚です.</VCEF_RawGoldfish.description>
+  <VCEF_RawGoldfish.tools.0.label>キンギョ</VCEF_RawGoldfish.tools.0.label>
+
+
+  <!-- Guppy -->
+
+  <VCEF_RawGuppy.label>グッピー</VCEF_RawGuppy.label>
+  <VCEF_RawGuppy.description>生のグッピー、別名ニジメダカ（虹目高）です. グッピー(学名:Poecilia reticulata)はミリオンフィッシュやレインボーフィッシュとも呼ばれ, 世界で最も分布している熱帯魚としても知られ,観賞魚として飼われる代表的な淡水魚の種です.</VCEF_RawGuppy.description>
+  <VCEF_RawGuppy.tools.0.label>グッピー</VCEF_RawGuppy.tools.0.label>
+
+
+  <!-- Haddock -->
+
+  <VCEF_RawHaddock.label>コダラ</VCEF_RawHaddock.label>
+  <VCEF_RawHaddock.description>生の小鱈です. コダラ(学名:Melanogrammus aeglefinus)はマダラなどと同じタラ科に属する海水魚です. 生の状態や燻製などで伝統的に食されてきた代表的な食用魚です.</VCEF_RawHaddock.description>
+  <VCEF_RawHaddock.tools.0.label>コダラ</VCEF_RawHaddock.tools.0.label>
+
+
+  <!-- Halibut -->
+
+  <VCEF_RawHalibut.label>オヒョウ</VCEF_RawHalibut.label>
+  <VCEF_RawHalibut.description>生の大鮃です. オヒョウはカレイ科に属する2つの平らな魚によく使われる名前です. 一般的ではなく,更に一部地域でのみ,他のヒラメやカレイなどもオヒョウと呼ばれています.</VCEF_RawHalibut.description>
+  <VCEF_RawHalibut.tools.0.label>オヒョウ</VCEF_RawHalibut.tools.0.label>
+
+
+  <!-- Herring -->
+
+  <VCEF_RawHerring.label>ニシン</VCEF_RawHerring.label>
+  <VCEF_RawHerring.description>生の鰊です. ニシンは多くがニシン科に属する群魚です. ニシンはたまに漁場や沿岸で大きな群れを作って移動しています.</VCEF_RawHerring.description>
+  <VCEF_RawHerring.tools.0.label>ニシン</VCEF_RawHerring.tools.0.label>
+
+
+  <!-- Koi -->
+
+  <VCEF_RawKoi.label>ニシキゴイ</VCEF_RawKoi.label>
+  <VCEF_RawKoi.description>生の錦鯉です. ニシキゴイは水生の植物園や日本庭園などを模した池を飾る目的で飼われる,カラフルな色の種類を持つアムールコイです.</VCEF_RawKoi.description>
+  <VCEF_RawKoi.tools.0.label>ニシキゴイ</VCEF_RawKoi.tools.0.label>
+
+
+  <!-- Lobster -->
+
+  <VCEF_RawLobster.label>ロブスター</VCEF_RawLobster.label>
+  <VCEF_RawLobster.description>生のロブスター、別名オマール海老です. ロブスターは大きな海産甲殻類で,ゴツゴツした殻で覆われた長い体を持ちます. 五対ある脚の三対には爪があり,そのうちの一対は,一般的には他のものより大きいです.</VCEF_RawLobster.description>
+  <VCEF_RawLobster.tools.0.label>ロブスター</VCEF_RawLobster.tools.0.label>
+
+
+  <!-- Mackerel -->
+
+  <VCEF_RawMackerel.label>サバ</VCEF_RawMackerel.label>
+  <VCEF_RawMackerel.description>生の鯖です. サバは遠海魚の多様な種につけられる総称で,主にサバ科が多いです. 温帯や熱帯の海にいて,大体が岸から離れた沖合や沿岸に住んでいます.</VCEF_RawMackerel.description>
+  <VCEF_RawMackerel.tools.0.label>サバ</VCEF_RawMackerel.tools.0.label>
+
+
+  <!-- Minnow -->
+
+  <VCEF_RawMinnow.label>ヒメハヤ</VCEF_RawMinnow.label>
+  <VCEF_RawMinnow.description>生の姫鮠です. ヒメハヤは小さな淡水魚の多様な種につけられる総称で,だいたいはコイ科に属することが多いです.</VCEF_RawMinnow.description>
+  <VCEF_RawMinnow.tools.0.label>ヒメハヤ</VCEF_RawMinnow.tools.0.label>
+
+
+  <!-- Perch -->
+
+  <VCEF_RawPerch.label>パーチ</VCEF_RawPerch.label>
+  <VCEF_RawPerch.description>生のパーチです. パーチはペルカ属の魚の一般的な名前で,釣りでよく対象魚に選ばられるベルカ科に属する淡水魚です. スズキ目の脊椎動物の多くにも慣例的に使われています. 淡水での釣りの対象魚として楽しまれる大体の種が多かれ少なかれパーチと似ていますが,生物学的には異なる属に属しています.</VCEF_RawPerch.description>
+  <VCEF_RawPerch.tools.0.label>パーチ</VCEF_RawPerch.tools.0.label>
+
+
+  <!-- Piranha -->
+
+  <VCEF_RawPiranha.label>ピラニア</VCEF_RawPiranha.label>
+  <VCEF_RawPiranha.description>生のピラニアです. ピラニアは川や氾濫原や湖や池などにいる淡水魚です. 非常に獰猛で主食は魚だと広く思われていますが,その食性は非常に幅広く,植物性の食物も食べることから,雑食性に分類されます.</VCEF_RawPiranha.description>
+  <VCEF_RawPiranha.tools.0.label>ピラニア</VCEF_RawPiranha.tools.0.label>
+
+
+  <!-- Pufferfish -->
+
+  <VCEF_RawPufferfish.label>フグ</VCEF_RawPufferfish.label>
+  <VCEF_RawPufferfish.description>生の河豚です. フグは主に沿海や河口付近で見られる科に属する魚です. フグと呼ばれる種の大体が有毒でその中でもいくつかの種は世界でも有数の猛毒な脊椎動物に分類されます. 特定種の中には肝臓などの内臓,時には皮にまで,テトロドトキシンが含まれており,ほとんどの動物が食べると死に至るほどの猛毒です. それにも関わらず,いくつかの種の魚肉は珍味として重宝され特別に訓練された料理人によって調理されます.</VCEF_RawPufferfish.description>
+  <VCEF_RawPufferfish.tools.0.label>フグ</VCEF_RawPufferfish.tools.0.label>
+
+
+  <!-- Salmon -->
+
+  <VCEF_RawSalmon.label>サケ</VCEF_RawSalmon.label>
+  <VCEF_RawSalmon.description>生の鮭です. サケはサケ科に属する条鰭類（じょうきるい）への一般的な呼び名です. 一般的に,サケは遡河性,いわゆる淡水で生まれ,海に下り,産卵のためにまた淡水へ上ります. しかしながら,その一生を淡水で終える種もいます.</VCEF_RawSalmon.description>
+  <VCEF_RawSalmon.tools.0.label>サケ</VCEF_RawSalmon.tools.0.label>
+
+
+  <!-- Sprat -->
+
+  <VCEF_RawSprat.label>スプラット</VCEF_RawSprat.label>
+  <VCEF_RawSprat.description>生のスプラットです. スプラットはキビナゴもたまに含まれるニシン科のスプラット属に属する群魚の一般的な名前です. ほとんどの群魚と一緒で,非常に活動的で,小さく,油の多い魚です. 他の魚と魚群を形成し一日中泳ぎ回ります.</VCEF_RawSprat.description>
+  <VCEF_RawSprat.tools.0.label>スプラット</VCEF_RawSprat.tools.0.label>
+
+
+  <!-- Swordfish -->
+
+  <VCEF_RawSwordfish.label>メカジキ</VCEF_RawSwordfish.label>
+  <VCEF_RawSwordfish.description>生の女梶木（目梶木）です. 英語での別名はbroadbills（幅広い矛またはクチバシ）とも呼ばれるメカジキは,巨大で,高い回遊性を持ち,長く平らで先の尖ったその矛が印象的な捕食魚です.</VCEF_RawSwordfish.description>
+  <VCEF_RawSwordfish.tools.0.label>メカジキ</VCEF_RawSwordfish.tools.0.label>
+
+
+  <!-- Trout -->
+
+  <VCEF_RawTrout.label>マス</VCEF_RawTrout.label>
+  <VCEF_RawTrout.description>生の鱒です. マスは淡水魚の特定種の一般的な呼び名です. マスのほとんどの種は淡水湖や河川にのみ生息しますが,他の種では,スチールヘッドのように,（まるでサケの習性のように）海で2～3年過ごしたのちに産卵のために自身が生まれた淡水域に戻る種もいます.</VCEF_RawTrout.description>
+  <VCEF_RawTrout.tools.0.label>マス</VCEF_RawTrout.tools.0.label>
+
+
+  <!-- Tuna -->
+
+  <VCEF_RawTuna.label>マグロ</VCEF_RawTuna.label>
+  <VCEF_RawTuna.description>生の鮪です. マグロは大きい海水魚です. 活動的で素早く捕食性で, その体は光沢のある流線型で,外洋を最高速で泳ぎ回ります. また食用魚としても高く評価されていて,食用としての商業的価値もさることながら,その巨大さ,速度,そしてその力強さは捕食者の頂点として多くの漁師や作家や科学者を魅了させています.</VCEF_RawTuna.description>
+  <VCEF_RawTuna.tools.0.label>マグロ</VCEF_RawTuna.tools.0.label>
+
+
+</LanguageData>

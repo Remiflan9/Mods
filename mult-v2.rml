@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedModList>
+	<meta>
+		<gameVersion>1.4.3555 rev638</gameVersion>
+		<modIds>
+			<li>brrainz.harmony</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>rwmt.multiplayer</li>
+			<li>rwmt.multiplayercompatibility</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>owlchemist.cherrypicker</li>
+			<li>brrainz.cameraplus</li>
+			<li>peppsen.pmusic</li>
+			<li>dorutoruka.gene</li>
+			<li>dubwise.dubsmintmenus</li>
+			<li>proxyer.jpt.dubsmintmenusjp</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>vanillaexpanded.vhe</li>
+			<li>vanillaexpanded.vfearchitect</li>
+			<li>vanillaexpanded.vfecore</li>
+			<li>vanillaexpanded.vfespacer</li>
+			<li>vanillaexpanded.vfesecurity</li>
+			<li>vanillaexpanded.vfeproduction</li>
+			<li>vanillaexpanded.vfepower</li>
+			<li>vanillaexpanded.vfemedical</li>
+			<li>vanillaexpanded.vfefarming</li>
+			<li>vanillaexpanded.vfeart</li>
+			<li>vanillaexpanded.vplantse</li>
+			<li>vanillaexpanded.vplantsemore</li>
+			<li>vanillaexpanded.vplantsesucculents</li>
+			<li>vanillaexpanded.vcooke</li>
+			<li>vanillaexpanded.vappe</li>
+			<li>vanillaexpanded.vaeaccessories</li>
+			<li>vanillaexpanded.varme</li>
+			<li>vanillaexpanded.vwe</li>
+			<li>vanillaexpanded.vweq</li>
+			<li>vanillaexpanded.vbrewe</li>
+			<li>vanillaexpanded.vbrewecandt</li>
+			<li>vanillaexpanded.vwec</li>
+			<li>vanillaexpanded.basegeneration</li>
+			<li>oskarpotocki.vanillaexpanded.ideologypatches</li>
+			<li>oskarpotocki.vanillaexpanded.royaltypatches</li>
+			<li>proxyer.jpt.veframework</li>
+			<li>agodashi.jpt.vanillaexpanded.vcooke</li>
+			<li>proxyer.jpt.vfecorejp</li>
+			<li>proxyer.jpt.vfartjp</li>
+			<li>proxyer.jpt.vfefarmingjp</li>
+			<li>proxyer.jpt.vplantse</li>
+			<li>proxyer.jpt.vfemedicaljp</li>
+			<li>proxyer.jpt.vfespacerjp</li>
+			<li>ghxx.techadvancing</li>
+			<li>akarthus.thecosmicodyssey.victoriavaliant</li>
+			<li>dubwise.dubsbadhygiene</li>
+			<li>proxyer.jpt.dubsbadhygienejp</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>0</li>
+			<li>1149640</li>
+			<li>1392840</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+		</modSteamIds>
+		<modNames>
+			<li>Harmony</li>
+			<li>Core</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Multiplayer</li>
+			<li>Multiplayer Compatibility</li>
+			<li>HugsLib</li>
+			<li>Cherry Picker (dev)</li>
+			<li>Camera+</li>
+			<li>P-Music</li>
+			<li>Anime Gene</li>
+			<li>Dubs Mint Menus</li>
+			<li>Dubs Mint Menus 日本語翻訳追加</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>Vanilla Hair Expanded</li>
+			<li>Vanilla Furniture Expanded - Architect</li>
+			<li>Vanilla Furniture Expanded</li>
+			<li>Vanilla Furniture Expanded - Spacer Module</li>
+			<li>Vanilla Furniture Expanded - Security</li>
+			<li>Vanilla Furniture Expanded - Production</li>
+			<li>Vanilla Furniture Expanded - Power</li>
+			<li>Vanilla Furniture Expanded - Medical Module</li>
+			<li>Vanilla Furniture Expanded - Farming</li>
+			<li>Vanilla Furniture Expanded - Art</li>
+			<li>Vanilla Plants Expanded</li>
+			<li>Vanilla Plants Expanded - More Plants</li>
+			<li>Vanilla Plants Expanded - Succulents</li>
+			<li>Vanilla Cooking Expanded</li>
+			<li>Vanilla Apparel Expanded</li>
+			<li>Vanilla Apparel Expanded — Accessories</li>
+			<li>Vanilla Armour Expanded</li>
+			<li>Vanilla Weapons Expanded</li>
+			<li>Vanilla Weapons Expanded - Quickdraw</li>
+			<li>Vanilla Brewing Expanded</li>
+			<li>Vanilla Brewing Expanded - Coffees and Teas</li>
+			<li>Vanilla Weapons Expanded - Coilguns</li>
+			<li>Vanilla Base Generation Expanded</li>
+			<li>Vanilla Expanded - Ideology Patches</li>
+			<li>Vanilla Expanded - Royalty Patches</li>
+			<li>Vanilla Expanded Framework 日本語翻訳追加</li>
+			<li>Vanilla Cooking Expanded 日本語</li>
+			<li>VFE - Core 日本語翻訳追加</li>
+			<li>VFE - Art 日本語翻訳追加</li>
+			<li>VFE - Farming 日本語翻訳追加</li>
+			<li>Vanilla Plants Expanded 日本語翻訳追加</li>
+			<li>VFE - Medical Module 日本語翻訳追加</li>
+			<li>VFE - Spacer Module 日本語翻訳追加</li>
+			<li>Tech Advancing</li>
+			<li>The Cosmic Odyssey - Victoria Valiant</li>
+			<li>Dubs Bad Hygiene</li>
+			<li>Dubs Bad Hygiene 日本語翻訳追加</li>
+		</modNames>
+	</meta>
+	<modList>
+		<ids>
+			<li>brrainz.harmony</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>rwmt.multiplayer</li>
+			<li>rwmt.multiplayercompatibility</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>owlchemist.cherrypicker</li>
+			<li>brrainz.cameraplus</li>
+			<li>peppsen.pmusic</li>
+			<li>dorutoruka.gene</li>
+			<li>dubwise.dubsmintmenus</li>
+			<li>proxyer.jpt.dubsmintmenusjp</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>vanillaexpanded.vhe</li>
+			<li>vanillaexpanded.vfearchitect</li>
+			<li>vanillaexpanded.vfecore</li>
+			<li>vanillaexpanded.vfespacer</li>
+			<li>vanillaexpanded.vfesecurity</li>
+			<li>vanillaexpanded.vfeproduction</li>
+			<li>vanillaexpanded.vfepower</li>
+			<li>vanillaexpanded.vfemedical</li>
+			<li>vanillaexpanded.vfefarming</li>
+			<li>vanillaexpanded.vfeart</li>
+			<li>vanillaexpanded.vplantse</li>
+			<li>vanillaexpanded.vplantsemore</li>
+			<li>vanillaexpanded.vplantsesucculents</li>
+			<li>vanillaexpanded.vcef</li>
+			<li>vanillaexpanded.vcooke</li>
+			<li>vanillaexpanded.vappe</li>
+			<li>vanillaexpanded.vaeaccessories</li>
+			<li>vanillaexpanded.varme</li>
+			<li>vanillaexpanded.vwe</li>
+			<li>vanillaexpanded.vweq</li>
+			<li>vanillaexpanded.vbrewe</li>
+			<li>vanillaexpanded.vbrewecandt</li>
+			<li>vanillaexpanded.vwec</li>
+			<li>vanillaexpanded.basegeneration</li>
+			<li>oskarpotocki.vanillaexpanded.ideologypatches</li>
+			<li>oskarpotocki.vanillaexpanded.royaltypatches</li>
+			<li>proxyer.jpt.veframework</li>
+			<li>agodashi.jpt.vanillaexpanded.vcooke</li>
+			<li>proxyer.jpt.vfecorejp</li>
+			<li>proxyer.jpt.vfartjp</li>
+			<li>proxyer.jpt.vfefarmingjp</li>
+			<li>proxyer.jpt.vplantse</li>
+			<li>proxyer.jpt.vfemedicaljp</li>
+			<li>proxyer.jpt.vfespacerjp</li>
+			<li>ghxx.techadvancing</li>
+			<li>akarthus.thecosmicodyssey.victoriavaliant</li>
+			<li>petetimessix.simplesidearms</li>
+			<li>dubwise.dubsbadhygiene</li>
+			<li>proxyer.jpt.dubsbadhygienejp</li>
+			<li>orion.hospitality</li>
+			<li>proxyer.jpt.hospitalityjp</li>
+		</ids>
+		<names>
+			<li>Harmony</li>
+			<li>Core</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Multiplayer</li>
+			<li>Multiplayer Compatibility</li>
+			<li>HugsLib</li>
+			<li>Cherry Picker (dev)</li>
+			<li>Camera+</li>
+			<li>P-Music</li>
+			<li>Anime Gene</li>
+			<li>Dubs Mint Menus</li>
+			<li>Dubs Mint Menus 日本語翻訳追加</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>Vanilla Hair Expanded</li>
+			<li>Vanilla Furniture Expanded - Architect</li>
+			<li>Vanilla Furniture Expanded</li>
+			<li>Vanilla Furniture Expanded - Spacer Module</li>
+			<li>Vanilla Furniture Expanded - Security</li>
+			<li>Vanilla Furniture Expanded - Production</li>
+			<li>Vanilla Furniture Expanded - Power</li>
+			<li>Vanilla Furniture Expanded - Medical Module</li>
+			<li>Vanilla Furniture Expanded - Farming</li>
+			<li>Vanilla Furniture Expanded - Art</li>
+			<li>Vanilla Plants Expanded</li>
+			<li>Vanilla Plants Expanded - More Plants</li>
+			<li>Vanilla Plants Expanded - Succulents</li>
+			<li>Vanilla Fishing Expanded</li>
+			<li>Vanilla Cooking Expanded</li>
+			<li>Vanilla Apparel Expanded</li>
+			<li>Vanilla Apparel Expanded — Accessories</li>
+			<li>Vanilla Armour Expanded</li>
+			<li>Vanilla Weapons Expanded</li>
+			<li>Vanilla Weapons Expanded - Quickdraw</li>
+			<li>Vanilla Brewing Expanded</li>
+			<li>Vanilla Brewing Expanded - Coffees and Teas</li>
+			<li>Vanilla Weapons Expanded - Coilguns</li>
+			<li>Vanilla Base Generation Expanded</li>
+			<li>Vanilla Expanded - Ideology Patches</li>
+			<li>Vanilla Expanded - Royalty Patches</li>
+			<li>Vanilla Expanded Framework 日本語翻訳追加</li>
+			<li>Vanilla Cooking Expanded 日本語</li>
+			<li>VFE - Core 日本語翻訳追加</li>
+			<li>VFE - Art 日本語翻訳追加</li>
+			<li>VFE - Farming 日本語翻訳追加</li>
+			<li>Vanilla Plants Expanded 日本語翻訳追加</li>
+			<li>VFE - Medical Module 日本語翻訳追加</li>
+			<li>VFE - Spacer Module 日本語翻訳追加</li>
+			<li>Tech Advancing</li>
+			<li>The Cosmic Odyssey - Victoria Valiant</li>
+			<li>Simple sidearms</li>
+			<li>Dubs Bad Hygiene</li>
+			<li>Dubs Bad Hygiene 日本語翻訳追加</li>
+			<li>Hospitality</li>
+			<li>Hospitality 日本語翻訳追加</li>
+		</names>
+	</modList>
+</savedModList>

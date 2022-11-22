@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Hospitality 日本語翻訳追加</name>
+  <author>Proxyer</author>
+	<packageId>proxyer.jpt.hospitalityjp</packageId>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>
+		<li>1.3</li>
+		<li>1.4</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>unlimitedhugs.hugslib</packageId>
+			<displayName>HugsLib</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/818773962</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>orion.hospitality</packageId>
+			<displayName>Hospitality</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/753498552</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+		<li>brrainz.harmony</li>
+		<li>unlimitedhugs.hugslib</li>
+		<li>orion.hospitality</li>
+	</loadAfter>
+	<description><![CDATA[
+<color=#5AA9D6><size=17>説明</size> (Description)：</color>
+原住民や旅人を歓待して派閥との友好を深めたり、平和裏にメンバーを引き抜いたりできる「Hospitality」に日本語翻訳を追加するModです。
+
+注意：
+このModはオリジナルModに日本語翻訳を追加するためのModであり、Mod本体の機能は一切含まれていません。必ず「Hospitality」Modを導入してから使用してください。
+
+
+Modリストでの読み込み順番は、上から
+
+<b>Harmony</b>
+Core
+Royalty (DLC)
+Ideogy (DLC)
+Biotech (DLC)
+<b>HugsLib</b>
+<b>Hospitality</b>
+Hospitality 日本語翻訳追加 (このMod)
+
+の順番になるのがベストです。
+
+
+現在確認されている問題：
+来客用のベッドなどのデータがMod機能で自動作成されるようになったため、ゲームスタート時に該当する家具類(寝袋やベッド)の翻訳が無いと翻訳エラー確認ログにエラーが出ていますが、これもModの仕様なので回避不可能です。ゲーム中にこれが問題でバグが出る事は無いので安心してください。エラーログに記録が打ち出されるだけです。
+
+
+[1.4] [Sub-MOD] Hospitality add Japanese Translation
+
+This Mod is adding a Japanese translation to the original Mod "<b>Hospitality</b>".
+
+The original Mod was created by <b>Orion</b>.
+This Modmod does not include the core part of the original Mod.
+Only Japanese translation files are included.
+
+
+<color=#5AA9D6><size=17>説明翻訳</size> (Japanese translate description)：</color>
+ver1.4.0.2
+
+訪問者を募集することができます。もちろん、有料で。
+
+訪問している派閥との関係を深め、訪問客にアイテムを売ることもできます。宿泊客は許可されたエリア(客室)内のものを購入して飲んだり食べたりします。
+
+エラーとバグ：エラーが発生した場合、ホスピタリティは同時に使用している別のMODと衝突している可能性が最も高いです。
+
+だから、私がそのバグを修正するのを助けるために、何が起こったのかを明確に記述して知らせてください。また、Rimworldのデータフォルダからoutput_log.txtファイルをアップロードするか、開発者モードを有効にして、最初のエラーのスクリーンショットをアップロードしてください。それが別のMODと競合していると思われる場合は、使用しているMODをロードされた順にリストしてください。
+
+HospitalityはHugsLib modを最初にロードする必要があります。
+
+
+Original mod : <b>Hospitality</b>
+Original Mod author : <b>Orion</b>
+Official Ludeon forums Link : <color=#66FFFF>https://ludeon.com/forums/index.php?topic=11444.0</color>
+
+
+ ]]></description>
+</ModMetaData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Recruiter.label>訪問客と囚人を勧誘する</Recruiter.label>
+  <Recruiter.verb>を勧誘</Recruiter.verb>
+  <Recruiter.gerund>を勧誘する</Recruiter.gerund>
+
+  <Diplomat.label>訪問客を歓待する</Diplomat.label>
+  <Diplomat.verb>を歓待</Diplomat.verb>
+  <Diplomat.gerund>を歓待する</Diplomat.gerund>
+
+</LanguageData>

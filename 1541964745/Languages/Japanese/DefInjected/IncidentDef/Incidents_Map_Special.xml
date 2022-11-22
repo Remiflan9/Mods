@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VisitorGroupSpacerCruise.label>観光船の訪問者</VisitorGroupSpacerCruise.label>
+  <VisitorGroupSpacerLuxury.label>高級訪問者</VisitorGroupSpacerLuxury.label>
+  <!--[Core] <VisitorGroup.label>訪問者</VisitorGroup.label>-->
+  <VisitorGroupMax.label>訪問客グループ最大</VisitorGroupMax.label>
+  <HappyGuestJoins.label>幸福な訪問客が参加</HappyGuestJoins.label>
+
+</LanguageData>

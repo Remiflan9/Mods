@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RecruitRelationshipDamage.label>勧誘時の関係悪化</RecruitRelationshipDamage.label>
+  <RecruitRelationshipDamage.description>派閥に所属しているこの人物を、勧誘に成功した際に悪化する友好関係の低下値。</RecruitRelationshipDamage.description>
+
+  <ForcedRecruitRelationshipDamage.label>強制勧誘時の関係悪化</ForcedRecruitRelationshipDamage.label>
+  <ForcedRecruitRelationshipDamage.description>派閥に所属しているこの人物を、強制的に勧誘した際に悪化する友好関係の低下値。</ForcedRecruitRelationshipDamage.description>
+
+  <RecruitEffectivity.label>勧誘係数</RecruitEffectivity.label>
+  <RecruitEffectivity.description>あなたの派閥に引き抜こうと来客者を説得しようとするときの補正値。</RecruitEffectivity.description>
+
+</LanguageData>

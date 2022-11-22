@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- These are Mote ThingDefs. Remain the same, DO NOT translate them. -->
+
+  <VCEF_Mote_Fishing_east.label>ちり</VCEF_Mote_Fishing_east.label>
+  <VCEF_Mote_Fishing_west.label>ちり</VCEF_Mote_Fishing_west.label>
+  <VCEF_Mote_Fishing_south.label>ちり</VCEF_Mote_Fishing_south.label>
+  <VCEF_Mote_Fishing_north.label>ちり</VCEF_Mote_Fishing_north.label>
+
+
+</LanguageData>

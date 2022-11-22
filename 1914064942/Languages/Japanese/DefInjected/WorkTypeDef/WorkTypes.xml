@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCEF_Fishing.label>釣り</VCEF_Fishing.label>
+  <VCEF_Fishing.description>設定された漁業ゾーンで魚を捕まえる</VCEF_Fishing.description>
+  <VCEF_Fishing.labelShort>魚</VCEF_Fishing.labelShort>
+  <VCEF_Fishing.pawnLabel>漁師</VCEF_Fishing.pawnLabel>
+  <VCEF_Fishing.gerundLabel>釣り</VCEF_Fishing.gerundLabel>
+  <VCEF_Fishing.verb>魚</VCEF_Fishing.verb>
+
+
+</LanguageData>

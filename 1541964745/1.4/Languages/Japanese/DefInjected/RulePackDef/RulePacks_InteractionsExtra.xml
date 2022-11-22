@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]は,興奮して思わず[RECIPIENT_possessive]手を叩き鳴らしました.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.0>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef]は,ニッコリと笑いました.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.1>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef]は,話に同意してうなづきました.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.2>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.3>sent->[RECIPIENT_nameDef]は,もっと話を聞きたいと思ったようです.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.3>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.4>sent->[RECIPIENT_nameDef]は,話に興奮したようです.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.4>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.5>sent->[RECIPIENT_nameDef]は,おだてられて喜んでいたようです.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.5>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings.6>sent->[RECIPIENT_nameDef]は,[INITIATOR_NAMEDef]を驚いて見つめました.</Sentence_CharmAttemptAccepted.rulePack.rulesStrings.6>
+
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]は,怒っていました.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.0>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef]は,拒否するように[RECIPIENT_possessive]に対して頭を振った.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.1>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef]は,全く関心がないようでした.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.2>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.3>sent->[RECIPIENT_nameDef]は,その話はもう十分だという感じでした.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.3>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.4>sent->[RECIPIENT_nameDef]は,退屈そうに部屋の中を見回していました.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.4>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.5>sent->[RECIPIENT_nameDef]は,相手をしている暇がないと言ってその場を離れました.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.5>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings.6>sent->[RECIPIENT_nameDef]は,[RECIPIENT_possessive]目を一瞬上に向けて呆れた表情をしました.</Sentence_CharmAttemptRejected.rulePack.rulesStrings.6>
+
+</LanguageData>

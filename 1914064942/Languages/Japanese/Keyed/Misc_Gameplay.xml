@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Various -->
+
+  <VCEF_FishingGrowingZone>漁業ゾーン</VCEF_FishingGrowingZone>
+  <VCEF_FishingGrowingZoneDesc>入植者が漁業をするゾーンを設定します</VCEF_FishingGrowingZoneDesc>
+
+  <VCEF_ChooseFish>捕まえる種類</VCEF_ChooseFish>
+  <VCEF_ChooseFishDesc>このバイオームから捕れる魚の大きさを選んでください. 小さい魚は短時間で釣れますが栄養価が低く,大きい魚は時間はかかりますが栄養価は高いです. 中程度の魚は双方の中間程度です. どれを選んでも別の大きさや特別なアイテムを獲得する可能性はあります.</VCEF_ChooseFishDesc>
+
+
+  <VCEF_ChooseFishSmallLabel>小さい魚を狙う</VCEF_ChooseFishSmallLabel>
+  <VCEF_ChooseFishMediumLabel>中ぐらいの魚を狙う</VCEF_ChooseFishMediumLabel>
+  <VCEF_ChooseFishLargeLabel>大きい魚を狙う</VCEF_ChooseFishLargeLabel>
+
+  <VCEF_CommandAllowFishing>釣りを許可する</VCEF_CommandAllowFishing>
+  <VCEF_CommandAllowFishingDesc>この漁業ゾーンで釣りをする許可を出します</VCEF_CommandAllowFishingDesc>
+
+  <VCEF_ZoneSetTo>このゾーンはその大きさの魚を釣るよう設定されています</VCEF_ZoneSetTo>
+  <VCEF_FishesInThisZone>釣り用のゾーン: </VCEF_FishesInThisZone>
+  <VCEF_IsZoneOceanZone>海用の漁業ゾーン: </VCEF_IsZoneOceanZone>
+  <VCEF_Yes>はい</VCEF_Yes>
+  <VCEF_No>いいえ</VCEF_No>
+  <VCEF_ZoneTooSmall>このゾーンは狭すぎます. 漁業ゾーンとして必要なのは最低でもあと{0}タイルです (この計算は数秒間隔で行われます:ポーズ解除でアップデートします)</VCEF_ZoneTooSmall>
+
+  <VCEF_NoFish>このバイオームで捕まえられる魚がいません(これはMODのバイオームが原因かもしれないので作者に追加のサポートを尋ねてください! もしくは生命が生息していないバイオームです)</VCEF_NoFish>
+
+  <VCEF_CaughtSpecial>釣りの最中に, {0} は何か特別なものを釣り上げました : {1}</VCEF_CaughtSpecial>
+
+  <!-- Options -->
+
+  <VCEF_minimumZoneSize>最小漁業ゾーンサイズ</VCEF_minimumZoneSize>
+  <VCEF_minimumZoneSizeTooltip>最小の漁業ゾーンのサイズ設定, デフォルトは25タイル</VCEF_minimumZoneSizeTooltip>
+
+  <VCEF_smallFishDurationFactor>基本的な釣り上げまでのtick秒設定</VCEF_smallFishDurationFactor>
+  <VCEF_smallFishDurationFactorTooltip>基本的な釣り上げまでのtick秒設定. デフォルトは小さい魚で4500 ticks. 中程度の魚は2倍で,大きな魚は3倍のtickです. これを下げると一日あたりの漁獲量が増え,逆も同様です.</VCEF_smallFishDurationFactorTooltip>
+
+  <VCEF_chanceForSpecials>釣りで特別なアイテムを獲得する確率</VCEF_chanceForSpecials>
+  <VCEF_chanceForSpecialsTooltip>釣りで特別なアイテムを獲得する確率です. デフォルトは1％に設定されています.</VCEF_chanceForSpecialsTooltip>
+
+  <VCEF_minMapTempForLowFish>魚が釣れる最低気温</VCEF_minMapTempForLowFish>
+  <VCEF_minMapTempForLowFishTooltip>魚が釣れる最低気温を設定します. 設定した温度以下になると漁獲量が激減します. デフォルトは0ºCです.</VCEF_minMapTempForLowFishTooltip>
+
+  <VCEF_maxMapTempForLowFish>魚が釣れる最高気温</VCEF_maxMapTempForLowFish>
+  <VCEF_maxMapTempForLowFishTooltip>魚が釣れる最高気温を設定します. 設定した温度以上になると漁獲量が激減します. デフォルトは50ºCです.</VCEF_maxMapTempForLowFishTooltip>
+
+
+
+  <VCEF_dropFish>釣り人は備蓄ゾーンに運ぶかわりにその場に魚を落とします</VCEF_dropFish>
+
+
+
+
+
+</LanguageData>

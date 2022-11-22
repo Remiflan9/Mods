@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hospitality_Faction.label>派閥</Hospitality_Faction.label>
+  <Entertain.headerTip>歓待する</Entertain.headerTip>
+  <MakeFriends.headerTip>友人になる</MakeFriends.headerTip>
+  <AccommodationArea.label>宿泊施設のエリア</AccommodationArea.label>
+  <ShoppingArea.label>ショッピングエリア</ShoppingArea.label>
+  <FriendsForRecruiting.headerTip>友人</FriendsForRecruiting.headerTip>
+  <Hospitality.headerTip>満足度</Hospitality.headerTip>
+
+</LanguageData>

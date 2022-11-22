@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Fishing -->
+
+  <VCEF_Fish.label>魚を捕る</VCEF_Fish.label>
+  <VCEF_Fish.verb>魚を捕る</VCEF_Fish.verb>
+  <VCEF_Fish.gerund>釣りをする</VCEF_Fish.gerund>
+
+
+</LanguageData>

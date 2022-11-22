@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GuestPaidFee.stages.had_to_pay_fee.label>宿泊費を払わされた</GuestPaidFee.stages.had_to_pay_fee.label>
+  <GuestPaidFee.stages.had_to_pay_fee.description>私はここに泊まるために料金を支払わされた.</GuestPaidFee.stages.had_to_pay_fee.description>
+
+  <GuestAngered.stages.angered_by_recruitment.label>勧誘したことへの怒り</GuestAngered.stages.angered_by_recruitment.label>
+  <GuestAngered.stages.angered_by_recruitment.description>お前達は我々のメンバーを引き抜こうとしている!</GuestAngered.stages.angered_by_recruitment.description>
+
+  <GuestRecruitmentForced.stages.involuntarily_recruited.label>仕方なく勧誘された</GuestRecruitmentForced.stages.involuntarily_recruited.label>
+  <GuestRecruitmentForced.stages.involuntarily_recruited.description>私は本当にここにいるべきなのか.</GuestRecruitmentForced.stages.involuntarily_recruited.description>
+
+  <GuestOffendedRelationship.stages.insulted_by_colonist.label>入植者によって侮辱された</GuestOffendedRelationship.stages.insulted_by_colonist.label>
+  <GuestOffendedRelationship.stages.insulted_by_colonist.labelSocial>私を侮辱した</GuestOffendedRelationship.stages.insulted_by_colonist.labelSocial>
+  <GuestOffendedRelationship.stages.insulted_by_colonist.description>ここの連中は負け犬だ!</GuestOffendedRelationship.stages.insulted_by_colonist.description>
+
+  <GuestPleasedRelationship.stages.charmed_by_colonist.label>入植者に誘惑された</GuestPleasedRelationship.stages.charmed_by_colonist.label>
+  <GuestPleasedRelationship.stages.charmed_by_colonist.labelSocial>私を誘惑した</GuestPleasedRelationship.stages.charmed_by_colonist.labelSocial>
+  <GuestPleasedRelationship.stages.charmed_by_colonist.description>なんていい人達なんだ!</GuestPleasedRelationship.stages.charmed_by_colonist.description>
+
+  <EndorsedByRecruiter.stages.endorsed_by_recruiter.label>勧誘者を支持した</EndorsedByRecruiter.stages.endorsed_by_recruiter.label>
+  <EndorsedByRecruiter.stages.endorsed_by_recruiter.labelSocial>私によって支持された</EndorsedByRecruiter.stages.endorsed_by_recruiter.labelSocial>
+  <EndorsedByRecruiter.stages.endorsed_by_recruiter.description>この人物は私から推薦されました.</EndorsedByRecruiter.stages.endorsed_by_recruiter.description>
+
+  <GuestDismissiveAttitude.stages.tired_of_talking.label>会話で疲れた</GuestDismissiveAttitude.stages.tired_of_talking.label>
+  <GuestDismissiveAttitude.stages.tired_of_talking.description>今私は話をしたくないんです.一人にして下さい.</GuestDismissiveAttitude.stages.tired_of_talking.description>
+
+  <GuestExpensiveFood.stages.expensive_food.label>割高な食事</GuestExpensiveFood.stages.expensive_food.label>
+  <GuestExpensiveFood.stages.expensive_food.description>私は高すぎる食事の代金を自販機で払わなければならなかった.</GuestExpensiveFood.stages.expensive_food.description>
+
+  <GuestCheapFood.stages.cheap_food.label>格安な食事</GuestCheapFood.stages.cheap_food.label>
+  <GuestCheapFood.stages.cheap_food.description>私はディスペンサーで割安な食事を購入できた.</GuestCheapFood.stages.cheap_food.description>
+
+  <GuestCantAffordBed.stages.cant_afford_a_bed.label>空きベッドがない</GuestCantAffordBed.stages.cant_afford_a_bed.label>
+  <GuestCantAffordBed.stages.cant_afford_a_bed.description>ここには私が眠れる空きベッドが1つもない.</GuestCantAffordBed.stages.cant_afford_a_bed.description>
+
+  <GuestHasNoFood.stages.no_food.label>食べ物が無い</GuestHasNoFood.stages.no_food.label>
+  <GuestHasNoFood.stages.no_food.description>私は食べるものを何も持っていません.</GuestHasNoFood.stages.no_food.description>
+
+  <GuestBedCount.stages.no_guest_beds.label>来客用ベッドが無い</GuestBedCount.stages.no_guest_beds.label>
+  <GuestBedCount.stages.no_guest_beds.description>この連中は客が使うベッドすら置いてない.</GuestBedCount.stages.no_guest_beds.description>
+  <GuestBedCount.stages.not_enough_guest_beds.label>来客用ベッドが足りない</GuestBedCount.stages.not_enough_guest_beds.label>
+  <GuestBedCount.stages.not_enough_guest_beds.description>来客用にもっとベッドが必要ですよね.</GuestBedCount.stages.not_enough_guest_beds.description>
+  <GuestBedCount.stages.enough_beds.label>十分な数のベッド</GuestBedCount.stages.enough_beds.label>
+  <GuestBedCount.stages.enough_beds.description>ここには我々全員のために十分な数のベッドが客室にあります.</GuestBedCount.stages.enough_beds.description>
+  <GuestBedCount.stages.lots_of_beds.label>余る程のベッド</GuestBedCount.stages.lots_of_beds.label>
+  <GuestBedCount.stages.lots_of_beds.description>凄い!こんなにもベッドがある!</GuestBedCount.stages.lots_of_beds.description>
+
+</LanguageData>

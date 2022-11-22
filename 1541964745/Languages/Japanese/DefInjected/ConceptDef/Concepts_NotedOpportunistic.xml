@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Concepts taught through the learning readout, when opportunities arise -->
+
+  <GuestBeds.label>来客用ベッド</GuestBeds.label>
+  <GuestBeds.helpText>来客が彼らの滞在する間に眠るベット。n\nあなたは来客者達のために特別な来客用ベットを作る事ができます。</GuestBeds.helpText>
+
+  <RecruitGuest.label>来客者を勧誘する</RecruitGuest.label>
+  <RecruitGuest.helpText>来客者を勧誘することができます。\n\n来客者を勧誘すると、来客者の所属する派閥との友好が犠牲になります。来客者との交渉(看守)に割り当てられた高い社交スキルを持つ植民者がいることを確認してください。</RecruitGuest.helpText>
+
+  <GuestWork.label>来客者の手伝い</GuestWork.label>
+  <GuestWork.helpText>幸せな気分の来客者たちは許可されたエリア内でコロニーの仕事を手伝ってくれます。あなたはMod設定でこの機能を無効にするか、作業を手伝うのに必要なスキルレベル条件を設定することができます。</GuestWork.helpText>
+
+</LanguageData>

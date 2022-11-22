@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GuestDiplomacy.label>関係を改善する</GuestDiplomacy.label>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]は,[TalkTopicLight]について,[RECIPIENT_nameDef]と外交的な会話をしました.</GuestDiplomacy.logRulesInitiator.rulesStrings.0>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef]は,[RECIPIENT_nameDef]と[subject]について,政治的な関連性を話し合いました.</GuestDiplomacy.logRulesInitiator.rulesStrings.1>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef]は,[RECIPIENT_nameDef]の[PersonalCharacteristic]を[complimented].</GuestDiplomacy.logRulesInitiator.rulesStrings.2>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef]は,[RECIPIENT_nameDef]の派閥を[complimented].</GuestDiplomacy.logRulesInitiator.rulesStrings.3>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef]は,[RECIPIENT_nameDef]との人間関係を[complimented].</GuestDiplomacy.logRulesInitiator.rulesStrings.4>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef]は,[RECIPIENT_nameDef]の[PersonFamily]に敬意を表した.</GuestDiplomacy.logRulesInitiator.rulesStrings.5>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.6>r_logentry->[INITIATOR_nameDef]は,[opinion]を共有していることを,[RECIPIENT_nameDef]と結びつけようとしました.</GuestDiplomacy.logRulesInitiator.rulesStrings.6>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.7>opinion->[ConceptPositive]のサポート</GuestDiplomacy.logRulesInitiator.rulesStrings.7>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.8>opinion->[ConceptNegative]に対する嫌悪</GuestDiplomacy.logRulesInitiator.rulesStrings.8>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.9>opinion->[ConceptNegative]の恐れ</GuestDiplomacy.logRulesInitiator.rulesStrings.9>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.10>opinion->[ConceptAny]への見解</GuestDiplomacy.logRulesInitiator.rulesStrings.10>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.11>opinion->[ConceptPositive]への憧れ</GuestDiplomacy.logRulesInitiator.rulesStrings.11>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.12>complimented->賞賛しました</GuestDiplomacy.logRulesInitiator.rulesStrings.12>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.13>complimented->賞賛した</GuestDiplomacy.logRulesInitiator.rulesStrings.13>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.14>complimented->褒めたたえました</GuestDiplomacy.logRulesInitiator.rulesStrings.14>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.15>complimented->拍手喝采した</GuestDiplomacy.logRulesInitiator.rulesStrings.15>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings.16>complimented->有名だと讃えた</GuestDiplomacy.logRulesInitiator.rulesStrings.16>
+
+  <CharmGuestAttempt.label>魅了を試みる</CharmGuestAttempt.label>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]は,[RECIPIENT_nameDef]に[saidwords]ました.</CharmGuestAttempt.logRulesInitiator.rulesStrings.0>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef]は,[INITIATOR_factionName]での[ConceptPositive]について全てを[RECIPIENT_nameDef]に語った.</CharmGuestAttempt.logRulesInitiator.rulesStrings.1>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef]は,[RECIPIENT_nameDef]に,別の入植者の[adjwords]点を語りました.</CharmGuestAttempt.logRulesInitiator.rulesStrings.2>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef]は,[RECIPIENT_nameDef]を別の入植者に紹介しました.</CharmGuestAttempt.logRulesInitiator.rulesStrings.3>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.4>saidwords->対して[adjwords]言葉を言い</CharmGuestAttempt.logRulesInitiator.rulesStrings.4>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.5>saidwords->対して[ConceptPositive]を表明し</CharmGuestAttempt.logRulesInitiator.rulesStrings.5>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.6>saidwords->対して[adjwords]態度を示し</CharmGuestAttempt.logRulesInitiator.rulesStrings.6>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.7>adjwords->興味深い</CharmGuestAttempt.logRulesInitiator.rulesStrings.7>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.8>adjwords->親切な</CharmGuestAttempt.logRulesInitiator.rulesStrings.8>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.9>adjwords->魅力的な</CharmGuestAttempt.logRulesInitiator.rulesStrings.9>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.10>adjwords->友好的な</CharmGuestAttempt.logRulesInitiator.rulesStrings.10>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings.11>adjwords->すてきな</CharmGuestAttempt.logRulesInitiator.rulesStrings.11>
+
+</LanguageData>

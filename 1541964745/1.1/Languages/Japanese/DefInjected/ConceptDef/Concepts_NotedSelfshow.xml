@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Concepts taught through the learning readout, with no opportunity needed -->
+
+  <Hospitality.label>Hospitality</Hospitality.label>
+  <Hospitality.helpText>訪問者のグループが到着すると、あなたのコロニーに存在している娯楽施設を使用し、設置された来客用ベッドで寝て、許可されたエリア(コロニー)で商品を購入します。\n\nもし彼らが滞在中にあなたのもてなしを楽しんだ場合、これにより彼らの派閥との友好とあなたの評判を高めます。</Hospitality.helpText>
+
+</LanguageData>

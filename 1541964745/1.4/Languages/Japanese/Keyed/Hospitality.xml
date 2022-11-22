@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recruiting -->
+  <RecruitAngerMultiple>{0}は{1}を{2}回 怒らせました.</RecruitAngerMultiple>
+  <RecruitFactionAnger>{1}の{0}は,あなたが{2}({3})を勧誘した事に動揺している.</RecruitFactionAnger>
+  <RecruitFactionAngerLeaderless>{0}のメンバーは,彼らの使節（{2}）とは二度と会話をしないでしょう.</RecruitFactionAngerLeaderless>
+  <LostGroupFactionAnger>{1}の{0}は,この使節（{2}）とは二度と会話をしないでしょう.</LostGroupFactionAnger>
+  <LostGroupFactionAngerLeaderless>{0}のメンバーは,あなたが{1}を勧誘した事に動揺しています.</LostGroupFactionAngerLeaderless>
+  <RecruitFactionPlease>{1}の{0}は,あなたが{2}を勧誘して奪ったことを喜んでいます({3}).</RecruitFactionPlease>
+  <RecruitFactionPleaseLeaderless>{0}のメンバーは,あなたが彼ら({2}) から{1}を勧誘した事を喜んでいる.</RecruitFactionPleaseLeaderless>
+  <MessageGuestRecruitSuccess>{0}は幸いにも,あなたの植民地に加わる事を決心した！</MessageGuestRecruitSuccess>
+  <MessageGuestForcedRecruit>{0}はあなたのコロニーへ参加を強制されました.</MessageGuestForcedRecruit>
+  <LetterLabelRecruitFactionChiefAnger>族長を怒らせた</LetterLabelRecruitFactionChiefAnger>
+  <LetterLabelRecruitFactionAnger>勢力の友好ムードが下がった</LetterLabelRecruitFactionAnger>
+  <LetterLabelRecruitFactionChiefPlease>族長は喜んだ</LetterLabelRecruitFactionChiefPlease>
+  <LetterLabelRecruitFactionPlease>勢力の友好ムードが上がった</LetterLabelRecruitFactionPlease>
+
+  <GuestCanBeRecruitedNow>{PAWN_labelShort}は,現在勧誘するのに十分な友人ができました.</GuestCanBeRecruitedNow>
+
+  <TextMote_CharmFail>怒らせた</TextMote_CharmFail>
+  <TextMote_CharmSuccess>魅了した</TextMote_CharmSuccess>
+
+  <!-- Incident Results -->
+  <VisitorsLeavingGreat>彼らは,あなたの歓迎に完全に驚いていました! (評価{1}点)</VisitorsLeavingGreat>
+  <VisitorsLeavingGood>彼らは予想以上にこの滞在を楽しんだ様です! (評価{1}点)</VisitorsLeavingGood>
+  <VisitorsLeavingNormal>彼らの予想通りの滞在だった様です.(評価{1}点)</VisitorsLeavingNormal>
+  <VisitorsLeavingBad>彼らはもっと良い歓迎を期待してた様です.(評価{1}点)</VisitorsLeavingBad>
+  <VisitorsLeavingAwful>彼らは今回の滞在に大いに失望した様です.(評価{1}点)</VisitorsLeavingAwful>
+  <MessageVisitorsLeavingCold>あまりに寒いので,{0}からの来客は再び去ろうとしています.</MessageVisitorsLeavingCold>
+  <VisitorsSentAway>あなたは彼らを追い返しました.</VisitorsSentAway>
+
+  <VisitorsReturnSoon>彼らは数日後には再び訪れるでしょう.</VisitorsReturnSoon>
+  <VisitorsReturnWhile>彼らはしばらくしてから再び訪れるでしょう.</VisitorsReturnWhile>
+  <VisitorsReturnNotSoon>彼らがすぐに戻ってくることは無いでしょう.</VisitorsReturnNotSoon>
+  <VisitorsReturnNot>彼らはここはもうたくさんだと思っています.</VisitorsReturnNot>
+
+  <VisitorsArrivedTitle>{FACTION_name}からの訪問者が{WORLDOBJECT_label}({1})に到達しました</VisitorsArrivedTitle>
+  <VisitorsArrivedDesc>訪問客たちはあなたのコロニーに入ることを恐れています.理由：\n{1}\n\nあなたがそれらを追い払ったら,訪問客たちはコロニーの地域に留まり,後で戻ってくるでしょう.</VisitorsArrivedDesc>
+  <VisitorsArrivedAccept>客の安全を確保する</VisitorsArrivedAccept>
+  <VisitorsArrivedRefuse>追い払う</VisitorsArrivedRefuse>
+  <VisitorsArrivedRefuseUntilBeds>訪問客用ベッドを設置するまで訪問客を断る</VisitorsArrivedRefuseUntilBeds>
+  <VisitorsArrivedReasonNoBeds>来客用のベッドがありません</VisitorsArrivedReasonNoBeds>
+  <VisitorsArrivedDontAskAgain>いつでも訪問客を受け入れます（これを二度と聞きません)</VisitorsArrivedDontAskAgain>
+
+  <LetterLabelPawnBecameGuest>{PAWN_labelShort}は訪問客になりました</LetterLabelPawnBecameGuest>
+  <LetterLabelPawnJoinedGroup>{PAWN_labelShort}は訪問客に加わりました</LetterLabelPawnJoinedGroup>
+  <RescuedPawnBecameGuest>あなたが救助した{PAWN_nameDef}は,今は訪問客となって{PAWN_pronoun}はあと数時間は滞在します.自然に帰るのを待つか,{PAWN_objective}自宅に送り届けるか,{PAWN_objective}募集することができます.\n\n{PAWN_labelShort}が無事にマップから離脱できれば,{PAWN_possessive}の所属する派閥はあなたに感謝するでしょう.</RescuedPawnBecameGuest>
+  <RescuedPawnJoinedGroup>あなたが救出した{PAWN_nameDef}は,現在訪れていた{PAWN_possessive}派閥の訪問客グループに加わりました.{PAWN_pronoun}が無事にマップを離脱できれば,彼らの派閥は感謝するでしょう.</RescuedPawnJoinedGroup>
+  <DownedPawnBecameGuest>あなたが救助した{PAWN_nameDef}は,現在は訪問客となって{PAWN_pronoun}はあと数時間は滞在します.自然に帰るのを待つか,{PAWN_objective}自宅に送り届けるか,{PAWN_objective}勧誘することができます.</DownedPawnBecameGuest>
+  <DownedPawnJoinedGroup>あなたが救助した{PAWN_nameDef}は,現在訪れていた{PAWN_possessive}派閥の訪問客グループに加わりました.</DownedPawnJoinedGroup>
+
+  <LetterLabelHappyGuestJoins>{PAWN_labelShort}が参加を希望</LetterLabelHappyGuestJoins>
+  <HappyGuestJoins>{0}の{PAWN_labelShort}は,{PAWN_possessive}派閥メンバーと話し合いをして,大使としてあなたのコロニーに加わらせる事にしました.{PAWN_possessive}派閥との友好関係は悪化しません.\n\n彼らが去るまで返答の猶予があります.</HappyGuestJoins>
+
+  <GuestBoughtItem>{FACTION_name}の一人が{1}シルバーを払って{ITEM_label}を購入しました.</GuestBoughtItem>
+  <GuestTookFreeItem>{FACTION_name}の一人が{ITEM_label}を無料で手に入れました.</GuestTookFreeItem>
+
+  <!-- Communication -->
+  <InviteGuests>訪問客を招待します</InviteGuests>
+  <GuestsCantBeHostile>敵対的な相手は無理</GuestsCantBeHostile>
+  <GuestsDontWantToCome>今そちらへ訪問することに興味がない</GuestsDontWantToCome>
+  <GuestsAlreadyComing>彼らは既に訪問する途中で,{0}後には到着予定</GuestsAlreadyComing>
+  <GuestsOnTheirWay>彼らは代表者を送るそうです.彼らが{0}後に到着すると期待しましょう.</GuestsOnTheirWay>
+
+  <!-- Pawn Tab -->
+  <AreaToStay>許可されたエリア</AreaToStay>
+  <AreaToBuy>ショッピングエリア</AreaToBuy>
+  <AreaNoShopping>買い物なし</AreaNoShopping>
+  <AreaToStayTooltip>これは,ゲストが寝たりくつろいだりするするエリアです.</AreaToStayTooltip>
+  <AreaToBuyTooltip>客はこのゾーンの中で商品を購入することができます.このエリアは宿泊施設のエリア内に含まれていなければなりません.</AreaToBuyTooltip>
+  <FriendsRequirement>勧誘するのに必要な友人数:{0}人/{1}人中</FriendsRequirement>
+  <SeniorityRequirement>勧誘するのに必要な王室の友人ランク：{0}/{1}人中</SeniorityRequirement>
+  <RecruitmentPenalty>勧誘時の関係損失：{0}（{1}を強制勧誘後)</RecruitmentPenalty>
+  <ImproveRelationship>派閥間の関係を改善します</ImproveRelationship>
+  <MakeFriends>友人関係を構築する</MakeFriends>
+  <LeaveAlone>立ち去らせる</LeaveAlone>
+  <FactionGoodwill>派閥親善</FactionGoodwill>
+  <Hospitality>歓待</Hospitality>
+  <MakeDefault>自動対応にする</MakeDefault>
+  <SendAway>追い返します...</SendAway>
+  <SendAwayQuestion>本当に{FACTION_name}からの来客者を追い返しますか?\n訪問してきた彼らをすぐ追い出しても外交関係は変化しません.</SendAwayQuestion>
+  <Recruit>勧誘...</Recruit>
+  <CantRecruit>この訪問客は現在勧誘できません.</CantRecruit>
+  <CantForceRecruit>この訪問客を強制的に勧誘することはできません.</CantForceRecruit>
+  <RecruitQuestion>{PAWN_nameDef}を勧誘できるようになりました.\n\n{PAWN_pronoun}には十分な友人がいるので,{PAWN_possessive}派閥との友好関係が{0}ポイント低下するだけで済みます.{1}{2}\n\n\n{PAWN_objective}勧誘してもよろしいですか？</RecruitQuestion>
+  <ForceRecruit>強制的に勧誘...</ForceRecruit>
+  <ForceRecruitQuestion>あなたは即座に{PAWN_nameDef}を勧誘できます.\n\n{PAWN_pronoun}は{PAWN_possessive}同意を得て,自主的に参加させるのに必要な友人数が不足しているので,{PAWN_possessive}所属している派閥との友好関係に{0}ポイントのペナルティがかかります.{PAWN_pronoun}にもっと多く入植者の友達が居れば,ペナルティはもっと少なくなります. {1}{2}\n\n\n友人が増えるのを待たずに勧誘しますか？</ForceRecruitQuestion>
+  <ForceRecruitWarning>\n\nこの行為は彼らを直ちに敵対的にするでしょう.</ForceRecruitWarning>
+  <ForceAcidifierWarning>\n\nこれにより{PAWN_possessive}体で死亡自壊装置が作動します.</ForceAcidifierWarning>
+  <NotEnoughFriends>[PAWN_nameDef]は,植民者達に十分な好意を持っていません.(評価 &gt;{0})</NotEnoughFriends>
+  <CanNowBeRecruited>[PAWN_nameDef]を,勧誘する事ができます.</CanNowBeRecruited>
+  <OnlyJoinsByForce>[PAWN_nameDef]を,強制的に勧誘します.</OnlyJoinsByForce>
+  <CanNeverRecruit>[PAWN_nameDef]は,勧誘不可能です.</CanNeverRecruit>
+  <IsATrader>[PAWN_nameDef]は,トレーダー隊の一員であり,来客者ではありません.</IsATrader>
+  <ImproveTooltip>あなたの外交官は一時的に訪問客の気分を改善しようとします.社交スキルの高い外交官は関係改善がより効果的です.スキルが低い外交官は訪問客を怒らせるかもしれません.</ImproveTooltip>
+  <TryRecruitTooltip>外交官は,他の入植者たちと訪問客をより親しくしようとします.社交スキルの高い外交官は関係改善がより効果的です.スキルが低い外交官は訪問客を怒らせるかもしれません.訪問客に十分な入植者の友達がいるとき,訪問客はあなたのコロニーに参加するでしょう.</TryRecruitTooltip>
+  <RecruitTooltip>あなたのコロニーを訪れている訪問客は十分な人数の友人を持っており,現在勧誘することができます.ただし,勧誘すると,訪問客の派閥との友好関係が悪化します.</RecruitTooltip>
+  <MakeDefaultTooltip>現在訪れている訪問者と,これ以降全ての訪問者に対して,訪問客が自由に移動できるエリア指定と買物することができるエリアの設定を適用します.</MakeDefaultTooltip>
+  <ForceRecruitTooltip>あなたの外交官がこの訪問客を勧誘に成功するのを待つために,訪問客たちに滞在を強制することもできます.ただし,この派閥との友好関係へのペナルティダメージはもっと高くなるでしょう.</ForceRecruitTooltip>
+  <SendAwayTooltip>この訪問客のグループに,再び自分達の家に帰るように説得します.</SendAwayTooltip>
+
+  <!-- Main Tab -->
+  <BedsFilled>使用中のベッド：{0}/{1}</BedsFilled>
+  <MapSettings>マップの設定...</MapSettings>
+  <GuestsWelcome>新規訪問客を許可</GuestsWelcome>
+  <GuestsWelcomeTooltip>これをオフにすると,新しい訪問客グループはこのコロニーに到着しません.</GuestsWelcomeTooltip>
+  <RefuseGuestsUntilBeds>客用ベッドを建設するまで訪問客を拒否</RefuseGuestsUntilBeds>
+  <RefuseGuestsUntilBedsTooltip>これをオンにすると,客用ベッドを建設するまで,新しい訪問客グループは到着しません.</RefuseGuestsUntilBedsTooltip>
+  <GuestsCanTakeFoodForFree>訪問客は無料で食事を楽しめます</GuestsCanTakeFoodForFree>
+  <GuestsCanTakeFoodForFreeTooltip>これをオンにすると,訪問客は無料でコロニーの備蓄から食事を取って食べることができます.</GuestsCanTakeFoodForFreeTooltip>
+  <GuestsAskForSafety>訪問客は安全かどうか尋ねます</GuestsAskForSafety>
+  <GuestsAskForSafetyTooltip>これをオフにすると,訪問客はマップに脅威が存在する場合でも来てよいか尋ねません.</GuestsAskForSafetyTooltip>
+
+  <!-- Infos -->
+  <StatsReport_MissingFriends>友人関係を喪失しました</StatsReport_MissingFriends>
+
+  <!-- Vending Machine -->
+  <Hospitality_VendingMachine>自販機</Hospitality_VendingMachine>
+  <Hospitality_VendingMachinePrice>値段:</Hospitality_VendingMachinePrice>
+  <Hospitality_VendingMachineContains>商品:</Hospitality_VendingMachineContains>
+  <Hospitality_VendingMachineToggleDesc>訪問客がこの自販機を利用可能にします.</Hospitality_VendingMachineToggleDesc>
+
+  <!-- Bed -->
+  <GuestBedFormat>来客者:{0}</GuestBedFormat>
+  <CommandBedSetAsGuestLabel>来客用</CommandBedSetAsGuestLabel>
+  <CommandBedSetAsGuestDesc>このベッドが来客用かどうか.</CommandBedSetAsGuestDesc>
+  <BedGizmoAttractiveness>魅力度:</BedGizmoAttractiveness>
+  <BedSatisfiedTitles>このベッドを利用可能な爵位：</BedSatisfiedTitles>
+  <BedroomMustBeSingle>ベッド1台のみ</BedroomMustBeSingle>
+  <NextTitleRequirements>次の爵位の条件：\n- {0}</NextTitleRequirements>
+
+  <!-- Alerts -->
+  <AlertCantClaimBed>客が利用可能なベッドがない</AlertCantClaimBed>
+  <AlertCantClaimBedDesc>以下の客は利用可能な空きベッドがない:\n\n{0}\nより安くするか無料のベッドを提供するか,訪問客にシルバーを提供してください.\nより高い友好関係を持つ派閥は,より多額のシルバーを持参します.</AlertCantClaimBedDesc>
+  <AlertNotEnoughBeds>ベッド数が足りない</AlertNotEnoughBeds>
+  <AlertNotEnoughBedsDesc>以下のポーンが泊まるのに十分な空きベッドが無い:\n\n{0}\n来客用ベッドをもっと用意するべきです.</AlertNotEnoughBedsDesc>
+  <AlertHasNoFood>客は何も食べるものを持っていません</AlertHasNoFood>
+  <AlertHasNoFoodDesc>以下の客は何も食べるものを持っていません：\n\n{0}\n何か食事を売りに出すか,ペーストディスペンサーを自販機として設置して,訪問客にシルバーや食事を提供してください.また,訪問客が無料で食事をすることを許可することもできます.\nより高い友好関係を持つ派閥は,より多額のシルバーを持参します.</AlertHasNoFoodDesc>
+
+  <!-- Settings -->
+  <DisableLimits>無効：オプション制限</DisableLimits>
+  <DisableLimitsDesc>このオプションがオンになっていると,推奨される公正なゲームバランス以上に設定を調整することができます.</DisableLimitsDesc>
+  <DisableVisitors>無効：訪問客</DisableVisitors>
+  <DisableVisitorsDesc>あなたは本当に訪問客が嫌いなようですが,なぜあなたがこのMODを使用しているのか不思議です.</DisableVisitorsDesc>
+  <DisableGuestsHelping>無効：訪問客の手助け</DisableGuestsHelping>
+  <DisableGuestsHelpingDesc>このチェックボックスをオンにすると,あなたのコロニーで訪問客による作業は実行されません.</DisableGuestsHelpingDesc>
+  <DisableArtAndCraft>無効：芸術と工芸の作業</DisableArtAndCraft>
+  <DisableArtAndCraftDesc>このチェックボックスをオンにすると,訪問客は芸術スキルまたは工芸スキルを使う作業を実行しません.</DisableArtAndCraftDesc>
+  <DisableOperations>無効：手術</DisableOperations>
+  <DisableOperationsDesc>このチェックボックスをオンにすると,訪問客は医者スキルを使った手術(病気や義肢の取り付け)を実行しません.</DisableOperationsDesc>
+  <DisableMedical>無効：治療行為</DisableMedical>
+  <DisableMedicalDesc>このチェックボックスをオンにすると,訪問客は他のポーンを治療(出血を止めたり傷に包帯を巻く)しません.</DisableMedicalDesc>
+  <DisableGifts>無効：お礼の品</DisableGifts>
+  <DisableGiftsDesc>このチェックボックスをオンにすると,訪問客は宿泊に満足してもお礼のアイテムを残していきません.</DisableGiftsDesc>
+  <MinGuestWorkSkill>スキル設定：最低レベル</MinGuestWorkSkill>
+  <MinGuestWorkSkillDesc>手助けをする際に訪問客が作業を実行するために必要とする最小限のスキルレベルです.（推奨：7以上）</MinGuestWorkSkillDesc>
+  <GuestGroupSize>訪問客の人数</GuestGroupSize>
+  <GuestGroupSizeDesc>来訪できる訪問客グループの人数です.(推奨人数は：1人から16人)</GuestGroupSizeDesc>
+  <MaxIncidentsPer3Days>3日以内に連続訪問可能な訪問客の最大人数</MaxIncidentsPer3Days>
+  <MaxIncidentsPer3DaysDesc>連続で3日以内に到着可能な訪問客グループの最大人数（推奨：5）</MaxIncidentsPer3DaysDesc>
+  <SilverMultiplier>所持金倍率</SilverMultiplier>
+  <SilverMultiplierDesc>訪問客が持ってくるシルバーの数量を倍率上昇します.派閥との友好関係が高いほど,より多くのシルバーを用意する意味を持ちます.(推奨:1倍)</SilverMultiplierDesc>
+  <DisableGuestsTab>訪問客タブ無効</DisableGuestsTab>
+  <DisableGuestsTabDesc>メインタブバーから訪問客タブを隠します.</DisableGuestsTabDesc>
+  <EnableBuyNotification>有効：客の購入通知</EnableBuyNotification>
+  <EnableBuyNotificationDesc>訪問客が何かを購入した際にメッセージを受け取ります.歴史タブから履歴を確認できます.</EnableBuyNotificationDesc>
+  <EnableRecruitNotification>有効：十分な友達ができたら通知</EnableRecruitNotification>
+  <EnableRecruitNotificationDesc>訪問客に勧誘するのに十分な数の友人ができた際にメッセージを受け取ります.</EnableRecruitNotificationDesc>
+  <DisableFriendlyGearDrops>友好的な客が倒れた際に所持品を落とさない</DisableFriendlyGearDrops>
+  <DisableFriendlyGearDropsDesc>友好的なポーンが倒れても,インベントリ内のアイテムを落とさなくなります.</DisableFriendlyGearDropsDesc>
+  <UseIcon>訪問客タブをアイコン表示</UseIcon>
+  <UseIconDesc>文章の代わりに訪問客タブをアイコン表示にします</UseIconDesc>
+  <Hospitality_RecommendedOn>この設定はオンにしておくことをお勧めします.</Hospitality_RecommendedOn>
+  <Hospitality_RecommendedOff>この設定はオフにしておくことをお勧めします.</Hospitality_RecommendedOff>
+  <Hospitality_RecommendedRange>この設定は{0}から{1}の間のままにすることをお勧めします.</Hospitality_RecommendedRange>
+
+</LanguageData>
