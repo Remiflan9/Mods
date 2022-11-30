@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- Hard Animal Surgery (FFFF33) -->
+
+  <!-- Cure animal Brain Damage -->
+
+<RecipeDef ParentName="AnimalSurgeryHard">
+  <defName>CureAnimalChronicBrainDamage</defName>
+  <label>cure animal brain damage (5 Glit. Med)</label>
+  <description>Cure animal brain damage. Need 4 levels of animal skills to do surgery.</description>
+  <descriptionHyperlinks><HediffDef>BrainDamage</HediffDef></descriptionHyperlinks>
+  <workerClass>Recipe_RemoveHediff</workerClass>
+  <successfullyRemovedHediffMessage>{0} has successfully treated {1}'s animal brain damage.</successfullyRemovedHediffMessage>
+  <jobString>Curing animal brain damage.</jobString>
+  <removesHediff>BrainDamage</removesHediff>
+  <ingredients>
+    <li>
+      <filter>
+        <categories>
+          <li>Medicine</li>
+        </categories>
+      </filter>
+      <count>5</count>
+    </li>
+  </ingredients>
+  <fixedIngredientFilter>
+    <categories>
+      <li>Medicine</li>
+    </categories>
+    <disallowedThingDefs>
+      <li>MedicineHerbal</li>
+      <li>MedicineIndustrial</li>
+    </disallowedThingDefs>
+  </fixedIngredientFilter>
+</RecipeDef>
+
+
+  <!-- VeryHard Animal Surgery (FF3366) -->
+
+  <!-- Cure animal Severe Brain Damage -->
+<RecipeDef ParentName="AnimalSurgeryVeryHard">
+  <defName>CureAnimalChronicSevereBrainDamage</defName>
+  <label>cure animal severe brain damage (10 Glit. Med)</label>
+  <description>Cure animal severe brain damage. Need 5 levels of animal skills to do surgery.</description>
+  <descriptionHyperlinks><HediffDef>SevereBrainDamage</HediffDef></descriptionHyperlinks>
+  <workerClass>Recipe_RemoveHediff</workerClass>
+  <successfullyRemovedHediffMessage>{0} has successfully treated {1}'s animal severe brain damage.</successfullyRemovedHediffMessage>
+  <jobString>Curing animal severe brain damage.</jobString>
+  <targetsBodyPart>true</targetsBodyPart>
+  <anesthetize>true</anesthetize>
+  <dontShowIfAnyIngredientMissing>true</dontShowIfAnyIngredientMissing>
+  <removesHediff>SevereBrainDamage</removesHediff>
+  <ingredients>
+    <li>
+      <filter>
+       <categories>
+         <li>Medicine</li>
+       </categories>
+      </filter>
+      <count>10</count>
+    </li>
+  </ingredients>
+  <fixedIngredientFilter>
+    <categories>
+      <li>Medicine</li>
+    </categories>
+    <disallowedThingDefs>
+      <li>MedicineHerbal</li>
+      <li>MedicineIndustrial</li>
+    </disallowedThingDefs>
+  </fixedIngredientFilter>
+</RecipeDef>
+
+</Defs>

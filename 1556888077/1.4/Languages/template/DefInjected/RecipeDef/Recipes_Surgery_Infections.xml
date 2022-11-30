@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cure Disease: Lung Rot -->
+
+  <CureInfectionLungRot.label>cure lung rot (10 med - no herb)</CureInfectionLungRot.label>
+  <CureInfectionLungRot.description>Cure lung rot.</CureInfectionLungRot.description>
+  <CureInfectionLungRot.jobString>Curing lung rot.</CureInfectionLungRot.jobString>
+  <CureInfectionLungRot.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s lung rot.</CureInfectionLungRot.successfullyRemovedHediffMessage>
+
+</LanguageData>

@@ -1,0 +1,130 @@
+[h1]=== CAUTION ===[/h1]
+Currently, when used together with "Rah's Bionics and Surgery Expansion" or "Expanded Prosthetics and Organ Engineering", there is no functional problem. However, at the start of the game, a warning error (yellow) indicating "translation duplication" is recorded. Please be assured that this is a warning and it is not a serious error on the functions in the game.
+
+[b]for RBSE :[/b]
+Fixed a problem when using RBSE at the same time, Prepared "[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1541914821][1.0] DE Surgeries for RBSE only[/url]" for RBSE.
+https://steamcommunity.com/sharedfiles/filedetails/?id=1541914821
+Using this will resolve the duplication of the surgical menu with RBSE.
+
+[h1]Introduced to existing game save :[/h1]
+Since this Mod only adds a surgical recipe, it can be introduced into saved data in the middle of the game without any problem.
+
+
+[h1]Adds new surgeries to Rimworld.[/h1]
+Adds new surgeries to Rimworld, but [b]Hard mode[/b] (A skill level higher than nomal version and more medications required are required).
+
+[b]- 2 cosmetic surgeries: [/b]
+  Ear and Nose.
+
+[b]- 9 chronic surgeries:[/b]
+  Bad back, Frail, Cataract, Hearing loss, Dementia, Alzheimers, Asthma, Cirrhosis and Heart artery blockage.
+
+[b]- 12 injury surgeries:[/b]
+  Burn, Crush, Crack, Cut, Surgical cut, Scratch, Bite, Stab, Gunshot, Shredded, Bruise, Frostbite.
+
+[b]- 2 Parasite surgeries :[/b]
+  Muscle Parasite, Gut Worms
+
+[b]- 12 bone/limb surgeries:[/b]
+  Finger, Toe, Mandible, Pelvis, Clavicles, Sternum, Ribcage, Radius, Humerus, Femur, Tibia and Spine.
+
+[b]- 1 Treatment of infection : ( New )[/b]
+  infection.
+
+[h1]Description :[/h1]
+[1.0] DE Surgeries
+
+The more the surgery difficulty increase, the more the Quality/Cleanliness of the hospital bed/room and the MedicalÅ@skill value will impact chances of success
+
+
+[h1]Easy surgeries:[/h1]
+You can choose to quickly treat those injuries instead of waiting for them to slowly heal (and maybe cause infections), but it will cost you more medical resources and medicine skills. Colonist who can do this difficulty surgery are called doctors or healers.
+
+[b]Subject of surgery:[/b]
+Burn, Crush, Crack, Cut, Surgical cut, Scratch, Bite, Stab, Gunshot, Shredded, Bruise and Frostbite.
+
+[b]Work Amount[/b] : 2,000.
+[b]Medicine Requires[/b] : 4 units of medicine (herbal medicine can be used).
+[b]Skill Requires[/b] : level 8 or higher in Medical.
+
+
+[h1]Normal surgeries:[/h1]
+Colonist who can perform this difficulty surgery are called senior doctor or healer head (tribe).
+
+[b]Subject of surgery:[/b]
+Mandible, Finger, Toe, Clavicles, Ear, Nose and Hearing loss.
+
+[b]Work Amount[/b] : 3,000.
+[b]Medicine Requires[/b] : 4 units of medicine (herbal medicine cannot be used).
+[b]Skill Requires[/b] : level 12 or higher in Medical.
+
+[b]Resource Stuff Requires :[/b]
+ Mandible and clavicles surgeries requires 15 Plasteel.
+
+
+[h1]Hard surgeries:[/h1]
+[b]=== IMPORTANT ===[/b]
+On failure there is 15% chance to kill the patient.
+
+You can try to heal Muscle Parasites and Gut Worms in one operation (instead of waiting for the 5 treatments in Vanilla) but it will cost you 10 units of medicine in one time (x2 than nomal version). Also be aware of the risk of lethal failures (if the operation fail then there is a 20% chance of killing the patient). Colonist who succeed in this difficulty surgery are called honorary doctors or legendary healers (tribes).
+
+[b]Subject of surgery:[/b]
+Asthma, Heart artery blockage, Cataract, Ribcage, Sternum, Radius, Humerus, Femur, Tibia, Muscle Parasites and Gut Worms, infection.
+
+[b]Work Amount[/b] : 4,500.
+[b]Medicine Requires[/b] : 6 units of medicine (herbal medicine cannot be used).
+[b]Skill Requires[/b] : level 15 or higher in Medical.
+
+[b]Resource Stuff Requires :[/b]
+ Sternum repair also requires 30 Plasteel.
+ Ribcage repair also requires 12 Plasteel (Equivalent to twelve ribs).
+ Muscle Parasites and Gut Worms treatment requires 10 units of medicine
+ Cure wound infection requires 5 units of Penoxycyline.
+
+
+[h1]VeryHard surgeries:[/h1]
+[b]=== IMPORTANT ===[/b]
+On failure there is 20% chance to kill the patient.
+
+You can try to heal Muscle Parasites and Gut Worms in one operation (instead of waiting for the 5 treatments in Vanilla) but it will cost you 10 units of medicine in one time (x2 than nomal version). Also be aware of the risk of lethal failures (if the operation fail then there is a 10% chance of killing the patient). Colonist who succeed in this difficulty surgery are called honorary doctors or legendary healers (tribes).
+
+[b]Subject of surgery:[/b]
+Spine, Pelvis, Dementia, Alzheimers, Bad Back, Frail, Cirrhosis.
+
+[b]Work Amount[/b] : 6,000.
+[b]Medicine Requires[/b] : 6 units of medicine (herbal medicine cannot be used).
+[b]Skill Requires[/b] : level 17 or higher in Medical.
+
+[b]Resource Stuff Requires :[/b]
+ Spine and Pelvis repair also requires 80 Plasteel.
+ Cure Dementia and Cure Alzheimers also requires 6 glitterworld medicine.
+ Cure/repair Bad Back requires also requires 80 Plasteel and 6 medicine.
+ Cure Frail requires also requires 120 Plasteel and 6 medicine.
+ Cure Cirrhosis requires also requires 6 glitterworld medicine.
+
+
+[h1]Update:[/h1]
+B18 ver: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=967947023]DE Surgeries[/url]
+https://steamcommunity.com/sharedfiles/filedetails/?id=967947023 by [url=https://steamcommunity.com/id/kaptain_kavern]KapTaiN_KaVerN[/url]
+
+Shamelessly updated through B19 and 1.0 without permission by Proxyer, A14 to A18 update by [url=https://steamcommunity.com/id/kaptain_kavern]KapTaiN_KaVerN[/url], Originally by DarknessEyes.
+
+
+[h1]Thanks to our Translators ![/h1]
+- RU : by Man232 and Desert Rain
+- ZH : by tlerbao
+- FR : By Jozay
+- JP : By Proxyer
+
+[h1]For Non Steam :[/h1]
+This is a guide for downloading when not using Steam workshop. Please download the file from the following link to DropBox.
+
+File name : 10_DESurgeriesHard.zip
+File size : 32.67 KB (33,452 bytes)
+SHA256: 962360fa5d771989618a4c8c93da59c64df2806e3e919d4604e40e8d7dbfeeb2
+CRC32 : A456AE6C
+
+DropBox DowmloadLink : [url=https://www.dropbox.com/s/lljjdquh0jxth2s/10_DESurgeries.zip] Here [/url]
+
+
+ 

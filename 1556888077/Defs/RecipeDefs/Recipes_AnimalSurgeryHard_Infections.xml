@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Define which races are available for the added surgeries -->
+  <RecipeDef Name="DESAnimalSurgeries" ParentName="SurgeryFlesh" Abstract="True">
+    <recipeUsers>
+      <li>Alpaca</li>
+      <li>Alphabeaver</li>
+      <li>Boomalope</li>
+      <li>Boomrat</li>
+      <li>Capybara</li>
+      <li>Caribou</li>
+      <li>Cassowary</li>
+      <li>Cat</li>
+      <li>Chicken</li>
+      <li>Chinchilla</li>
+      <li>Cougar</li>
+      <li>Cow</li>
+      <li>Deer</li>
+      <li>Dromedary</li>
+      <li>Elephant</li>
+      <li>Elk</li>
+      <li>Emu</li>
+      <li>Fox_Arctic</li>
+      <li>Fox_Fennec</li>
+      <li>Fox_Red</li>
+      <li>Gazelle</li>
+      <li>Bear_Grizzly</li>
+      <li>Hare</li>
+      <li>Husky</li>
+      <li>Ibex</li>
+      <li>Iguana</li>
+      <li>LabradorRetriever</li>
+      <li>Lynx</li>
+      <li>Megascarab</li>
+      <li>Megaspider</li>
+      <li>Megasloth</li>
+      <li>Monkey</li>
+      <li>Muffalo</li>
+      <li>Ostrich</li>
+      <li>Panther</li>
+      <li>Pig</li>
+      <li>Bear_Polar</li>
+      <li>Raccoon</li>
+      <li>Rat</li>
+      <li>Rhinoceros</li>
+      <li>Snowhare</li>
+      <li>Squirrel</li>
+      <li>Thrumbo</li>
+      <li>Tortoise</li>
+      <li>Turkey</li>
+      <li>Warg</li>
+      <li>WildBoar</li>
+      <li>Wolf_Arctic</li>
+      <li>Wolf_Timber</li>
+      <li>YorkshireTerrier</li>
+      <!-- Insert modded races here via xpath. Do not forget the li tags -->
+    </recipeUsers>
+  </RecipeDef>
+
+
+  <!-- Define 4 different difficulties -->
+
+  <RecipeDef Name="AnimalSurgeryEasy" ParentName="DESAnimalSurgeries" Abstract="True">
+  <!-- Easy recipe the skill of the colonist and quality/cleanliness of the room should not matters that much -->
+  <!-- Unlike body part surgery, maybe Infections surgery success chances is 2.0 = 100 percent, 1.0 = 50 percent. -->
+    <surgerySuccessChanceFactor>2.2</surgerySuccessChanceFactor>
+    <deathOnFailedSurgeryChance>0.02</deathOnFailedSurgeryChance>
+    <workAmount>2000</workAmount>
+    <skillRequirements>
+      <Medicine>8</Medicine>
+      <Animals>4</Animals>
+    </skillRequirements>
+  </RecipeDef>
+
+  <RecipeDef Name="AnimalSurgeryNormal" ParentName="DESAnimalSurgeries" Abstract="True">
+  <!-- The skill of the colonist and quality/cleanliness of the room should matters a bit -->
+    <surgerySuccessChanceFactor>1.9</surgerySuccessChanceFactor>
+    <deathOnFailedSurgeryChance>0.02</deathOnFailedSurgeryChance>
+    <workAmount>3000</workAmount>
+    <skillRequirements>
+      <Medicine>12</Medicine>
+      <Animals>6</Animals>
+    </skillRequirements>
+  </RecipeDef>
+
+  <RecipeDef Name="AnimalSurgeryHard" ParentName="DESAnimalSurgeries" Abstract="True">
+  <!-- The skill of the colonist and quality/cleanliness of the room should matters -->
+    <surgerySuccessChanceFactor>1.7</surgerySuccessChanceFactor>
+    <deathOnFailedSurgeryChance>0.3</deathOnFailedSurgeryChance>
+    <workAmount>4500</workAmount>
+    <skillRequirements>
+      <Medicine>15</Medicine>
+      <Animals>7</Animals>
+    </skillRequirements>
+  </RecipeDef>
+
+  <RecipeDef Name="AnimalSurgeryVeryHard" ParentName="DESAnimalSurgeries" Abstract="True">
+  <!-- The skill of the colonist and quality/cleanliness of the room should matters a lot -->
+    <surgerySuccessChanceFactor>1.4</surgerySuccessChanceFactor>
+    <deathOnFailedSurgeryChance>0.4</deathOnFailedSurgeryChance>
+    <workAmount>6000</workAmount>
+    <skillRequirements>
+      <Medicine>16</Medicine>
+      <Animals>8</Animals>
+    </skillRequirements>
+  </RecipeDef>
+
+  <!-- Easy Animal Surgery -->
+
+  <!-- Normal Animal Surgery -->
+
+  <!-- Cure animal flu -->
+<RecipeDef ParentName="AnimalSurgeryNormal">
+  <defName>CureAnimalFlu</defName>
+  <label>cure animal flu (10 med)</label>
+  <description>Cure animal flu. Need 6 levels of animal skills to do surgery.</description>
+  <workerClass>Recipe_RemoveHediff</workerClass>
+  <successfullyRemovedHediffMessage>{0} has successfully treated {1}'s animal flu.</successfullyRemovedHediffMessage>
+  <jobString>Curing animal flu.</jobString>
+  <!-- targetsBodyPart : Whether the object is a body part - if it is false it is not a physical part (in case of illness) -->
+  <targetsBodyPart>true</targetsBodyPart>
+  <!-- anesthetize : Whether anesthesia continues after surgery -->
+  <anesthetize>true</anesthetize>
+  <!-- dontShowIfAnyIngredientMissing : Hide when there is no material necessary for surgery -->
+  <dontShowIfAnyIngredientMissing>true</dontShowIfAnyIngredientMissing>
+  <removesHediff>Animal_Flu</removesHediff>
+  <ingredients>
+    <li>
+      <filter>
+       <categories>
+         <li>Medicine</li>
+       </categories>
+      </filter>
+      <count>10</count>
+    </li>
+  </ingredients>
+  <fixedIngredientFilter>
+    <categories>
+      <li>Medicine</li>
+    </categories>
+  </fixedIngredientFilter>
+</RecipeDef>
+
+  <!-- Cure animal HearingLoss -->
+<RecipeDef ParentName="AnimalSurgeryNormal">
+  <defName>CureAnimalChronicHearingLoss</defName>
+  <label>cure animal hearing loss (6 Glit. Med)</label>
+  <description>Cure animal hearing loss. Need 6 levels of animal skills to do surgery.</description>
+  <workerClass>Recipe_RemoveHediff</workerClass>
+  <successfullyRemovedHediffMessage>{0} has successfully treated {1}'s animal hearing loss.</successfullyRemovedHediffMessage>
+  <jobString>Curing animal hearing loss.</jobString>
+  <removesHediff>HearingLoss</removesHediff>
+  <ingredients>
+    <li>
+      <filter>
+        <categories>
+          <li>Medicine</li>
+        </categories>
+      </filter>
+      <count>6</count>
+    </li>
+  </ingredients>
+  <fixedIngredientFilter>
+    <categories>
+      <li>Medicine</li>
+    </categories>
+    <disallowedThingDefs>
+      <li>MedicineHerbal</li>
+      <li>MedicineIndustrial</li>
+    </disallowedThingDefs>
+  </fixedIngredientFilter>
+</RecipeDef>
+
+  <!-- Cure animal Blindness -->
+<RecipeDef ParentName="AnimalSurgeryHard">
+  <defName>CureAnimalChronicBlindness</defName>
+  <label>cure animal blindness (6 Glit. Med)</label>
+  <description>Cure animal blindness. Need 6 levels of animal skills to do surgery.</description>
+  <workerClass>Recipe_RemoveHediff</workerClass>
+  <successfullyRemovedHediffMessage>{0} has successfully treated {1}'s animal blindness.</successfullyRemovedHediffMessage>
+  <jobString>Curing animal blindness.</jobString>
+  <removesHediff>Blindness</removesHediff>
+  <ingredients>
+    <li>
+      <filter>
+        <categories>
+          <li>Medicine</li>
+        </categories>
+      </filter>
+      <count>6</count>
+    </li>
+  </ingredients>
+  <fixedIngredientFilter>
+    <categories>
+      <li>Medicine</li>
+    </categories>
+    <disallowedThingDefs>
+      <li>MedicineHerbal</li>
+      <li>MedicineIndustrial</li>
+    </disallowedThingDefs>
+  </fixedIngredientFilter>
+</RecipeDef>
+
+
+  <!-- Hard Animal Surgery -->
+
+  <!-- Cure animal plague -->
+<RecipeDef ParentName="AnimalSurgeryHard">
+  <defName>CureAnimalPlague</defName>
+  <label>cure animal plague (10 Penoxys/2 Glit. Med)</label>
+  <description>Cure animal plague. Need 7 levels of animal skills to do surgery.</description>
+  <workerClass>Recipe_RemoveHediff</workerClass>
+  <successfullyRemovedHediffMessage>{0} has successfully treated {1}'s animal plague.</successfullyRemovedHediffMessage>
+  <jobString>Curing animal plague.</jobString>
+  <targetsBodyPart>true</targetsBodyPart>
+  <anesthetize>true</anesthetize>
+  <dontShowIfAnyIngredientMissing>true</dontShowIfAnyIngredientMissing>
+  <removesHediff>Animal_Plague</removesHediff>
+  <ingredients>
+    <li>
+      <filter>
+        <thingDefs>
+          <li>Penoxycyline</li>
+        </thingDefs>
+      </filter>
+      <count>10</count>
+    </li>
+    <li>
+      <filter>
+       <categories>
+         <li>Medicine</li>
+       </categories>
+      </filter>
+      <count>2</count>
+    </li>
+  </ingredients>
+  <fixedIngredientFilter>
+    <categories>
+      <li>Medicine</li>
+    </categories>
+    <disallowedThingDefs>
+      <li>MedicineHerbal</li>
+      <li>MedicineIndustrial</li>
+    </disallowedThingDefs>
+  </fixedIngredientFilter>
+</RecipeDef>
+
+
+  <!-- VeryHard Animal Surgery -->
+
+</Defs>

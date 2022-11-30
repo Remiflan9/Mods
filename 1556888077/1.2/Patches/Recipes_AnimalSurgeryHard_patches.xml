@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!-- If you put a patch in your Mod, Please use the following comment outs part (use this Mod name and workshop ID) -->
+	<!-- 
+	<Operation Class="PatchOperationFindMod">
+		<success>Always</success>
+		<mods>
+			<li>[1.2] DE Surgeries</li>
+			<li>1541722340</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+			<xpath>/Defs/RecipeDef[@Name = "DESAnimalSurgeries"]/recipeUsers</xpath>
+			<value>
+				<li>QuarterHorse</li>
+				<li>BlackHorse</li>
+				<li>WhiteHorse</li>
+				<li>Palomino</li>
+			</value>
+		</match>
+	</Operation>
+	-->
+
+</Patch>

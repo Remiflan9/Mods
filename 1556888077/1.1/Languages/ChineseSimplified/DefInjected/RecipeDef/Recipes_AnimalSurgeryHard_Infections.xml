@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cure animal flu -->
+
+  <CureAnimalFlu.label>治疗动物流感 (基本药物x10)</CureAnimalFlu.label>
+  <CureAnimalFlu.description>治疗动物流感。需要6级动物技能做手术。</CureAnimalFlu.description>
+  <CureAnimalFlu.jobString>正在治疗动物流感。</CureAnimalFlu.jobString>
+  <CureAnimalFlu.successfullyRemovedHediffMessage>{0}已成功治愈{1}的动物流感。</CureAnimalFlu.successfullyRemovedHediffMessage>
+
+
+  <!-- Cure animal plague -->
+
+  <CureAnimalPlague.label>治疗动物瘟疫 (佩诺西林x10/高级药物x2)</CureAnimalPlague.label>
+  <CureAnimalPlague.description>治疗动物瘟疫。需要7级动物技能做手术。</CureAnimalPlague.description>
+  <CureAnimalPlague.jobString>正在治疗动物瘟疫。</CureAnimalPlague.jobString>
+  <CureAnimalPlague.successfullyRemovedHediffMessage>{0}已成功治愈{1}的动物瘟疫。</CureAnimalPlague.successfullyRemovedHediffMessage>
+
+
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Normal Animal Surgery -->
+  <!-- Cure animal flu -->
+
+  <CureAnimalFlu.label>インフルエンザ治療 (薬10)</CureAnimalFlu.label>
+  <CureAnimalFlu.description>動物のインフルエンザを治療します。治療を行うには医術スキルだけでなく動物スキルが6以上必要です。</CureAnimalFlu.description>
+  <CureAnimalFlu.jobString>インフルエンザ治療中</CureAnimalFlu.jobString>
+  <CureAnimalFlu.successfullyRemovedHediffMessage>{0}が正常に{1}のインフルエンザを治療しました。</CureAnimalFlu.successfullyRemovedHediffMessage>
+
+  <!-- Hard Animal Surgery -->
+  <!-- Cure animal plague -->
+
+  <CureAnimalPlague.label>ペスト治療 (ペノ10/最先端2)</CureAnimalPlague.label>
+  <CureAnimalPlague.description>動物のペストを治療します。治療を行うには医術スキルだけでなく動物スキルが7以上必要です。</CureAnimalPlague.description>
+  <CureAnimalPlague.jobString>ペスト治療中</CureAnimalPlague.jobString>
+  <CureAnimalPlague.successfullyRemovedHediffMessage>{0}が正常に{1}のペストを治療しました。</CureAnimalPlague.successfullyRemovedHediffMessage>
+
+
+</LanguageData>

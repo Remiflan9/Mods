@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hard Animal Surgery (FFFF33) -->
+  <!-- Cure animal Brain Damage -->
+
+  <CureAnimalChronicBrainDamage.label>治疗动物脑损伤 (高级药物x5)</CureAnimalChronicBrainDamage.label>
+  <CureAnimalChronicBrainDamage.description>治疗动物脑损伤。需要4级动物技能做手术。</CureAnimalChronicBrainDamage.description>
+  <CureAnimalChronicBrainDamage.jobString>正在治疗动物脑损伤。</CureAnimalChronicBrainDamage.jobString>
+  <CureAnimalChronicBrainDamage.successfullyRemovedHediffMessage>{0}已成功治愈{1}的脑损伤。</CureAnimalChronicBrainDamage.successfullyRemovedHediffMessage>
+
+
+  <!-- VeryHard Animal Surgery (FF3366) -->
+  <!-- Cure animal Severe Brain Damage -->
+
+  <CureAnimalChronicSevereBrainDamage.label>治疗动物严重脑损伤 (高级药物x10)</CureAnimalChronicSevereBrainDamage.label>
+  <CureAnimalChronicSevereBrainDamage.description>治疗动物严重脑损伤。需要5级动物技能做手术。</CureAnimalChronicSevereBrainDamage.description>
+  <CureAnimalChronicSevereBrainDamage.jobString>正在治疗动物严重脑损伤。</CureAnimalChronicSevereBrainDamage.jobString>
+  <CureAnimalChronicSevereBrainDamage.successfullyRemovedHediffMessage>{0}已成功治愈{1}的严重脑损伤。</CureAnimalChronicSevereBrainDamage.successfullyRemovedHediffMessage>
+
+</LanguageData>

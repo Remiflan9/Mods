@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Normal Infection Surgery -->
+  <!-- Cure flu -->
+
+  <CureInfectionFlu.label>インフルエンザ治療 (薬10)</CureInfectionFlu.label>
+  <CureInfectionFlu.description>インフルエンザを治療します。</CureInfectionFlu.description>
+  <CureInfectionFlu.jobString>インフルエンザ治療中</CureInfectionFlu.jobString>
+  <CureInfectionFlu.successfullyRemovedHediffMessage>{0}が正常に{1}のインフルエンザを治療しました。</CureInfectionFlu.successfullyRemovedHediffMessage>
+
+  <!-- Hard Infection Surgery -->
+  <!-- Cure plague -->
+
+  <CureInfectionPlague.label>ペスト治療 (ペノ10/最先端6)</CureInfectionPlague.label>
+  <CureInfectionPlague.description>ペストを治療します。</CureInfectionPlague.description>
+  <CureInfectionPlague.jobString>ペスト治療中</CureInfectionPlague.jobString>
+  <CureInfectionPlague.successfullyRemovedHediffMessage>{0}が正常に{1}のペストを治療しました。</CureInfectionPlague.successfullyRemovedHediffMessage>
+
+
+  <!-- Cure malaria -->
+
+  <CureInfectionMalaria.label>マラリア治療 (ペノ10/最先端6)</CureInfectionMalaria.label>
+  <CureInfectionMalaria.description>マラリアを治療します。</CureInfectionMalaria.description>
+  <CureInfectionMalaria.jobString>マラリア治療中</CureInfectionMalaria.jobString>
+  <CureInfectionMalaria.successfullyRemovedHediffMessage>{0}が正常に{1}のマラリアを治療しました。</CureInfectionMalaria.successfullyRemovedHediffMessage>
+
+
+  <!-- VeryHard Infection Surgery -->
+  <!-- Cure Sleeping Sickness -->
+
+  <CureInfectionSleepingSickness.label>眠り病治療 (ペノ10/最先端6)</CureInfectionSleepingSickness.label>
+  <CureInfectionSleepingSickness.description>眠り病を治療します。</CureInfectionSleepingSickness.description>
+  <CureInfectionSleepingSickness.jobString>眠り病治療中</CureInfectionSleepingSickness.jobString>
+  <CureInfectionSleepingSickness.successfullyRemovedHediffMessage>{0}が正常に{1}の眠り病を治療しました。</CureInfectionSleepingSickness.successfullyRemovedHediffMessage>
+
+
+</LanguageData>

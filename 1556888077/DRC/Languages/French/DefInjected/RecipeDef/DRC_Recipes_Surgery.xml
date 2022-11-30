@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Hard Surgery (FFFF33) -->
+	<!-- Cure Brain Damage -->
+	<CureChronicBrainDamage.label>guérir les dommages cérébraux (5 meds supp.)</CureChronicBrainDamage.label>
+	<CureChronicBrainDamage.description>Guérir les dommages cérébraux.</CureChronicBrainDamage.description>
+	<CureChronicBrainDamage.jobString>Guérir les dommages cérébraux.</CureChronicBrainDamage.jobString>
+	<CureChronicBrainDamage.successfullyRemovedHediffMessage>{0} a traité avec succès les dommages cérébraux de {1}.</CureChronicBrainDamage.successfullyRemovedHediffMessage>
+
+	<!-- Very Hard Surgery (FF3366) -->
+	<!-- Cure Severe Brain Damage -->
+	<CureChronicSevereBrainDamage.label>guérir les dommages cérébraux graves (10 meds supp.)</CureChronicSevereBrainDamage.label>
+	<CureChronicSevereBrainDamage.description>Guérir les dommages cérébraux graves.</CureChronicSevereBrainDamage.description>
+	<CureChronicSevereBrainDamage.jobString>Guérir les dommages cérébraux graves.</CureChronicSevereBrainDamage.jobString>
+	<CureChronicSevereBrainDamage.successfullyRemovedHediffMessage>{0} a traité avec succès les dommages cérébraux graves de {1}.</CureChronicSevereBrainDamage.successfullyRemovedHediffMessage>
+
+</LanguageData>

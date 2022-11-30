@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hard Animal Surgery (FFFF33) -->
+  <!-- Cure animal Brain Damage -->
+
+  <CureAnimalChronicBrainDamage.label>低酸素脳症治療 (最先端5. 薬)</CureAnimalChronicBrainDamage.label>
+  <CureAnimalChronicBrainDamage.description>聴力を失った動物を治療します。治療を行うには医術スキルだけでなく動物スキルが4以上必要です。</CureAnimalChronicBrainDamage.description>
+  <CureAnimalChronicBrainDamage.jobString>動物の低酸素脳症を治療中</CureAnimalChronicBrainDamage.jobString>
+  <CureAnimalChronicBrainDamage.successfullyRemovedHediffMessage>{0}が正常に{1}の低酸素脳症を治療しました。</CureAnimalChronicBrainDamage.successfullyRemovedHediffMessage>
+
+
+  <!-- VeryHard Animal Surgery (FF3366) -->
+  <!-- Cure animal Severe Brain Damage -->
+
+  <CureAnimalChronicSevereBrainDamage.label>重度の脳障害治療 (最先端10. 薬)</CureAnimalChronicSevereBrainDamage.label>
+  <CureAnimalChronicSevereBrainDamage.description>動物の重度の脳障害(低酸素)を治療します。治療を行うには医術スキルだけでなく動物スキルが5以上必要です。</CureAnimalChronicSevereBrainDamage.description>
+  <CureAnimalChronicSevereBrainDamage.jobString>動物の重度の脳障害を治療中</CureAnimalChronicSevereBrainDamage.jobString>
+  <CureAnimalChronicSevereBrainDamage.successfullyRemovedHediffMessage>{0}が正常に{1}の重度の脳障害を治療しました。</CureAnimalChronicSevereBrainDamage.successfullyRemovedHediffMessage>
+
+</LanguageData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Normal Animal Surgery -->
+  <!-- Cure animal HearingLoss -->
+
+  <CureAnimalChronicHearingLoss.label>вылечите потери слуха животных (6 Продв. мед.)</CureAnimalChronicHearingLoss.label>
+  <CureAnimalChronicHearingLoss.description>Вылечите потери слуха животных. Нужно 6 уровней навыков животных, чтобы сделать операцию.</CureAnimalChronicHearingLoss.description>
+  <CureAnimalChronicHearingLoss.jobString>Лечение потери слуха у животных.</CureAnimalChronicHearingLoss.jobString>
+  <CureAnimalChronicHearingLoss.successfullyRemovedHediffMessage>{0} успешно вылечил(а) {1} потерю слуха животных.</CureAnimalChronicHearingLoss.successfullyRemovedHediffMessage>
+
+
+  <!-- Cure animal Blindness -->
+
+  <CureAnimalChronicBlindness.label>cure animal blindness (6 Продв. мед.)</CureAnimalChronicBlindness.label>
+  <CureAnimalChronicBlindness.description>Вылечите слепоты животного. Нужно 6 уровней навыков животных, чтобы сделать операцию.</CureAnimalChronicBlindness.description>
+  <CureAnimalChronicBlindness.jobString>Лечение слепоты животных.</CureAnimalChronicBlindness.jobString>
+  <CureAnimalChronicBlindness.successfullyRemovedHediffMessage>{0} успешно вылечил(а) {1} слепоту животных.</CureAnimalChronicBlindness.successfullyRemovedHediffMessage>
+
+</LanguageData>

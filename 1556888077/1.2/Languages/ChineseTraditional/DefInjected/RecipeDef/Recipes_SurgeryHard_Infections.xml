@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cure flu -->
+
+  <CureInfectionFlu.label>治療流感 (普通藥物x10)</CureInfectionFlu.label>
+  <CureInfectionFlu.description>治療流感。</CureInfectionFlu.description>
+  <CureInfectionFlu.jobString>正在治療流感。</CureInfectionFlu.jobString>
+  <CureInfectionFlu.successfullyRemovedHediffMessage>{0}已成功治癒{1}的流感。</CureInfectionFlu.successfullyRemovedHediffMessage>
+
+
+  <!-- Cure plague -->
+
+  <CureInfectionPlague.label>治療瘟疫 (佩諾西林x10/高级药物x2)</CureInfectionPlague.label>
+  <CureInfectionPlague.description>治療瘟疫。</CureInfectionPlague.description>
+  <CureInfectionPlague.jobString>正在治療瘟疫。</CureInfectionPlague.jobString>
+  <CureInfectionPlague.successfullyRemovedHediffMessage>{0}已成功治癒{1}的瘟疫。</CureInfectionPlague.successfullyRemovedHediffMessage>
+
+
+  <!-- Cure malaria -->
+
+  <CureInfectionMalaria.label>治療瘧疾 (佩諾西林x10/高级药物x2)</CureInfectionMalaria.label>
+  <CureInfectionMalaria.description>治療瘧疾。</CureInfectionMalaria.description>
+  <CureInfectionMalaria.jobString>正在治療瘧疾。</CureInfectionMalaria.jobString>
+  <CureInfectionMalaria.successfullyRemovedHediffMessage>{0}已成功治癒{1}的瘧疾。</CureInfectionMalaria.successfullyRemovedHediffMessage>
+
+
+  <!-- Cure Sleeping Sickness -->
+
+  <CureInfectionSleepingSickness.label>治療昏睡病 (佩諾西林x10/高级药物x5)</CureInfectionSleepingSickness.label>
+  <CureInfectionSleepingSickness.description>治療昏睡病。</CureInfectionSleepingSickness.description>
+  <CureInfectionSleepingSickness.jobString>正在治療昏睡病。</CureInfectionSleepingSickness.jobString>
+  <CureInfectionSleepingSickness.successfullyRemovedHediffMessage>{0}已成功治癒{1}的昏睡病。</CureInfectionSleepingSickness.successfullyRemovedHediffMessage>
+
+
+</LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- Normal Infection Surgery -->
+
+  <!-- Cure Disease: Lung Rot -->
+<RecipeDef ParentName="InfectionSurgeryNormal">
+  <defName>CureInfectionLungRot</defName>
+  <label>cure lung rot (10 med - no herb)</label>
+  <description>Cure lung rot.</description>
+  <descriptionHyperlinks><HediffDef>LungRot</HediffDef></descriptionHyperlinks>
+  <workerClass>Recipe_RemoveHediff</workerClass>
+  <successfullyRemovedHediffMessage>{0} has successfully treated {1}'s lung rot.</successfullyRemovedHediffMessage>
+  <jobString>Curing lung rot.</jobString>
+  <removesHediff>LungRot</removesHediff>
+  <ingredients>
+    <li>
+      <filter>
+        <categories>
+          <li>Medicine</li>
+        </categories>
+      </filter>
+      <count>10</count>
+    </li>
+  </ingredients>
+  <fixedIngredientFilter>
+    <categories>
+      <li>Medicine</li>
+    </categories>
+    <disallowedThingDefs>
+      <li>MedicineHerbal</li>
+    </disallowedThingDefs>
+  </fixedIngredientFilter>
+</RecipeDef>
+
+</Defs>

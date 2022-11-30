@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hard Animal Surgery (FFFF33) -->
+  <!-- Cure animal Brain Damage -->
+
+  <CureAnimalChronicBrainDamage.label>동물 뇌손상을 치료합니다 (5 번화계 약품)</CureAnimalChronicBrainDamage.label>
+  <CureAnimalChronicBrainDamage.description>동물 뇌손상을 치료합니다. 수술을하기 위해서는 Lv4의 동물 기술이 필요합니다.</CureAnimalChronicBrainDamage.description>
+  <CureAnimalChronicBrainDamage.jobString>동물 뇌손상을 치료중.</CureAnimalChronicBrainDamage.jobString>
+  <CureAnimalChronicBrainDamage.successfullyRemovedHediffMessage>{0}은/는 {1}의 뇌손상을 치료하는데 성공했습니다.</CureAnimalChronicBrainDamage.successfullyRemovedHediffMessage>
+
+
+  <!-- VeryHard Animal Surgery (FF3366) -->
+  <!-- Cure animal Severe Brain Damage -->
+
+  <CureAnimalChronicSevereBrainDamage.label>동물성 심한 뇌손상을 치료 (10 번화계 약품)</CureAnimalChronicSevereBrainDamage.label>
+  <CureAnimalChronicSevereBrainDamage.description>동물성 심한 뇌손상을 치료. 수술을하기 위해서는 Lv5의 동물 기술이 필요합니다.</CureAnimalChronicSevereBrainDamage.description>
+  <CureAnimalChronicSevereBrainDamage.jobString>동물성 심한 뇌손상을 치료중</CureAnimalChronicSevereBrainDamage.jobString>
+  <CureAnimalChronicSevereBrainDamage.successfullyRemovedHediffMessage>{0}은/는 {1}의 동물 심한 뇌손상을 치료하는데 성공했습니다.</CureAnimalChronicSevereBrainDamage.successfullyRemovedHediffMessage>
+
+</LanguageData>

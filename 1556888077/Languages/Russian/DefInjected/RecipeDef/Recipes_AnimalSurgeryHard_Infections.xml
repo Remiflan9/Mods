@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cure animal flu -->
+
+  <CureAnimalFlu.label>Вылечить грипп животных (10 мед.)</CureAnimalFlu.label>
+  <CureAnimalFlu.description>Лечит животный грипп. Нужно 6 уровней навыков животных, чтобы сделать операцию.</CureAnimalFlu.description>
+  <CureAnimalFlu.jobString>Лечит животного гриппа.</CureAnimalFlu.jobString>
+  <CureAnimalFlu.successfullyRemovedHediffMessage>{0} успешно вылечил(а) {1} грипп животного.</CureAnimalFlu.successfullyRemovedHediffMessage>
+
+
+  <!-- Cure animal plague -->
+
+  <CureAnimalPlague.label>Вылечить чума животных (10 Пено./2 Продв. мед.)</CureAnimalPlague.label>
+  <CureAnimalPlague.description>Лечит чума животных. Нужно 7 уровней навыков животных, чтобы сделать операцию.</CureAnimalPlague.description>
+  <CureAnimalPlague.jobString>Лечит чума животных.</CureAnimalPlague.jobString>
+  <CureAnimalPlague.successfullyRemovedHediffMessage>{0} успешно вылечил(а) {1} чума животных.</CureAnimalPlague.successfullyRemovedHediffMessage>
+
+
+</LanguageData>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!-- Misc -->
+
+	<!-- Misc: Cirrhosis -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "Cirrhosis"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>CureCirrhosis</RecipeDef>
+		</value>
+	</Operation>
+
+	<!-- Misc: Scaria -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "Scaria"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>CureScaria</RecipeDef>
+		</value>
+	</Operation>
+
+	<!-- Misc: Sterilized -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "Sterilized"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>Sterilize</RecipeDef>
+		</value>
+	</Operation>
+
+
+	<!-- Chronic -->
+
+	<!-- Chronic: Badback -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "BadBack"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>CureChronicBadBack</RecipeDef>
+		</value>
+	</Operation>
+
+	<!-- Chronic: Frail -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "Frail"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>CureChronicFrail</RecipeDef>
+		</value>
+	</Operation>
+
+	<!-- Chronic: Cataract -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "Cataract"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>CureChronicCataract</RecipeDef>
+		</value>
+	</Operation>
+
+	<!-- Chronic: HearingLoss -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "HearingLoss"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>CureChronicHearingLoss</RecipeDef>
+		</value>
+	</Operation>
+
+	<!-- Chronic: Dementia -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "Dementia"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>CureChronicDementia</RecipeDef>
+		</value>
+	</Operation>
+
+	<!-- Chronic: Alzheimers -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "Alzheimers"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>CureChronicAlzheimers</RecipeDef>
+		</value>
+	</Operation>
+
+	<!-- Chronic: Asthma -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "Asthma"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>CureChronicAsthma</RecipeDef>
+		</value>
+	</Operation>
+
+	<!-- Chronic: Heart Artery Blockage -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "HeartArteryBlockage"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>CureChronicHeartArteryBlockage</RecipeDef>
+		</value>
+	</Operation>
+
+	<!-- Chronic: Carcinoma -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "Carcinoma"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>ExciseCarcinoma</RecipeDef>
+		</value>
+	</Operation>
+
+	<!-- Infections -->
+
+	<!-- Infections: Gut Worms -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "GutWorms"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>CureGutWorms</RecipeDef>
+		</value>
+	</Operation>
+
+	<!-- Infections: Muscle Parasites -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "MuscleParasites"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>CureMuscleParasites</RecipeDef>
+		</value>
+	</Operation>
+
+	<!-- Infections: Wound Infection -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "WoundInfection"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>CureWoundInfections</RecipeDef>
+		</value>
+	</Operation>
+
+	<!-- Infections: Flu -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "Flu"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>CureInfectionFlu</RecipeDef>
+		</value>
+	</Operation>
+
+	<!-- Disease: Chemical Damage -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "ChemicalDamageModerate"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>CureChemicalDamageModerate</RecipeDef>
+		</value>
+	</Operation>
+
+	<!-- Infections: Animal Flu -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "Animal_Flu"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>CureAnimalFlu</RecipeDef>
+		</value>
+	</Operation>
+
+	<!-- Infections: Plague -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "Plague"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>CureInfectionPlague</RecipeDef>
+		</value>
+	</Operation>
+
+	<!-- Infections: Animal Plague -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "Animal_Plague"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>CureAnimalPlague</RecipeDef>
+		</value>
+	</Operation>
+
+	<!-- Infections: Malaria -->
+	<Operation Class="PatchOperationInsert">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "Malaria"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>CureInfectionMalaria</RecipeDef>
+		</value>
+	</Operation>
+
+	<!-- Disease: Chemical Damage Severe -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "ChemicalDamageSevere"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>CureChemicalDamageSevere</RecipeDef>
+		</value>
+	</Operation>
+
+	<!-- Infections: Sleeping Sickness -->
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>Defs/HediffDef[defName = "SleepingSickness"]/descriptionHyperlinks</xpath>
+		<value>
+			<RecipeDef>CureInfectionSleepingSickness</RecipeDef>
+		</value>
+	</Operation>
+
+</Patch>

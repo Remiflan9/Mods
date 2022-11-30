@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cure Disease: Lung Rot -->
+
+  <CureInfectionLungRot.label>폐 썩음 치료 (10 의약품)</CureInfectionLungRot.label>
+  <CureInfectionLungRot.description>폐 썩음 치료.</CureInfectionLungRot.description>
+  <CureInfectionLungRot.jobString>폐 썩음 치료중.</CureInfectionLungRot.jobString>
+  <CureInfectionLungRot.successfullyRemovedHediffMessage>{0}이 {1}의 폐 썩음을 성공적으로 치료했습니다.</CureInfectionLungRot.successfullyRemovedHediffMessage>
+
+</LanguageData>

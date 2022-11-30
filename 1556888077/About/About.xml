@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>DE Surgeries Hard</name>
+	<author>Proxyer</author>
+	<packageId>Proxyer.DESurgeries.HARD</packageId>
+	<url />
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>
+		<li>1.3</li>
+		<li>1.4</li>
+	</supportedVersions>
+	<incompatibleWith>
+		<li>Proxyer.DESurgeries.DESurgeries</li>
+		<li>Proxyer.DESurgeries.DESurgeriesColor</li>
+		<li>Proxyer.DESurgeries.RBSEonly</li>
+		<li>Proxyer.DESurgeries.RBSEonlyColor</li>
+		<li>Proxyer.DESurgeries.HARDColor</li>
+	</incompatibleWith>
+	<loadBefore>
+		<li>Proxyer.DESurgeries.KijinPatch</li>
+		<li>Proxyer.DESurgeries.NewRatkinPatch</li>
+	</loadBefore>
+	<description><![CDATA[
+Adds new surgeries to Rimworld, but Hard version (A skill level higher than nomal version and more medications required, and the mortality rate increased when surgery failed.).
+
+Possible surgery and cure are the same as for the nomal version.
+
+- <color=#5AA9D6>2 cosmetic surgeries:</color>
+  Ear and Nose.
+
+- <color=#5AA9D6>9 chronic surgeries:</color>
+  Bad back, Frail, Cataract, Hearing loss, Dementia, Alzheimers, Asthma, Cirrhosis and Heart artery blockage.
+
+- <color=#5AA9D6>13 injury surgeries:</color> ( New: 1 injury )
+  Burn, Crush, Crack, Cut, Surgical cut, Scratch, Bite, Stab, Gunshot, Shredded, Bruise, Frostbite.
+
+- <color=#5AA9D6>2 Parasite surgeries :</color>
+  Muscle Parasite, Gut Worms
+
+- <color=#5AA9D6>12 bone/limb surgeries:</color>
+  Finger, Toe, Mandible, Pelvis, Clavicles, Sternum, Ribcage, Radius, Humerus, Femur, Tibia and Spine.
+
+- <color=#5AA9D6>8 Treatment of infection :</color>
+  infection, Flu, Plague, Malaria, Sleeping sickness, Chemical damage, Severe chemical damage, Lung rot
+
+- <color=#5AA9D6>2 Treatment of animal infection :</color>
+  Animal Flu, Animal Plague
+
+- <color=#5AA9D6>2 animal chronic surgeries :</color>
+  Animal Hearing loss, Animal Blindness
+
+Note:
+Parts of the lost body (Destroyed/Cut off/Crushed etc.), arms, legs, hands, and feet can not be formed with this mod. Please use "healer mech serum" to regenerate their organic flesh.
+
+
+<color=#87CEFA>Description</color> :
+The more the surgery difficulty increase, the more the Quality/Cleanliness of the hospital bed/room and the Medical skill value will impact chances of success
+
+Risk and cost of surgery is increasing more than normal version. And the mortality rate increased when surgery failed. So this HARD version is for players who are playing with a more realistic difficulty level.
+
+
+<color=#00CCFF>Easy surgeries</color>:
+You can choose to quickly treat those injuries instead of waiting for them to slowly heal (and maybe cause infections), but it will cost you more medical resources and medicine skills. Colonist who can do this difficulty surgery are called doctors or healers.
+
+Subject of surgery:
+Burn, Crush, Crack, Cut, Surgical cut, Scratch, Bite, Stab, Gunshot, Shredded, Bruise and Frostbite.
+
+Work Amount : 2,000.
+Medicine Requires : 4 units of medicine (herbal medicine can be used).
+Skill Requires : level 8 or higher in Medical.
+
+
+<color=#00FF66>Normal surgeries</color>:
+Colonist who can perform this difficulty surgery are called senior doctor or healer head (tribe).
+
+Subject of surgery:
+Mandible, Finger, Toe, Clavicles, Ear, Nose and Hearing loss, Flu, Chemical damage, Animal Flu, Animal HearingLoss, Animal Blindness, Lung rot.
+
+Work Amount : 3,000.
+Medicine Requires : 4 units of medicine (herbal medicine cannot be used).
+Skill Requires : level 12 or higher in Medical.
+
+Resource Stuff Requires :
+ Mandible and clavicles surgeries requires 15 Plasteel.
+ Cure flu requires 10 units of medicine (herbal medicine can be used)
+ Cure Animal Hearing loss and Animal Blindness requires 6 glitterworld medicine.
+ Repair body parts requires 10 units of medicine.
+
+<color=#FFFF33>Hard surgeries</color>:
+=== IMPORTANT ===
+On failure there is 20% chance to kill the patient.
+
+You can try to heal Muscle Parasites and Gut Worms in one operation (instead of waiting for the 5 treatments in Vanilla) but it will cost you 10 units of medicine in one time (x2 than nomal version). Also be aware of the risk of lethal failures (if the operation fail then there is a 20% chance of killing the patient). Colonist who succeed in this difficulty surgery are called honorary doctors or legendary healers (tribes).
+
+Subject of surgery:
+Asthma, Heart artery blockage, Ribcage, Sternum, Radius, Humerus, Femur, Tibia, Muscle Parasites and Gut Worms, infection.
+
+Work Amount : 4,500.
+Medicine Requires : 6 units of medicine (herbal medicine cannot be used).
+Skill Requires : level 15 or higher in Medical.
+
+Resource Stuff Requires :
+ Sternum repair also requires 30 Plasteel.
+ Ribcage repair also requires 12 Plasteel (Equivalent to twelve ribs).
+ Muscle Parasites and Gut Worms treatment requires 10 units of medicine.
+ Cure wound infection requires 5 units of Penoxycyline.
+ Cure artery blockage requires 6 glitterworld medicine.
+ Cure plague and Cure malaria requires 10 Penoxycyline and 2 glitterworld medicine.
+
+
+<color=#FF3366>VeryHard surgeries</color>:
+=== IMPORTANT ===
+On failure there is 30% chance to kill the patient.
+
+Also be aware of the risk of lethal failures (if the operation fail then there is a 30% chance of killing the patient). Colonist who succeed in this difficulty surgery are called honorary doctors or legendary healers (tribes).
+
+Subject of surgery:
+Spine, Pelvis, Dementia, Alzheimers, Bad Back, Frail, Cirrhosis.
+
+Work Amount : 6,000.
+Medicine Requires : 6 units of medicine (herbal medicine cannot be used).
+Skill Requires : level 17 or higher in Medical.
+
+Resource Stuff Requires :
+ Spine and Pelvis repair requires 80 Plasteel and 6 medicine.
+ Cure/repair Bad Back requires 80 Plasteel and 6 medicine.
+ Cure Frail requires requires 120 Plasteel and 6 medicine.
+ Cure Dementia and Cure Alzheimers requires 6 glitterworld medicine.
+ Cure hearing loss requires 6 glitterworld medicine.
+ Cure Cirrhosis requires 6 glitterworld medicine.
+ Cure sleeping sickness requires 10 Penoxycyline and 5 glitterworld medicine.
+
+
+<color=#87CEFA>Introduced to existing game save</color> :
+Since this Mod only adds a surgical recipe, it can be introduced into saved data in the middle of the game without any problem.
+
+
+Shamelessly updated through B19 and 1.4 without permission by Proxyer, A14 to A18 update by KapTaiN_KaVerN, Originally by DarknessEyes.
+
+
+<color=#87CEFA>Thanks to Translators !</color>
+Update for 1.1-1.4 : <b>Proxyer</b>
+- RU : by <b>Man232</b> and <b>Desert Rain</b>
+- ZH : by <b>tlerbao</b>
+- FR : By <b>Jozay</b>
+- DE : By <b>Erdnussbrot</b>
+- JP : By <b>Proxyer</b>
+- KR : By <b>Doctor</b>
+
+
+ ]]></description>
+</ModMetaData>

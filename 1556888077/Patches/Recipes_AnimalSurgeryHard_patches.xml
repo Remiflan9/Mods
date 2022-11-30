@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<!-- Add modded race samples Horses mod patch  -->
+	<!-- Check if Horses mod exists -->
+	<Operation Class="PatchOperationFindMod">
+		<success>Always</success>
+		<mods>
+	<!-- Check Mod name or workshop ID written in PublishedFileId.txt (Confirm existence of other Mod from this Mod) -->
+			<li>Horses (1.0)</li>
+			<li>1233906319</li>
+		</mods>
+	<!-- Add modded race horses to this Mod -->
+		<match Class="PatchOperationAdd">
+			<xpath>/Defs/RecipeDef[@Name = "DESAnimalSurgeries"]/recipeUsers</xpath>
+			<value>
+				<li>QuarterHorse</li>
+				<li>BlackHorse</li>
+				<li>WhiteHorse</li>
+				<li>Palomino</li>
+			</value>
+		</match>
+	</Operation>
+
+	<!-- If you put a patch in your Mod, Please use the following comment outs part (use this Mod name and workshop ID) -->
+	<!-- 
+	<Operation Class="PatchOperationFindMod">
+		<success>Always</success>
+		<mods>
+			<li>DE Surgeries</li>
+			<li>1541722340</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+			<xpath>/Defs/RecipeDef[@Name = "DESAnimalSurgeries"]/recipeUsers</xpath>
+			<value>
+				<li>QuarterHorse</li>
+				<li>BlackHorse</li>
+				<li>WhiteHorse</li>
+				<li>Palomino</li>
+			</value>
+		</match>
+	</Operation>
+	-->
+
+</Patch>

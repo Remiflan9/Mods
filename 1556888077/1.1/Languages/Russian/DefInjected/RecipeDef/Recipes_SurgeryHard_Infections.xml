@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cure flu -->
+
+  <CureInfectionFlu.label>вылечить грипп (10 мед.)</CureInfectionFlu.label>
+  <CureInfectionFlu.description>Лечит грипп.</CureInfectionFlu.description>
+  <CureInfectionFlu.jobString>Лечит гриппа.</CureInfectionFlu.jobString>
+  <CureInfectionFlu.successfullyRemovedHediffMessage>{0} успешно вылечил(а) {1} грипп.</CureInfectionFlu.successfullyRemovedHediffMessage>
+
+
+  <!-- Cure plague -->
+
+  <CureInfectionPlague.label>вылечить чума (10 Пено./2 Продв. мед.)</CureInfectionPlague.label>
+  <CureInfectionPlague.description>Лечит чума.</CureInfectionPlague.description>
+  <CureInfectionPlague.jobString>Лечит чума.</CureInfectionPlague.jobString>
+  <CureInfectionPlague.successfullyRemovedHediffMessage>{0} успешно вылечил(а) {1} чума.</CureInfectionPlague.successfullyRemovedHediffMessage>
+
+
+  <!-- Cure malaria -->
+
+  <CureInfectionMalaria.label>вылечить малярия (10 Пено./2 Продв. мед.)</CureInfectionMalaria.label>
+  <CureInfectionMalaria.description>Лечит малярия.</CureInfectionMalaria.description>
+  <CureInfectionMalaria.jobString>Лечит малярия.</CureInfectionMalaria.jobString>
+  <CureInfectionMalaria.successfullyRemovedHediffMessage>{0} успешно вылечил(а) {1} малярия.</CureInfectionMalaria.successfullyRemovedHediffMessage>
+
+
+  <!-- Cure Sleeping Sickness -->
+
+  <CureInfectionSleepingSickness.label>вылечить сонная болезнь (10 Пено./5 Продв. мед.)</CureInfectionSleepingSickness.label>
+  <CureInfectionSleepingSickness.description>Лечит сонная болезнь.</CureInfectionSleepingSickness.description>
+  <CureInfectionSleepingSickness.jobString>Лечит сонная болезнь.</CureInfectionSleepingSickness.jobString>
+  <CureInfectionSleepingSickness.successfullyRemovedHediffMessage>{0} успешно вылечил(а) {1} сонная болезнь.</CureInfectionSleepingSickness.successfullyRemovedHediffMessage>
+
+
+</LanguageData>

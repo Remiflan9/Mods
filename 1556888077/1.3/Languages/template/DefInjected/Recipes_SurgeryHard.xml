@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Easy Surgery -->
+	<!-- Injury: Burn -->
+	<CureInjuryBurn.label>cure burn (4 med)</CureInjuryBurn.label>
+	<CureInjuryBurn.description>Cure burn.</CureInjuryBurn.description>
+	<CureInjuryBurn.jobString>Curing burn.</CureInjuryBurn.jobString>
+	<CureInjuryBurn.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s burn.</CureInjuryBurn.successfullyRemovedHediffMessage>
+	<!-- Injury: Crush -->
+	<CureInjuryCrush.label>cure crush (4 med)</CureInjuryCrush.label>
+	<CureInjuryCrush.description>Cure crush.</CureInjuryCrush.description>
+	<CureInjuryCrush.jobString>Curing crush.</CureInjuryCrush.jobString>
+	<CureInjuryCrush.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s crush.</CureInjuryCrush.successfullyRemovedHediffMessage>
+	<!-- Injury: Crack -->
+	<CureInjuryCrack.label>cure crack (4 med)</CureInjuryCrack.label>
+	<CureInjuryCrack.description>Cure crack.</CureInjuryCrack.description>
+	<CureInjuryCrack.jobString>Curing crack.</CureInjuryCrack.jobString>
+	<CureInjuryCrack.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s crack.</CureInjuryCrack.successfullyRemovedHediffMessage>
+	<!-- Injury: Cut -->
+	<CureInjuryCut.label>cure cut (4 med)</CureInjuryCut.label>
+	<CureInjuryCut.description>Cure cut.</CureInjuryCut.description>
+	<CureInjuryCut.jobString>Curing cut.</CureInjuryCut.jobString>
+	<CureInjuryCut.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s cut.</CureInjuryCut.successfullyRemovedHediffMessage>
+	<!-- Injury: SurgicalCut -->
+	<CureInjurySurgicalCut.label>cure surgical cut (4 med)</CureInjurySurgicalCut.label>
+	<CureInjurySurgicalCut.description>Cure surgical cut.</CureInjurySurgicalCut.description>
+	<CureInjurySurgicalCut.jobString>Curing surgical cut.</CureInjurySurgicalCut.jobString>
+	<CureInjurySurgicalCut.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s surgical cut.</CureInjurySurgicalCut.successfullyRemovedHediffMessage>
+	<!-- Injury: Scratch -->
+	<CureInjuryScratch.label>cure scratch (4 med)</CureInjuryScratch.label>
+	<CureInjuryScratch.description>Cure scratch.</CureInjuryScratch.description>
+	<CureInjuryScratch.jobString>Curing scratch.</CureInjuryScratch.jobString>
+	<CureInjuryScratch.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s scratch.</CureInjuryScratch.successfullyRemovedHediffMessage>
+	<!-- Injury: Bite -->
+	<CureInjuryBite.label>cure bite (4 med)</CureInjuryBite.label>
+	<CureInjuryBite.description>Cure bite.</CureInjuryBite.description>
+	<CureInjuryBite.jobString>Curing bite.</CureInjuryBite.jobString>
+	<CureInjuryBite.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s bite.</CureInjuryBite.successfullyRemovedHediffMessage>
+	<!-- Injury: Stab -->
+	<CureInjuryStab.label>cure stab (4 med)</CureInjuryStab.label>
+	<CureInjuryStab.description>Cure stab.</CureInjuryStab.description>
+	<CureInjuryStab.jobString>Curing stab.</CureInjuryStab.jobString>
+	<CureInjuryStab.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s stab.</CureInjuryStab.successfullyRemovedHediffMessage>
+	<!-- Injury: Gunshot -->
+	<CureInjuryGunshot.label>cure gunshot (4 med)</CureInjuryGunshot.label>
+	<CureInjuryGunshot.description>Cure gunshot.</CureInjuryGunshot.description>
+	<CureInjuryGunshot.jobString>Curing gunshot.</CureInjuryGunshot.jobString>
+	<CureInjuryGunshot.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s Gunshot.</CureInjuryGunshot.successfullyRemovedHediffMessage>
+	<!-- Injury: Shredded -->
+	<CureInjuryShredded.label>cure shredded (4 med)</CureInjuryShredded.label>
+	<CureInjuryShredded.description>Cure shredded.</CureInjuryShredded.description>
+	<CureInjuryShredded.jobString>Curing shredded.</CureInjuryShredded.jobString>
+	<CureInjuryShredded.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s shredding.</CureInjuryShredded.successfullyRemovedHediffMessage>
+	<!-- Injury: Bruise -->
+	<CureInjuryBruise.label>cure bruise (4 med)</CureInjuryBruise.label>
+	<CureInjuryBruise.description>Cure bruise.</CureInjuryBruise.description>
+	<CureInjuryBruise.jobString>Curing bruise.</CureInjuryBruise.jobString>
+	<CureInjuryBruise.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s bruise.</CureInjuryBruise.successfullyRemovedHediffMessage>
+	<!-- Injury: Frostbite -->
+	<CureInjuryFrostbite.label>cure frostbite (4 med)</CureInjuryFrostbite.label>
+	<CureInjuryFrostbite.description>Cure frostbite.</CureInjuryFrostbite.description>
+	<CureInjuryFrostbite.jobString>Curing frostbite.</CureInjuryFrostbite.jobString>
+	<CureInjuryFrostbite.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s frostbite.</CureInjuryFrostbite.successfullyRemovedHediffMessage>
+	<!-- Normal Surgery -->
+	<!-- Bone/limb: Mandible -->
+	<RepairBonesMandible.label>repair mandible (15 plasteel/4 med - no herb)</RepairBonesMandible.label>
+	<RepairBonesMandible.description>Repair mandible</RepairBonesMandible.description>
+	<RepairBonesMandible.jobString>Repairing mandible</RepairBonesMandible.jobString>
+	<!-- Bone/limb: clavicle -->
+	<RepairBonesClavicle.label>repair clavicle (15 plasteel/4 med - no herb)</RepairBonesClavicle.label>
+	<RepairBonesClavicle.description>Repair clavicle</RepairBonesClavicle.description>
+	<RepairBonesClavicle.jobString>Repairing clavicle</RepairBonesClavicle.jobString>
+	<!-- Bone/limb finger -->
+	<RepairFinger.label>repair finger (4 med - no herb)</RepairFinger.label>
+	<RepairFinger.description>Repair finger</RepairFinger.description>
+	<RepairFinger.jobString>Repairing finger</RepairFinger.jobString>
+	<!-- Bone/limb toe -->
+	<RepairToe.label>repair toe (4 med - no herb)</RepairToe.label>
+	<RepairToe.description>Repair toe</RepairToe.description>
+	<RepairToe.jobString>Repairing toe</RepairToe.jobString>
+	<!-- Cosmetic: Ear -->
+	<RepairCosmeticEar.label>repair ear (4 med - no herb)</RepairCosmeticEar.label>
+	<RepairCosmeticEar.description>Repair ear (Cosmetic Surgery)</RepairCosmeticEar.description>
+	<RepairCosmeticEar.jobString>Repairing ear</RepairCosmeticEar.jobString>
+	<!-- Cosmetic: Nose -->
+	<RepairCosmeticNose.label>repair nose (4 med - no herb)</RepairCosmeticNose.label>
+	<RepairCosmeticNose.description>Repair nose (Cosmetic Surgery)</RepairCosmeticNose.description>
+	<RepairCosmeticNose.jobString>Repairing nose</RepairCosmeticNose.jobString>
+	
+	<!-- Hard Surgery -->
+	<!-- Chronic: Cataract -->
+	<CureChronicCataract.label>cure cataract (6 med - no herb)</CureChronicCataract.label>
+	<CureChronicCataract.description>Cure cataract.</CureChronicCataract.description>
+	<CureChronicCataract.jobString>Curing cataract.</CureChronicCataract.jobString>
+	<CureChronicCataract.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s cataract.</CureChronicCataract.successfullyRemovedHediffMessage>
+	<!-- Bones: RibCage -->
+	<RepairBonesRibCage.label>repair ribcage (12 plasteel/6 med - no herb)</RepairBonesRibCage.label>
+	<RepairBonesRibCage.description>Repair ribcage</RepairBonesRibCage.description>
+	<RepairBonesRibCage.jobString>Repairing ribcage</RepairBonesRibCage.jobString>
+	<!-- Bone/limb: Sternum -->
+	<RepairBonesSternum.label>repair Sternum (30 plasteel/6 med - no herb)</RepairBonesSternum.label>
+	<RepairBonesSternum.description>Repair Sternum</RepairBonesSternum.description>
+	<RepairBonesSternum.jobString>Repairing Sternum</RepairBonesSternum.jobString>
+	<!-- Bone/limb: Radius -->
+	<RepairBonesRadius.label>repair radius (15 plasteel/6 med - no herb)</RepairBonesRadius.label>
+	<RepairBonesRadius.description>Repair radius</RepairBonesRadius.description>
+	<RepairBonesRadius.jobString>Repairing radius</RepairBonesRadius.jobString>
+	<!-- Bone/limb: Humerus -->
+	<RepairBonesHumerus.label>repair humerus (15 plasteel/6 med - no herb)</RepairBonesHumerus.label>
+	<RepairBonesHumerus.description>Repair humerus</RepairBonesHumerus.description>
+	<RepairBonesHumerus.jobString>Repairing humerus</RepairBonesHumerus.jobString>
+	<!-- Bone/limb: Femur -->
+	<RepairBonesFemur.label>repair femur (15 plasteel/6 med - no herb)</RepairBonesFemur.label>
+	<RepairBonesFemur.description>Repair femur</RepairBonesFemur.description>
+	<RepairBonesFemur.jobString>Repairing femur</RepairBonesFemur.jobString>
+	<!-- Bone/limb: Tibia -->
+	<RepairBonesTibia.label>repair tibia (15 plasteel/6 med - no herb)</RepairBonesTibia.label>
+	<RepairBonesTibia.description>Repair tibia</RepairBonesTibia.description>
+	<RepairBonesTibia.jobString>Repairing tibia</RepairBonesTibia.jobString>
+	<!-- Chronic: Asthma -->
+	<CureChronicAsthma.label>cure asthma (6 med - no herb)</CureChronicAsthma.label>
+	<CureChronicAsthma.description>Cure asthma.</CureChronicAsthma.description>
+	<CureChronicAsthma.jobString>Curing asthma.</CureChronicAsthma.jobString>
+	<CureChronicAsthma.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s asthma.</CureChronicAsthma.successfullyRemovedHediffMessage>
+	<!-- Cure Muscle Parasites -->
+	<CureMuscleParasites.label>cure muscle parasites (10 med - no herb)</CureMuscleParasites.label>
+	<CureMuscleParasites.description>Cure muscle parasites in one pass. More risky but heal fast</CureMuscleParasites.description>
+	<CureMuscleParasites.jobString>Curing muscle parasites.</CureMuscleParasites.jobString>
+	<CureMuscleParasites.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s muscle parasites.</CureMuscleParasites.successfullyRemovedHediffMessage>
+	<!-- Cure Gut Worms -->
+	<CureGutWorms.label>cure gut worms (10 med - no herb)</CureGutWorms.label>
+	<CureGutWorms.description>Cure gut worms in one pass. More risky but heal fast</CureGutWorms.description>
+	<CureGutWorms.jobString>Curing gut worms.</CureGutWorms.jobString>
+	<CureGutWorms.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s gut worms.</CureGutWorms.successfullyRemovedHediffMessage>
+	<!-- Chronic: HeartArteryBlockage -->
+	<CureChronicHeartArteryBlockage.label>cure artery blockage (6 Glit. Med)</CureChronicHeartArteryBlockage.label>
+	<CureChronicHeartArteryBlockage.description>Cure artery blockage.</CureChronicHeartArteryBlockage.description>
+	<CureChronicHeartArteryBlockage.jobString>Curing artery blockage.</CureChronicHeartArteryBlockage.jobString>
+	<CureChronicHeartArteryBlockage.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s artery blockage.</CureChronicHeartArteryBlockage.successfullyRemovedHediffMessage>
+	<!-- Cure: Wound infection -->
+	<CureWoundInfections.label>cure wound infections (5 Penoxys)</CureWoundInfections.label>
+	<CureWoundInfections.description>Cure wound infection is very convenient. But be careful! If your colony doctor fails in treatment, the patient may cause serious sepsis and die (the difficulty of surgery is Hard).</CureWoundInfections.description>
+	<CureWoundInfections.jobString>Curing wound infections.</CureWoundInfections.jobString>
+	<CureWoundInfections.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s wound infections.</CureWoundInfections.successfullyRemovedHediffMessage>
+	
+	<!-- Very Hard Surgery -->
+	<!-- Bones: Spine -->
+	<RepairBoneSpine.label>repair spine (80 plasteel/6 med - no herb)</RepairBoneSpine.label>
+	<RepairBoneSpine.description>Repair spine</RepairBoneSpine.description>
+	<RepairBoneSpine.jobString>Repairing spine</RepairBoneSpine.jobString>
+	<!-- Bones: Pelvis -->
+	<RepairBonesPelvis.label>repair Pelvis (80 plasteel/6 med - no herb)</RepairBonesPelvis.label>
+	<RepairBonesPelvis.description>Repair Pelvis</RepairBonesPelvis.description>
+	<RepairBonesPelvis.jobString>Repairing Pelvis</RepairBonesPelvis.jobString>
+	<!-- Chronic: Dementia -->
+	<CureChronicDementia.label>cure dementia (6 Glit. Med)</CureChronicDementia.label>
+	<CureChronicDementia.description>Cure dementia.</CureChronicDementia.description>
+	<CureChronicDementia.jobString>Curing dementia.</CureChronicDementia.jobString>
+	<CureChronicDementia.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s dementia.</CureChronicDementia.successfullyRemovedHediffMessage>
+	<!-- Chronic: Alzheimers -->
+	<CureChronicAlzheimers.label>cure alzheimers (6 Glit. Med)</CureChronicAlzheimers.label>
+	<CureChronicAlzheimers.description>Cure alzheimers.</CureChronicAlzheimers.description>
+	<CureChronicAlzheimers.jobString>Curing alzheimer's.</CureChronicAlzheimers.jobString>
+	<CureChronicAlzheimers.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s alzheimer's.</CureChronicAlzheimers.successfullyRemovedHediffMessage>
+	<!-- Chronic: Badback -->
+	<CureChronicBadBack.label>cure/repair bad back (80 plasteel/6 med - no herb)</CureChronicBadBack.label>
+	<CureChronicBadBack.description>Cure bad back.</CureChronicBadBack.description>
+	<CureChronicBadBack.jobString>Curing bad back.</CureChronicBadBack.jobString>
+	<CureChronicBadBack.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s bad back.</CureChronicBadBack.successfullyRemovedHediffMessage>
+	<!-- Chronic: Frail -->
+	<CureChronicFrail.label>cure frail (120 plasteel/6 med - no herb)</CureChronicFrail.label>
+	<CureChronicFrail.description>Cure frail.</CureChronicFrail.description>
+	<CureChronicFrail.jobString>Curing frail.</CureChronicFrail.jobString>
+	<CureChronicFrail.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s frailty.</CureChronicFrail.successfullyRemovedHediffMessage>
+	<!-- Chronic: HearingLoss -->
+	<CureChronicHearingLoss.label>cure hearing loss (6 Glit. Med))</CureChronicHearingLoss.label>
+	<CureChronicHearingLoss.description>Cure hearing loss.</CureChronicHearingLoss.description>
+	<CureChronicHearingLoss.jobString>Curing hearing loss.</CureChronicHearingLoss.jobString>
+	<CureChronicHearingLoss.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s hearing loss.</CureChronicHearingLoss.successfullyRemovedHediffMessage>
+	<!-- Cure Cirrhosis -->
+	<CureCirrhosis.label>cure cirrhosis (6 Glit. Med)</CureCirrhosis.label>
+	<CureCirrhosis.description>Cure cirrhosis.</CureCirrhosis.description>
+	<CureCirrhosis.jobString>Curing cirrhosis.</CureCirrhosis.jobString>
+	<CureCirrhosis.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s cirrhosis.</CureCirrhosis.successfullyRemovedHediffMessage>
+
+</LanguageData>

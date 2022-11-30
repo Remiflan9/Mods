@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hard Surgery (FFFF33) -->
+
+  <!-- Cure Brain Damage -->
+
+  <CureChronicBrainDamage.label>治療腦損傷 (高級藥物x5)</CureChronicBrainDamage.label>
+  <CureChronicBrainDamage.description>治療腦損傷。</CureChronicBrainDamage.description>
+  <CureChronicBrainDamage.jobString>正在治療腦損傷。</CureChronicBrainDamage.jobString>
+  <CureChronicBrainDamage.successfullyRemovedHediffMessage>{0}已成功治癒{1}的腦損傷。</CureChronicBrainDamage.successfullyRemovedHediffMessage>
+
+
+  <!-- Very Hard Surgery (FF3366) -->
+
+  <!-- Cure Severe Brain Damage -->
+
+  <CureChronicSevereBrainDamage.label>治療嚴重腦損傷 (高级药物x10)</CureChronicSevereBrainDamage.label>
+  <CureChronicSevereBrainDamage.description>治療嚴重腦損傷。</CureChronicSevereBrainDamage.description>
+  <CureChronicSevereBrainDamage.jobString>正在治療嚴重腦損傷。</CureChronicSevereBrainDamage.jobString>
+  <CureChronicSevereBrainDamage.successfullyRemovedHediffMessage>{0}已成功治癒{1}的嚴重腦損傷。</CureChronicSevereBrainDamage.successfullyRemovedHediffMessage>
+
+</LanguageData>

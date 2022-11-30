@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hard Animal Surgery (FFFF33) -->
+  <!-- Cure animal Brain Damage -->
+
+  <CureAnimalChronicBrainDamage.label>cure animal brain damage (5 Glit. Med)</CureAnimalChronicBrainDamage.label>
+  <CureAnimalChronicBrainDamage.description>Cure animal brain damage. Need 4 levels of animal skills to do surgery.</CureAnimalChronicBrainDamage.description>
+  <CureAnimalChronicBrainDamage.jobString>Curing animal brain damage.</CureAnimalChronicBrainDamage.jobString>
+  <CureAnimalChronicBrainDamage.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s animal brain damage.</CureAnimalChronicBrainDamage.successfullyRemovedHediffMessage>
+
+
+  <!-- VeryHard Animal Surgery (FF3366) -->
+  <!-- Cure animal Severe Brain Damage -->
+
+  <CureAnimalChronicSevereBrainDamage.label>cure animal severe brain damage (10 Glit. Med)</CureAnimalChronicSevereBrainDamage.label>
+  <CureAnimalChronicSevereBrainDamage.description>Cure animal severe brain damage. Need 5 levels of animal skills to do surgery.</CureAnimalChronicSevereBrainDamage.description>
+  <CureAnimalChronicSevereBrainDamage.jobString>Curing animal severe brain damage.</CureAnimalChronicSevereBrainDamage.jobString>
+  <CureAnimalChronicSevereBrainDamage.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s animal severe brain damage.</CureAnimalChronicSevereBrainDamage.successfullyRemovedHediffMessage>
+
+</LanguageData>

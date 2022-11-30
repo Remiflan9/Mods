@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Normal Animal Surgery -->
+  <!-- Cure animal HearingLoss -->
+
+  <CureAnimalChronicHearingLoss.label>治疗动物耳聋 (高级药物x6)</CureAnimalChronicHearingLoss.label>
+  <CureAnimalChronicHearingLoss.description>治疗动物耳聋。需要6级动物技能做手术。</CureAnimalChronicHearingLoss.description>
+  <CureAnimalChronicHearingLoss.jobString>正在治疗动物耳聋。</CureAnimalChronicHearingLoss.jobString>
+  <CureAnimalChronicHearingLoss.successfullyRemovedHediffMessage>{0}已成功治愈{1}的耳聋。</CureAnimalChronicHearingLoss.successfullyRemovedHediffMessage>
+
+
+  <!-- Cure animal Blindness -->
+
+  <CureAnimalChronicBlindness.label>治疗动物失明 (高级药物x6)</CureAnimalChronicBlindness.label>
+  <CureAnimalChronicBlindness.description>治疗动物失明。需要6级动物技能做手术。</CureAnimalChronicBlindness.description>
+  <CureAnimalChronicBlindness.jobString>正在治疗动物失明。</CureAnimalChronicBlindness.jobString>
+  <CureAnimalChronicBlindness.successfullyRemovedHediffMessage>{0}已成功治愈{1}的失明。</CureAnimalChronicBlindness.successfullyRemovedHediffMessage>
+
+</LanguageData>

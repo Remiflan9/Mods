@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- Define which races are available for the added surgeries -->
+  <RecipeDef Name="DEInfectionSurgeries" ParentName="SurgeryFlesh" Abstract="True">
+    <recipeUsers>
+      <li>Human</li>
+      <!-- Insert modded races here via xpath. Do not forget the li tags -->
+    </recipeUsers>
+  </RecipeDef>
+
+
+<!-- Define 4 different difficulties Infections Surgery -->
+
+  <RecipeDef Name="InfectionSurgeryEasy" ParentName="DESurgeries" Abstract="True">
+    <!-- Easy recipe the skill of the colonist and quality/cleanliness of the room should not matters that much -->
+    <!-- Base success chances is 2.0 = 100 percent, 1.0 = 50 percent. -->
+    <surgerySuccessChanceFactor>2.2</surgerySuccessChanceFactor>
+    <deathOnFailedSurgeryChance>0.01</deathOnFailedSurgeryChance>
+    <workAmount>3000</workAmount>
+    <skillRequirements>
+      <Medicine>8</Medicine>
+    </skillRequirements>
+  </RecipeDef>
+
+  <RecipeDef Name="InfectionSurgeryNormal" ParentName="DESurgeries" Abstract="True">
+    <!-- The skill of the colonist and quality/cleanliness of the room should matters a bit -->
+    <!-- Base success chances is 2.0 = 100 percent, 1.0 = 50 percent. -->
+    <surgerySuccessChanceFactor>1.9</surgerySuccessChanceFactor>
+    <deathOnFailedSurgeryChance>0.02</deathOnFailedSurgeryChance>
+    <workAmount>4500</workAmount>
+    <skillRequirements>
+      <Medicine>12</Medicine>
+    </skillRequirements>
+  </RecipeDef>
+
+  <RecipeDef Name="InfectionSurgeryHard" ParentName="DESurgeries" Abstract="True">
+    <!-- The skill of the colonist and quality/cleanliness of the room should matters -->
+    <!-- Base success chances is 2.0 = 100 percent, 1.0 = 50 percent. -->
+    <surgerySuccessChanceFactor>1.7</surgerySuccessChanceFactor>
+    <deathOnFailedSurgeryChance>0.3</deathOnFailedSurgeryChance>
+    <workAmount>6750</workAmount>
+    <skillRequirements>
+      <Medicine>14</Medicine>
+    </skillRequirements>
+  </RecipeDef>
+
+  <RecipeDef Name="InfectionSurgeryVeryHard" ParentName="DESurgeries" Abstract="True">
+    <!-- The skill of the colonist and quality/cleanliness of the room should matters a lot -->
+    <!-- Base success chances is 2.0 = 100 percent, 1.0 = 50 percent. -->
+    <surgerySuccessChanceFactor>1.4</surgerySuccessChanceFactor>
+    <deathOnFailedSurgeryChance>0.4</deathOnFailedSurgeryChance>
+    <workAmount>9000</workAmount>
+    <skillRequirements>
+      <Medicine>16</Medicine>
+    </skillRequirements>
+  </RecipeDef>
+
+  <!-- Easy Infection Surgery -->
+
+  <!-- Normal Infection Surgery -->
+
+  <!-- Cure flu -->
+<RecipeDef ParentName="InfectionSurgeryNormal">
+  <defName>CureInfectionFlu</defName>
+  <label>cure flu (10 med)</label>
+  <description>Cure flu.</description>
+  <workerClass>Recipe_RemoveHediff</workerClass>
+  <successfullyRemovedHediffMessage>{0} has successfully treated {1}'s flu.</successfullyRemovedHediffMessage>
+  <jobString>Curing flu.</jobString>
+  <!-- targetsBodyPart : Whether the object is a body part - if it is false it is not a physical part (in case of illness) -->
+  <targetsBodyPart>true</targetsBodyPart>
+  <!-- anesthetize : Whether anesthesia continues after surgery -->
+  <anesthetize>true</anesthetize>
+  <!-- dontShowIfAnyIngredientMissing : Hide when there is no material necessary for surgery -->
+  <dontShowIfAnyIngredientMissing>true</dontShowIfAnyIngredientMissing>
+  <removesHediff>Flu</removesHediff>
+  <ingredients>
+    <li>
+      <filter>
+       <categories>
+         <li>Medicine</li>
+       </categories>
+      </filter>
+      <count>10</count>
+    </li>
+  </ingredients>
+  <fixedIngredientFilter>
+    <categories>
+      <li>Medicine</li>
+    </categories>
+  </fixedIngredientFilter>
+</RecipeDef>
+
+  <!-- Hard Infection Surgery -->
+
+  <!-- Cure plague -->
+<RecipeDef ParentName="InfectionSurgeryHard">
+  <defName>CureInfectionPlague</defName>
+  <label>cure plague (10 Penoxys/2 Glit. Med)</label>
+  <description>Cure plague.</description>
+  <workerClass>Recipe_RemoveHediff</workerClass>
+  <successfullyRemovedHediffMessage>{0} has successfully treated {1}'s plague.</successfullyRemovedHediffMessage>
+  <jobString>Curing plague.</jobString>
+  <targetsBodyPart>true</targetsBodyPart>
+  <anesthetize>true</anesthetize>
+  <dontShowIfAnyIngredientMissing>true</dontShowIfAnyIngredientMissing>
+  <removesHediff>Plague</removesHediff>
+  <ingredients>
+    <li>
+      <filter>
+       <categories>
+         <li>Medicine</li>
+       </categories>
+      </filter>
+      <count>2</count>
+    </li>
+    <li>
+      <filter>
+        <thingDefs>
+          <li>Penoxycyline</li>
+        </thingDefs>
+      </filter>
+      <count>10</count>
+    </li>
+  </ingredients>
+  <fixedIngredientFilter>
+    <categories>
+      <li>Medicine</li>
+    </categories>
+    <disallowedThingDefs>
+      <li>MedicineHerbal</li>
+      <li>MedicineIndustrial</li>
+    </disallowedThingDefs>
+    <thingDefs>
+      <li>Penoxycyline</li>
+    </thingDefs>
+  </fixedIngredientFilter>
+</RecipeDef>
+
+  <!-- Cure malaria -->
+<RecipeDef ParentName="InfectionSurgeryHard">
+  <defName>CureInfectionMalaria</defName>
+  <label>cure malaria (10 Penoxys/2 Glit. Med)</label>
+  <description>Cure malaria.</description>
+  <workerClass>Recipe_RemoveHediff</workerClass>
+  <successfullyRemovedHediffMessage>{0} has successfully treated {1}'s malaria.</successfullyRemovedHediffMessage>
+  <jobString>Curing malaria.</jobString>
+  <targetsBodyPart>true</targetsBodyPart>
+  <anesthetize>true</anesthetize>
+  <dontShowIfAnyIngredientMissing>true</dontShowIfAnyIngredientMissing>
+  <removesHediff>Malaria</removesHediff>
+  <ingredients>
+    <li>
+      <filter>
+       <categories>
+         <li>Medicine</li>
+       </categories>
+      </filter>
+      <count>2</count>
+    </li>
+    <li>
+      <filter>
+        <thingDefs>
+          <li>Penoxycyline</li>
+        </thingDefs>
+      </filter>
+      <count>10</count>
+    </li>
+  </ingredients>
+  <fixedIngredientFilter>
+    <categories>
+      <li>Medicine</li>
+    </categories>
+    <disallowedThingDefs>
+      <li>MedicineHerbal</li>
+      <li>MedicineIndustrial</li>
+    </disallowedThingDefs>
+    <thingDefs>
+      <li>Penoxycyline</li>
+    </thingDefs>
+  </fixedIngredientFilter>
+</RecipeDef>
+
+  <!-- VeryHard Infection Surgery -->
+
+  <!-- Cure Sleeping Sickness -->
+<RecipeDef ParentName="InfectionSurgeryVeryHard">
+  <defName>CureInfectionSleepingSickness</defName>
+  <label>cure sleeping sickness (10 Penoxys/5 Glit. Med)</label>
+  <description>Cure sleeping sickness.</description>
+  <workerClass>Recipe_RemoveHediff</workerClass>
+  <successfullyRemovedHediffMessage>{0} has successfully treated {1}'s sleeping sickness.</successfullyRemovedHediffMessage>
+  <jobString>Curing sleeping sickness.</jobString>
+  <targetsBodyPart>true</targetsBodyPart>
+  <anesthetize>true</anesthetize>
+  <dontShowIfAnyIngredientMissing>true</dontShowIfAnyIngredientMissing>
+  <removesHediff>SleepingSickness</removesHediff>
+  <ingredients>
+    <li>
+      <filter>
+       <categories>
+         <li>Medicine</li>
+       </categories>
+      </filter>
+      <count>5</count>
+    </li>
+    <li>
+      <filter>
+        <thingDefs>
+          <li>Penoxycyline</li>
+        </thingDefs>
+      </filter>
+      <count>10</count>
+    </li>
+  </ingredients>
+  <fixedIngredientFilter>
+    <categories>
+      <li>Medicine</li>
+    </categories>
+    <disallowedThingDefs>
+      <li>MedicineHerbal</li>
+      <li>MedicineIndustrial</li>
+    </disallowedThingDefs>
+    <thingDefs>
+      <li>Penoxycyline</li>
+    </thingDefs>
+  </fixedIngredientFilter>
+</RecipeDef>
+
+</Defs>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hard Surgery (FFFF33) -->
+  <!-- 持病: 低酸素脳症 -->
+
+  <CureChronicBrainDamage.label>低酸素脳症治療 (最先端5. 薬)</CureChronicBrainDamage.label>
+  <CureChronicBrainDamage.description>低酸素脳症を治療します。</CureChronicBrainDamage.description>
+  <CureChronicBrainDamage.jobString>低酸素脳症治療中</CureChronicBrainDamage.jobString>
+  <CureChronicBrainDamage.successfullyRemovedHediffMessage>{0}が正常に{1}の低酸素脳症を治療しました。</CureChronicBrainDamage.successfullyRemovedHediffMessage>
+
+  <!-- Very Hard Surgery (FF3366) -->
+  <!-- 持病: 重度の脳障害 -->
+
+  <CureChronicSevereBrainDamage.label>重度の脳障害治療 (最先端10. 薬)</CureChronicSevereBrainDamage.label>
+  <CureChronicSevereBrainDamage.description>重度の脳障害(低酸素)を治療します。</CureChronicSevereBrainDamage.description>
+  <CureChronicSevereBrainDamage.jobString>重度の脳障害治療中</CureChronicSevereBrainDamage.jobString>
+  <CureChronicSevereBrainDamage.successfullyRemovedHediffMessage>{0}が正常に{1}の重度の脳障害を治療しました。</CureChronicSevereBrainDamage.successfullyRemovedHediffMessage>
+
+</LanguageData>

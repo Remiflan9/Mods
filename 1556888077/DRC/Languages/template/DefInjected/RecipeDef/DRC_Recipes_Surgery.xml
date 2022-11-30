@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hard Surgery (FFFF33) -->
+  <!-- Cure Brain Damage -->
+
+  <CureChronicBrainDamage.label>cure brain damage (5 Glit. Med)</CureChronicBrainDamage.label>
+  <CureChronicBrainDamage.description>Cure brain damage.</CureChronicBrainDamage.description>
+  <CureChronicBrainDamage.jobString>Curing brain damage.</CureChronicBrainDamage.jobString>
+  <CureChronicBrainDamage.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s brain damage.</CureChronicBrainDamage.successfullyRemovedHediffMessage>
+
+
+  <!-- Very Hard Surgery (FF3366) -->
+  <!-- Cure Severe Brain Damage -->
+
+  <CureChronicSevereBrainDamage.label>cure severe brain damage (10 Glit. Med)</CureChronicSevereBrainDamage.label>
+  <CureChronicSevereBrainDamage.description>Cure severe brain damage.</CureChronicSevereBrainDamage.description>
+  <CureChronicSevereBrainDamage.jobString>Curing severe brain damage.</CureChronicSevereBrainDamage.jobString>
+  <CureChronicSevereBrainDamage.successfullyRemovedHediffMessage>{0} has successfully treated {1}'s severe brain damage.</CureChronicSevereBrainDamage.successfullyRemovedHediffMessage>
+
+</LanguageData>

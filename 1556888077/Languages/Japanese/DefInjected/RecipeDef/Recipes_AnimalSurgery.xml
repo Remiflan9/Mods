@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Normal Animal Surgery -->
+  <!-- Cure animal HearingLoss -->
+
+  <CureAnimalChronicHearingLoss.label>聴力損失治療 (最先端6. 薬)</CureAnimalChronicHearingLoss.label>
+  <CureAnimalChronicHearingLoss.description>聴力を失った動物を治療します。治療を行うには医術スキルだけでなく動物スキルが6以上必要です。</CureAnimalChronicHearingLoss.description>
+  <CureAnimalChronicHearingLoss.jobString>動物の聴力損失を治療中</CureAnimalChronicHearingLoss.jobString>
+  <CureAnimalChronicHearingLoss.successfullyRemovedHediffMessage>{0}が正常に{1}の聴力損失を治療しました。</CureAnimalChronicHearingLoss.successfullyRemovedHediffMessage>
+
+
+  <!-- Cure animal Blindness -->
+
+  <CureAnimalChronicBlindness.label>失明治療 (最先端6. 薬)</CureAnimalChronicBlindness.label>
+  <CureAnimalChronicBlindness.description>動物の失明を治療します。治療を行うには医術スキルだけでなく動物スキルが6以上必要です。</CureAnimalChronicBlindness.description>
+  <CureAnimalChronicBlindness.jobString>動物の失明を治療中</CureAnimalChronicBlindness.jobString>
+  <CureAnimalChronicBlindness.successfullyRemovedHediffMessage>{0}が正常に{1}の失明を治療しました。</CureAnimalChronicBlindness.successfullyRemovedHediffMessage>
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Normal Infection Surgery -->
+  <!-- Cure Disease: Lung Rot -->
+
+  <CureInfectionLungRot.label>肺腐敗症治療 (薬10 - 薬草不可)</CureInfectionLungRot.label>
+  <CureInfectionLungRot.description>肺腐敗症を治療します。</CureInfectionLungRot.description>
+  <CureInfectionLungRot.jobString>肺腐敗症治療中</CureInfectionLungRot.jobString>
+  <CureInfectionLungRot.successfullyRemovedHediffMessage>{0}が正常に{1}の肺腐敗症を治療しました。</CureInfectionLungRot.successfullyRemovedHediffMessage>
+
+</LanguageData>

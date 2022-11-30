@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!-- Check if VAE - Australia mod exists -->
+	<Operation Class="PatchOperationFindMod">
+		<success>Always</success>
+		<mods>
+			<!-- Check Mod name or workshop ID written in PublishedFileId.txt (Confirm existence of other Mod from this Mod) -->
+			<li>Vanilla Animals Expanded — Australia</li>
+			<li>1963681588</li>
+		</mods>
+		<!-- Add modded Animals to this Patch -->
+		<match Class="PatchOperationAdd">
+		<success>Always</success>
+			<xpath>/Defs/RecipeDef[@Name = "DESAnimalSurgeries"]/recipeUsers</xpath>
+			<value>
+				<li>AEXP_Boombat</li>
+				<li>AEXP_Kangaroo</li>
+				<li>AEXP_Koala</li>
+				<li>AEXP_Platypus</li>
+			</value>
+		</match>
+	</Operation>
+
+	<!-- VAE - Boreal Forest -->
+	<Operation Class="PatchOperationFindMod">
+		<success>Always</success>
+		<mods>
+			<li>Vanilla Animals Expanded — Boreal Forest</li>
+			<li>1895364938</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+		<success>Always</success>
+			<xpath>/Defs/RecipeDef[@Name = "DESAnimalSurgeries"]/recipeUsers</xpath>
+			<value>
+				<li>AEXP_Otter</li>
+				<li>AEXP_ArcticCoyote</li>
+				<li>AEXP_BlackBear</li>
+			</value>
+		</match>
+	</Operation>
+
+	<!-- VAE - Endangered -->
+	<Operation Class="PatchOperationFindMod">
+		<success>Always</success>
+		<mods>
+			<li>Vanilla Animals Expanded — Endangered</li>
+			<li>2366589898</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+		<success>Always</success>
+			<xpath>/Defs/RecipeDef[@Name = "DESAnimalSurgeries"]/recipeUsers</xpath>
+			<value>
+				<li>AEXP_BlackFootedFerret</li>
+				<li>AEXP_BlackRhino</li>
+				<li>AEXP_Bonobo</li>
+				<li>AEXP_Moa</li>
+				<li>AEXP_Panda</li>
+				<li>AEXP_Quagga</li>
+				<li>AEXP_RockhopperPenguin</li>
+				<li>AEXP_TasmanianDevil</li>
+				<li>AEXP_Thylacine</li>
+				<li>AEXP_AfricanWildDog</li>
+				<li>AEXP_Pangolin</li>
+			</value>
+		</match>
+	</Operation>
+
+	<!-- VAE - Ice Sheet -->
+	<Operation Class="PatchOperationFindMod">
+		<success>Always</success>
+		<mods>
+			<li>Vanilla Animals Expanded — Ice Sheet</li>
+			<li>1895364782</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+		<success>Always</success>
+			<xpath>/Defs/RecipeDef[@Name = "DESAnimalSurgeries"]/recipeUsers</xpath>
+			<value>
+				<li>AEXP_Penguin</li>
+				<li>AEXP_Seal</li>
+				<li>AEXP_Walrus</li>
+			</value>
+		</match>
+	</Operation>
+
+	<!-- VAE - Temperate Forest -->
+	<Operation Class="PatchOperationFindMod">
+		<success>Always</success>
+		<mods>
+			<li>Vanilla Animals Expanded — Temperate Forest</li>
+			<li>2260502331</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+		<success>Always</success>
+			<xpath>/Defs/RecipeDef[@Name = "DESAnimalSurgeries"]/recipeUsers</xpath>
+			<value>
+				<li>AEXP_RedPanda</li>
+				<li>AEXP_Badger</li>
+				<li>AEXP_WildGoose</li>
+				<li>AEXP_Beaver</li>
+				<li>AEXP_Hedgehog</li>
+			</value>
+		</match>
+	</Operation>
+
+	<!-- VAE - Tropical Rainforest -->
+	<Operation Class="PatchOperationFindMod">
+		<success>Always</success>
+		<mods>
+			<li>Vanilla Animals Expanded — Tropical Rainforest</li>
+			<li>1907283872</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+		<success>Always</success>
+			<xpath>/Defs/RecipeDef[@Name = "DESAnimalSurgeries"]/recipeUsers</xpath>
+			<value>
+				<li>AEXP_Gorilla</li>
+				<li>AEXP_Jaguar</li>
+				<li>AEXP_Lemur</li>
+				<li>AEXP_Mandrill</li>
+				<li>AEXP_Tapir</li>
+				<li>AEXP_Tiger</li>
+			</value>
+		</match>
+	</Operation>
+
+	<!-- VAE - Tropical Swamp -->
+	<Operation Class="PatchOperationFindMod">
+		<success>Always</success>
+		<mods>
+			<li>Vanilla Animals Expanded — Tropical Swamp</li>
+			<li>1907283935</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+		<success>Always</success>
+			<xpath>/Defs/RecipeDef[@Name = "DESAnimalSurgeries"]/recipeUsers</xpath>
+			<value>
+				<li>AEXP_Alligator</li>
+				<li>AEXP_Anaconda</li>
+				<li>AEXP_IndianElephant</li>
+			</value>
+		</match>
+	</Operation>
+
+	<!-- VAE - Tundra -->
+	<Operation Class="PatchOperationFindMod">
+		<success>Always</success>
+		<mods>
+			<li>Vanilla Animals Expanded — Tundra</li>
+			<li>1895364585</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+		<success>Always</success>
+			<xpath>/Defs/RecipeDef[@Name = "DESAnimalSurgeries"]/recipeUsers</xpath>
+			<value>
+				<li>AEXP_Muskox</li>
+				<li>AEXP_Moose</li>
+				<li>AEXP_MegaWolverine</li>
+				<li>AEXP_Porcupine</li>
+			</value>
+		</match>
+	</Operation>
+
+	<!-- VAE - Cats and Dogs -->
+	<Operation Class="PatchOperationFindMod">
+		<success>Always</success>
+		<mods>
+			<li>Vanilla Animals Expanded — Cats and Dogs</li>
+			<li>1823540489</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+		<success>Always</success>
+			<xpath>/Defs/RecipeDef[@Name = "DESAnimalSurgeries"]/recipeUsers</xpath>
+			<value>
+				<li>AEXP_CatAbyssinian</li>
+				<li>AEXP_CatBengal</li>
+				<li>AEXP_CatBritishShorthair</li>
+				<li>AEXP_CatMaineCoon</li>
+				<li>AEXP_CatMunchkin</li>
+				<li>AEXP_CatNorwegianForest</li>
+				<li>AEXP_CatPersian</li>
+				<li>AEXP_CatSiamese</li>
+				<li>AEXP_CatSomali</li>
+				<li>AEXP_CatSphynx</li>
+
+				<li>AEXP_Beagle</li>
+				<li>AEXP_Chihuahua</li>
+				<li>AEXP_Corgi</li>
+				<li>AEXP_FrenchBulldog</li>
+				<li>AEXP_GermanShepherd</li>
+				<li>AEXP_GreatDane</li>
+				<li>AEXP_Poodle</li>
+				<li>AEXP_Pug</li>
+				<li>AEXP_Rottweiler</li>
+				<li>AEXP_Shih-Tzu</li>
+				<li>AEXP_WelshTerrier</li>
+			</value>
+		</match>
+	</Operation>1836900626
+
+	<!-- VAE - Arid Shrubland -->
+	<Operation Class="PatchOperationFindMod">
+		<success>Always</success>
+		<mods>
+			<li>Vanilla Animals Expanded — Arid Shrubland</li>
+			<li>1836900626</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+		<success>Always</success>
+			<xpath>/Defs/RecipeDef[@Name = "DESAnimalSurgeries"]/recipeUsers</xpath>
+			<value>
+				<li>AEXP_Coyote</li>
+				<li>AEXP_Giraffe</li>
+				<li>AEXP_Hippopotamus</li>
+				<li>AEXP_Zebra</li>
+				<li>AEXP_Wildebeest</li>
+				<li>AEXP_Crocodile</li>
+				<li>AEXP_Cheetah</li>
+			</value>
+		</match>
+	</Operation>
+
+	<!-- VAE - Desert -->
+	<Operation Class="PatchOperationFindMod">
+		<success>Always</success>
+		<mods>
+			<li>Vanilla Animals Expanded — Desert</li>
+			<li>1849183875</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+		<success>Always</success>
+			<xpath>/Defs/RecipeDef[@Name = "DESAnimalSurgeries"]/recipeUsers</xpath>
+			<value>
+				<li>AEXP_Hyena</li>
+				<li>AEXP_DesertTortoise</li>
+				<li>AEXP_Lion</li>
+				<li>AEXP_GilaMonster</li>
+			</value>
+		</match>
+	</Operation>
+
+	<!-- VAE - Extreme Desert -->
+	<Operation Class="PatchOperationFindMod">
+		<success>Always</success>
+		<mods>
+			<li>Vanilla Animals Expanded — Extreme Desert</li>
+			<li>1849184079</li>
+		</mods>
+		<match Class="PatchOperationAdd">
+		<success>Always</success>
+			<xpath>/Defs/RecipeDef[@Name = "DESAnimalSurgeries"]/recipeUsers</xpath>
+			<value>
+				<li>AEXP_Camel</li>
+				<li>AEXP_Rattlesnake</li>
+				<li>AEXP_Megascorpion</li>
+			</value>
+		</match>
+	</Operation>
+
+</Patch>

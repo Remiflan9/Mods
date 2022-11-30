@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hard Animal Surgery (FFFF33) -->
+  <!-- Cure animal Brain Damage -->
+
+  <CureAnimalChronicBrainDamage.label>вылечите повреждение мозга животных (5 Продв. мед.)</CureAnimalChronicBrainDamage.label>
+  <CureAnimalChronicBrainDamage.description>Вылечите повреждение мозга животных. Нужно 4 уровней навыков животных, чтобы сделать операцию.</CureAnimalChronicBrainDamage.description>
+  <CureAnimalChronicBrainDamage.jobString>Лечение повреждение мозга у животных.</CureAnimalChronicBrainDamage.jobString>
+  <CureAnimalChronicBrainDamage.successfullyRemovedHediffMessage>{0} успешно вылечил(а) {1} повреждение мозга животных.</CureAnimalChronicBrainDamage.successfullyRemovedHediffMessage>
+
+  <!-- VeryHard Animal Surgery (FF3366) -->
+  <!-- Cure animal Severe Brain Damage -->
+
+  <CureAnimalChronicSevereBrainDamage.label>вылечите тяжелое повреждение мозга животных (10 Продв. мед.)</CureAnimalChronicSevereBrainDamage.label>
+  <CureAnimalChronicSevereBrainDamage.description>Вылечите тяжелое повреждение мозга животного. Нужно 5 уровней навыков животных, чтобы сделать операцию.</CureAnimalChronicSevereBrainDamage.description>
+  <CureAnimalChronicSevereBrainDamage.jobString>Лечение тяжелое повреждение мозга животных.</CureAnimalChronicSevereBrainDamage.jobString>
+  <CureAnimalChronicSevereBrainDamage.successfullyRemovedHediffMessage>{0} успешно вылечил(а) {1} тяжелое повреждение мозга животных.</CureAnimalChronicSevereBrainDamage.successfullyRemovedHediffMessage>
+
+</LanguageData>

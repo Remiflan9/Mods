@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Hard Surgery (FFFF33) -->
+	<!-- Chronic: HeartArteryBlockage -->
+	<CureChronicBrainDamage.label>вылечите повреждение мозга (5 Продв. мед.)</CureChronicBrainDamage.label>
+	<CureChronicBrainDamage.description>Лечит повреждение мозга.</CureChronicBrainDamage.description>
+	<CureChronicBrainDamage.jobString>Лечит повреждение мозга.</CureChronicBrainDamage.jobString>
+	<CureChronicBrainDamage.successfullyRemovedHediffMessage>{0} успешно вылечил(а) {1} повреждение мозга.</CureChronicBrainDamage.successfullyRemovedHediffMessage>
+
+	<!-- Very Hard Surgery (FF3366) -->
+	<!-- Cure Cirrhosis -->
+	<CureChronicSevereBrainDamage.label>вылечите тяжелое повреждение мозга (10 Продв. мед.)</CureChronicSevereBrainDamage.label>
+	<CureChronicSevereBrainDamage.description>Лечит тяжелое повреждение мозга.</CureChronicSevereBrainDamage.description>
+	<CureChronicSevereBrainDamage.jobString>Лечит тяжелое повреждение мозга.</CureChronicSevereBrainDamage.jobString>
+	<CureChronicSevereBrainDamage.successfullyRemovedHediffMessage>{0} успешно вылечил(а) {1} тяжелое повреждение мозга.</CureChronicSevereBrainDamage.successfullyRemovedHediffMessage>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cure Disease: Lung Rot -->
+
+  <CureInfectionLungRot.label>治疗肺腐病 (基本药物x10)</CureInfectionLungRot.label>
+  <CureInfectionLungRot.description>治疗肺腐病。</CureInfectionLungRot.description>
+  <CureInfectionLungRot.jobString>正在治疗肺腐病。</CureInfectionLungRot.jobString>
+  <CureInfectionLungRot.successfullyRemovedHediffMessage>{0}已成功治愈{1}的肺腐病。</CureInfectionLungRot.successfullyRemovedHediffMessage>
+
+</LanguageData>

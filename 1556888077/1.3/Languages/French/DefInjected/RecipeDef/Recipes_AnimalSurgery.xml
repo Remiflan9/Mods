@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Normal Animal Surgery -->
+  <!-- Cure animal HearingLoss -->
+
+  <CureAnimalChronicHearingLoss.label>guérir la perte auditive animale (6 meds supp.)</CureAnimalChronicHearingLoss.label>
+  <CureAnimalChronicHearingLoss.description>Guérir la perte auditive animale. Besoin de 6 niveaux de compétences animales pour faire la chirurgie.</CureAnimalChronicHearingLoss.description>
+  <CureAnimalChronicHearingLoss.jobString>Curing animal hearing loss.</CureAnimalChronicHearingLoss.jobString>
+  <CureAnimalChronicHearingLoss.successfullyRemovedHediffMessage>{0} a réussie à soigner la perte d'audition de {1}.</CureAnimalChronicHearingLoss.successfullyRemovedHediffMessage>
+
+
+  <!-- Cure animal Blindness -->
+
+  <CureAnimalChronicBlindness.label>guérir la cécité animale (6 meds supp.)</CureAnimalChronicBlindness.label>
+  <CureAnimalChronicBlindness.description>Guérir la cécité animale. Besoin de 6 niveaux de compétences animales pour faire la chirurgie.</CureAnimalChronicBlindness.description>
+  <CureAnimalChronicBlindness.jobString>Guérir la cécité animale.</CureAnimalChronicBlindness.jobString>
+  <CureAnimalChronicBlindness.successfullyRemovedHediffMessage>{0} a réussi à traiter la cécité animale de la ville de {1}.</CureAnimalChronicBlindness.successfullyRemovedHediffMessage>
+
+</LanguageData>

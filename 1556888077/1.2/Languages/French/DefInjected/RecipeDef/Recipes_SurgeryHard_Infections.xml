@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cure flu -->
+
+  <CureInfectionFlu.label>guérir la grippe (10 herbes meds.)</CureInfectionFlu.label>
+  <CureInfectionFlu.description>Guérir la grippe.</CureInfectionFlu.description>
+  <CureInfectionFlu.jobString>Guérir la grippe.</CureInfectionFlu.jobString>
+  <CureInfectionFlu.successfullyRemovedHediffMessage>{0} a traité avec succès la grippe de {1}.</CureInfectionFlu.successfullyRemovedHediffMessage>
+
+
+  <!-- Cure plague -->
+
+  <CureInfectionPlague.label>guérir la peste (10 Penoxys./2 meds supp.)</CureInfectionPlague.label>
+  <CureInfectionPlague.description>Guérir la peste.</CureInfectionPlague.description>
+  <CureInfectionPlague.jobString>Guérir la peste.</CureInfectionPlague.jobString>
+  <CureInfectionPlague.successfullyRemovedHediffMessage>{0} a traité avec succès la peste de {1}.</CureInfectionPlague.successfullyRemovedHediffMessage>
+
+
+  <!-- Cure malaria -->
+
+  <CureInfectionMalaria.label>guérir la malaria (10 Penoxys./2 meds supp.)</CureInfectionMalaria.label>
+  <CureInfectionMalaria.description>Guérir le malaria.</CureInfectionMalaria.description>
+  <CureInfectionMalaria.jobString>Guérir le malaria.</CureInfectionMalaria.jobString>
+  <CureInfectionMalaria.successfullyRemovedHediffMessage>{0} a traité avec succès la malaria de {1}.</CureInfectionMalaria.successfullyRemovedHediffMessage>
+
+
+  <!-- Cure Sleeping Sickness -->
+
+  <CureInfectionSleepingSickness.label>guérir la maladie du sommeil (10 Penoxys./2 meds supp.)</CureInfectionSleepingSickness.label>
+  <CureInfectionSleepingSickness.description>Guérir la maladie du sommeil.</CureInfectionSleepingSickness.description>
+  <CureInfectionSleepingSickness.jobString>Guérir la maladie du sommeil.</CureInfectionSleepingSickness.jobString>
+  <CureInfectionSleepingSickness.successfullyRemovedHediffMessage>{0} a traité avec succès la maladie du sommeil de {1}.</CureInfectionSleepingSickness.successfullyRemovedHediffMessage>
+
+
+</LanguageData>

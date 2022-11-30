@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cure Disease: Lung Rot -->
+
+  <CureInfectionFlu.label>guérir la pourriture pulmonaire (10 med - no herb)</CureInfectionFlu.label>
+  <CureInfectionFlu.description>Guérir la pourriture pulmonaire.</CureInfectionFlu.description>
+  <CureInfectionFlu.jobString>Guérir la pourriture pulmonaire.</CureInfectionFlu.jobString>
+  <CureInfectionFlu.successfullyRemovedHediffMessage>{0} a traité avec succès la pourriture pulmonaire de {1}.</CureInfectionFlu.successfullyRemovedHediffMessage>
+
+</LanguageData>

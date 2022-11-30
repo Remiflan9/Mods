@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hard Animal Surgery (FFFF33) -->
+  <!-- Cure animal Brain Damage -->
+
+  <CureAnimalChronicBrainDamage.label>guérir les dommages cérébraux (5 meds supp.)</CureAnimalChronicBrainDamage.label>
+  <CureAnimalChronicBrainDamage.description>Guérir les dommages cérébraux des animaux. Besoin de 4 niveaux de compétences animales pour faire la chirurgie.</CureAnimalChronicBrainDamage.description>
+  <CureAnimalChronicBrainDamage.jobString>Guérir les dommages cérébraux chez les animaux.</CureAnimalChronicBrainDamage.jobString>
+  <CureAnimalChronicBrainDamage.successfullyRemovedHediffMessage>{0} a réussie à soignerles dommages cérébraux de {1}.</CureAnimalChronicBrainDamage.successfullyRemovedHediffMessage>
+
+
+  <!-- VeryHard Animal Surgery (FF3366) -->
+  <!-- Cure animal Severe Brain Damage -->
+
+  <CureAnimalChronicSevereBrainDamage.label>guérir les dommages cérébraux graves (10 meds supp.)</CureAnimalChronicSevereBrainDamage.label>
+  <CureAnimalChronicSevereBrainDamage.description>Guérir les dommages cérébraux graves chez les animaux. Besoin de 5 niveaux de compétences animales pour faire la chirurgie.</CureAnimalChronicSevereBrainDamage.description>
+  <CureAnimalChronicSevereBrainDamage.jobString>Guérir les dommages cérébraux graves aux animaux.</CureAnimalChronicSevereBrainDamage.jobString>
+  <CureAnimalChronicSevereBrainDamage.successfullyRemovedHediffMessage>{0} a réussi à traiter les dommages cérébraux graves aux animaux de la ville de {1}.</CureAnimalChronicSevereBrainDamage.successfullyRemovedHediffMessage>
+
+</LanguageData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hard Surgery (FFFF33) -->
+  <!-- Cure Brain Damage -->
+
+  <CureChronicBrainDamage.label>뇌손상 치료 (5 번화계 약품)</CureChronicBrainDamage.label>
+  <CureChronicBrainDamage.description>뇌손상을 치료합니다.</CureChronicBrainDamage.description>
+  <CureChronicBrainDamage.jobString>뇌손상을 치료중.</CureChronicBrainDamage.jobString>
+  <CureChronicBrainDamage.successfullyRemovedHediffMessage>{0}은/는 {1}의 뇌손상을 치료하는데 성공했습니다.</CureChronicBrainDamage.successfullyRemovedHediffMessage>
+
+  <!-- Very Hard Surgery (FF3366) -->
+  <!-- Cure Severe Brain Damage -->
+
+  <CureChronicSevereBrainDamage.label>심한 뇌손상 치료 (10 번화계 약품)</CureChronicSevereBrainDamage.label>
+  <CureChronicSevereBrainDamage.description>심한 뇌손상을 치료합니다.</CureChronicSevereBrainDamage.description>
+  <CureChronicSevereBrainDamage.jobString>심한 뇌손상을 치료중.</CureChronicSevereBrainDamage.jobString>
+  <CureChronicSevereBrainDamage.successfullyRemovedHediffMessage>{0}은/는 {1}의 심한 뇌손상을 치료하는데 성공했습니다.</CureChronicSevereBrainDamage.successfullyRemovedHediffMessage>
+
+</LanguageData>
