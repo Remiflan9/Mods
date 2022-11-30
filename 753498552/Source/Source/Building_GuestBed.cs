@@ -291,6 +291,7 @@ namespace Hospitality
             {
                 RestUtility.KickOutOfBed(pawn, bed);
             }
+            bed.RemoveAllOwners();
 
             Building_Bed newBed;
             if (bed.IsGuestBed())
@@ -306,6 +307,7 @@ namespace Hospitality
             // Art gets destroyed when new bed spawns
             var compArt = bed.TryGetComp<CompArt>();
             var art = compArt?.Active != null && compArt.taleRef != null ? new {authorName = compArt.authorNameInt, title = compArt.titleInt, taleRef = new TaleReference {tale = compArt.taleRef.tale, seed = compArt.taleRef.seed}} : null;
+            var paint = bed.PaintColorDef;
             compArt?.taleRef?.tale?.Notify_NewlyUsed();
 
             newBed.SetFactionDirect(bed.Faction);
@@ -326,6 +328,7 @@ namespace Hospitality
                 newArt.taleRef = art.taleRef;
             }
 
+            spawnedBed.ChangePaint(paint);
             spawnedBed.StyleDef = bed.StyleDef;
 
             Find.Selector.Select(spawnedBed, false);
