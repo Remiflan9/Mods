@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PeteTimesSix.SimpleSidearms.SimpleSidearms_Settings">
+		<SettingsEverOpened>True</SettingsEverOpened>
+		<ActivePreset>Custom</ActivePreset>
+		<OptimalMelee>False</OptimalMelee>
+		<CQCAutoSwitch>False</CQCAutoSwitch>
+		<RangedCombatAutoSwitch>False</RangedCombatAutoSwitch>
+		<RangedCombatAutoSwitchMaxWarmup>0.75</RangedCombatAutoSwitchMaxWarmup>
+		<SpeedSelectionBiasMelee>1</SpeedSelectionBiasMelee>
+		<SpeedSelectionBiasRanged>1.10000002</SpeedSelectionBiasRanged>
+		<LimitModeSingle>AbsoluteWeight</LimitModeSingle>
+		<LimitModeAmount>Slots</LimitModeAmount>
+		<LimitModeSingle_AbsoluteMass>3.28051639</LimitModeSingle_AbsoluteMass>
+		<LimitModeSingle_RelativeMass>0.25</LimitModeSingle_RelativeMass>
+		<LimitModeAmount_AbsoluteMass>10</LimitModeAmount_AbsoluteMass>
+		<LimitModeAmount_RelativeMass>0.5</LimitModeAmount_RelativeMass>
+		<LimitModeSingleMelee_AbsoluteMass>1.89999998</LimitModeSingleMelee_AbsoluteMass>
+		<LimitModeSingleMelee_RelativeMass>0.25</LimitModeSingleMelee_RelativeMass>
+		<LimitModeAmountMelee_AbsoluteMass>10</LimitModeAmountMelee_AbsoluteMass>
+		<LimitModeAmountMelee_RelativeMass>0.5</LimitModeAmountMelee_RelativeMass>
+		<LimitModeSingleRanged_AbsoluteMass>2.54999995</LimitModeSingleRanged_AbsoluteMass>
+		<LimitModeSingleRanged_RelativeMass>0.25</LimitModeSingleRanged_RelativeMass>
+		<LimitModeAmountRanged_AbsoluteMass>10</LimitModeAmountRanged_AbsoluteMass>
+		<LimitModeAmountRanged_RelativeMass>0.5</LimitModeAmountRanged_RelativeMass>
+		<LimitModeAmountTotal_AbsoluteMass>10</LimitModeAmountTotal_AbsoluteMass>
+		<LimitModeAmountTotal_RelativeMass>0.5</LimitModeAmountTotal_RelativeMass>
+		<LimitModeSingle_Selection_defNames>
+			<li>VWE_MeleeWeapon_Shovel</li>
+			<li>MeleeWeapon_Gladius</li>
+			<li>MeleeWeapon_Axe</li>
+			<li>MeleeWeapon_Mace</li>
+			<li>VWE_MeleeWeapon_Baton</li>
+			<li>VWE_MeleeWeapon_CombatKnife</li>
+			<li>MeleeWeapon_BreachAxe</li>
+			<li>MeleeWeapon_Ikwa</li>
+			<li>VWE_Throwing_Knives</li>
+			<li>VWE_MeleeWeapon_Axe</li>
+			<li>MeleeWeapon_Knife</li>
+			<li>MeleeWeapon_PsyfocusStaff</li>
+			<li>VWE_Gun_ChargePistol</li>
+			<li>VWE_Gun_GaussMagnum</li>
+			<li>Weapon_GrenadeEMP</li>
+			<li>Weapon_GrenadeTox</li>
+			<li>VWE_FlashGrenade</li>
+			<li>Weapon_GrenadeFrag</li>
+			<li>Weapon_GrenadeMolotov</li>
+			<li>VWE_Gun_AutomaticPistol</li>
+			<li>VWE_SawedOffShotgun</li>
+			<li>VWE_CombatHandgun</li>
+			<li>VWE_Gun_Flintlock</li>
+			<li>VWE_Bow_Compound</li>
+			<li>Gun_Autopistol</li>
+			<li>Gun_Revolver</li>
+			<li>VWE_SmokeGrenade</li>
+			<li>VWE_Tool_Whip</li>
+			<li>ElephantTusk</li>
+			<li>Bow_Recurve</li>
+			<li>Flamebow</li>
+			<li>Bow_Short</li>
+			<li>Beer</li>
+			<li>WoodLog</li>
+		</LimitModeSingle_Selection_defNames>
+		<LimitModeSingleMelee_Selection_defNames>
+			<li>VWE_MeleeWeapon_Shovel</li>
+			<li>MeleeWeapon_Gladius</li>
+			<li>MeleeWeapon_Axe</li>
+			<li>MeleeWeapon_Mace</li>
+			<li>VWE_MeleeWeapon_Baton</li>
+			<li>VWE_MeleeWeapon_CombatKnife</li>
+			<li>MeleeWeapon_BreachAxe</li>
+			<li>MeleeWeapon_Ikwa</li>
+			<li>VWE_MeleeWeapon_Axe</li>
+			<li>MeleeWeapon_Knife</li>
+			<li>MeleeWeapon_PsyfocusStaff</li>
+			<li>ElephantTusk</li>
+			<li>Beer</li>
+			<li>WoodLog</li>
+		</LimitModeSingleMelee_Selection_defNames>
+		<LimitModeSingleRanged_Selection_defNames>
+			<li>VWE_Throwing_Knives</li>
+			<li>VWE_Gun_ChargePistol</li>
+			<li>VWE_Gun_GaussMagnum</li>
+			<li>Weapon_GrenadeEMP</li>
+			<li>Weapon_GrenadeTox</li>
+			<li>VWE_FlashGrenade</li>
+			<li>Weapon_GrenadeFrag</li>
+			<li>Weapon_GrenadeMolotov</li>
+			<li>Gun_MachinePistol</li>
+			<li>VWE_Gun_AutomaticPistol</li>
+			<li>VWE_SawedOffShotgun</li>
+			<li>VWE_CombatHandgun</li>
+			<li>VWE_Gun_Flintlock</li>
+			<li>VWE_Bow_Compound</li>
+			<li>Gun_Autopistol</li>
+			<li>VWE_Gun_HandCannon</li>
+			<li>Gun_Revolver</li>
+			<li>VWE_SmokeGrenade</li>
+			<li>VWE_Tool_Whip</li>
+			<li>Bow_Recurve</li>
+			<li>Flamebow</li>
+			<li>Bow_Short</li>
+		</LimitModeSingleRanged_Selection_defNames>
+		<LimitModeSingle_Selection />
+		<LimitModeSingleMelee_Selection />
+		<LimitModeSingleRanged_Selection />
+		<SidearmSpawnChance>0</SidearmSpawnChance>
+		<SidearmSpawnChanceDropoff>0.25</SidearmSpawnChanceDropoff>
+		<SidearmBudgetMultiplier>0.5</SidearmBudgetMultiplier>
+		<SidearmBudgetDropoff>0.25</SidearmBudgetDropoff>
+		<ColonistDefaultWeaponMode>ByGenerated</ColonistDefaultWeaponMode>
+		<FumbleMode>Never</FumbleMode>
+		<ReEquipOutOfCombat>False</ReEquipOutOfCombat>
+		<ReEquipBest>False</ReEquipBest>
+		<ReEquipInCombat>False</ReEquipInCombat>
+		<SkipDangerousWeapons>False</SkipDangerousWeapons>
+		<FumbleRecoveryChance>
+			<li>(0.00, 0.00)</li>
+			<li>(2.00, 0.15)</li>
+			<li>(5.00, 0.85)</li>
+			<li>(7.00, 1.00)</li>
+			<li>(20.00, 1.00)</li>
+		</FumbleRecoveryChance>
+		<PreserveInventoryInCaravans>False</PreserveInventoryInCaravans>
+		<HideSidearmsInCaravanDialogs>False</HideSidearmsInCaravanDialogs>
+		<ShowAlertsMissingSidearm>False</ShowAlertsMissingSidearm>
+	</ModSettings>
+</SettingsBlock>
