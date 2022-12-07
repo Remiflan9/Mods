@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TouhouVPE_SkipKnives.label>幻象「ルナクロック」</TouhouVPE_SkipKnives.label>
+  <TouhouVPE_SkipKnives.description>対象の時間を止めて,大量のナイフを投げつけます.</TouhouVPE_SkipKnives.description>
+  <TouhouVPE_SkipKnives.jobReportString>能力の使用：{0}</TouhouVPE_SkipKnives.jobReportString>
+  <TouhouVPE_SkipKnives.verbProperties.label>幻象「ルナクロック」</TouhouVPE_SkipKnives.verbProperties.label>
+
+  <TouhouVPE_UnlimitedTeleport.label>幻世「ザ・ワールド」</TouhouVPE_UnlimitedTeleport.label>
+  <TouhouVPE_UnlimitedTeleport.description>ザ・ワールド！マップ上の任意の場所に瞬時に移動できます.</TouhouVPE_UnlimitedTeleport.description>
+  <TouhouVPE_UnlimitedTeleport.jobReportString>能力の使用：{0}</TouhouVPE_UnlimitedTeleport.jobReportString>
+  <TouhouVPE_UnlimitedTeleport.verbProperties.label>幻世「ザ・ワールド」</TouhouVPE_UnlimitedTeleport.verbProperties.label>
+
+  <TouhouVPE_PsychicShock.label>フィットフルナイトメア</TouhouVPE_PsychicShock.label>
+  <TouhouVPE_PsychicShock.description>指定場所から一定の範囲内にいるすべての生物に精神攻撃を行います.</TouhouVPE_PsychicShock.description>
+  <TouhouVPE_PsychicShock.jobReportString>能力の使用：{0}</TouhouVPE_PsychicShock.jobReportString>
+  <TouhouVPE_PsychicShock.verbProperties.label>フィットフルナイトメア</TouhouVPE_PsychicShock.verbProperties.label>
+
+  <TouhouVPE_PowerBeam.label>禁忌「レーヴァテイン」</TouhouVPE_PowerBeam.label>
+  <TouhouVPE_PowerBeam.description>指定場所に一本の真紅のレーザーを出現させ周囲を焼き尽くします.</TouhouVPE_PowerBeam.description>
+  <TouhouVPE_PowerBeam.jobReportString>能力の使用：{0}</TouhouVPE_PowerBeam.jobReportString>
+  <TouhouVPE_PowerBeam.verbProperties.label>禁忌「レーヴァテイン」</TouhouVPE_PowerBeam.verbProperties.label>
+
+  <TouhouVPE_LightningStrike.label>日符「ロイヤルフレア」</TouhouVPE_LightningStrike.label>
+  <TouhouVPE_LightningStrike.description>指定場所に無数の雷撃を放ち無差別攻撃をします.</TouhouVPE_LightningStrike.description>
+  <TouhouVPE_LightningStrike.jobReportString>能力の使用：{0}</TouhouVPE_LightningStrike.jobReportString>
+  <TouhouVPE_LightningStrike.verbProperties.label>日符「ロイヤルフレア」</TouhouVPE_LightningStrike.verbProperties.label>
+
+  <TouhouVPE_MeteoriteImpact.label>水＆火符「フロギスティックレイン」</TouhouVPE_MeteoriteImpact.label>
+  <TouhouVPE_MeteoriteImpact.description>指定場所に無数の隕石を降らせ無差別攻撃をします.</TouhouVPE_MeteoriteImpact.description>
+  <TouhouVPE_MeteoriteImpact.jobReportString>能力の使用：{0}</TouhouVPE_MeteoriteImpact.jobReportString>
+  <TouhouVPE_MeteoriteImpact.verbProperties.label>水＆火符「フロギスティックレイン」</TouhouVPE_MeteoriteImpact.verbProperties.label>
+
+
+</LanguageData>

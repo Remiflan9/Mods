@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Painblock.label>痛み止め</VPE_Painblock.label>
+  <VPE_Painblock.description>対象の脳の痛覚回路を数分間,痛覚神経を遮断し,通常なら気絶するような重傷でも行動可能になります.</VPE_Painblock.description>
+  <VPE_Painblock.jobReportString>能力の使用：{0}</VPE_Painblock.jobReportString>
+  <VPE_Painblock.verbProperties.label>痛み止め</VPE_Painblock.verbProperties.label>
+
+  <VPE_WordofHealing.label>癒しの言葉</VPE_WordofHealing.label>
+  <VPE_WordofHealing.description>人の自然治癒力を超能力で刺激してオーバードライブさせ,数日間,対象の自然治癒力を通常の3倍に高めます.</VPE_WordofHealing.description>
+  <VPE_WordofHealing.jobReportString>能力の使用：{0}</VPE_WordofHealing.jobReportString>
+  <VPE_WordofHealing.verbProperties.label>癒しの言葉</VPE_WordofHealing.verbProperties.label>
+
+  <VPE_Stabilize.label>凝血</VPE_Stabilize.label>
+  <VPE_Stabilize.description>一時的に対象の循環器系を静止状態にして,2分間出血を抑えます.</VPE_Stabilize.description>
+  <VPE_Stabilize.jobReportString>能力の使用：{0}</VPE_Stabilize.jobReportString>
+  <VPE_Stabilize.verbProperties.label>スタビライズ</VPE_Stabilize.verbProperties.label>
+
+  <VPE_WordofImmunity.label>免疫の言葉</VPE_WordofImmunity.label>
+  <VPE_WordofImmunity.description>免疫システムを超能力で刺激し,数日間,免疫獲得速度を実質3倍に高めます.</VPE_WordofImmunity.description>
+  <VPE_WordofImmunity.jobReportString>能力の使用：{0}</VPE_WordofImmunity.jobReportString>
+  <VPE_WordofImmunity.verbProperties.label>免疫の言葉</VPE_WordofImmunity.verbProperties.label>
+
+  <VPE_Overshield.label>オーバーシールド</VPE_Overshield.label>
+  <VPE_Overshield.description>対象に球状のスキップゲートを発生させ,向かってくるすべての低角攻撃の弾をどこか遠くの場所に飛ばします.その持続時間は対象の精神感応性によって変化します.人やアイテムは影響を受けません.</VPE_Overshield.description>
+  <VPE_Overshield.jobReportString>能力の使用：{0}</VPE_Overshield.jobReportString>
+  <VPE_Overshield.verbProperties.label>オーバーシールド</VPE_Overshield.verbProperties.label>
+
+  <VPE_Focus.label>フォーカス</VPE_Focus.label>
+  <VPE_Focus.description>1分間,標的の精神に超常的な集中力を呼び起こし,視覚,聴覚,運動能力を向上させます.</VPE_Focus.description>
+  <VPE_Focus.jobReportString>能力の使用：{0}</VPE_Focus.jobReportString>
+  <VPE_Focus.verbProperties.label>フォーカス</VPE_Focus.verbProperties.label>
+
+  <VPE_Skipshield.label>スキップシールド</VPE_Skipshield.label>
+  <VPE_Skipshield.description>球状のスキップゲートを生成し,空間内を出入りする地上レベルの飛翔物を遠方に飛ばす,球状のスキップゲートを設置します.人やアイテムは影響を受けません.</VPE_Skipshield.description>
+  <VPE_Skipshield.jobReportString>能力の使用：{0}</VPE_Skipshield.jobReportString>
+  <VPE_Skipshield.verbProperties.label>スキップシールド</VPE_Skipshield.verbProperties.label>
+
+  <VPE_Invisibility.label>不可視</VPE_Invisibility.label>
+  <VPE_Invisibility.description>周囲の全員の視覚中枢を超能力で操り,一定時間特定の個人を知覚できないようにします.</VPE_Invisibility.description>
+  <VPE_Invisibility.jobReportString>能力の使用：{0}</VPE_Invisibility.jobReportString>
+  <VPE_Invisibility.verbProperties.label>不可視</VPE_Invisibility.verbProperties.label>
+
+  <VPE_RegrowLimbs.label>四肢再生</VPE_RegrowLimbs.label>
+  <VPE_RegrowLimbs.description>対象の手足,すなわち欠損した四肢を対象に,複雑な形態の超能力による再生を行ないます.効果は1日かけて徐々に現れ,その際に幻肢症候群を過剰に刺激するため,しばしば"ひどく不快"と表現されます.</VPE_RegrowLimbs.description>
+  <VPE_RegrowLimbs.jobReportString>能力の使用：{0}</VPE_RegrowLimbs.jobReportString>
+  <VPE_RegrowLimbs.verbProperties.label>四肢再生</VPE_RegrowLimbs.verbProperties.label>
+
+  <VPE_GuardianSkipbarrier.label>スキップバリア</VPE_GuardianSkipbarrier.label>
+  <VPE_GuardianSkipbarrier.description>使用者の周囲に球状のスキップゲートを発生させ,向かってくるすべての低角攻撃の弾をどこか遠くの場所に飛ばします.ニューラルヒートの限界を迎えるまでは効果が持続します.人やアイテムは影響を受けません.使用者はその効果を最大限に発揮するために,足元に注意する必要があります.</VPE_GuardianSkipbarrier.description>
+  <VPE_GuardianSkipbarrier.jobReportString>能力の使用：{0}</VPE_GuardianSkipbarrier.jobReportString>
+  <VPE_GuardianSkipbarrier.verbProperties.label>スキップバリア</VPE_GuardianSkipbarrier.verbProperties.label>
+
+
+</LanguageData>

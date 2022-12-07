@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_RockConstructBody.label>人造体(岩)</VPE_RockConstructBody.label>
+  <VPE_RockConstructBody.corePart.parts.1.customLabel>岩塊製ボディ</VPE_RockConstructBody.corePart.parts.1.customLabel>
+
+  <VPE_MetalConstructBody.label>人造体(金属)</VPE_MetalConstructBody.label>
+  <VPE_MetalConstructBody.corePart.parts.1.customLabel>金属製ボディ</VPE_MetalConstructBody.corePart.parts.1.customLabel>
+
+
+</LanguageData>

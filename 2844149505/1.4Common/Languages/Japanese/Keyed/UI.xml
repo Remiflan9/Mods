@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VPE.Psycasts>超能力</VPE.Psycasts>
+  <VPE.PsyLevel>超能力者レベル：{0}</VPE.PsyLevel>
+  <VPE.EarnXP>瞑想することで超能力者XPを獲得します.</VPE.EarnXP>
+  <VPE.Points>使用可能なポイント ：{0}</VPE.Points>
+  <VPE.SpendPoints>新しい系統の解除,超能力の解除,瞑想対象の解除,ステータスの向上などにポイントを消費します.</VPE.SpendPoints>
+  <VPE.PsycasterStats>超能力者のステータス</VPE.PsycasterStats>
+  <VPE.Upgrade>アップグレード</VPE.Upgrade>
+  <VPE.FocusTypes>瞑想対象：</VPE.FocusTypes>
+  <VPE.PsysetCustomize>超能力セットの設定</VPE.PsysetCustomize>
+  <VPE.PsysetDesc>学習した超能力をドラッグ＆ドロップで超能力セットに登録し,ゲーム内で切り替えることができます.</VPE.PsysetDesc>
+  <VPE.CreatePsyset>超能力セットを作成</VPE.CreatePsyset>
+  <VPE.Unlock>解除</VPE.Unlock>
+  <VPE.ClickToUnlock>クリックで解除</VPE.ClickToUnlock>
+  <VPE.UseAltBackground>別の背景を使用</VPE.UseAltBackground>
+  <VPE.DestroySkipdoor>破壊</VPE.DestroySkipdoor>
+  <VPE.DestroySkipdoor.Desc>このスキップドアを破壊します.使用できなくなりますが,{0}の最大ニューラルヒートに影響を与えなくなります.</VPE.DestroySkipdoor.Desc>
+  <VPE.RenameSkipdoor>名称変更</VPE.RenameSkipdoor>
+  <VPE.RenameSkipdoor.Desc>このスキップドアの名前を変更します.</VPE.RenameSkipdoor.Desc>
+  <VPE.TeleportTo>{0}にテレポート</VPE.TeleportTo>
+  <VPE.CancelSkipbarrier>スキップバリア解除</VPE.CancelSkipbarrier>
+  <VPE.CancelSkipbarrierDesc>クリックすると使用者のスキップバリアが解除されます.</VPE.CancelSkipbarrierDesc>
+  <VPE.Edit>編集</VPE.Edit>
+  <VPE.Rename>名称変更</VPE.Rename>
+  <VPE.Untitled>無題</VPE.Untitled>
+  <VPE.Remove>削除</VPE.Remove>
+  <VPE.Contents>内容：</VPE.Contents>
+  <VPE.ClickRemove>クリックで削除</VPE.ClickRemove>
+  <VPE.SellingEltexWarning>エルテックスの売却は帝国の法律に反しています.このことは,将来的に帝国との関係に影響を与えるかもしれないし,与えないかもしれません.</VPE.SellingEltexWarning>
+  <VPE.GiftingEltexWarning>エルテックスを贈与することは帝国の法律に違反します.このことは,将来的に帝国との関係に影響を与えるかもしれないし,与えないかもしれません.</VPE.GiftingEltexWarning>
+  <VPE.EmpireAngeredTitle>帝国が怒り狂った</VPE.EmpireAngeredTitle>
+  <VPE.EmpireAngeredDesc>帝国は,あなたが裏で{0}にエルテックスを使用していることを知りました.彼らはそれを帝国の法律に反するとみなしており,あなた方との関係は悪化しました.</VPE.EmpireAngeredDesc>
+  <VPE.Gifting>贈与</VPE.Gifting>
+  <VPE.Trading>取引</VPE.Trading>
+  <VPE.FactionRelationReducedInfo>{FACTION_name}との友好度は{1}になりました.({2}減少)</VPE.FactionRelationReducedInfo>
+  <VPE.CreatePsyringTitle>超能力を選択：</VPE.CreatePsyringTitle>
+  <VPE.CreatePsyringButton>サイリング作成</VPE.CreatePsyringButton>
+  <VPE.Locked>未解放</VPE.Locked>
+  <VPE.StatsReport_BodiesConsumed>消費した死体 +{0}</VPE.StatsReport_BodiesConsumed>
+  <VPE.DevMode>開発者モード</VPE.DevMode>
+  <VPE.NotEnoughPoints>利用できるポイントが足りません</VPE.NotEnoughPoints>
+  <VPE.AbilitiesList>含まれる超能力：</VPE.AbilitiesList>
+  <VPE.Hover>浮遊</VPE.Hover>
+  <VPE.PsycasterRaidDescription>{0}
+
+超能力者の捕獲は有効な戦略であり,有益であると考えられます.</VPE.PsycasterRaidDescription>
+  <VPE.LockedTitle>未解放：爵位が必要</VPE.LockedTitle>
+  <VPE.LockedLocked>未解放：ポイントでは解除不可</VPE.LockedLocked>
+
+</LanguageData>

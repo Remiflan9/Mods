@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_FireShield.label>ファイアシールド</VPE_FireShield.label>
+  <VPE_FireShield.description>炎のシールドにより,近接攻撃をしてきた相手を炎に包み込みます.</VPE_FireShield.description>
+
+  <VPE_StaticAura.label>電磁領域</VPE_StaticAura.label>
+  <VPE_StaticAura.description>電磁波を発生させ,周囲のものにEMPダメージを与えます.</VPE_StaticAura.description>
+
+
+</LanguageData>

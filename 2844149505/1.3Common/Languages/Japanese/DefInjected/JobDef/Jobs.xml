@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_UseSkipdoor.reportString>TargetAを使用してTargetBにテレポートしている</VPE_UseSkipdoor.reportString>
+  <VPE_EssenceTransfer.reportString>エッセンスをTargetAに移している</VPE_EssenceTransfer.reportString>
+  <VPE_StandFreeze.reportString>立っている</VPE_StandFreeze.reportString>
+  <!--<VPEShootProjectileContinuous_CastAbilityContinuous.reportString>何かをしている</VPEShootProjectileContinuous_CastAbilityContinuous.reportString>-->
+
+
+</LanguageData>

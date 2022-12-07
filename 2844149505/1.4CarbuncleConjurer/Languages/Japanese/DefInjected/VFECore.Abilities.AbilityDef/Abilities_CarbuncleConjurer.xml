@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPECC_SummonCarbuncleBlue.label>カーバンクル・ペリドット</VPECC_SummonCarbuncleBlue.label>
+  <VPECC_SummonCarbuncleBlue.description>ポーンにシールドをかけることができる巴術士に忠実なカーバンクル・ペリドットを永続的に召喚します.</VPECC_SummonCarbuncleBlue.description>
+  <VPECC_SummonCarbuncleBlue.jobReportString>能力の使用：{0}</VPECC_SummonCarbuncleBlue.jobReportString>
+  <VPECC_SummonCarbuncleBlue.verbProperties.label>カーバンクル・ペリドット</VPECC_SummonCarbuncleBlue.verbProperties.label>
+
+  <VPECC_SummonCarbuncleRed.label>カーバンクル・ルビー</VPECC_SummonCarbuncleRed.label>
+  <VPECC_SummonCarbuncleRed.description>フレイムボールを放つことができる巴術士に忠実なカーバンクル・ルビーを永続的に召喚します.</VPECC_SummonCarbuncleRed.description>
+  <VPECC_SummonCarbuncleRed.jobReportString>能力の使用：{0}</VPECC_SummonCarbuncleRed.jobReportString>
+  <VPECC_SummonCarbuncleRed.verbProperties.label>カーバンクル・ルビー</VPECC_SummonCarbuncleRed.verbProperties.label>
+
+  <VPECC_SummonCarbuncleBlack.label>カーバンクル・オブシダン</VPECC_SummonCarbuncleBlack.label>
+  <VPECC_SummonCarbuncleBlack.description>闇の球体を召喚できる巴術士に忠実なカーバンクル・オブシダンを永続的に召喚します.</VPECC_SummonCarbuncleBlack.description>
+  <VPECC_SummonCarbuncleBlack.jobReportString>能力の使用：{0}</VPECC_SummonCarbuncleBlack.jobReportString>
+  <VPECC_SummonCarbuncleBlack.verbProperties.label>カーバンクル・オブシダン</VPECC_SummonCarbuncleBlack.verbProperties.label>
+
+  <VPECC_SummonCarbuncleWhite.label>カーバンクル・ムーンストーン</VPECC_SummonCarbuncleWhite.label>
+  <VPECC_SummonCarbuncleWhite.description>男女のポーンを癒すことができる巴術士に忠実なカーバンクル・ムーンストーンを永続的に召喚します.</VPECC_SummonCarbuncleWhite.description>
+  <VPECC_SummonCarbuncleWhite.jobReportString>能力の使用：{0}</VPECC_SummonCarbuncleWhite.jobReportString>
+  <VPECC_SummonCarbuncleWhite.verbProperties.label>カーバンクル・ムーンストーン</VPECC_SummonCarbuncleWhite.verbProperties.label>
+
+  <VPECC_SummonCarbuncleYellow.label>カーバンクル・トパーズ</VPECC_SummonCarbuncleYellow.label>
+  <VPECC_SummonCarbuncleYellow.description>チェインボルトを放つことができる巴術士に忠実なカーバンクル・トパーズを永続的に召喚します.</VPECC_SummonCarbuncleYellow.description>
+  <VPECC_SummonCarbuncleYellow.jobReportString>能力の使用：{0}</VPECC_SummonCarbuncleYellow.jobReportString>
+  <VPECC_SummonCarbuncleYellow.verbProperties.label>カーバンクル・トパーズ</VPECC_SummonCarbuncleYellow.verbProperties.label>
+
+  <VPECC_SummonCarbuncleGreen.label>カーバンクル・エメラルド</VPECC_SummonCarbuncleGreen.label>
+  <VPECC_SummonCarbuncleGreen.description>イバラの迷路を放つことができる巴術士に忠実なカーバンクル・エメラルドを永続的に召喚します.</VPECC_SummonCarbuncleGreen.description>
+  <VPECC_SummonCarbuncleGreen.jobReportString>能力の使用：{0}</VPECC_SummonCarbuncleGreen.jobReportString>
+  <VPECC_SummonCarbuncleGreen.verbProperties.label>カーバンクル・エメラルド</VPECC_SummonCarbuncleGreen.verbProperties.label>
+
+  <VPECC_SummonCarbuncleHerd.label>カーバンクルの群れ</VPECC_SummonCarbuncleHerd.label>
+  <VPECC_SummonCarbuncleHerd.description>使用者が既に知っている召喚獣の中からランダムに巴術士に忠実な12体のカーバンクルを一時的に召喚します.</VPECC_SummonCarbuncleHerd.description>
+  <VPECC_SummonCarbuncleHerd.jobReportString>能力の使用：{0}</VPECC_SummonCarbuncleHerd.jobReportString>
+  <VPECC_SummonCarbuncleHerd.verbProperties.label>カーバンクルの群れ</VPECC_SummonCarbuncleHerd.verbProperties.label>
+
+  <VPECC_SummonCarbuncleSapphire.label>カーバンクル・サファイア</VPECC_SummonCarbuncleSapphire.label>
+  <VPECC_SummonCarbuncleSapphire.description>他のカーバンクルを召喚することができる巴術士に忠実なカーバンクル・サファイアを永続的に召喚します.</VPECC_SummonCarbuncleSapphire.description>
+  <VPECC_SummonCarbuncleSapphire.jobReportString>能力の使用：{0}</VPECC_SummonCarbuncleSapphire.jobReportString>
+  <VPECC_SummonCarbuncleSapphire.verbProperties.label>カーバンクル・サファイア</VPECC_SummonCarbuncleSapphire.verbProperties.label>
+
+  <VPECC_SummonCarbuncleProto.label>プロトカーバンクル</VPECC_SummonCarbuncleProto.label>
+  <VPECC_SummonCarbuncleProto.description>巨大な破壊力を持つ巴術士に忠実なプロトカーバンクルを一時的に召喚します.</VPECC_SummonCarbuncleProto.description>
+  <VPECC_SummonCarbuncleProto.jobReportString>能力の使用：{0}</VPECC_SummonCarbuncleProto.jobReportString>
+  <VPECC_SummonCarbuncleProto.verbProperties.label>プロトカーバンクル</VPECC_SummonCarbuncleProto.verbProperties.label>
+
+
+</LanguageData>

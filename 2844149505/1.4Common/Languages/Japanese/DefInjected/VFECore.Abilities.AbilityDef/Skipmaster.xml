@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_SolarPinhole.label>ソーラーピンホール</VPE_SolarPinhole.label>
+  <VPE_SolarPinhole.description>近くの惑星の中心核とリンクされた,超小型のスキップゲートを生成します.時空に開けられた極小の穴から太陽光物質が漏れ,穴が閉じるまで周囲のエリアを照らして,暖め続けます.働くには十分な明るさですが,植物を育てられるほどの光量はありません.</VPE_SolarPinhole.description>
+  <VPE_SolarPinhole.jobReportString>能力の使用：{0}</VPE_SolarPinhole.jobReportString>
+  <VPE_SolarPinhole.verbProperties.label>ソーラーピンホール</VPE_SolarPinhole.verbProperties.label>
+
+  <VPE_Chunkskip.label>ブロックスキップ</VPE_Chunkskip.label>
+  <VPE_Chunkskip.description>岩や鉄くずの塊を5つスキップし,ターゲットポイントの近くにばらまきます.戦闘中,カバーを作るために役立ちます.</VPE_Chunkskip.description>
+  <VPE_Chunkskip.jobReportString>能力の使用：{0}</VPE_Chunkskip.jobReportString>
+  <VPE_Chunkskip.verbProperties.label>ブロックスキップ</VPE_Chunkskip.verbProperties.label>
+
+  <VPE_Waterskip.label>ウォータースキップ</VPE_Waterskip.label>
+  <VPE_Waterskip.description>対象地域を水浸しにして消火します.アルコテック技術を用いたスキップによって,水を遠方ないし地下から呼び出します.</VPE_Waterskip.description>
+  <VPE_Waterskip.jobReportString>能力の使用：{0}</VPE_Waterskip.jobReportString>
+  <VPE_Waterskip.verbProperties.label>ウォータースキップ</VPE_Waterskip.verbProperties.label>
+
+  <VPE_ChaosSkip.label>吹き飛ばし</VPE_ChaosSkip.label>
+  <VPE_ChaosSkip.description>標的を現在地周囲のどこかにテレポートさせます.対象を1秒間気絶させ,その後敵対行為とみなされます.</VPE_ChaosSkip.description>
+  <VPE_ChaosSkip.jobReportString>能力の使用：{0}</VPE_ChaosSkip.jobReportString>
+  <VPE_ChaosSkip.verbProperties.label>吹き飛ばし</VPE_ChaosSkip.verbProperties.label>
+
+  <VPE_Skip.label>スキップ</VPE_Skip.label>
+  <VPE_Skip.description>標的を現在地周囲の任意の地点にテレポートさせます.これは敵対行為とみなされます.</VPE_Skip.description>
+  <VPE_Skip.jobReportString>能力の使用：{0}</VPE_Skip.jobReportString>
+  <VPE_Skip.verbProperties.label>スキップ</VPE_Skip.verbProperties.label>
+
+  <VPE_Wallraise.label>防壁</VPE_Wallraise.label>
+  <VPE_Wallraise.description>地下から瓦礫や土を盛り上がらせ,一時的な防壁を形成します.数時間の間,視線や移動を遮断するのに効果的で,範囲も十分広いです.</VPE_Wallraise.description>
+  <VPE_Wallraise.jobReportString>能力の使用：{0}</VPE_Wallraise.jobReportString>
+  <VPE_Wallraise.verbProperties.label>防壁</VPE_Wallraise.verbProperties.label>
+
+  <VPE_Smokepop.label>スモークポップ</VPE_Smokepop.label>
+  <VPE_Smokepop.description>砂煙を地面から舞い上がらせ,煙幕を形成します.射撃精度を低下させ,タレットから完全にロックオンされるのを防ぎます.</VPE_Smokepop.description>
+  <VPE_Smokepop.jobReportString>能力の使用：{0}</VPE_Smokepop.jobReportString>
+  <VPE_Smokepop.verbProperties.label>スモークポップ</VPE_Smokepop.verbProperties.label>
+
+  <VPE_MassChaosSkip.label>カオススキップ</VPE_MassChaosSkip.label>
+  <VPE_MassChaosSkip.description>標的地点付近の全員をランダムにテレポートさせます.味方を危険にさらす可能性があるため,厄介なものとみなされています.</VPE_MassChaosSkip.description>
+  <VPE_MassChaosSkip.jobReportString>能力の使用：{0}</VPE_MassChaosSkip.jobReportString>
+  <VPE_MassChaosSkip.verbProperties.label>カオススキップ</VPE_MassChaosSkip.verbProperties.label>
+
+  <VPE_Skipdoor.label>スキップドア</VPE_Skipdoor.label>
+  <VPE_Skipdoor.description>どんな場所にも恒久的に設置できるスキップゲートのネットワークへの入り口を作ります.このネットワークはグループの集合意識と結びついているため,他の人が使用したり,別の超能力者が追加したりすることができます.しかし,入り口は物理的な干渉に弱く,崩壊する可能性があります.</VPE_Skipdoor.description>
+  <VPE_Skipdoor.jobReportString>能力の使用：{0}</VPE_Skipdoor.jobReportString>
+  <VPE_Skipdoor.verbProperties.label>スキップドア</VPE_Skipdoor.verbProperties.label>
+
+  <VPE_Farskip.label>ファースキップ</VPE_Farskip.label>
+  <VPE_Farskip.description>超能力者を,近くに立っている人物と共に,離れた場所にいる味方の下にスキップします.惑星全体に人を送ることができますが,誘導ビーコンとして使用されることを受け入れる味方が対象地点にいる場合のみ機能します.スキップされた人は常に対象マップ上のランダムな味方の近くに出現し,数秒間スタンします.</VPE_Farskip.description>
+  <VPE_Farskip.jobReportString>能力の使用：{0}</VPE_Farskip.jobReportString>
+  <VPE_Farskip.verbProperties.label>ファースキップ</VPE_Farskip.verbProperties.label>
+
+
+</LanguageData>

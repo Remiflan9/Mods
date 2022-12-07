@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Wander_Sad.label>悲しみに暮れている</VPE_Wander_Sad.label>
+  <VPE_Wander_Sad.recoveryMessage>{0}は もう悲しみで フラフラしなくなった.</VPE_Wander_Sad.recoveryMessage>
+  <VPE_Wander_Sad.beginLetterLabel>悲観</VPE_Wander_Sad.beginLetterLabel>
+  <VPE_Wander_Sad.beginLetter>{0}は精神を病んで,悲しみのあまりにフラフラとうろついている.</VPE_Wander_Sad.beginLetter>
+  <VPE_Wander_Sad.baseInspectLine>精神状態: 悲観</VPE_Wander_Sad.baseInspectLine>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VanillaPsycastsExpanded>Vanilla Psycasts Expanded</VanillaPsycastsExpanded>
+  <VPE.XPPerPercent>サイフォーカス%を獲得するごとに超能力者XPを獲得</VPE.XPPerPercent>
+  <VPE.PsycasterSpawnBaseChance>バシリクス・ベスタワーによる超能力者生成確率</VPE.PsycasterSpawnBaseChance>
+  <VPE.PsycasterSpawnAdditional>バシリクス・ベスタワーによる超能力者の強化係数</VPE.PsycasterSpawnAdditional>
+  <VPE.AllowShrink>圧縮を可能にしますか？</VPE.AllowShrink>
+  <VPE.AllowShrink.Desc>超能力者が多い場合,半分程度に圧縮されるようにします.</VPE.AllowShrink.Desc>
+  <VPE.SmallMode>UI縮小表示モード</VPE.SmallMode>
+  <VPE.SmallMode.Desc>縮小モードでは,ステータス情報はツールチップに,超能力は別のダイアログに移動されます.有効化すると縮小モードが適用されます.無効化した場合,縮小モードが禁止されます.部分的(黄色の線)にすると,デフォルトの動作((垂直方向の解像度が1080未満の場合,縮小モードが有効になります)を許可します.</VPE.SmallMode.Desc>
+  <VPE.MuteSkipdoor>スキップドアの音をミュート</VPE.MuteSkipdoor>
+
+</LanguageData>

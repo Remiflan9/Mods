@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_SpeedBoost.label>超加速</VPE_SpeedBoost.label>
+  <VPE_SpeedBoost.description>使用者の腕の筋繊維,靭帯,関節を精神的に強化し,精神感応性によっておよそ2分間近接攻撃速度を2倍にします.</VPE_SpeedBoost.description>
+  <VPE_SpeedBoost.jobReportString>能力の使用：{0}</VPE_SpeedBoost.jobReportString>
+  <VPE_SpeedBoost.verbProperties.label>超加速</VPE_SpeedBoost.verbProperties.label>
+
+  <VPE_BladeFocus.label>流水加速</VPE_BladeFocus.label>
+  <VPE_BladeFocus.description>使用者の腕の筋繊維,靭帯,関節を精神的に強化し,精神感応性によっておよそ2分間近接攻撃速度を2倍にします.</VPE_BladeFocus.description>
+  <VPE_BladeFocus.jobReportString>能力の使用：{0}</VPE_BladeFocus.jobReportString>
+  <VPE_BladeFocus.verbProperties.label>流水加速</VPE_BladeFocus.verbProperties.label>
+
+  <VPE_FiringFocus.label>集中力向上</VPE_FiringFocus.label>
+  <VPE_FiringFocus.description>使用者の手と目と反応速度を超能力によって強化し,精神感応性によっておよそ2分間,射撃攻撃のクールダウンを80%減少させます.</VPE_FiringFocus.description>
+  <VPE_FiringFocus.jobReportString>能力の使用：{0}</VPE_FiringFocus.jobReportString>
+  <VPE_FiringFocus.verbProperties.label>能力向上</VPE_FiringFocus.verbProperties.label>
+
+  <VPE_PowerLeap.label>縮地</VPE_PowerLeap.label>
+  <VPE_PowerLeap.description>使用者の足腰と背骨を大幅に強化し,長距離を跳躍して怪我をせずに着地することができるようになり,その距離は使用者の精神感応性によって増加します.</VPE_PowerLeap.description>
+  <VPE_PowerLeap.jobReportString>能力の使用：{0}</VPE_PowerLeap.jobReportString>
+  <VPE_PowerLeap.verbProperties.label>縮地</VPE_PowerLeap.verbProperties.label>
+
+  <VPE_AdrenalineRush.label>限界突破</VPE_AdrenalineRush.label>
+  <VPE_AdrenalineRush.description>使用者にアドレナリンの分泌を促し,あらゆる痛みを遮断し,視覚,聴覚,運動能力を強化します.持続時間は使用者の精神感応性によって変化しますが,およそ30秒程です.</VPE_AdrenalineRush.description>
+  <VPE_AdrenalineRush.jobReportString>能力の使用：{0}</VPE_AdrenalineRush.jobReportString>
+  <VPE_AdrenalineRush.verbProperties.label>限界突破</VPE_AdrenalineRush.verbProperties.label>
+
+  <VPE_ControlledFrenzy.label>血の狂乱</VPE_ControlledFrenzy.label>
+  <VPE_ControlledFrenzy.description>使用者の能力と殺人衝動を超能力で増強して,すべての武器によるダメージ量を2倍にします.使用者は1人殺害するごとにニューラルヒートが10減少し,持続時間がリセットされます.</VPE_ControlledFrenzy.description>
+  <VPE_ControlledFrenzy.jobReportString>能力の使用：{0}</VPE_ControlledFrenzy.jobReportString>
+  <VPE_ControlledFrenzy.verbProperties.label>血の狂乱</VPE_ControlledFrenzy.verbProperties.label>
+
+  <VPE_GuidedShot.label>誘導弾</VPE_GuidedShot.label>
+  <VPE_GuidedShot.description>使用者は8秒間,超能力の波動で弾道を変化させ,武器の射程を2倍にして,その間確実に命中させることができるようになります.</VPE_GuidedShot.description>
+  <VPE_GuidedShot.jobReportString>能力の使用：{0}</VPE_GuidedShot.jobReportString>
+  <VPE_GuidedShot.verbProperties.label>誘導弾</VPE_GuidedShot.verbProperties.label>
+
+  <VPE_Beckon.label>手招き</VPE_Beckon.label>
+  <VPE_Beckon.description>使用者に近づくよう対象の精神に干渉します.</VPE_Beckon.description>
+  <VPE_Beckon.jobReportString>能力の使用：{0}</VPE_Beckon.jobReportString>
+  <VPE_Beckon.verbProperties.label>手招き</VPE_Beckon.verbProperties.label>
+
+  <VPE_Killskip.label>閃獄殺</VPE_Killskip.label>
+  <VPE_Killskip.description>使用者の格闘スキルにより威力が低下もしくは強化された近接攻撃を行い,対象のそばにテレポートします.対象が死んだ場合,次に近い敵にコストなしでテレポートし,殺害対象がいなくなるまで再度攻撃し続けます.</VPE_Killskip.description>
+  <VPE_Killskip.jobReportString>能力の使用：{0}</VPE_Killskip.jobReportString>
+  <VPE_Killskip.verbProperties.label>閃獄殺</VPE_Killskip.verbProperties.label>
+
+  <VPE_MassBeckon.label>集団手招き</VPE_MassBeckon.label>
+  <VPE_MassBeckon.description>使用者に近づくよう範囲内の対象の精神に干渉します.</VPE_MassBeckon.description>
+  <VPE_MassBeckon.jobReportString>能力の使用：{0}</VPE_MassBeckon.jobReportString>
+  <VPE_MassBeckon.verbProperties.label>集団手招き</VPE_MassBeckon.verbProperties.label>
+
+
+</LanguageData>

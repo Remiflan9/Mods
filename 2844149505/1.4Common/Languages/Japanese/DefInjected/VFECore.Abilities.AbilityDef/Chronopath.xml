@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_PlantTimeskip.label>タイムスキップ(栽培)</VPE_PlantTimeskip.label>
+  <VPE_PlantTimeskip.description>使用者を中心とした範囲内にあるすべての植物を成長させます.</VPE_PlantTimeskip.description>
+  <VPE_PlantTimeskip.jobReportString>能力の使用：{0}</VPE_PlantTimeskip.jobReportString>
+  <VPE_PlantTimeskip.verbProperties.label>タイムスキップ(栽培)</VPE_PlantTimeskip.verbProperties.label>
+
+  <VPE_TimeskipMeditation.label>タイムスキップ(瞑想)</VPE_TimeskipMeditation.label>
+  <VPE_TimeskipMeditation.description>使用者の身体に大きなストレスを与え,肉体的に5歳老け,次の超能力レベルに向けて相当量の経験値を獲得させ,サイフォーカスを完全に回復します.</VPE_TimeskipMeditation.description>
+  <VPE_TimeskipMeditation.jobReportString>能力の使用：{0}</VPE_TimeskipMeditation.jobReportString>
+  <VPE_TimeskipMeditation.verbProperties.label>タイムスキップ(瞑想)</VPE_TimeskipMeditation.verbProperties.label>
+
+  <VPE_WordofForetelling.label>予言の言葉</VPE_WordofForetelling.label>
+  <VPE_WordofForetelling.description>これから起こることを予言する超能力のささやき声が聞こえます.コロニーのポーンは触発され,中立または友好国は関係を改善し,囚人は抵抗をやめ,敵は運命から逃げ出します.</VPE_WordofForetelling.description>
+  <VPE_WordofForetelling.jobReportString>能力の使用：{0}</VPE_WordofForetelling.jobReportString>
+  <VPE_WordofForetelling.verbProperties.label>予言の言葉</VPE_WordofForetelling.verbProperties.label>
+
+  <VPE_CraftTimeskip.label>タイムスキップ(工芸)</VPE_CraftTimeskip.label>
+  <VPE_CraftTimeskip.description>非常に正確なタイムシフトで,あたかも作り手が作業を続けていたかのように,目的のものを完成状態まで移行させることができます.使用者は肉体年齢が3歳ほど年をとります.</VPE_CraftTimeskip.description>
+  <VPE_CraftTimeskip.jobReportString>能力の使用：{0}</VPE_CraftTimeskip.jobReportString>
+  <VPE_CraftTimeskip.verbProperties.label>タイムスキップ(工芸)</VPE_CraftTimeskip.verbProperties.label>
+
+  <VPE_Age.label>エイジ</VPE_Age.label>
+  <VPE_Age.description>生きている対象から非常に非効率的に生命力を吸い上げ,使用者を2歳,相手を10歳老けさせます.対象には非常に大きな後遺症が残り,同盟国からは敵対行為とみなされます.</VPE_Age.description>
+  <VPE_Age.jobReportString>能力の使用：{0}</VPE_Age.jobReportString>
+  <VPE_Age.verbProperties.label>エイジ</VPE_Age.verbProperties.label>
+
+  <VPE_RaidPause.label>レイドポーズ</VPE_RaidPause.label>
+  <VPE_RaidPause.description>使用者の精神感応性により,最大5分間,マップ上の全ての襲撃者の動きを完全に停止させることができます.影響を受けた襲撃者の1人を攻撃すると,すべての襲撃者が行動を再開します.</VPE_RaidPause.description>
+  <VPE_RaidPause.jobReportString>能力の使用：{0}</VPE_RaidPause.jobReportString>
+  <VPE_RaidPause.verbProperties.label>レイドポーズ</VPE_RaidPause.verbProperties.label>
+
+  <VPE_SeasonTimeskip.label>タイムスキップ(季節)</VPE_SeasonTimeskip.label>
+  <VPE_SeasonTimeskip.description>惑星全体を1シーズンもの間,超能力による減速状態にし,事実上1シーズンをスキップさせます.即効性があり,使用者は昏睡状態に陥ります.</VPE_SeasonTimeskip.description>
+  <VPE_SeasonTimeskip.jobReportString>能力の使用：{0}</VPE_SeasonTimeskip.jobReportString>
+  <VPE_SeasonTimeskip.verbProperties.label>タイムスキップ(季節)</VPE_SeasonTimeskip.verbProperties.label>
+
+  <VPE_TimeSphere.label>タイムスフィア</VPE_TimeSphere.label>
+  <VPE_TimeSphere.description>一帯の時間の流れを超能力で圧縮します.生き物の老化,植物の繁茂と枯死,建築物の異様なストレスによる崩壊が急速に進みます.</VPE_TimeSphere.description>
+  <VPE_TimeSphere.jobReportString>能力の使用：{0}</VPE_TimeSphere.jobReportString>
+  <VPE_TimeSphere.verbProperties.label>タイムスフィア</VPE_TimeSphere.verbProperties.label>
+
+  <VPE_TimeReversal.label>タイムトラベル</VPE_TimeReversal.label>
+  <VPE_TimeReversal.description>使用者は5歳,相手は10歳ほど歳を取り,生命力を効率よく吸い取ることができます.最低年齢が設定されているため,使用者は年齢によるペナルティを受けず,昏睡状態に陥ります.</VPE_TimeReversal.description>
+  <VPE_TimeReversal.jobReportString>能力の使用：{0}</VPE_TimeReversal.jobReportString>
+  <VPE_TimeReversal.verbProperties.label>タイムトラベル</VPE_TimeReversal.verbProperties.label>
+
+  <VPE_Timequake.label>タイムクェイク</VPE_Timequake.label>
+  <VPE_Timequake.description>精神領域の不連続性を見つけて圧縮し,大規模な時間的混乱を発生させます.安全圏である円の内側を除き,範囲内の全ての生物が急速な老化を引き起こし, 構築物がゆがみ始めます.これを発動するには12秒の瞑想を必要とし,さらにその後,発動者は5日間,精神的昏睡状態に入ります.不穏なタイムクェイクの共鳴は,数キロメートルの範囲にも渡って全ての人間に苦痛を与え,全ての派閥との間に外交的な問題を引き起こします.</VPE_Timequake.description>
+  <VPE_Timequake.jobReportString>能力の使用：{0}</VPE_Timequake.jobReportString>
+  <VPE_Timequake.modExtensions.2.message>タイムクェイクを使った場合,この地域にいる全員がタイムクェイクの共鳴を感じ,敵意のない派閥からの友好値も失うでしょう.\n\nタイムクェイクを発動するには20秒かかり,中断することはできません.発動が成功した場合,発動者は5日間,精神的昏睡状態に陥ります.\n\n発動者の周囲に形成される小さな円の中にいる生物を除き,範囲内の全ての生物が影響を受けます.\n\n本当にタイムクェイクを発動しますか？</VPE_Timequake.modExtensions.2.message>
+  <VPE_Timequake.verbProperties.label>タイムクェイク</VPE_Timequake.verbProperties.label>
+
+
+</LanguageData>

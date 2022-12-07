@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Empath.label>共感之理</VPE_Empath.label>
+  <VPE_Empath.description>共感之理によって使える超能力は,何らかの方法で他人の気分を高めることに重点を置いています.</VPE_Empath.description>
+  <VPE_Empath.tooltip>共感者は,地域社会に貢献し,親族を元気づけることを目的とした超能力者です.特に共感力が強いと,強い精神的な癒しを与えたり,血のつながった家族を世界中に飛ばしたりすることができます.</VPE_Empath.tooltip>
+
+  <VPE_Skipmaster.label>跳躍之理</VPE_Skipmaster.label>
+  <VPE_Skipmaster.description>跳躍之理によって使える超能力は,スキップゲートを使って戦況やコロニーの生活を変化させることに重点を置いています.</VPE_Skipmaster.description>
+  <VPE_Skipmaster.tooltip>跳躍者は,複雑なスキップドアネットワークを構築することで,しばしば帝国に貢献してきました.物流と空間の拡張の達人である彼らは,人を目的の場所に飛ばすことができ,また,ソーラーピンホールを作ったり,水を飛ばして火事を消したりといった日常の雑用にもスキップゲートを利用することができます.</VPE_Skipmaster.tooltip>
+
+  <VPE_Conflagrator.label>炎焔之理</VPE_Conflagrator.label>
+  <VPE_Conflagrator.description>炎焔之理によって使える超能力は,火や熱,エネルギーなどを操り,敵を排除することに重点を置いています.</VPE_Conflagrator.description>
+  <VPE_Conflagrator.tooltip>炎焔力者は,炎の達人であり,強力な火の竜巻と爆発を利用して敵部隊を殲滅することができます.超能力者の間では非常に尊敬されており,どこに行っても恐怖と死と焼けた肉の悪臭をもたらします.</VPE_Conflagrator.tooltip>
+
+  <VPE_Protector.label>防衛之理</VPE_Protector.label>
+  <VPE_Protector.description>防衛之理によって使える超能力は,ポーンを助け,保護し,ポーンが死ぬのを阻止し,危険な状況から無傷で脱出することに重点を置いています.</VPE_Protector.description>
+  <VPE_Protector.tooltip>防衛者は,最前線で勇敢な兵士たちを危険から守る役割を担っています.強力な能力"スキップシールド"で敵の攻撃を止めるだけでなく,傷ついた身体を回復させたり,自然治癒力や免疫力を高めたりすることができます.</VPE_Protector.tooltip>
+
+  <VPE_Warlord.label>武技之理</VPE_Warlord.label>
+  <VPE_Warlord.description>武技之理によって使える超能力は,自動発動が可能な能力が多いため,超能力者同士による戦闘能力を向上させることに重点を置いています.</VPE_Warlord.description>
+  <VPE_Warlord.tooltip>戦いの達人である武技者は,自分自身にのみ仕え,知覚,反射神経,速度,体力を自在に向上させることができます.どこに行っても恐れられ,強力な武技者は決して射撃を外さず,その刃は常に狙いを定めています.</VPE_Warlord.tooltip>
+
+  <VPE_Chronopath.label>時空之理</VPE_Chronopath.label>
+  <VPE_Chronopath.description>時空之理によって使える超能力は,時空を操り,物体を劣化させたり,植物の成長を早めたり,ポーンを老化させたりすることに重点を置いています.</VPE_Chronopath.description>
+  <VPE_Chronopath.tooltip>時空力者は,時間の構造を操ることができるという,稀有で神秘的な超能力者です.空間ではなく時間の中にスキップゲートを作ることで,時空力者は武器を組み立てたり,他人の年齢を自由に変えたり,さらには周囲のものの時間を数十年単位で加速させる奇妙なタイムクェイクを引き起こしたりすることができます.</VPE_Chronopath.tooltip>
+
+  <VPE_Archotechist.label>超常之理</VPE_Archotechist.label>
+  <VPE_Archotechist.description>超常之理によって使える超能力は,帝国所属の超能力者だけに許された特別な超能力です.狂気を撒き散らし,サイコショックで罪人を処罰し,ニューラルヒートを他人に押し付けたり,戦闘でニューラルヒートを用いることができます.</VPE_Archotechist.description>
+  <VPE_Archotechist.lockedReason>帝国専用</VPE_Archotechist.lockedReason>
+  <VPE_Archotechist.tooltip>帝国の学者でさえその存在を確認できないほど謎に包まれた存在で,アルコテック機関を利用し,正気を疑われるほど馬鹿げた力を発揮することが可能であると言われています.超常力者は部隊全体を狂気に陥れ,ニューラルヒートを操り敵を切り刻むことさえできます.</VPE_Archotechist.tooltip>
+
+  <VPE_Necropath.label>死霊之理</VPE_Necropath.label>
+  <VPE_Necropath.description>死霊之理によって使える超能力は,恐怖と死の支配に重点を置きつつ,死と死体から利益を得ることに重点を置いています.倒れた味方を復活させたり,死を防いだり,自身に付き従うスケルトンの大群を育てたりすることができます.</VPE_Necropath.description>
+  <VPE_Necropath.tooltip>黒魔術の達人である死霊力者は,死そのものに逆らって生きていく存在です.彼らは敵の心臓に恐怖を与え,麻痺の波動を発して敵を倒し,生者の肉を腐らせ,最終的に死者を呼び出すことができます-邪悪な魅了や神聖なる蘇生のいずれかによって.</VPE_Necropath.tooltip>
+
+  <VPE_Staticlord.label>空電之理</VPE_Staticlord.label>
+  <VPE_Staticlord.description>空電之理によって使える超能力は,敵を電撃で吹き飛ばし,電子機器を無効化し,嵐そのものを制御することに重点を置いています.</VPE_Staticlord.description>
+  <VPE_Staticlord.tooltip>雷と稲妻の支配者である空電力者は,電気の流れを制御し,メカノイドの大群と戦う優れた超能力者です.彼らは様々な形状の強力な稲妻を召喚することができ,また天候を操作して局地的な雷雨やハリケーンを発生させることもできます.</VPE_Staticlord.tooltip>
+
+  <VPE_Archon.label>統治之理</VPE_Archon.label>
+  <VPE_Archon.description>統治之理によって使える超能力は,コロニー全体に様々なバフを与えつつ,鉄拳で支配することに重点を置いています.また,敵の系統にある超能力者を消耗させることで,超能力者のレベルを上げることができます.</VPE_Archon.description>
+  <VPE_Archon.tooltip>王者の道を歩む統治者は,しばしばその地域の統治体制の中で最も高い地位を手にしています.他者との絆を深め,友情と苦痛によって敵を操ることができ,強力な統治者は他の超能力者の精神を消耗させることによって自らを強化することができます.</VPE_Archon.tooltip>
+
+  <VPE_Frostshaper.label>白霜之理</VPE_Frostshaper.label>
+  <VPE_Frostshaper.description>白霜之理によって使える超能力は,元素,特に冷気を操ることで有利にすることに重点を置いています.白霜力者は,冷気を操り敵を凍らせたり動きを鈍らせたりするだけでなく,氷塊でシェルターを作ったり,冷気の結晶を作り出し冷蔵庫や罠として利用できるなど,多くの有用な超能力を得ることができます.</VPE_Frostshaper.description>
+  <VPE_Frostshaper.tooltip>白霜力者は,凍てつくような霜の力を追求することに生涯を捧げた超能力者です.凍てつく空気を吸い,数秒ですべてを凍らせる極寒の地を作り出すことができ,炎焔力者と同等の殺傷能力を秘めています.また,氷で壁や障害物を作ったり,純粋なエントロピーの結晶を召喚して部屋全体を氷点下の世界にすることもできます.</VPE_Frostshaper.tooltip>
+
+  <VPE_Wildspeaker.label>野生之理</VPE_Wildspeaker.label>
+  <VPE_Wildspeaker.description>野生之理によって使える超能力は,部族系の系統にある超能力者だけに許された特別な超能力です.自然や動物を操り,防衛や生存を図ることに重点を置いています.</VPE_Wildspeaker.description>
+  <VPE_Wildspeaker.lockedReason>部族専用</VPE_Wildspeaker.lockedReason>
+  <VPE_Wildspeaker.tooltip>部族社会における秘伝の教えである野生語りは,森や自然と調和して生きる術を持ち,必要な時に森の助けを呼び出すことができます.部族の野生語りは,縄張り意識の強い動物の群れを制御したり,あらゆるダメージから不滅の盾で守ったり,気まぐれに地面からイバラや木を芽吹かせることができることでよく知られています.</VPE_Wildspeaker.tooltip>
+
+  <VPE_Harmonist.label>調停之理</VPE_Harmonist.label>
+  <VPE_Harmonist.description>調停之理によって使える超能力は,宇宙のバランスを操ることを目的としています.彼らの能力は明確な利点や欠点があるわけではなく,必ず何らかの代償を伴います.</VPE_Harmonist.description>
+  <VPE_Harmonist.tooltip>調停者は,宇宙の法則,運,天秤を変化させることができます.彼らは神秘のベールに包まれた,無防備な敵の心を操り,事象を変え,未来を変えて,他人の過去を書き換えることができます.</VPE_Harmonist.tooltip>
+
+  <VPE_Technomancer.label>魔具之理</VPE_Technomancer.label>
+  <VPE_Technomancer.description>魔具之理によって使える超能力は,技術,知識,研究の専門家であり,サイキックエネルギーを使って構想の探求を補助するだけでなく,小規模な構築物に生命を吹き込み,支援や防衛に役立てることに重点を置いています.</VPE_Technomancer.description>
+  <VPE_Technomancer.tooltip>知識と技術の達人である魔工技師は,既存の技術を改良したり,無限の力を生み出したり,一見価値のないように見える素材から構築物を作り出したり,手に入るものなら何でもリバースエンジニアリングすることができます.特に優れた魔工技師は,エルテックスを使ってサイリングを作り,自身の知識を別の超能力者と共有することさえ可能にします.</VPE_Technomancer.tooltip>
+
+  <VPE_Nightstalker.label>夜潜之理</VPE_Nightstalker.label>
+  <VPE_Nightstalker.description>夜潜者は影の戦士であり,闇に潜むことで戦闘に関する多くの恩恵を受けることに重点を置いています.</VPE_Nightstalker.description>
+  <VPE_Nightstalker.tooltip>闇にまぎれて暗躍し,闇の中から力を得る寡黙な暗殺者です.暗闇に紛れて移動し,対象の心臓にほぼ同時に複数回攻撃を加えることができます.</VPE_Nightstalker.tooltip>
+
+
+</LanguageData>

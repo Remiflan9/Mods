@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Bliss.stages.0.label>至福の時</VPE_Bliss.stages.0.label>
+  <VPE_Bliss.stages.0.description>悪いことばかりではないのかもしれません.</VPE_Bliss.stages.0.description>
+  <VPE_Bliss.stages.1.label>至福の時</VPE_Bliss.stages.1.label>
+  <VPE_Bliss.stages.1.description>良くなってきていると思います.</VPE_Bliss.stages.1.description>
+  <VPE_Bliss.stages.2.label>至福の時</VPE_Bliss.stages.2.label>
+  <VPE_Bliss.stages.2.description>すべてが少しずつ,しかし確実によくなっています.</VPE_Bliss.stages.2.description>
+  <VPE_Bliss.stages.3.label>至福の時</VPE_Bliss.stages.3.label>
+  <VPE_Bliss.stages.3.description>今は調子がよくて,いい感じになっています.</VPE_Bliss.stages.3.description>
+  <VPE_Bliss.stages.4.label>至福の時</VPE_Bliss.stages.4.label>
+  <VPE_Bliss.stages.4.description>生きているだけで暖かい気持ちになる,最高の気分です.</VPE_Bliss.stages.4.description>
+  <VPE_Bliss.stages.5.label>至福の時</VPE_Bliss.stages.5.label>
+  <VPE_Bliss.stages.5.description>私は今,感動で胸が張り裂けそうです.私はこのコロニーを愛し,この世界を愛し,この世界のすべての命を愛しています.</VPE_Bliss.stages.5.description>
+  <VPE_Bliss.stages.6.label>至福の時</VPE_Bliss.stages.6.label>
+  <VPE_Bliss.stages.6.description>この世界のすべての色はとても鮮やかで,音はとても静かで,空気はとても澄んでいます.ここでの生活は私に息をつく暇さえも与えてくれません.</VPE_Bliss.stages.6.description>
+  <VPE_Bliss.stages.7.label>至福の時</VPE_Bliss.stages.7.label>
+  <VPE_Bliss.stages.7.description>これこそが求めていたものなのですね？私は本当に涅槃そのものに至ったのですね.人生そのものが幸福の化身なのです.</VPE_Bliss.stages.7.description>
+
+  <VPE_MindWiped.stages.0.label>記憶喪失</VPE_MindWiped.stages.0.label>
+  <VPE_MindWiped.stages.0.description>何も覚えていません.何もかもが新たに探究していくのです！</VPE_MindWiped.stages.0.description>
+
+  <VPE_TimeQuake.stages.0.label>タイムクエイク</VPE_TimeQuake.stages.0.label>
+  <VPE_TimeQuake.stages.0.description>私の知っている人たちは,みんな大きく変わってしまいました.このタイムクエイクは私に大きな衝撃を与えました.</VPE_TimeQuake.stages.0.description>
+
+  <VPE_Future.stages.0.label>未来を見た！</VPE_Future.stages.0.label>
+  <VPE_Future.stages.0.description>私は自分の未来を知り,物事はすべてうまくいっているのです！</VPE_Future.stages.0.description>
+
+  <VPE_Thrall.stages.0.label>隷属</VPE_Thrall.stages.0.label>
+  <VPE_Thrall.stages.0.description>うぅぅぅ,うがぁぁぁ,あああぁぁぁぁ</VPE_Thrall.stages.0.description>
+
+
+</LanguageData>

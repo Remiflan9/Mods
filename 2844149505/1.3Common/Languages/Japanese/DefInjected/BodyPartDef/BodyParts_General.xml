@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_RockHead.label>岩塊製頭</VPE_RockHead.label>
+  <VPE_RockBody.label>岩塊製胴</VPE_RockBody.label>
+  <VPE_MetalHead.label>金属製頭</VPE_MetalHead.label>
+  <VPE_MetalBody.label>金属製胴</VPE_MetalBody.label>
+  <VPE_Skull.label>頭蓋骨</VPE_Skull.label>
+  <VPE_SkeletalLeg.label>骨脚</VPE_SkeletalLeg.label>
+  <VPE_SkeletalArm.label>骨腕</VPE_SkeletalArm.label>
+
+
+</LanguageData>

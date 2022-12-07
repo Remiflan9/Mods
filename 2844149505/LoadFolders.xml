@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+	<v1.3>
+		<li>1.3Common</li>
+		<li IfModActive="Ushanka.MatrixRimloaded">1.3MatrixRimloaded</li>
+		<li IfModActive="Neronix17.VPE.CarbuncleConjurer">1.3CarbuncleConjurer</li>
+		<li IfModActive="Vanya.Outsource.AblitiesExpansions">1.3TouhouCharactersAE</li>
+		<li IfModActive="Aranmaho.TouhouVPE">1.3TouhouCharactersAE-VPE</li>
+	</v1.3>
+	<v1.4>
+		<li>1.4Common</li>
+		<li IfModActive="Ushanka.MatrixRimloaded">1.4MatrixRimloaded</li>
+		<li IfModActive="Neronix17.VPE.CarbuncleConjurer">1.4CarbuncleConjurer</li>
+		<li IfModActive="Vanya.Outsource.AblitiesExpansions">1.4TouhouCharactersAE</li>
+		<li IfModActive="Aranmaho.TouhouVPE">1.4TouhouCharactersAE-VPE</li>
+	</v1.4>
+</loadFolders>

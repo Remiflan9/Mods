@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPECC_CarbuncleOvershield.label>シールド</VPECC_CarbuncleOvershield.label>
+  <VPECC_CarbuncleOvershield.description>超能力による個人用スキップバリアです.遠距離攻撃を無効化します.</VPECC_CarbuncleOvershield.description>
+
+  <VPECC_CarbuncleShield.label>シールド</VPECC_CarbuncleShield.label>
+  <VPECC_CarbuncleShield.description>あらゆる射撃攻撃から保護するためのオーバーシールドです.</VPECC_CarbuncleShield.description>
+
+
+</LanguageData>

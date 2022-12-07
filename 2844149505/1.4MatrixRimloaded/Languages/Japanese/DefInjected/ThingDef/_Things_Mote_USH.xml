@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- These are Mote ThingDefs. Remain the same, DO NOT translate them. -->
+
+  <USH_JumpingPawn.label>飛翔</USH_JumpingPawn.label>
+  <USH_GreenSymbolA.label>Mote</USH_GreenSymbolA.label>
+  <USH_GreenSymbolB.label>Mote</USH_GreenSymbolB.label>
+  <USH_GreenSymbolC.label>Mote</USH_GreenSymbolC.label>
+  <USH_GreenSparkFlash.label>Mote</USH_GreenSparkFlash.label>
+
+
+</LanguageData>

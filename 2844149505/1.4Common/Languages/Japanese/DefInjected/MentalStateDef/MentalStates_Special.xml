@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_ManhunterTerritorial.label>殺人鬼(縄張り)</VPE_ManhunterTerritorial.label>
+  <VPE_ManhunterTerritorial.beginLetter>{0}は殺人鬼(縄張り)となった！</VPE_ManhunterTerritorial.beginLetter>
+  <VPE_ManhunterTerritorial.recoveryMessage>{0}の殺人衝動は治まった.</VPE_ManhunterTerritorial.recoveryMessage>
+  <VPE_ManhunterTerritorial.baseInspectLine>狂気: 殺人鬼(縄張り)</VPE_ManhunterTerritorial.baseInspectLine>
+
+  <VPE_Manhunter.label>怒り</VPE_Manhunter.label>
+  <VPE_Manhunter.beginLetter>{0}が暴れている！</VPE_Manhunter.beginLetter>
+  <VPE_Manhunter.recoveryMessage>{0}の怒りは収まった.</VPE_Manhunter.recoveryMessage>
+  <VPE_Manhunter.baseInspectLine>精神状態: 怒り</VPE_Manhunter.baseInspectLine>
+
+  <VPE_Flee.label>逃げだした</VPE_Flee.label>
+  <VPE_Flee.beginLetterLabel>逃走</VPE_Flee.beginLetterLabel>
+  <VPE_Flee.beginLetter>{0}は逃げだした.</VPE_Flee.beginLetter>
+  <VPE_Flee.recoveryMessage>{0}は逃げださなくなった.</VPE_Flee.recoveryMessage>
+  <VPE_Flee.baseInspectLine>精神状態: 逃走</VPE_Flee.baseInspectLine>
+
+
+</LanguageData>

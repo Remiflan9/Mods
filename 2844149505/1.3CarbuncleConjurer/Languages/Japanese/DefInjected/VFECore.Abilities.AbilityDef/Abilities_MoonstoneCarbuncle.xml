@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPECC_SootheMale.label>サイコスード(男性)</VPECC_SootheMale.label>
+  <VPECC_SootheMale.description>遠く離れた幸福をもたらす装置に信号を送り,ポジティブなサイコドローンの照射を開始させて,同時に男性のみに影響を与えるオービタルアンプを操作します.</VPECC_SootheMale.description>
+  <VPECC_SootheMale.jobReportString>能力の使用：{0}</VPECC_SootheMale.jobReportString>
+  <VPECC_SootheMale.verbProperties.label>サイコスード(男性)</VPECC_SootheMale.verbProperties.label>
+
+  <VPECC_SootheFemale.label>サイコスード(女性)</VPECC_SootheFemale.label>
+  <VPECC_SootheFemale.description>遠く離れた幸福をもたらす装置に信号を送り,ポジティブなサイコドローンの照射を開始させて,同時に女性のみに影響を与えるオービタルアンプを操作します.</VPECC_SootheFemale.description>
+  <VPECC_SootheFemale.jobReportString>能力の使用：{0}</VPECC_SootheFemale.jobReportString>
+  <VPECC_SootheFemale.verbProperties.label>サイコスード(女性)</VPECC_SootheFemale.verbProperties.label>
+
+
+</LanguageData>

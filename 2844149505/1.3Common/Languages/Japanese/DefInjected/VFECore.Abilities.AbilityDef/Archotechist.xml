@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Burden.label>重荷</VPE_Burden.label>
+  <VPE_Burden.description>脳内の運動活動を抑制することにより,対象を一定時間鈍らせます.敵対行為とみなされ,対象の精神感応性に影響されます.</VPE_Burden.description>
+  <VPE_Burden.jobReportString>能力の使用：{0}</VPE_Burden.jobReportString>
+  <VPE_Burden.verbProperties.label>重荷</VPE_Burden.verbProperties.label>
+
+  <VPE_Stun.label>スタン</VPE_Stun.label>
+  <VPE_Stun.description>対象の脳の運動機能を瞬間的に停止させ,一切の動きを封じます.これは数秒間続き,敵対行為とみなされます.</VPE_Stun.description>
+  <VPE_Stun.jobReportString>能力の使用：{0}</VPE_Stun.jobReportString>
+  <VPE_Stun.verbProperties.label>スタン</VPE_Stun.verbProperties.label>
+
+  <VPE_PsychicShock.label>サイキックショック</VPE_PsychicShock.label>
+  <VPE_PsychicShock.description>対象の心に混沌としたイメージを与えて精神的にショックを与え,一貫した知覚を遮断し,サイキックショック状態に陥れます.脳にダメージを与える危険性があり,あからさまな敵対行為とみなされます.</VPE_PsychicShock.description>
+  <VPE_PsychicShock.jobReportString>能力の使用：{0}</VPE_PsychicShock.jobReportString>
+  <VPE_PsychicShock.verbProperties.label>サイキックショック</VPE_PsychicShock.verbProperties.label>
+
+  <VPE_NeuralHeatDump.label>ニューラルヒートダンプ</VPE_NeuralHeatDump.label>
+  <VPE_NeuralHeatDump.description>ニューラルヒートを即座に他の誰かへ転嫁します.副作用として標的は,直接ダメージはないものの,衰弱を招く昏睡状態に数日間陥らせます.サイキック的な侵入を積極的に受け入れなければならないため,意識のある味方だけを標的にできます.</VPE_NeuralHeatDump.description>
+  <VPE_NeuralHeatDump.jobReportString>能力の使用：{0}</VPE_NeuralHeatDump.jobReportString>
+  <VPE_NeuralHeatDump.verbProperties.label>ニューラルヒートダンプ</VPE_NeuralHeatDump.verbProperties.label>
+
+  <VPE_Berserk.label>ベルセルク</VPE_Berserk.label>
+  <VPE_Berserk.description>対象の精神に狂戦士の状態を引き起こし,近くにいる者を攻撃するようにします.精神感応性に応じて,15秒程で,理性を取り戻します.</VPE_Berserk.description>
+  <VPE_Berserk.jobReportString>能力の使用：{0}</VPE_Berserk.jobReportString>
+  <VPE_Berserk.verbProperties.label>ベルセルク</VPE_Berserk.verbProperties.label>
+
+  <VPE_AggressiveHeatDump.label>アグレッシブヒートダンプ</VPE_AggressiveHeatDump.label>
+  <VPE_AggressiveHeatDump.description>瞬時に自身のニューラルヒートをすべて対象に浴びせ,与えたニューラルヒートの量と対象の精神感応性に応じた効果範囲を持つ爆発を引き起こします.とても良い宣戦布告だね.</VPE_AggressiveHeatDump.description>
+  <VPE_AggressiveHeatDump.jobReportString>能力の使用：{0}</VPE_AggressiveHeatDump.jobReportString>
+  <VPE_AggressiveHeatDump.verbProperties.label>アグレッシブヒートダンプ</VPE_AggressiveHeatDump.verbProperties.label>
+
+  <VPE_BerserkPulse.label>狂戦士の波動</VPE_BerserkPulse.label>
+  <VPE_BerserkPulse.description>標的地点の付近にいる全てに,制御不能な怒りを呼び起こさせます.これは攻撃行為とみなされ,数秒間持続します.</VPE_BerserkPulse.description>
+  <VPE_BerserkPulse.jobReportString>能力の使用：{0}</VPE_BerserkPulse.jobReportString>
+  <VPE_BerserkPulse.verbProperties.label>狂戦士の波動</VPE_BerserkPulse.verbProperties.label>
+
+  <VPE_PsychicDrone.label>サイコドローン</VPE_PsychicDrone.label>
+  <VPE_PsychicDrone.description>敵に合わせた大規模なサイコドローンを周囲に発生させ,敵が壊れるまで頻繁に発狂状態に陥らせます.持続時間は使用者の精神感応性に比例します.</VPE_PsychicDrone.description>
+  <VPE_PsychicDrone.jobReportString>能力の使用：{0}</VPE_PsychicDrone.jobReportString>
+  <VPE_PsychicDrone.verbProperties.label>サイコドローン</VPE_PsychicDrone.verbProperties.label>
+
+  <VPE_NeuralHeatDetonation.label>ニューラルデトネーション</VPE_NeuralHeatDetonation.label>
+  <VPE_NeuralHeatDetonation.description>使用者のすべてのニューラルヒートを効率的に,しかも無差別に自身から離れた場所で爆発させます.その規模は,放出されたニューラルヒートの量と自身の精神感応性に比例します.</VPE_NeuralHeatDetonation.description>
+  <VPE_NeuralHeatDetonation.jobReportString>能力の使用：{0}</VPE_NeuralHeatDetonation.jobReportString>
+  <VPE_NeuralHeatDetonation.verbProperties.label>ニューラルデトネーション</VPE_NeuralHeatDetonation.verbProperties.label>
+
+  <VPE_Neuroquake.label>ニューロクェイク</VPE_Neuroquake.label>
+  <VPE_Neuroquake.description>精神領域の裂け目を見つけて押し広げ,大量のサイキックエネルギーを放出します.安全圏である円の内側を除き,範囲内の全ての生物が激しい狂気に駆られます.これを発動するには12秒の瞑想を必要とし,さらにその後,発動者は5日間,精神的昏睡状態に入ります.不穏なニューロクェイクの共鳴は,数キロメートルの範囲にも渡って全ての人間に苦痛を与え,全ての派閥との間に外交的な問題を引き起こします.</VPE_Neuroquake.description>
+  <VPE_Neuroquake.jobReportString>能力の使用：{0}</VPE_Neuroquake.jobReportString>
+  <VPE_Neuroquake.modExtensions.0.message>ニューロクェイクを使った場合,この地域にいる全員がニューロクェイクの共鳴を感じ,敵意のない派閥からの友好値も失うでしょう.\n\nニューロクェイクを発動するには12秒かかり,中断することはできません.発動が成功した場合,発動者は5日間,精神的昏睡状態に陥ります.\n\n発動者の周囲に形成される小さな円の中にいる生物を除き,範囲内の全ての生物が影響を受けます.\n\n本当にニューロクェイクを発動しますか？</VPE_Neuroquake.modExtensions.0.message>
+  <VPE_Neuroquake.verbProperties.label>ニューロクェイク</VPE_Neuroquake.verbProperties.label>
+
+
+</LanguageData>

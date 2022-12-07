@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_EltexMeteor.questNameRules.rulesStrings.0>questName-&gt;メテオ(エルテックス)</VPE_EltexMeteor.questNameRules.rulesStrings.0>
+  <VPE_EltexMeteor.questDescriptionRules.rulesStrings.0>questDescription-&gt;大きな隕石が付近に衝突しました.その隕石はエルテックスの塊を残しました.エルテックスはサイフォーカスを高める道具を作るのに使ったり,帝国に売って名誉を得たりすることができます.
+採掘隊を派遣して回収することもできますが,あなた方がすぐにでも採掘しなければ,他の勢力に奪われてしまう可能性があります.</VPE_EltexMeteor.questDescriptionRules.rulesStrings.0>
+  <!--<VPE_EltexMeteor.root.nodes.6.name>timeoutTicks</VPE_EltexMeteor.root.nodes.6.name>-->
+  <VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>クエストの期限切れ：[resolvedQuestName]</VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>他の勢力がエルテックス隕石の採掘をはじめました.クエスト[resolvedQuestName]は期限切れです.</VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+
+</LanguageData>

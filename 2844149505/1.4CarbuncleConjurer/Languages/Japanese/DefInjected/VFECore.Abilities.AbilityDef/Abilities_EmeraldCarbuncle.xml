@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPECC_BrambleMaze.label>イバラの迷路</VPECC_BrambleMaze.label>
+  <VPECC_BrambleMaze.description>肥沃な土壌に混沌とした生命エネルギーを注入し,12時間後に枯れるイバラの芽を発生させます.</VPECC_BrambleMaze.description>
+  <VPECC_BrambleMaze.jobReportString>能力の使用：{0}</VPECC_BrambleMaze.jobReportString>
+  <VPECC_BrambleMaze.verbProperties.label>イバラの迷路</VPECC_BrambleMaze.verbProperties.label>
+
+
+</LanguageData>

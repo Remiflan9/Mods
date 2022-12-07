@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPECC_CarbuncleShield.label>シールド</VPECC_CarbuncleShield.label>
+  <VPECC_CarbuncleShield.description>球状のスキップゲートを生成し,空間内を出入りする地上レベルの飛翔物を遠方に飛ばす,球状のスキップゲートを設置します.人やアイテムは影響を受けません.</VPECC_CarbuncleShield.description>
+  <VPECC_CarbuncleShield.jobReportString>能力の使用：{0}</VPECC_CarbuncleShield.jobReportString>
+  <VPECC_CarbuncleShield.verbProperties.label>シールド</VPECC_CarbuncleShield.verbProperties.label>
+
+
+</LanguageData>

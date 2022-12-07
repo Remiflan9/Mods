@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Bolt.label>ボルト</VPE_Bolt.label>
+  <VPE_Bolt.description>弱電流を放ち,小型の対象に直撃させ,軽い火傷とEMPの範囲ダメージを与えます.</VPE_Bolt.description>
+  <VPE_Bolt.jobReportString>能力の使用：{0}</VPE_Bolt.jobReportString>
+  <VPE_Bolt.verbProperties.label>ボルト</VPE_Bolt.verbProperties.label>
+
+  <VPE_ChainBolt.label>チェインボルト</VPE_ChainBolt.label>
+  <VPE_ChainBolt.description>対象に電流を流し,周囲の5体に追撃して,軽い火傷とEMPダメージを与えます.</VPE_ChainBolt.description>
+  <VPE_ChainBolt.jobReportString>能力の使用：{0}</VPE_ChainBolt.jobReportString>
+  <VPE_ChainBolt.verbProperties.label>チェインボルト</VPE_ChainBolt.verbProperties.label>
+
+  <VPE_Thunderbolt.label>サンダーボルト</VPE_Thunderbolt.label>
+  <VPE_Thunderbolt.description>稲妻を召喚して対象を攻撃し,直撃時に火傷を負わせ,より広い範囲にEMPダメージを与えます.</VPE_Thunderbolt.description>
+  <VPE_Thunderbolt.jobReportString>能力の使用：{0}</VPE_Thunderbolt.jobReportString>
+  <VPE_Thunderbolt.verbProperties.label>サンダーボルト</VPE_Thunderbolt.verbProperties.label>
+
+  <VPE_StaticAura.label>電磁領域</VPE_StaticAura.label>
+  <VPE_StaticAura.description>使用者は周囲の対象を指定して,電磁場の波動を浴びせ,建築物やポーン,電化製品など,付近の異物に対してEMP効果を与えます.</VPE_StaticAura.description>
+  <VPE_StaticAura.jobReportString>能力の使用：{0}</VPE_StaticAura.jobReportString>
+  <VPE_StaticAura.verbProperties.label>電磁領域</VPE_StaticAura.verbProperties.label>
+
+  <VPE_Recharge.label>充電</VPE_Recharge.label>
+  <VPE_Recharge.description>触れたバッテリーに慎重かつ繊細に電気を流して100kWまたは100Wd/秒相当の電気を充電します.充電時間は使用者の精神感応性によって変化します.</VPE_Recharge.description>
+  <VPE_Recharge.jobReportString>能力の使用：{0}</VPE_Recharge.jobReportString>
+  <VPE_Recharge.verbProperties.label>充電</VPE_Recharge.verbProperties.label>
+
+  <VPE_BallLightning.label>ライトニングスフィア</VPE_BallLightning.label>
+  <VPE_BallLightning.description>使用者は電気を凝縮した球体を作り,指定場所にゆっくりと進むように放ちます.放たれた数秒後,周囲の対象に電撃を放ち始めます.</VPE_BallLightning.description>
+  <VPE_BallLightning.jobReportString>能力の使用：{0}</VPE_BallLightning.jobReportString>
+  <VPE_BallLightning.verbProperties.label>ライトニングスフィア</VPE_BallLightning.verbProperties.label>
+
+  <VPE_StaticPulse.label>電磁の波動</VPE_StaticPulse.label>
+  <VPE_StaticPulse.description>使用者は周囲の空気に大量の電圧をかけ,広範囲のEMPの爆発を引き起こしますが,それ以外はほとんど無害です.</VPE_StaticPulse.description>
+  <VPE_StaticPulse.jobReportString>能力の使用：{0}</VPE_StaticPulse.jobReportString>
+  <VPE_StaticPulse.verbProperties.label>電磁の波動</VPE_StaticPulse.verbProperties.label>
+
+  <VPE_Vortex.label>ボルテックス</VPE_Vortex.label>
+  <VPE_Vortex.description>星雲嵐からスキップゲートで転送された超高圧電流の渦を,指定場所に広範囲に発生させ,高い効果を発揮します.移動と操作性が極端に低下し,特に中心部は最も大きな影響を及ぼします.</VPE_Vortex.description>
+  <VPE_Vortex.jobReportString>能力の使用：{0}</VPE_Vortex.jobReportString>
+  <VPE_Vortex.verbProperties.label>ボルテックス</VPE_Vortex.verbProperties.label>
+
+  <VPE_Hurricane.label>ハリケーン</VPE_Hurricane.label>
+  <VPE_Hurricane.description>使用者は強制的に天候を変化させ(広域の気圧差のあるスキップゲートを使用),ハリケーン並みの強風を伴う暴風雨を発生させます.ハリケーンは使用者のニューラルヒートが限界になるまで続き,任意で瞬時に停止することが可能です.屋外にいる者は,視界,移動,操作など,徐々に厳しい制限を受け,完全に動きを止めてしまいます.</VPE_Hurricane.description>
+  <VPE_Hurricane.jobReportString>能力の使用：{0}</VPE_Hurricane.jobReportString>
+  <VPE_Hurricane.verbProperties.label>ハリケーン</VPE_Hurricane.verbProperties.label>
+
+  <VPE_Flashstorm.label>フラッシュストーム</VPE_Flashstorm.label>
+  <VPE_Flashstorm.description>気圧差のあるスキップゲートを開き,局地的な嵐を生成します.嵐は消失するまで周囲に雷を撒き散らすでしょう.</VPE_Flashstorm.description>
+  <VPE_Flashstorm.jobReportString>能力の使用：{0}</VPE_Flashstorm.jobReportString>
+  <VPE_Flashstorm.verbProperties.label>フラッシュストーム</VPE_Flashstorm.verbProperties.label>
+
+
+</LanguageData>

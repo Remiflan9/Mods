@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Flameball.label>フレイムボール</VPE_Flameball.label>
+  <VPE_Flameball.description>炎焔力者から放たれた炎の玉.</VPE_Flameball.description>
+
+  <VPE_EyeBlast.label>アイブラスト</VPE_EyeBlast.label>
+
+  <VPE_Bolt.label>ボルト</VPE_Bolt.label>
+  <VPE_Bolt.description>空電力者から放たれたボルト.</VPE_Bolt.description>
+
+  <VPE_ChainBolt.label>チェインボルト</VPE_ChainBolt.label>
+  <VPE_BallLightning.label>ライトニングスフィア</VPE_BallLightning.label>
+
+  <VPE_IceSpike.label>アイススパイク</VPE_IceSpike.label>
+  <VPE_IceSpike.description>白霜力者から放たれた氷のトゲ.</VPE_IceSpike.description>
+
+  <VPE_FrostRay.label>フロストレイ</VPE_FrostRay.label>
+
+  <VPE_FireBreath.label>ファイアブレス</VPE_FireBreath.label>
+  <VPE_IceBreathe.label>アイスブレス</VPE_IceBreathe.label>
+  <VPE_HeatPearls_Proj.label>飛翔体</VPE_HeatPearls_Proj.label>
+
+
+</LanguageData>

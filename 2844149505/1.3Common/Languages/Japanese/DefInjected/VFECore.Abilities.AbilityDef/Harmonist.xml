@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Mindcontrol.label>精神支配</VPE_Mindcontrol.label>
+  <VPE_Mindcontrol.description>対象を一定時間超能力で支配し,その人の精神感応性に応じて,使用者はその肉体を得ることができます.しかし,同時に二人の人間になることはできません.</VPE_Mindcontrol.description>
+  <VPE_Mindcontrol.jobReportString>能力の使用：{0}</VPE_Mindcontrol.jobReportString>
+  <VPE_Mindcontrol.verbProperties.label>マインドコントロール</VPE_Mindcontrol.verbProperties.label>
+
+  <VPE_PsychicGuidance.label>心の導き</VPE_PsychicGuidance.label>
+  <VPE_PsychicGuidance.description>使用者の視覚,聴覚,運動,指の操作を低下させる代わりに,使用者の身体能力を大幅に強化します.</VPE_PsychicGuidance.description>
+  <VPE_PsychicGuidance.jobReportString>能力の使用：{0}</VPE_PsychicGuidance.jobReportString>
+  <VPE_PsychicGuidance.verbProperties.label>マインドガイド</VPE_PsychicGuidance.verbProperties.label>
+
+  <VPE_TransmuteStone.label>変成石</VPE_TransmuteStone.label>
+  <VPE_TransmuteStone.description>地下の地層に含まれる鉱物をランダムに1種類だけ入れ替えて,石の領域を指定します.</VPE_TransmuteStone.description>
+  <VPE_TransmuteStone.jobReportString>能力の使用：{0}</VPE_TransmuteStone.jobReportString>
+  <VPE_TransmuteStone.verbProperties.label>変成石</VPE_TransmuteStone.verbProperties.label>
+
+  <VPE_HeatFocus.label>ヒートフォーカス</VPE_HeatFocus.label>
+  <VPE_HeatFocus.description>10秒後に蓄積されたすべてのニューラルヒートをサイフォーカスに変換する瞑想を開始します.</VPE_HeatFocus.description>
+  <VPE_HeatFocus.jobReportString>能力の使用：{0}</VPE_HeatFocus.jobReportString>
+  <VPE_HeatFocus.verbProperties.label>ヒートフォーカス</VPE_HeatFocus.verbProperties.label>
+
+  <VPE_LuckTransfer.label>ラックトランス</VPE_LuckTransfer.label>
+  <VPE_LuckTransfer.description>最初の対象から次の対象に負の感情を移し,その正の感情を受け取ることで感情の均衡に亀裂を生じさせます.戦闘時のみ効果を発揮し,持続時間は最初の対象の精神感応性に比例します.</VPE_LuckTransfer.description>
+  <VPE_LuckTransfer.jobReportString>能力の使用：{0}</VPE_LuckTransfer.jobReportString>
+  <VPE_LuckTransfer.verbProperties.label>ラックトランス</VPE_LuckTransfer.verbProperties.label>
+
+  <VPE_BendProbability.label>ねじ曲がった確率</VPE_BendProbability.label>
+  <VPE_BendProbability.description>何かを強制するような,宇宙規模の波動を生み出します.</VPE_BendProbability.description>
+  <VPE_BendProbability.jobReportString>能力の使用：{0}</VPE_BendProbability.jobReportString>
+  <VPE_BendProbability.verbProperties.label>ねじ曲がった確率</VPE_BendProbability.verbProperties.label>
+
+  <VPE_LocationSwap.label>ロケートスワップ</VPE_LocationSwap.label>
+  <VPE_LocationSwap.description>使用者と視界に映る対象との間に一回限りの正確なスキップゲートを2つ生成し,両者の位置を入れ替えます.</VPE_LocationSwap.description>
+  <VPE_LocationSwap.jobReportString>能力の使用：{0}</VPE_LocationSwap.jobReportString>
+  <VPE_LocationSwap.verbProperties.label>ロケートスワップ</VPE_LocationSwap.verbProperties.label>
+
+  <VPE_HealthSwap.label>ヘルススワップ</VPE_HealthSwap.label>
+  <VPE_HealthSwap.description>2人の生命力の間にアンバランスを作り出し,すべてのネガティブな健康状態を一方から他方へ移します.転送できない症状は治療されます.</VPE_HealthSwap.description>
+  <VPE_HealthSwap.jobReportString>能力の使用：{0}</VPE_HealthSwap.jobReportString>
+  <VPE_HealthSwap.verbProperties.label>ヘルススワップ</VPE_HealthSwap.verbProperties.label>
+
+  <VPE_Transmutation.label>トランスミュート</VPE_Transmutation.label>
+  <VPE_Transmutation.description>錬金術の基礎である等価交換を利用し,対象となるアイテムやアイテムの山を,同等かそれ以下の価値を持つオブジェクトに変換します.それ以外は極めて予測不可能で制御不能です.</VPE_Transmutation.description>
+  <VPE_Transmutation.jobReportString>能力の使用：{0}</VPE_Transmutation.jobReportString>
+  <VPE_Transmutation.verbProperties.label>トランスミュート</VPE_Transmutation.verbProperties.label>
+
+  <VPE_SkillRoll.label>スキルロール</VPE_SkillRoll.label>
+  <VPE_SkillRoll.description>対象の知識と蓄積されたスキルの転換を開始し,有益な導きによってそれらをややランダムに再調整しようとします.使用者は1日昏睡状態に陥りますが,精神感応性によってその負担は軽減することができます.</VPE_SkillRoll.description>
+  <VPE_SkillRoll.jobReportString>能力の使用：{0}</VPE_SkillRoll.jobReportString>
+  <VPE_SkillRoll.verbProperties.label>スキルロール</VPE_SkillRoll.verbProperties.label>
+
+
+</LanguageData>

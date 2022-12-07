@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPECC_SummonRandomCarbuncle.label>ランダムカーバンクル</VPECC_SummonRandomCarbuncle.label>
+  <VPECC_SummonRandomCarbuncle.description>一般的な6種のカーバンクルの中からランダムに選ばれた,巴術士に忠実なカーバンクルを永続的に召喚します.</VPECC_SummonRandomCarbuncle.description>
+  <VPECC_SummonRandomCarbuncle.jobReportString>能力の使用：{0}</VPECC_SummonRandomCarbuncle.jobReportString>
+  <VPECC_SummonRandomCarbuncle.verbProperties.label>ランダムカーバンクル</VPECC_SummonRandomCarbuncle.verbProperties.label>
+
+
+</LanguageData>

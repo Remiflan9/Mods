@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_WordofJoy.label>喜びの言葉</VPE_WordofJoy.label>
+  <VPE_WordofJoy.description>幸せで落ち着く言葉をかけると同時に,超能力的な暗示を使って対象者の精神にジョイファズのループを植え付けます.ジョイファズは,ターゲットの心情を改善するために,不安な考えや感覚を抑えます.ただし副作用として,意識が低下し,感覚や意思決定能力が鈍くなります.</VPE_WordofJoy.description>
+  <VPE_WordofJoy.jobReportString>能力の使用：{0}</VPE_WordofJoy.jobReportString>
+  <VPE_WordofJoy.verbProperties.label>喜びの言葉</VPE_WordofJoy.verbProperties.label>
+
+  <VPE_WordofLove.label>恋愛の言葉</VPE_WordofLove.label>
+  <VPE_WordofLove.description>誰かのロマンチックな長所について話すと同時に,超能力的な暗示を使い傾聴者に恋愛的な欲求を植え付けます.その後数日間,傾聴者はその人物に対して,超能力的に引き起こされたロマンチックな魅力を感じます.これにより,相手への評価が大きく増加し,機会のあるときに恋愛的な進展や結婚の提案を試みる可能性が,大幅に上がります.この能力は,二人を結ぶ,超能力者への愛を誘発する,または自分の愛を誘発するために使用できます.</VPE_WordofLove.description>
+  <VPE_WordofLove.jobReportString>能力の使用：{0}</VPE_WordofLove.jobReportString>
+  <VPE_WordofLove.verbProperties.label>恋愛の言葉</VPE_WordofLove.verbProperties.label>
+
+  <VPE_WordofSerenity.label>平静の言葉</VPE_WordofSerenity.label>
+  <VPE_WordofSerenity.description>人間や動物のメンタルブレイクを終わらせるために,落ち着かせる言葉と超能力的な暗示を使います.ターゲットは短い超能力的な眠りに落ちます.消費するサイフォーカスコストは,ターゲットのメンタルブレイクの強さに依存します.</VPE_WordofSerenity.description>
+  <VPE_WordofSerenity.jobReportString>能力の使用：{0}</VPE_WordofSerenity.jobReportString>
+  <VPE_WordofSerenity.verbProperties.label>平静の言葉</VPE_WordofSerenity.verbProperties.label>
+
+  <VPE_WordofInspiration.label>激励の言葉</VPE_WordofInspiration.label>
+  <VPE_WordofInspiration.description>創造性を激励する言葉をかけると同時に超能力を用い,ターゲットの心に新しいアイデアを限界まで満たします.ターゲットはそのアイデアによって,ランダムに奮い立ちます.</VPE_WordofInspiration.description>
+  <VPE_WordofInspiration.jobReportString>能力の使用：{0}</VPE_WordofInspiration.jobReportString>
+  <VPE_WordofInspiration.verbProperties.label>激励の言葉</VPE_WordofInspiration.verbProperties.label>
+
+  <VPE_SootheMale.label>サイコスード(男性)</VPE_SootheMale.label>
+  <VPE_SootheMale.description>遠く離れた幸福をもたらす装置に信号を送り,ポジティブなサイコドローンの照射を開始させて,同時に男性のみに影響を与えるオービタルアンプを操作します.</VPE_SootheMale.description>
+  <VPE_SootheMale.jobReportString>能力の使用：{0}</VPE_SootheMale.jobReportString>
+  <VPE_SootheMale.verbProperties.label>サイコスード(男性)</VPE_SootheMale.verbProperties.label>
+
+  <VPE_SootheFemale.label>サイコスード(女性)</VPE_SootheFemale.label>
+  <VPE_SootheFemale.description>遠く離れた幸福をもたらす装置に信号を送り,ポジティブなサイコドローンの照射を開始させて,同時に女性のみに影響を与えるオービタルアンプを操作します.</VPE_SootheFemale.description>
+  <VPE_SootheFemale.jobReportString>能力の使用：{0}</VPE_SootheFemale.jobReportString>
+  <VPE_SootheFemale.verbProperties.label>サイコスード(女性)</VPE_SootheFemale.verbProperties.label>
+
+  <VPE_Bliss.label>至福の時</VPE_Bliss.label>
+  <VPE_Bliss.description>わずかな瞑想の後,対象に穏やかな感覚を引き起こし,その効果は終了間際に最大となります.穏やかな感覚が増すと,集中力が低下しますが,これは敵対行動とはみなされません.</VPE_Bliss.description>
+  <VPE_Bliss.jobReportString>能力の使用：{0}</VPE_Bliss.jobReportString>
+  <VPE_Bliss.verbProperties.label>至福の時</VPE_Bliss.verbProperties.label>
+
+  <VPE_EnergyDump.label>エナジーダンプ</VPE_EnergyDump.label>
+  <VPE_EnergyDump.description>近くの対象の溜まった疲れを取り除き,完全にリフレッシュさせます.その代わり,使用者は完全に疲れ果て,十分な休息を取る必要があります.</VPE_EnergyDump.description>
+  <VPE_EnergyDump.jobReportString>能力の使用：{0}</VPE_EnergyDump.jobReportString>
+  <VPE_EnergyDump.verbProperties.label>エナジーダンプ</VPE_EnergyDump.verbProperties.label>
+
+  <VPE_MindWipe.label>マインドワイプ</VPE_MindWipe.label>
+  <VPE_MindWipe.description>対象に無害な瞬間的逆行性健忘症を誘発し,バックストーリー以外の得たすべての記憶,社交的な繋がり,スキルなどを消去します.また,使用者のコロニーに強い親近感を覚え,縛られない人生の楽しさを再発見する喜びを感じるようになります.</VPE_MindWipe.description>
+  <VPE_MindWipe.jobReportString>能力の使用：{0}</VPE_MindWipe.jobReportString>
+  <VPE_MindWipe.verbProperties.label>マインドワイプ</VPE_MindWipe.verbProperties.label>
+
+  <VPE_ReunionFarskip.label>リユニオンファースキップ</VPE_ReunionFarskip.label>
+  <VPE_ReunionFarskip.description>わずかな瞑想時間と5日間の昏睡の後,対象の血筋に触れ,生きている血縁者を全てその近くに移動させ,サイコショックにより意識を失わせます.しかし,彼らの人間関係を変えることはできず,他のすべての派閥からは無礼者とみなされます.</VPE_ReunionFarskip.description>
+  <VPE_ReunionFarskip.jobReportString>能力の使用：{0}</VPE_ReunionFarskip.jobReportString>
+  <VPE_ReunionFarskip.verbProperties.label>リユニオンファースキップ</VPE_ReunionFarskip.verbProperties.label>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPECC_CarbuncleThunderbolt.label>サンダーボルト</VPECC_CarbuncleThunderbolt.label>
+  <VPECC_CarbuncleThunderbolt.description>>稲妻を召喚して対象を攻撃し,直撃時に火傷を負わせ,より広い範囲にEMPダメージを与えます.</VPECC_CarbuncleThunderbolt.description>
+  <VPECC_CarbuncleThunderbolt.jobReportString>能力の使用：{0}</VPECC_CarbuncleThunderbolt.jobReportString>
+  <VPECC_CarbuncleThunderbolt.verbProperties.label>サンダーボルト</VPECC_CarbuncleThunderbolt.verbProperties.label>
+
+  <VPECC_BreatheFlame.label>フレイムブレス</VPECC_BreatheFlame.label>
+  <VPECC_BreatheFlame.description>地下の未精製の化学物質のタンク内に一定時間,一方向のスキップゲートを発生させ,使用者の口元から小さな炎を噴き出します.燃え盛る未精製の液化燃料が噴射され,範囲内すべてを炎上させることができます.</VPECC_BreatheFlame.description>
+  <VPECC_BreatheFlame.jobReportString>能力の使用：{0}</VPECC_BreatheFlame.jobReportString>
+  <VPECC_BreatheFlame.verbProperties.label>フレイムブレス</VPECC_BreatheFlame.verbProperties.label>
+
+  <VPECC_AnimalAllies.label>フレンズ</VPECC_AnimalAllies.label>
+  <VPECC_AnimalAllies.description>広範囲に共鳴する生命力を注入し,動物の行動に影響を与え,使用者に敵対するものを攻撃するように仕向けます.効果時間は使用者の精神感応性によって変化します.</VPECC_AnimalAllies.description>
+  <VPECC_AnimalAllies.jobReportString>能力の使用：{0}</VPECC_AnimalAllies.jobReportString>
+  <VPECC_AnimalAllies.verbProperties.label>フレンズ</VPECC_AnimalAllies.verbProperties.label>
+
+  <VPECC_SnapFreeze.label>スナップフリーズ</VPECC_SnapFreeze.label>
+  <VPECC_SnapFreeze.description>狭い範囲にいる全ての対象の頭上にサイキックエントロピーの粒子と小型のスキップゲートを作り出し,氷に閉じ込めます.対象は低体温症になりますが,気温が氷点下以上になると溶けてしまうことがあります.</VPECC_SnapFreeze.description>
+  <VPECC_SnapFreeze.jobReportString>能力の使用：{0}</VPECC_SnapFreeze.jobReportString>
+  <VPECC_SnapFreeze.verbProperties.label>スナップフリーズ</VPECC_SnapFreeze.verbProperties.label>
+
+
+</LanguageData>

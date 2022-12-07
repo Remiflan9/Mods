@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_MindControlled.label>精神支配</VPE_MindControlled.label>
+  <VPE_MindControlled.description>超能力で他人を絶対的に支配しています.</VPE_MindControlled.description>
+
+  <VPE_MindScramble.label>精神争奪</VPE_MindScramble.label>
+  <VPE_MindScramble.description>同時に2人になろうとすることによって引き起こされる精神的な混乱状態です.</VPE_MindScramble.description>
+
+  <VPE_PsychicGuidance.label>心の導き</VPE_PsychicGuidance.label>
+  <VPE_PsychicGuidance.description>他者からの超能力による導き.</VPE_PsychicGuidance.description>
+
+  <VPE_PsychicGuide.label>心の導き</VPE_PsychicGuide.label>
+  <VPE_PsychicGuide.description>他者に導きを与えることによって生じる,超能力による意識の喪失状態です.</VPE_PsychicGuide.description>
+
+  <VPE_Lucky.label>幸運</VPE_Lucky.label>
+  <VPE_Lucky.description>超能力で狙った獲物に必ず当てることができ,敵からは絶対に攻撃を受けない強運の持ち主です.</VPE_Lucky.description>
+
+  <VPE_UnLucky.label>不運</VPE_UnLucky.label>
+  <VPE_UnLucky.description>超能力で狙った獲物に命中せず,常に敵からの攻撃を受けてしまう不運な人物です.</VPE_UnLucky.description>
+
+
+</LanguageData>

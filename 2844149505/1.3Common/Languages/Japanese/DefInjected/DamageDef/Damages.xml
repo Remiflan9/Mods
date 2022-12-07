@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_NeuralHeatBlast.label>ニューラルヒート爆発</VPE_NeuralHeatBlast.label>
+  <VPE_NeuralHeatBlast.deathMessage>{0}は死んだ.</VPE_NeuralHeatBlast.deathMessage>
+
+  <VPE_Rot.label>腐敗</VPE_Rot.label>
+  <VPE_Rot.deathMessage>{0}は腐って死んだ.</VPE_Rot.deathMessage>
+
+
+</LanguageData>

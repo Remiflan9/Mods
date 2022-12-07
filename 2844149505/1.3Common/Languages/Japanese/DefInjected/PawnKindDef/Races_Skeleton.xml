@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Steel -->
+
+  <VPE_SummonedSkeleton.label>スケルトン</VPE_SummonedSkeleton.label>
+  <VPE_SummonedSkeleton.labelPlural>スケルトン</VPE_SummonedSkeleton.labelPlural>
+  <VPE_SummonedSkeleton.labelMale>スケルトン</VPE_SummonedSkeleton.labelMale>
+  <VPE_SummonedSkeleton.labelMalePlural>スケルトン</VPE_SummonedSkeleton.labelMalePlural>
+  <VPE_SummonedSkeleton.labelFemale>スケルトン</VPE_SummonedSkeleton.labelFemale>
+  <VPE_SummonedSkeleton.labelFemalePlural>スケルトン</VPE_SummonedSkeleton.labelFemalePlural>
+
+
+</LanguageData>

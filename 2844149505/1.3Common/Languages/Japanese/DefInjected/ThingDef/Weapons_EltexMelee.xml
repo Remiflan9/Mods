@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_MeleeWeapon_EltexDagger.label>エルテックスダガー</VPE_MeleeWeapon_EltexDagger.label>
+  <VPE_MeleeWeapon_EltexDagger.description>中世の短剣に特殊な素材で加工したサイコダガーです.使用者の精神感応性とニューラルヒートを強化するとともに,他の武器と同じように近接武器として使用することができます.握るための柄と,切り裂くための鋭い刃を持っています.</VPE_MeleeWeapon_EltexDagger.description>
+  <VPE_MeleeWeapon_EltexDagger.tools.0.label>柄</VPE_MeleeWeapon_EltexDagger.tools.0.label>
+  <VPE_MeleeWeapon_EltexDagger.tools.1.label>刃</VPE_MeleeWeapon_EltexDagger.tools.1.label>
+  <VPE_MeleeWeapon_EltexDagger.tools.2.label>先</VPE_MeleeWeapon_EltexDagger.tools.2.label>
+
+  <VPE_MeleeWeapon_EltexMace.label>エルテックスメイス</VPE_MeleeWeapon_EltexMace.label>
+  <VPE_MeleeWeapon_EltexMace.description>中世のメイスに特殊な素材で加工したサイコメイスです.使用者の精神感応性とニューラルヒートを強化するとともに,他の武器と同じように効率よく振り回し,致命的な衝撃を与えるよう設計された優れた近接武器でもあります.</VPE_MeleeWeapon_EltexMace.description>
+  <VPE_MeleeWeapon_EltexMace.tools.0.label>柄</VPE_MeleeWeapon_EltexMace.tools.0.label>
+  <VPE_MeleeWeapon_EltexMace.tools.1.label>頭</VPE_MeleeWeapon_EltexMace.tools.1.label>
+
+  <VPE_MeleeWeapon_EltexSword.label>エルテックスソード</VPE_MeleeWeapon_EltexSword.label>
+  <VPE_MeleeWeapon_EltexSword.description>中世の剣に特殊な素材で加工したサイコソードです.使用者の精神感応性とニューラルヒートを強化するとともに,他の武器と同じように優れた近接武器として使用することができます.突き刺したり,斬ったりするのに適しています.軽量で扱いやすいため,時にはより大きく重い武器に打ち勝つこともあります.</VPE_MeleeWeapon_EltexSword.description>
+  <VPE_MeleeWeapon_EltexSword.tools.0.label>柄</VPE_MeleeWeapon_EltexSword.tools.0.label>
+  <VPE_MeleeWeapon_EltexSword.tools.1.label>先</VPE_MeleeWeapon_EltexSword.tools.1.label>
+  <VPE_MeleeWeapon_EltexSword.tools.2.label>刃</VPE_MeleeWeapon_EltexSword.tools.2.label>
+
+
+</LanguageData>

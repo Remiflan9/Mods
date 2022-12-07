@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_WordofTrust.label>信頼の言葉</VPE_WordofTrust.label>
+  <VPE_WordofTrust.description>超能力による暗示をかけながら囚人に語りかけ,勧誘に対する抵抗力を低下させることができます.この超能力は囚人の抵抗力を下げるだけで,勧誘することはできません.</VPE_WordofTrust.description>
+  <VPE_WordofTrust.jobReportString>能力の使用：{0}</VPE_WordofTrust.jobReportString>
+  <VPE_WordofTrust.verbProperties.label>信頼の言葉</VPE_WordofTrust.verbProperties.label>
+
+  <VPE_WordofProductivity.label>生産の言葉</VPE_WordofProductivity.label>
+  <VPE_WordofProductivity.description>触発された対象は,新陳代謝を促進させる言葉によって,数日間,より多くの生産を行うことができるようになります.敵対行為とみなされ,持続時間は対象の精神感応性の影響を受けます.</VPE_WordofProductivity.description>
+  <VPE_WordofProductivity.jobReportString>能力の使用：{0}</VPE_WordofProductivity.jobReportString>
+  <VPE_WordofProductivity.verbProperties.label>豊饒の言葉</VPE_WordofProductivity.verbProperties.label>
+
+  <VPE_BlindingPulse.label>閃光の波動</VPE_BlindingPulse.label>
+  <VPE_BlindingPulse.description>脳の視覚中枢にノイズを発生させ,指定地点付近の全員の視界を遮蔽します.一定時間持続し,精神感応性の影響を受けます.</VPE_BlindingPulse.description>
+  <VPE_BlindingPulse.jobReportString>能力の使用：{0}</VPE_BlindingPulse.jobReportString>
+  <VPE_BlindingPulse.verbProperties.label>閃光の波動</VPE_BlindingPulse.verbProperties.label>
+
+  <VPE_WordofAlliance.label>同盟の言葉</VPE_WordofAlliance.label>
+  <VPE_WordofAlliance.description>超能力によって親しい相手に友好や利益の言葉をかけ,自分が悪人でないことを認識させることができます.聞く耳を持っている相手にのみ効果があり,効果は使用者の精神感応性の影響を受けて変化します.</VPE_WordofAlliance.description>
+  <VPE_WordofAlliance.jobReportString>能力の使用：{0}</VPE_WordofAlliance.jobReportString>
+  <VPE_WordofAlliance.verbProperties.label>同盟の言葉</VPE_WordofAlliance.verbProperties.label>
+
+  <VPE_GroupLink.label>グループリンク</VPE_GroupLink.label>
+  <VPE_GroupLink.description>使用者の周囲に超能力による球体を作り,その中にいるすべてのポーンを使用者にリンクさせ,単体対象の"言葉系"の超能力を使い,すべてに影響を与えることができます.リンクされた者が範囲外に出ると効果は終了します.</VPE_GroupLink.description>
+  <VPE_GroupLink.jobReportString>能力の使用：{0}</VPE_GroupLink.jobReportString>
+  <VPE_GroupLink.verbProperties.label>グループリンク</VPE_GroupLink.verbProperties.label>
+
+  <VPE_WordofPain.label>苦痛の言葉</VPE_WordofPain.label>
+  <VPE_WordofPain.description>対象の脳の痛覚中枢にノイズを発生させ,神経末端を過剰に刺激し,精神感応性を低下させます.</VPE_WordofPain.description>
+  <VPE_WordofPain.jobReportString>能力の使用：{0}</VPE_WordofPain.jobReportString>
+  <VPE_WordofPain.verbProperties.label>苦痛の言葉</VPE_WordofPain.verbProperties.label>
+
+  <VPE_MindBreak.label>精神崩壊</VPE_MindBreak.label>
+  <VPE_MindBreak.description>高調波サイキックノイズを集中的に使用し,対象をロボトミー化し,従順で不安定な奴隷へと変貌させます.対象の所属していた元の派閥からは非常に嫌悪されます.</VPE_MindBreak.description>
+  <VPE_MindBreak.jobReportString>能力の使用：{0}</VPE_MindBreak.jobReportString>
+  <VPE_MindBreak.verbProperties.label>精神崩壊</VPE_MindBreak.verbProperties.label>
+
+  <VPE_WordofProtection.label>守護の言葉</VPE_WordofProtection.label>
+  <VPE_WordofProtection.description>高調波サイキックノイズを用いて,対象の肉体をより耐久性が高く,ダメージに強い状態に物理的に変化させます.持続時間は長く,使用者の精神感応性によって変化します.</VPE_WordofProtection.description>
+  <VPE_WordofProtection.jobReportString>能力の使用：{0}</VPE_WordofProtection.jobReportString>
+  <VPE_WordofProtection.verbProperties.label>守護の言葉</VPE_WordofProtection.verbProperties.label>
+
+  <VPE_DrainPsyessence.label>サイコドレイン</VPE_DrainPsyessence.label>
+  <VPE_DrainPsyessence.description>倒れた超能力者のポーンを対象に,強烈な高調波サイキックノイズを発生させ,その肉体を液化してサイエッセンスに変換し,使用者が自身の蓄積した超能力として吸収します.超能力が失われる最後の瞬間は全方位に伝わり,あらゆる派閥との間に外交的な影響を及ぼすことになります.</VPE_DrainPsyessence.description>
+  <VPE_DrainPsyessence.jobReportString>能力の使用：{0}</VPE_DrainPsyessence.jobReportString>
+  <VPE_DrainPsyessence.verbProperties.label>サイコドレイン</VPE_DrainPsyessence.verbProperties.label>
+
+  <VPE_MassHallucination.label>集団幻覚</VPE_MassHallucination.label>
+  <VPE_MassHallucination.description>大量に超能力による暗示をかけることで,近くにいるポーンに自分の部屋こそが絶対的に最高であることを思い込ませます.その結果,使用者は昏睡状態になり,その効果は5日間続きます.</VPE_MassHallucination.description>
+  <VPE_MassHallucination.jobReportString>能力の使用：{0}</VPE_MassHallucination.jobReportString>
+  <VPE_MassHallucination.verbProperties.label>集団幻覚</VPE_MassHallucination.verbProperties.label>
+
+
+</LanguageData>

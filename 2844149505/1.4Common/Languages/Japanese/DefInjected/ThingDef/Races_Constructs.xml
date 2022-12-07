@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Steel -->
+
+  <VPE_SteelConstruct.label>人造体(スチール)</VPE_SteelConstruct.label>
+  <VPE_SteelConstruct.description>強力なサイキックエネルギーで動く鉄くずのようなもの.近くの脅威と交戦し,主人に危害が及ばないように身を守ります.\n\n&lt;color=#E5E54C&gt;ゲームプレイ効果：&lt;/color&gt;人造体は召喚者に一定のニューラルヒートを発生させます.あまりに多くの人造体を使役すると,召喚者が他の能力を使えなくなることがあります.</VPE_SteelConstruct.description>
+  <VPE_SteelConstruct.tools.0.label>頭部</VPE_SteelConstruct.tools.0.label>
+
+
+  <!-- Rock -->
+
+  <VPE_RockConstruct.label>人造体(岩)</VPE_RockConstruct.label>
+  <VPE_RockConstruct.description>強力なサイキックエネルギーで動く岩塊のようなもの.コロニー内の簡単な作業を,疲れを感じることもなく全力で行います.\n\n&lt;color=#E5E54C&gt;ゲームプレイ効果：&lt;/color&gt;人造体は召喚者に一定のニューラルヒートを発生させます.あまりに多くの人造体を使役すると,召喚者が他の能力を使えなくなることがあります.</VPE_RockConstruct.description>
+  <VPE_RockConstruct.tools.0.label>頭部</VPE_RockConstruct.tools.0.label>
+
+
+</LanguageData>

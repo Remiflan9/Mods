@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_RaidPause.label>停止された襲撃</VPE_RaidPause.label>
+  <VPE_RaidPause.description>時空力者が襲撃を妨害しています.</VPE_RaidPause.description>
+
+  <VPE_TimeQuake.label>タイムクェイク</VPE_TimeQuake.label>
+  <VPE_TimeQuake.description>大規模な時間軸の乱れが発生しています.</VPE_TimeQuake.description>
+
+  <VPE_Hurricane.label>強制的ハリケーン</VPE_Hurricane.label>
+  <VPE_Hurricane.description>空電力者がハリケーンを発生させています.</VPE_Hurricane.description>
+
+  <VPE_PsychicFlashstorm.label>フラッシュストーム</VPE_PsychicFlashstorm.label>
+  <VPE_PsychicFlashstorm.description>局地的な異常気象により,一部の地域に落雷が発生しています.</VPE_PsychicFlashstorm.description>
+  <VPE_PsychicFlashstorm.endMessage>フラッシュストームは終わろうとしている.</VPE_PsychicFlashstorm.endMessage>
+  <VPE_PsychicFlashstorm.letterText>異常な局地的なフラッシュストームが,狭い範囲で落雷を発生させています.大規模な火災を引き起こすことがあります.</VPE_PsychicFlashstorm.letterText>
+
+  <VPE_IntenseShadows.label>陰影</VPE_IntenseShadows.label>
+  <VPE_IntenseShadows.description>本文未実装.</VPE_IntenseShadows.description>
+  <VPE_IntenseShadows.endMessage>影が正常に戻りつつある.</VPE_IntenseShadows.endMessage>
+
+
+</LanguageData>

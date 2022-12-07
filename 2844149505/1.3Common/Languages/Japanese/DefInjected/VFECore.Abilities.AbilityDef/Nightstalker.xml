@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Darkvision.label>暗視</VPE_Darkvision.label>
+  <VPE_Darkvision.description>対象のポーンに暗闇でも昼間でも同じように見えるようにするための視覚補助を与えます.持続時間は対象の精神感応性に比例します.</VPE_Darkvision.description>
+  <VPE_Darkvision.jobReportString>能力の使用：{0}</VPE_Darkvision.jobReportString>
+  <VPE_Darkvision.verbProperties.label>暗視</VPE_Darkvision.verbProperties.label>
+
+  <VPE_Darkness.label>幽冥</VPE_Darkness.label>
+  <VPE_Darkness.description>指定範囲を完全に覆い隠す暗闇の球を発生させ,その持続時間は使用者の精神感応性によって変化します.全ての視界が遮られ,範囲内またはそこを通過する攻撃は完全にミスするようになります.</VPE_Darkness.description>
+  <VPE_Darkness.jobReportString>能力の使用：{0}</VPE_Darkness.jobReportString>
+  <VPE_Darkness.verbProperties.label>幽冥</VPE_Darkness.verbProperties.label>
+
+  <VPE_Obscure.label>隠蔽</VPE_Obscure.label>
+  <VPE_Obscure.description>使用者の周囲に光の乱れを作り出し,暗闇の中に立っている味方を完全に不可視にします.攻撃すると幻影が消えます.</VPE_Obscure.description>
+  <VPE_Obscure.jobReportString>能力の使用：{0}</VPE_Obscure.jobReportString>
+  <VPE_Obscure.verbProperties.label>隠蔽</VPE_Obscure.verbProperties.label>
+
+  <VPE_Eclipse.label>光蝕</VPE_Eclipse.label>
+  <VPE_Eclipse.description>空高く暗闇の球を戦略的に投射することで,自然現象である日食を引き起こすことができます.</VPE_Eclipse.description>
+  <VPE_Eclipse.jobReportString>能力の使用：{0}</VPE_Eclipse.jobReportString>
+  <VPE_Eclipse.verbProperties.label>光蝕</VPE_Eclipse.verbProperties.label>
+
+  <VPE_Shadowskip.label>暗躍</VPE_Shadowskip.label>
+  <VPE_Shadowskip.description>使用者自身の影とリンクすることで,その場所が見えていなくても,暗闇の中にテレポートすることができます.</VPE_Shadowskip.description>
+  <VPE_Shadowskip.jobReportString>能力の使用：{0}</VPE_Shadowskip.jobReportString>
+  <VPE_Shadowskip.verbProperties.label>暗躍</VPE_Shadowskip.verbProperties.label>
+
+  <VPE_Decoy.label>媒鳥</VPE_Decoy.label>
+  <VPE_Decoy.description>指定場所に留まり続けるように光の乱れを局所的に作り出します.持続時間は精神感応性によって変化します.この幻影は全ての敵の敵意を引き付けます.</VPE_Decoy.description>
+  <VPE_Decoy.jobReportString>能力の使用：{0}</VPE_Decoy.jobReportString>
+  <VPE_Decoy.verbProperties.label>媒鳥</VPE_Decoy.verbProperties.label>
+
+  <VPE_ShadowFocus.label>暗瞑</VPE_ShadowFocus.label>
+  <VPE_ShadowFocus.description>暗闇を吸収する粒子を放出することで,使用者の精神感応性を高めることができます.この感応性は,その場の光量に反比例して低下します.</VPE_ShadowFocus.description>
+  <VPE_ShadowFocus.jobReportString>能力の使用：{0}</VPE_ShadowFocus.jobReportString>
+  <VPE_ShadowFocus.verbProperties.label>暗瞑</VPE_ShadowFocus.verbProperties.label>
+
+  <VPE_IntensifyShadows.label>陰影</VPE_IntensifyShadows.label>
+  <VPE_IntensifyShadows.description>使用者の影を日陰と結びつけ,その日陰を闇に包み込み,マップ上の50%以下の光量しかない場所を真っ暗にします.効果時間は使用者の精神感応性によって変化します.</VPE_IntensifyShadows.description>
+  <VPE_IntensifyShadows.jobReportString>能力の使用：{0}</VPE_IntensifyShadows.jobReportString>
+  <VPE_IntensifyShadows.verbProperties.label>陰影</VPE_IntensifyShadows.verbProperties.label>
+
+  <VPE_Assassinate.label>暗殺</VPE_Assassinate.label>
+  <VPE_Assassinate.description>暗所において使用者の影を対象にリンクさせ,複数回飛ばして近接攻撃を行うことができるようになります.攻撃回数は使用者の精神感応性によって変化します.</VPE_Assassinate.description>
+  <VPE_Assassinate.jobReportString>能力の使用：{0}</VPE_Assassinate.jobReportString>
+  <VPE_Assassinate.verbProperties.label>暗殺</VPE_Assassinate.verbProperties.label>
+
+  <VPE_Nightstep.label>夜歩</VPE_Nightstep.label>
+  <VPE_Nightstep.description>近くの味方を遠くの入植者の影に一瞬だけリンクさせ,負担がかからない限り,惑星上のどこにいても瞬時にテレポートすることができます.夜間のみ使用可能で,使用者を一時的にスタンさせます.</VPE_Nightstep.description>
+  <VPE_Nightstep.jobReportString>能力の使用：{0}</VPE_Nightstep.jobReportString>
+  <VPE_Nightstep.verbProperties.label>夜歩</VPE_Nightstep.verbProperties.label>
+
+
+</LanguageData>

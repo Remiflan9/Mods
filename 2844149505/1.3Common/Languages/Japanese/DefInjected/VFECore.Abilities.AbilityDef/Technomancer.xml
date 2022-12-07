@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_EnchantQuality.label>品質向上</VPE_EnchantQuality.label>
+  <VPE_EnchantQuality.description>使用者は1つのアイテムに集中し,素材の形を少し変えて品質を向上させますが,熟練者による手さばきを真似ることはできません.</VPE_EnchantQuality.description>
+  <VPE_EnchantQuality.jobReportString>能力の使用：{0}</VPE_EnchantQuality.jobReportString>
+  <VPE_EnchantQuality.verbProperties.label>品質向上</VPE_EnchantQuality.verbProperties.label>
+
+  <VPE_Mend.label>修復</VPE_Mend.label>
+  <VPE_Mend.description>使用者はアイテムに意識を集中し,ダメージを修復するために素材を再結合しようとします.その効果は精神感応性によって変化します.</VPE_Mend.description>
+  <VPE_Mend.jobReportString>能力の使用：{0}</VPE_Mend.jobReportString>
+  <VPE_Mend.verbProperties.label>修復</VPE_Mend.verbProperties.label>
+
+  <VPE_ConjureHeatPearls.label>ヒートパール作成</VPE_ConjureHeatPearls.label>
+  <VPE_ConjureHeatPearls.description>使用者のニューラルヒートを最低限だけ変換してヒートパールを作成します.これは他の超能力者に投げつけて大量のニューラルヒートを発生させることができますが,それ以外は無害です.</VPE_ConjureHeatPearls.description>
+  <VPE_ConjureHeatPearls.jobReportString>能力の使用：{0}</VPE_ConjureHeatPearls.jobReportString>
+  <VPE_ConjureHeatPearls.verbProperties.label>ヒートパール作成</VPE_ConjureHeatPearls.verbProperties.label>
+
+  <VPE_Haywire.label>ハッキング</VPE_Haywire.label>
+  <VPE_Haywire.description>使用者の仲間を味方と誤認識させるように,その範囲を指定し,電子機器のIFFを効果的に狂わせることができます.効果時間は精神感応性によって変化します.</VPE_Haywire.description>
+  <VPE_Haywire.jobReportString>能力の使用：{0}</VPE_Haywire.jobReportString>
+  <VPE_Haywire.verbProperties.label>ハッキング</VPE_Haywire.verbProperties.label>
+
+  <VPE_Power.label>量子電力</VPE_Power.label>
+  <VPE_Power.description>指定した機器の電力を物理的に変化させ,数日間,量子泡のゆらぎから直接エネルギーを取り出します.持続時間は精神感応性によって変化します.</VPE_Power.description>
+  <VPE_Power.jobReportString>能力の使用：{0}</VPE_Power.jobReportString>
+  <VPE_Power.verbProperties.label>量子電力</VPE_Power.verbProperties.label>
+
+  <VPE_RockConstruct.label>人造体(岩)</VPE_RockConstruct.label>
+  <VPE_RockConstruct.description>使用者のニューラルヒートを最低限だけメタフィジカルクリスタルに変換し,石塊に埋め込みます.この新しい岩の人造体は簡単な雑用をこなすことができます.クリスタルを壊すとニューラルヒートが元に戻されます.</VPE_RockConstruct.description>
+  <VPE_RockConstruct.jobReportString>能力の使用：{0}</VPE_RockConstruct.jobReportString>
+  <VPE_RockConstruct.verbProperties.label>人造体(岩)</VPE_RockConstruct.verbProperties.label>
+
+  <VPE_SteelConstruct.label>人造体(スチール)</VPE_SteelConstruct.label>
+  <VPE_SteelConstruct.description>使用者のニューラルヒートを最低限だけメタフィジカルクリスタルに変換し,鉄くずに埋め込みます.この新しい鉄の人造体は使用者に従い危険から身を守ってくれます.クリスタルを壊すとニューラルヒートが元に戻されます.</VPE_SteelConstruct.description>
+  <VPE_SteelConstruct.jobReportString>能力の使用：{0}</VPE_SteelConstruct.jobReportString>
+  <VPE_SteelConstruct.verbProperties.label>人造体(スチール)</VPE_SteelConstruct.verbProperties.label>
+
+  <VPE_CraftPsyRing.label>サイリング作成</VPE_CraftPsyRing.label>
+  <VPE_CraftPsyRing.description>エルテックスのかけらを指輪の形に超能力で変化させ,その中に使用者の持つ超能力の知識を封じ込めます.他の超能力者が身につけると,一時的にこの知識を使用して,訓練をしなくても記憶された超能力を使うことができるようになります.</VPE_CraftPsyRing.description>
+  <VPE_CraftPsyRing.jobReportString>能力の使用：{0}</VPE_CraftPsyRing.jobReportString>
+  <VPE_CraftPsyRing.verbProperties.label>サイリング作成</VPE_CraftPsyRing.verbProperties.label>
+
+  <VPE_WordofProgress.label>進捗の言葉</VPE_WordofProgress.label>
+  <VPE_WordofProgress.description>問題解決能力を高める言葉を発し,対象の心に鋭い洞察力を与え,超能力で刺激を与えます.対象は5日間,研究速度が2倍,知力スキルが2倍になり,その効果は精神感応性によって変化します.</VPE_WordofProgress.description>
+  <VPE_WordofProgress.jobReportString>能力の使用：{0}</VPE_WordofProgress.jobReportString>
+  <VPE_WordofProgress.verbProperties.label>進捗の言葉</VPE_WordofProgress.verbProperties.label>
+
+  <VPE_ReverseEngineer.label>リバースエンジニア</VPE_ReverseEngineer.label>
+  <VPE_ReverseEngineer.description>使用者は1つの物体に意識を集中させ,より多くの物体を製造するために必要な知識を解き明かそうとします.長時間の集中により,使用者は12時間の昏睡に陥ります.</VPE_ReverseEngineer.description>
+  <VPE_ReverseEngineer.jobReportString>能力の使用：{0}</VPE_ReverseEngineer.jobReportString>
+  <VPE_ReverseEngineer.verbProperties.label>リバースエンジニア</VPE_ReverseEngineer.verbProperties.label>
+
+
+</LanguageData>

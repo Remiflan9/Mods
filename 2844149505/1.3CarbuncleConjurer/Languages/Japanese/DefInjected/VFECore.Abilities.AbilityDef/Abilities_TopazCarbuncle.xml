@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPECC_CarbuncleChainBolt.label>チェインボルト</VPECC_CarbuncleChainBolt.label>
+  <VPECC_CarbuncleChainBolt.description>対象に電流を流し,周囲の5体に追撃して,軽い火傷とEMPダメージを与えます.</VPECC_CarbuncleChainBolt.description>
+  <VPECC_CarbuncleChainBolt.jobReportString>能力の使用：{0}</VPECC_CarbuncleChainBolt.jobReportString>
+  <VPECC_CarbuncleChainBolt.verbProperties.label>チェインボルト</VPECC_CarbuncleChainBolt.verbProperties.label>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Skipdoor.label>スキップドア</VPE_Skipdoor.label>
+  <VPE_Skipdoor.description>ポータルネットワークへの超能力による入口です.</VPE_Skipdoor.description>
+
+  <VPE_IceCrystal.label>氷の結晶</VPE_IceCrystal.label>
+  <VPE_IceCrystal.description>小さな氷の結晶で,部屋の温度を下げます.生鮮品などを凍らせるのにも役立ちます.</VPE_IceCrystal.description>
+
+  <VPE_IceWall.label>氷の壁</VPE_IceWall.label>
+  <VPE_IceWall.description>氷でできた壊れやすい壁です.熱で溶けてしまいます.</VPE_IceWall.description>
+
+
+</LanguageData>

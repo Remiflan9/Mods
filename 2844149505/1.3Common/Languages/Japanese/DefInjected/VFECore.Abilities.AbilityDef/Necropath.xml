@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_WordofFear.label>恐慌の言葉</VPE_WordofFear.label>
+  <VPE_WordofFear.description>一定時間,相手の逃走本能をオーバーロードさせ,パニックを誘発させます.この能力は敵対行為とみなされます.</VPE_WordofFear.description>
+  <VPE_WordofFear.jobReportString>能力の使用：{0}</VPE_WordofFear.jobReportString>
+  <VPE_WordofFear.verbProperties.label>恐慌の言葉</VPE_WordofFear.verbProperties.label>
+
+  <VPE_Liferot.label>ライフロット</VPE_Liferot.label>
+  <VPE_Liferot.description>対象にランダムに大量の壊死を引き起こし,負傷した体の一部を感染症にさらし,その悪臭により激しい嘔吐を引き起こさせます.持続時間は対象の精神感応性に比例し,この能力もまた明らかな敵対行為となります.</VPE_Liferot.description>
+  <VPE_Liferot.jobReportString>能力の使用：{0}</VPE_Liferot.jobReportString>
+  <VPE_Liferot.verbProperties.label>ライフロット</VPE_Liferot.verbProperties.label>
+
+  <VPE_StealVitality.label>ライフスティール</VPE_StealVitality.label>
+  <VPE_StealVitality.description>身近な対象から生命力を吸い上げ,その対象の自然治癒力,移動速度,意識を使用者に移し替えます.あからさまな敵対行為とみなされます.</VPE_StealVitality.description>
+  <VPE_StealVitality.jobReportString>能力の使用：{0}</VPE_StealVitality.jobReportString>
+  <VPE_StealVitality.verbProperties.label>ライフスティール</VPE_StealVitality.verbProperties.label>
+
+  <VPE_ParalysisPulse.label>麻痺の波動</VPE_ParalysisPulse.label>
+  <VPE_ParalysisPulse.description>使用者の周囲に黒い粒子の雲を発生させ,その範囲内にいる者すべて(使用者を除く)に2時間ほどの麻痺性の異常事態を引き起こします.範囲は使用者の精神感応性の数値に比例します.</VPE_ParalysisPulse.description>
+  <VPE_ParalysisPulse.jobReportString>能力の使用：{0}</VPE_ParalysisPulse.jobReportString>
+  <VPE_ParalysisPulse.verbProperties.label>麻痺の波動</VPE_ParalysisPulse.verbProperties.label>
+
+  <VPE_Corpsetalk.label>コープストーク</VPE_Corpsetalk.label>
+  <VPE_Corpsetalk.description>死体1体を対象とし,一時的にその死体が持つスキルを使用者に足りない分を取り込みます.効果は1シーズン続き,その後元に戻ります.</VPE_Corpsetalk.description>
+  <VPE_Corpsetalk.jobReportString>能力の使用：{0}</VPE_Corpsetalk.jobReportString>
+  <VPE_Corpsetalk.verbProperties.label>コープストーク</VPE_Corpsetalk.verbProperties.label>
+
+  <VPE_Ghostwalk.label>ゴーストウォーク</VPE_Ghostwalk.label>
+  <VPE_Ghostwalk.description>使用者の原子が建築物の原子の間を通り抜けることができると超能力により信じ込ませます.使用者の精神感応性により,欺けられる時間が変化します.</VPE_Ghostwalk.description>
+  <VPE_Ghostwalk.jobReportString>能力の使用：{0}</VPE_Ghostwalk.jobReportString>
+  <VPE_Ghostwalk.verbProperties.label>ゴーストウォーク</VPE_Ghostwalk.verbProperties.label>
+
+  <VPE_ConsumeBodies.label>食い尽くし</VPE_ConsumeBodies.label>
+  <VPE_ConsumeBodies.description>周辺の人型の死体から残りの生命力を吸い取り,そのエッセンスをニューラルヒートの永久的な蓄積量として保存します.</VPE_ConsumeBodies.description>
+  <VPE_ConsumeBodies.jobReportString>能力の使用：{0}</VPE_ConsumeBodies.jobReportString>
+  <VPE_ConsumeBodies.verbProperties.label>食い尽くし</VPE_ConsumeBodies.verbProperties.label>
+
+  <VPE_Deathshield.label>デスシールド</VPE_Deathshield.label>
+  <VPE_Deathshield.description>触れた対象の生命力を1日間固定し,死なないようにします.この期間を過ぎると,蓄積された傷や出血,四肢や臓器の欠損で死ぬことがあります.</VPE_Deathshield.description>
+  <VPE_Deathshield.jobReportString>能力の使用：{0}</VPE_Deathshield.jobReportString>
+  <VPE_Deathshield.verbProperties.label>デスシールド</VPE_Deathshield.verbProperties.label>
+
+  <VPE_Enthrall.label>エンスロール</VPE_Enthrall.label>
+  <VPE_Enthrall.description>死亡した対象の生命力を超能力で奪い,骨に直接注入し,一日間だけ生き返らせます.唯一残った本能は,使用者の敵に対して苦痛を与えるだけです.</VPE_Enthrall.description>
+  <VPE_Enthrall.jobReportString>能力の使用：{0}</VPE_Enthrall.jobReportString>
+  <VPE_Enthrall.verbProperties.label>エンスロール</VPE_Enthrall.verbProperties.label>
+
+  <VPE_Resurrect.label>リザレクト</VPE_Resurrect.label>
+  <VPE_Resurrect.description>使用者は指を犠牲にすることで,死体にリザレクトシーラムの効果を与え,そのエネルギーは壊れた組織体を修復し,身体を生き返らせることができます.対象は行動不能状態になり,その人物の所属は変更されません.死体の保存状態が悪いほど,対象は悪影響を受ける可能性が高くなっていきます.使用者は6時間の昏睡状態に陥り,長時間にわたる集中状態が終了します.</VPE_Resurrect.description>
+  <VPE_Resurrect.jobReportString>能力の使用：{0}</VPE_Resurrect.jobReportString>
+  <VPE_Resurrect.verbProperties.label>リザレクト</VPE_Resurrect.verbProperties.label>
+
+
+</LanguageData>

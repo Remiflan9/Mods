@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_HeatPearls.label>ヒートパール</VPE_HeatPearls.label>
+  <VPE_HeatPearls.description>魔工技師が超能力によって生じる熱を物理的な形に凝縮する過程で作り出した神秘的な熱媒体です.これを他の超能力者に投げつけると,非常識な量のニューラルヒートを放ち,一定時間超能力者の能力を封じることができます.</VPE_HeatPearls.description>
+  <VPE_HeatPearls.verbs.0.label>ヒートパールを投げる</VPE_HeatPearls.verbs.0.label>
+  <VPE_HeatPearls.comps.CompReloadable.chargeNoun>使用</VPE_HeatPearls.comps.CompReloadable.chargeNoun>
+
+
+</LanguageData>

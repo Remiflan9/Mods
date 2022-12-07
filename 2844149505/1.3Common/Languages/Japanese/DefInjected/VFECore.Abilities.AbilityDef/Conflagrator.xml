@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Flameball.label>フレイムボール</VPE_Flameball.label>
+  <VPE_Flameball.description>使用者は,小さな壊れやすいマグマ塊を撃ち放ちます.着弾地点に,狭い範囲に炎が飛び散ります.</VPE_Flameball.description>
+  <VPE_Flameball.jobReportString>能力の使用：{0}</VPE_Flameball.jobReportString>
+  <VPE_Flameball.verbProperties.label>フレイムボール</VPE_Flameball.verbProperties.label>
+
+  <VPE_SelfExplosion.label>セルフエクスプロージョン</VPE_SelfExplosion.label>
+  <VPE_SelfExplosion.description>可燃性ガスの密閉されたタンクに繋がっている使用者を中心にして広範囲に一定時間燃え盛る炎渦を発生させます.ガスが漏れ出すと発火して急速に広がり,直接的なダメージはほとんどありませんが,触れたものすべてに火つきます.</VPE_SelfExplosion.description>
+  <VPE_SelfExplosion.jobReportString>能力の使用：{0}</VPE_SelfExplosion.jobReportString>
+  <VPE_SelfExplosion.verbProperties.label>セルフエクスプロージョン</VPE_SelfExplosion.verbProperties.label>
+
+  <VPE_Explosion.label>エクスプロージョン</VPE_Explosion.label>
+  <VPE_Explosion.description>地下の未精製の化学物質のタンク内に一定時間,極小のスキップゲートを発生させ,指定した場所に小さな爆炎を発生させます.燃焼ガスが広範囲に広がり,制御不能な液化燃料の塊が飛び散ります.</VPE_Explosion.description>
+  <VPE_Explosion.jobReportString>能力の使用：{0}</VPE_Explosion.jobReportString>
+  <VPE_Explosion.verbProperties.label>エクスプロージョン</VPE_Explosion.verbProperties.label>
+
+  <VPE_FireShield.label>ファイアシールド</VPE_FireShield.label>
+  <VPE_FireShield.description>対象の周囲に一時的な燃焼性の炎渦を発生させて,近くの恒星にリンクし,外側に向かってわずかな距離で広がっていきます.近接攻撃で対象を攻撃しようとした者は炎上し,さらに他の炎上効果も抑制する効果があります.</VPE_FireShield.description>
+  <VPE_FireShield.jobReportString>能力の使用：{0}</VPE_FireShield.jobReportString>
+  <VPE_FireShield.verbProperties.label>ファイアシールド</VPE_FireShield.verbProperties.label>
+
+  <VPE_BreatheFlame.label>フレイムブレス</VPE_BreatheFlame.label>
+  <VPE_BreatheFlame.description>地下の未精製の化学物質のタンク内に一定時間,一方向のスキップゲートを発生させ,使用者の口元から小さな炎を噴き出します.燃え盛る未精製の液化燃料が噴射され,範囲内すべてを炎上させることができます.</VPE_BreatheFlame.description>
+  <VPE_BreatheFlame.jobReportString>能力の使用：{0}</VPE_BreatheFlame.jobReportString>
+  <VPE_BreatheFlame.verbProperties.label>フレイムブレス</VPE_BreatheFlame.verbProperties.label>
+
+  <VPE_EyeBlast.label>アイブラスト</VPE_EyeBlast.label>
+  <VPE_EyeBlast.description>使用者の目に,近くの白色矮星にリンクする2つの微小な一方向のスキップゲートを発生させます.オーバーシュートを防ぐため,指定場所を中心に眩しいエネルギーが放出され,狭い範囲に炎を発生させます.</VPE_EyeBlast.description>
+  <VPE_EyeBlast.jobReportString>能力の使用：{0}</VPE_EyeBlast.jobReportString>
+  <VPE_EyeBlast.verbProperties.label>アイブラスト</VPE_EyeBlast.verbProperties.label>
+
+  <VPE_QuenchFlames.label>消火</VPE_QuenchFlames.label>
+  <VPE_QuenchFlames.description>近くを通過する宇宙船にリンクしてスキップゲートを発生させ,船の消火システムに含まれる消火泡を"拝借"します.拝借してきた量が多いため,効果範囲はかなり広範囲に及びます.</VPE_QuenchFlames.description>
+  <VPE_QuenchFlames.jobReportString>能力の使用：{0}</VPE_QuenchFlames.jobReportString>
+  <VPE_QuenchFlames.verbProperties.label>消火</VPE_QuenchFlames.verbProperties.label>
+
+  <VPE_MeteorShower.label>メテオシャワー</VPE_MeteorShower.label>
+  <VPE_MeteorShower.description>軌道上の流星群やスペースデブリに重力の乱れを与えて,使用者の指定した場所に降り注がせることができます.最適な制御と破壊を行うために,これらは4つのグループで構成されています.</VPE_MeteorShower.description>
+  <VPE_MeteorShower.jobReportString>能力の使用：{0}</VPE_MeteorShower.jobReportString>
+  <VPE_MeteorShower.verbProperties.label>メテオシャワー</VPE_MeteorShower.verbProperties.label>
+
+  <VPE_FireBeam.label>ファイアビーム</VPE_FireBeam.label>
+  <VPE_FireBeam.description>ほぼ液体化した酸素の濃縮された柱の中に,恒星の力を再現しようとしたものです.その結果,プラズマの放出は非常に強力で,最先端の武装でもなければ太刀打ちできない程の威力を発揮します.使用者は6時間の昏睡状態に陥ります.</VPE_FireBeam.description>
+  <VPE_FireBeam.jobReportString>能力の使用：{0}</VPE_FireBeam.jobReportString>
+  <VPE_FireBeam.verbProperties.label>ファイアビーム</VPE_FireBeam.verbProperties.label>
+
+  <VPE_FlameTornado.label>ファイアトルネード</VPE_FlameTornado.label>
+  <VPE_FlameTornado.description>高濃度酸素の渦の中で,恒星の力を再現しようとしたものです.様々な反応が起こり,可燃性の副産物を発生させ,その軌道は全く予測不可能となります.</VPE_FlameTornado.description>
+  <VPE_FlameTornado.jobReportString>能力の使用：{0}</VPE_FlameTornado.jobReportString>
+  <VPE_FlameTornado.verbProperties.label>ファイアトルネード</VPE_FlameTornado.verbProperties.label>
+
+
+</LanguageData>

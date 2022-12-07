@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- These are Mote ThingDefs. Remain the same, DO NOT translate them. -->
+
+  <VPE_Mote_FireBeam.label>Mote</VPE_Mote_FireBeam.label>
+  <VPE_Mote_CastPsycast.label>Mote</VPE_Mote_CastPsycast.label>
+  <VPE_Mote_CastPsycast_Red.label>Mote</VPE_Mote_CastPsycast_Red.label>
+  <VPE_Mote_CastPsycast_Yellow.label>Mote</VPE_Mote_CastPsycast_Yellow.label>
+  <VPE_Mote_Butterfly.label>Mote</VPE_Mote_Butterfly.label>
+  <VPE_Mote_GreenMist.label>Mote</VPE_Mote_GreenMist.label>
+  <VPE_Mote_GhostA.label>Mote</VPE_Mote_GhostA.label>
+  <VPE_Mote_GhostB.label>Mote</VPE_Mote_GhostB.label>
+  <VPE_Mote_GhostC.label>Mote</VPE_Mote_GhostC.label>
+  <VPE_Mote_GhostD.label>Mote</VPE_Mote_GhostD.label>
+  <VPE_Mote_GhostE.label>Mote</VPE_Mote_GhostE.label>
+  <VPE_Mote_GhostF.label>Mote</VPE_Mote_GhostF.label>
+  <VPE_Mote_GhostG.label>Mote</VPE_Mote_GhostG.label>
+  <VPE_YellowSparkFlash.label>Mote</VPE_YellowSparkFlash.label>
+  <VPE_RedSparkFlash.label>Mote</VPE_RedSparkFlash.label>
+  <VPE_WhiteSparkFlash.label>Mote</VPE_WhiteSparkFlash.label>
+  <VPE_WarlordTargettingReticle.label>Mote</VPE_WarlordTargettingReticle.label>
+  <VPE_PsycastAreaEffectMaintained.label>Mote</VPE_PsycastAreaEffectMaintained.label>
+  <VPE_PsycastPsychicEffectTransfer.label>Mote</VPE_PsycastPsychicEffectTransfer.label>
+  <VPE_Mote_Cast.label>Mote</VPE_Mote_Cast.label>
+  <VPE_Hallucination.label>Mote</VPE_Hallucination.label>
+  <VPE_Liferot.label>Mote</VPE_Liferot.label>
+  <VPE_Mote_ParalysisPulse.label>Mote</VPE_Mote_ParalysisPulse.label>
+  <VPE_SoulOrb.label>Mote</VPE_SoulOrb.label>
+  <VPE_SoulOrbTransfer.label>Mote</VPE_SoulOrbTransfer.label>
+  <VPE_MatterPhasing.label>Mote</VPE_MatterPhasing.label>
+  <VPE_JumpingPawn.label>飛翔</VPE_JumpingPawn.label>
+
+
+</LanguageData>

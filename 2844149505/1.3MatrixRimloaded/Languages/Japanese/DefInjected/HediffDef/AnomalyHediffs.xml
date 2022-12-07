@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <USH_Supervision.label>超視覚</USH_Supervision.label>
+  <USH_Supervision.description>超能力により敏捷性を高め,移動速度を大幅に向上します.</USH_Supervision.description>
+
+  <USH_BulletDodge.label>超回避</USH_BulletDodge.label>
+  <USH_BulletDodge.description>超能力により敏捷性を高め,移動速度を大幅に向上します.</USH_BulletDodge.description>
+
+  <USH_NearInvulnerability.label>超耐性</USH_NearInvulnerability.label>
+  <USH_NearInvulnerability.description>超能力により敏捷性を高め,移動速度を大幅に向上します.</USH_NearInvulnerability.description>
+
+  <USH_PowerFists.label>超加速</USH_PowerFists.label>
+  <USH_PowerFists.description>本文なし.</USH_PowerFists.description>
+
+  <USH_BladeFocus.label>超感覚</USH_BladeFocus.label>
+  <USH_BladeFocus.description>超能力により戦闘力を高め,近接能力を大幅に向上します.</USH_BladeFocus.description>
+
+  <USH_FiringFocus.label>超集中</USH_FiringFocus.label>
+  <USH_FiringFocus.description>超能力により戦闘力を高め,射撃能力を大幅に向上します.</USH_FiringFocus.description>
+
+  <USH_AdrenalineRush.label>超興奮</USH_AdrenalineRush.label>
+  <USH_AdrenalineRush.description>超能力によりアドレナリンが分泌され,視覚,聴覚,運動能力が向上します.</USH_AdrenalineRush.description>
+
+  <USH_ControlledFrenzy.label>超凶化</USH_ControlledFrenzy.label>
+  <USH_ControlledFrenzy.description>一時的に超能力により狂気を呼び起こします.連続で敵を倒すとエネルギーが回復します.</USH_ControlledFrenzy.description>
+
+  <USH_GuidedShot.label>超射撃</USH_GuidedShot.label>
+  <USH_GuidedShot.description>超能力により,狂気なまでの射撃精度を発揮します.</USH_GuidedShot.description>
+
+
+</LanguageData>

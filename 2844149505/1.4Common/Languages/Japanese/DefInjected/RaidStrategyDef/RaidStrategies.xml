@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_ImmediateAttack_Psycasters.letterLabelEnemy>襲撃(超能力者)</VPE_ImmediateAttack_Psycasters.letterLabelEnemy>
+  <VPE_ImmediateAttack_Psycasters.arrivalTextEnemy>この襲撃者たちは,強力な超能力者に率いられているようです.超能力者は超能力で戦場を支配し,簡単に戦局を逆転させることができます.超能力者に警戒し,超能力を使おうとしているのが見えたら,優先的に攻撃するようにしましょう.
+
+この集団に所属する超能力者たち：
+</VPE_ImmediateAttack_Psycasters.arrivalTextEnemy>
+  <VPE_ImmediateAttack_Psycasters.letterLabelFriendly>援軍(超能力者)</VPE_ImmediateAttack_Psycasters.letterLabelFriendly>
+  <VPE_ImmediateAttack_Psycasters.arrivalTextFriendly>救援に来た援軍は,即座に助けに来てくれます.</VPE_ImmediateAttack_Psycasters.arrivalTextFriendly>
+
+
+</LanguageData>

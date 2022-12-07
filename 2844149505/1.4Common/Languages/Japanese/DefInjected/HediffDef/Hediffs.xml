@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Recharge.label>充電</VPE_Recharge.label>
+  <VPE_Recharge.description>近くのバッテリーに電気を流し込んでいます.</VPE_Recharge.description>
+
+  <VPE_Vortex.label>ボルテックス</VPE_Vortex.label>
+  <VPE_Vortex.description>ボルテックスにより,移動が困難になっています.</VPE_Vortex.description>
+
+  <VPE_Hurricane.label>ハリケーン</VPE_Hurricane.label>
+  <VPE_Hurricane.description>ハリケーンの影響で動きにくく,視界が悪くなっています.</VPE_Hurricane.description>
+
+  <VPE_Bliss.label>至福の時</VPE_Bliss.label>
+  <VPE_Bliss.description>心の奥底から穏やかな波動が発せられ,心に安らぎをもたらし,意識を低下させます.</VPE_Bliss.description>
+
+  <VPE_AgeSickness.label>老化</VPE_AgeSickness.label>
+  <VPE_AgeSickness.description>加齢による神経衰弱で,操作や意識が大きく低下しています.</VPE_AgeSickness.description>
+
+  <VPE_PsychicDrone.label>サイコドローン</VPE_PsychicDrone.label>
+  <VPE_PsychicDrone.description>強力な超能力で,周囲の人間系の敵に影響を与え,より不穏で恐ろしい,偏執的な感覚に陥れます.</VPE_PsychicDrone.description>
+
+  <VPE_IceShield.label>アイスシールド</VPE_IceShield.label>
+  <VPE_IceShield.description>低体温症とそれと相互作用する凍結した敵から身を守る超能力の盾です.</VPE_IceShield.description>
+
+  <VPE_FrostRay.label>フロストレイ</VPE_FrostRay.label>
+  <VPE_FrostRay.description>激しいダメージと凍りつくような霜の光線です.</VPE_FrostRay.description>
+
+  <VPE_IceBlock.label>凍結状態</VPE_IceBlock.label>
+  <VPE_IceBlock.description>この存在は,氷の塊の中で完全に凍結しており,溶けるまで動くことができません.</VPE_IceBlock.description>
+
+  <VPE_BlizzardSource.label>ブリザード発生源</VPE_BlizzardSource.label>
+  <VPE_BlizzardSource.description>この存在がブリザードを生み出しています.</VPE_BlizzardSource.description>
+
+  <VPE_Blizzard.label>ブリザード</VPE_Blizzard.label>
+  <VPE_Blizzard.description>視界,操作,移動速度が低下する極寒の雪を伴った強風です.</VPE_Blizzard.description>
+
+  <VPE_Haywire.label>ハッキング</VPE_Haywire.label>
+  <VPE_Haywire.description>IFFの操作を妨害するサイコハックされたプログラムです.</VPE_Haywire.description>
+
+  <VPE_InfinitePower.label>電力供給</VPE_InfinitePower.label>
+  <VPE_InfinitePower.description>特定の建築物に対して無限に電力を供給する発電システムです.</VPE_InfinitePower.description>
+
+  <VPE_AnimalOvershield.label>アニマルシールド</VPE_AnimalOvershield.label>
+  <VPE_AnimalOvershield.description>あらゆる射撃攻撃から動物を保護するためのオーバーシールドです.</VPE_AnimalOvershield.description>
+
+  <VPE_Smartbuzz.label>明晰</VPE_Smartbuzz.label>
+  <VPE_Smartbuzz.description>超能力により,明晰さと好奇心を引き出します.研究速度やスキル獲得速度が向上します.</VPE_Smartbuzz.description>
+
+  <VPE_Essence.label>エッセンス</VPE_Essence.label>
+  <VPE_Essence.description>この存在そのものに吹き込まれた,誰かの人格の超能力による分裂したカケラです.</VPE_Essence.description>
+
+  <VPE_Darkvision.label>暗視</VPE_Darkvision.label>
+  <VPE_Darkvision.description>超能力により闇や影を見通すことができます.</VPE_Darkvision.description>
+
+  <VPE_Darkvision_Display.label>暗視</VPE_Darkvision_Display.label>
+  <VPE_Darkvision_Display.description>超能力による暗視能力です.</VPE_Darkvision_Display.description>
+
+  <VPE_Productivity.label>生産性</VPE_Productivity.label>
+  <VPE_Productivity.description>超能力による作業速度の向上.</VPE_Productivity.description>
+
+  <VPE_PsychicSoothe.label>サイコスード</VPE_PsychicSoothe.label>
+  <VPE_PsychicSoothe.description>超能力による自己完結的な知覚の歪みで,一時的に気分を高揚させます.</VPE_PsychicSoothe.description>
+
+  <VPE_GroupLink.label>グループリンク</VPE_GroupLink.label>
+  <VPE_GroupLink.description>複数の存在間を超能力でリンクします.すべての"言葉"の超能力で,リンクしているすべての個体の間で共鳴します.</VPE_GroupLink.description>
+
+  <VPE_PsychicPain.label>サイコペイン</VPE_PsychicPain.label>
+  <VPE_PsychicPain.description>超能力による肉体的苦痛を引き起こします.</VPE_PsychicPain.description>
+
+  <VPE_Protection.label>サイコプロテクト</VPE_Protection.label>
+  <VPE_Protection.description>超能力により,受けるダメージから物理的に身を守ります.</VPE_Protection.description>
+
+  <VPE_Hallucination.label>幻覚</VPE_Hallucination.label>
+  <VPE_Hallucination.description>超能力による強い暗示により,対象の目に映る現実が書き換えられ,日常生活を贅沢なものとして錯覚させます.</VPE_Hallucination.description>
+
+  <VPE_Liferot.label>腐敗</VPE_Liferot.label>
+  <VPE_Liferot.description>超能力により,生きている人間の四肢や臓器が腐り,大量に壊死を引き起こします.</VPE_Liferot.description>
+
+  <VPE_Rot.label>腐敗</VPE_Rot.label>
+  <VPE_Rot.labelNoun>腐敗</VPE_Rot.labelNoun>
+  <VPE_Rot.description>腐敗</VPE_Rot.description>
+  <VPE_Rot.injuryProps.destroyedLabel>腐敗した</VPE_Rot.injuryProps.destroyedLabel>
+  <VPE_Rot.injuryProps.destroyedOutLabel>腐りおちた</VPE_Rot.injuryProps.destroyedOutLabel>
+  <VPE_Rot.labelNounPretty>{1}内の{0}</VPE_Rot.labelNounPretty>
+
+  <VPE_GainedVitality.label>生命力</VPE_GainedVitality.label>
+  <VPE_GainedVitality.description>超能力で他人から奪った生命力.</VPE_GainedVitality.description>
+
+  <VPE_LostVitality.label>精神衰弱</VPE_LostVitality.label>
+  <VPE_LostVitality.description>他人に生命力を奪われたことによる精神的な衰弱状態です.</VPE_LostVitality.description>
+
+  <VPE_Ghostwalk.label>ゴーストウォーク</VPE_Ghostwalk.label>
+  <VPE_Ghostwalk.description>超能力により引き起こされた物質の位相変化です.</VPE_Ghostwalk.description>
+
+  <VPE_CorpseTalk.label>コープストーク</VPE_CorpseTalk.label>
+  <VPE_CorpseTalk.description>死んだ人の霊と超能力でリンクしている状態です.</VPE_CorpseTalk.description>
+
+  <VPE_BodiesConsumed.label>食い尽くし</VPE_BodiesConsumed.label>
+  <VPE_BodiesConsumed.description>超能力"食い尽くし"を使って消費した死体の数で,1体消費するごとに,最大ニューラルヒートが1増加します.</VPE_BodiesConsumed.description>
+
+  <VPE_DeathShield.label>デスシールド</VPE_DeathShield.label>
+  <VPE_DeathShield.description>1日だけ続く超能力による不老不死の状態です.</VPE_DeathShield.description>
+
+  <VPE_Obscured.label>隠蔽</VPE_Obscured.label>
+  <VPE_Obscured.description>超能力により不可視化しています.</VPE_Obscured.description>
+
+  <VPE_Shadowfocus.label>暗瞑</VPE_Shadowfocus.label>
+  <VPE_Shadowfocus.description>超能力により周囲の光が届かない闇を感知し,精神感応性を高めています.</VPE_Shadowfocus.description>
+
+
+</LanguageData>

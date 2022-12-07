@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPECC_Flameball.label>フレイムボール</VPECC_Flameball.label>
+  <VPECC_Flameball.description>使用者は,小さな壊れやすいマグマ塊を撃ち放ちます.着弾地点に,狭い範囲に炎が飛び散ります.</VPECC_Flameball.description>
+  <VPECC_Flameball.jobReportString>能力の使用：{0}</VPECC_Flameball.jobReportString>
+  <VPECC_Flameball.verbProperties.label>フレイムボール</VPECC_Flameball.verbProperties.label>
+
+
+</LanguageData>

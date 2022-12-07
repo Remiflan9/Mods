@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_SpeedBoost.label>超加速</VPE_SpeedBoost.label>
+  <VPE_SpeedBoost.description>超能力により敏捷性を向上させ,移動速度を大幅に増加させます.</VPE_SpeedBoost.description>
+
+  <VPE_BladeFocus.label>流水加速</VPE_BladeFocus.label>
+  <VPE_BladeFocus.description>超能力により集中力を高め,近接能力を大幅に向上させます.</VPE_BladeFocus.description>
+
+  <VPE_FiringFocus.label>集中力向上</VPE_FiringFocus.label>
+  <VPE_FiringFocus.description>超能力により集中力を高め,射撃能力を大幅に向上させます.</VPE_FiringFocus.description>
+
+  <VPE_AdrenalineRush.label>限界突破</VPE_AdrenalineRush.label>
+  <VPE_AdrenalineRush.description>超能力によりアドレナリンが分泌され,視覚,聴覚,運動能力が向上します.</VPE_AdrenalineRush.description>
+
+  <VPE_ControlledFrenzy.label>血の狂乱</VPE_ControlledFrenzy.label>
+  <VPE_ControlledFrenzy.description>一時的に超能力により狂気を引き起こします.相手を連続で殺害するたびにエネルギーが回復します.</VPE_ControlledFrenzy.description>
+
+  <VPE_GuidedShot.label>誘導弾</VPE_GuidedShot.label>
+  <VPE_GuidedShot.description>超能力により,異常なまでの射撃精度を発揮します.</VPE_GuidedShot.description>
+
+
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Steel -->
+
+  <VPE_SteelConstruct.label>人造体(スチール)</VPE_SteelConstruct.label>
+  <VPE_SteelConstruct.labelPlural>人造体(スチール)</VPE_SteelConstruct.labelPlural>
+  <VPE_SteelConstruct.labelMale>人造体(スチール)</VPE_SteelConstruct.labelMale>
+  <VPE_SteelConstruct.labelMalePlural>人造体(スチール)</VPE_SteelConstruct.labelMalePlural>
+  <VPE_SteelConstruct.labelFemale>人造体(スチール)</VPE_SteelConstruct.labelFemale>
+  <VPE_SteelConstruct.labelFemalePlural>人造体(スチール)</VPE_SteelConstruct.labelFemalePlural>
+
+
+  <!-- Rock -->
+
+  <VPE_RockConstruct.label>人造体(岩)</VPE_RockConstruct.label>
+  <VPE_RockConstruct.labelPlural>人造体(岩)</VPE_RockConstruct.labelPlural>
+  <VPE_RockConstruct.labelMale>人造体(岩)</VPE_RockConstruct.labelMale>
+  <VPE_RockConstruct.labelMalePlural>人造体(岩)</VPE_RockConstruct.labelMalePlural>
+  <VPE_RockConstruct.labelFemale>人造体(岩)</VPE_RockConstruct.labelFemale>
+  <VPE_RockConstruct.labelFemalePlural>人造体(岩)</VPE_RockConstruct.labelFemalePlural>
+
+
+</LanguageData>

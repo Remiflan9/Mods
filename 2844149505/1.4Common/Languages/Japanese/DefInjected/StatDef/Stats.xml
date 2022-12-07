@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_PsyfocusCostFactor.label>サイフォーカス消費係数</VPE_PsyfocusCostFactor.label>
+  <VPE_PsyfocusCostFactor.description>能力のサイフォーカス消費量にかかる補正値です.</VPE_PsyfocusCostFactor.description>
+
+  <VPE_PsychicEntropyMinimum.label>最小ニューラルヒート</VPE_PsychicEntropyMinimum.label>
+  <VPE_PsychicEntropyMinimum.description>ニューラルヒートの最小値です.これは特定の能力を維持することで増加して,決して低下することのない熱を与えます.</VPE_PsychicEntropyMinimum.description>
+
+
+</LanguageData>

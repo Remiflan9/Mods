@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Psychic Shock -->
+
+  <Touhou_PsychicShock.label>フィットフルナイトメア</Touhou_PsychicShock.label>
+  <Touhou_PsychicShock.description>指定場所から一定の範囲内にいるすべての生物に精神攻撃を行います.</Touhou_PsychicShock.description>
+
+
+  <!-- Unlimited Teleport -->
+
+  <Touhou_UnlimitedTeleport.label>幻世「ザ・ワールド」</Touhou_UnlimitedTeleport.label>
+  <Touhou_UnlimitedTeleport.description>ザ・ワールド！マップ上の任意の場所に瞬時に移動できます.</Touhou_UnlimitedTeleport.description>
+
+
+  <!-- Power Beam -->
+
+  <Touhou_PowerBeam.label>禁忌「レーヴァテイン」</Touhou_PowerBeam.label>
+  <Touhou_PowerBeam.description>指定場所に一本の真紅のレーザーを出現させ周囲を焼き尽くします.</Touhou_PowerBeam.description>
+
+
+  <!-- Lightning Strike -->
+
+  <Touhou_LightningStrike.label>日符「ロイヤルフレア」</Touhou_LightningStrike.label>
+  <Touhou_LightningStrike.description>指定場所に無数の雷撃を放ち無差別攻撃をします.</Touhou_LightningStrike.description>
+
+
+  <!-- Meteorite Impact -->
+
+  <Touhou_MeteoriteImpact.label>水＆火符「フロギスティックレイン」</Touhou_MeteoriteImpact.label>
+  <Touhou_MeteoriteImpact.description>指定場所に無数の隕石を降らせ無差別攻撃をします.</Touhou_MeteoriteImpact.description>
+
+
+  <!-- Skip Knives -->
+
+  <Touhou_SkipKnives.label>幻象「ルナクロック」</Touhou_SkipKnives.label>
+  <Touhou_SkipKnives.description>対象の時間を止めて,大量のナイフを投げつけます.</Touhou_SkipKnives.description>
+
+
+</LanguageData>

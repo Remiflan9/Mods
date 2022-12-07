@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Jump of faith -->
+
+  <USH_JumpOfFaith.label>リープオブファイス</USH_JumpOfFaith.label>
+  <USH_JumpOfFaith.description>使用者の下肢を超能力で強化して,任意の位置まで素早く,高くジャンプすることができるようになります.</USH_JumpOfFaith.description>
+  <USH_JumpOfFaith.jobReportString>能力の使用：{0}</USH_JumpOfFaith.jobReportString>
+  <USH_JumpOfFaith.verbProperties.label>リープオブファイス</USH_JumpOfFaith.verbProperties.label>
+
+
+  <!-- Hyper-vision -->
+
+  <USH_Supervision.label>ハイパーヴィジョン</USH_Supervision.label>
+  <USH_Supervision.description>周囲への高い認識力を与え,使用者は世界をありのままに見ることができるようになります.使用者は視覚と反射神経が強化され,より迅速かつ正確な射撃ができるようになります.</USH_Supervision.description>
+  <USH_Supervision.jobReportString>能力の使用：{0}</USH_Supervision.jobReportString>
+  <USH_Supervision.verbProperties.label>ハイパーヴィジョン</USH_Supervision.verbProperties.label>
+
+
+  <!-- BulletDodge -->
+
+  <USH_BulletTime.label>バレットタイム</USH_BulletTime.label>
+  <USH_BulletTime.description>使用者は空間認識能力と神経系を強化することで,人間離れした反射神経で反応し,あらゆる脅威をかわすことができるようになります.また,この能力はニューラルネットワークの接続を強化し,意識を高めます.</USH_BulletTime.description>
+  <USH_BulletTime.jobReportString>能力の使用：{0}</USH_BulletTime.jobReportString>
+  <USH_BulletTime.verbProperties.label>バレットタイム</USH_BulletTime.verbProperties.label>
+
+
+  <!-- Near-Invulnerability -->
+
+  <USH_NearInvulnerability.label>ニアインヴァル</USH_NearInvulnerability.label>
+  <USH_NearInvulnerability.description>皮膚細胞を超能力で強化し,鋭利な攻撃や鈍器による攻撃に人間離れした耐性を持つようになります.</USH_NearInvulnerability.description>
+  <USH_NearInvulnerability.jobReportString>能力の使用：{0}</USH_NearInvulnerability.jobReportString>
+  <USH_NearInvulnerability.verbProperties.label>ニアインヴァル</USH_NearInvulnerability.verbProperties.label>
+
+
+  <!-- Psychic Flight -->
+
+  <USH_PsychicFlight.label>サイコフライト</USH_PsychicFlight.label>
+  <USH_PsychicFlight.description>自然界や精神世界を支配し,使用者の肉体と相互作用させ,使用場所から8タイル内の任意の別マップに移動することができます.飛び立つ前に,周囲にいる数人の人間を一緒に連れて飛ぶこともできます.</USH_PsychicFlight.description>
+  <USH_PsychicFlight.jobReportString>能力の使用：{0}</USH_PsychicFlight.jobReportString>
+  <USH_PsychicFlight.verbProperties.label>サイコフライト</USH_PsychicFlight.verbProperties.label>
+
+
+  <!-- Power fists -->
+
+  <USH_PowerFists.label>スーパースピード</USH_PowerFists.label>
+  <USH_PowerFists.description>ミトコンドリアによるエネルギー生産を超能力で増加させて,使用者の新陳代謝を促進させると同時に,移動速度と近接戦闘能力を大幅に向上させます.</USH_PowerFists.description>
+  <USH_PowerFists.jobReportString>能力の使用：{0}</USH_PowerFists.jobReportString>
+  <USH_PowerFists.verbProperties.label>スーパースピード</USH_PowerFists.verbProperties.label>
+
+
+  <!-- Implosion WIP -->
+
+  <!--<USH_Implosion.label>インプロージョン</USH_Implosion.label>
+  <USH_Implosion.description>周囲の膨大な物質を一点に引き寄せ,膨大な圧力で崩壊させ,高密度の物質の塊を形成します.この塊はもともと不安定な性質を持っているため,急速に膨張し,その結果生じるエネルギーによって,ほぼ瞬間的に爆発が起こります.</USH_Implosion.description>
+  <USH_Implosion.jobReportString>能力の使用：{0}</USH_Implosion.jobReportString>
+  <USH_Implosion.verbProperties.label>インプロージョン</USH_Implosion.verbProperties.label>-->
+
+
+  <!-- Skill Hack -->
+
+  <USH_SkillSetLoad.label>スキルハック</USH_SkillSetLoad.label>
+  <USH_SkillSetLoad.description>遠方の古代のサーバーをハッキングし,目的のスキルに関する情報を収集し,そのデータを対象の精神に書き込みます.この能力を使用することで一気に蓄積された精神的ストレスにより,使用者は2時間ほどの精神的昏睡状態に陥ります.</USH_SkillSetLoad.description>
+  <USH_SkillSetLoad.jobReportString>能力の使用：{0}</USH_SkillSetLoad.jobReportString>
+  <USH_SkillSetLoad.verbProperties.label>スキルハック</USH_SkillSetLoad.verbProperties.label>
+
+
+  <!-- Phasing -->
+
+  <USH_Phasing.label>ストリングオブフェイト</USH_Phasing.label>
+  <USH_Phasing.description>使用者の腕を新鮮な死体の周囲にあるサイキックフィールドによって非物質化し,その領域で実体操作をすることができます.これにより,使用者は死体をほぼ完全な状態まで復活させることができます.しかし,この能力を使用する際に生じる超能力により,使用者は一日中昏睡状態に陥り,復活した者にもひどい痛みが引き起こされます.</USH_Phasing.description>
+  <USH_Phasing.jobReportString>能力の使用：{0}</USH_Phasing.jobReportString>
+  <USH_Phasing.verbProperties.label>ストリングオブフェイト</USH_Phasing.verbProperties.label>
+
+
+</LanguageData>

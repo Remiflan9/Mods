@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_IceBreath.label>アイスブレス</VPE_IceBreath.label>
+  <VPE_IceBreath.description>サイキックエントロピーを前方に放ち,その結果生じる冷気を遮断し,対象までの距離に応じて低体温症を誘発させます.</VPE_IceBreath.description>
+  <VPE_IceBreath.jobReportString>能力の使用：{0}</VPE_IceBreath.jobReportString>
+  <VPE_IceBreath.verbProperties.label>アイスブレス</VPE_IceBreath.verbProperties.label>
+
+  <VPE_IceSpike.label>アイススパイク</VPE_IceSpike.label>
+  <VPE_IceSpike.description>サイキックエントロピーを含んだ水蒸気を氷柱に凝縮し,対象に向けて打ち出します.ダメージは精神感応性に応じて増加します.</VPE_IceSpike.description>
+  <VPE_IceSpike.jobReportString>能力の使用：{0}</VPE_IceSpike.jobReportString>
+  <VPE_IceSpike.verbProperties.label>アイススパイク</VPE_IceSpike.verbProperties.label>
+
+  <VPE_IceShield.label>アイスシールド</VPE_IceShield.label>
+  <VPE_IceShield.description>対象の周囲に数秒間,サイキックエントロピーの波動を発生させ,冷気を遮断し,近接攻撃を仕掛けてきた者に低体温症を誘発させます.</VPE_IceShield.description>
+  <VPE_IceShield.jobReportString>能力の使用：{0}</VPE_IceShield.jobReportString>
+  <VPE_IceShield.verbProperties.label>アイスシールド</VPE_IceShield.verbProperties.label>
+
+  <VPE_FrostRay.label>フロストレイ</VPE_FrostRay.label>
+  <VPE_FrostRay.description>数秒間,サイキックエントロピーを濃縮したビームを放ち,切り傷や低体温症を急速に誘発します.持続時間は使用者の精神感応性によって変化します.</VPE_FrostRay.description>
+  <VPE_FrostRay.jobReportString>能力の使用：{0}</VPE_FrostRay.jobReportString>
+  <VPE_FrostRay.verbProperties.label>フロストレイ</VPE_FrostRay.verbProperties.label>
+
+  <VPE_IceCrystal.label>アイスクリスタル</VPE_IceCrystal.label>
+  <VPE_IceCrystal.description>5日間,部屋の熱を奪う水晶の形をしたサイキックエントロピーの塊を作り出します.</VPE_IceCrystal.description>
+  <VPE_IceCrystal.jobReportString>能力の使用：{0}</VPE_IceCrystal.jobReportString>
+  <VPE_IceCrystal.verbProperties.label>アイスクリスタル</VPE_IceCrystal.verbProperties.label>
+
+  <VPE_ColdZone.label>コールドゾーン</VPE_ColdZone.label>
+  <VPE_ColdZone.description>24時間,一帯にサイキックエントロピーの塊が出現して,気温を大幅に低下させます.</VPE_ColdZone.description>
+  <VPE_ColdZone.jobReportString>能力の使用：{0}</VPE_ColdZone.jobReportString>
+  <VPE_ColdZone.verbProperties.label>コールドゾーン</VPE_ColdZone.verbProperties.label>
+
+  <VPE_IceBlock.label>アイスブロック</VPE_IceBlock.label>
+  <VPE_IceBlock.description>サイキックエントロピーの塊と海に繋がったスキップゲートを組み合わせ,指定場所に大きな氷の塊を形成します.壊れやすく,気温が氷点下以上になると溶けてしまうことがあります.</VPE_IceBlock.description>
+  <VPE_IceBlock.jobReportString>能力の使用：{0}</VPE_IceBlock.jobReportString>
+  <VPE_IceBlock.verbProperties.label>アイスブロック</VPE_IceBlock.verbProperties.label>
+
+  <VPE_SnapFreeze.label>スナップフリーズ</VPE_SnapFreeze.label>
+  <VPE_SnapFreeze.description>狭い範囲にいる全ての対象の頭上にサイキックエントロピーの粒子と小型のスキップゲートを作り出し,氷に閉じ込めます.対象は低体温症になりますが,気温が氷点下以上になると溶けてしまうことがあります.</VPE_SnapFreeze.description>
+  <VPE_SnapFreeze.jobReportString>能力の使用：{0}</VPE_SnapFreeze.jobReportString>
+  <VPE_SnapFreeze.verbProperties.label>スナップフリーズ</VPE_SnapFreeze.verbProperties.label>
+
+  <VPE_IceWall.label>アイスウォール</VPE_IceWall.label>
+  <VPE_IceWall.description>サイキックエントロピーの塊と海に繋がった小型のスキップゲートを組み合わせ,使用者の周囲に円形の氷の壁を形成します.壊れやすく,気温が氷点下以上になると溶けてしまうことがあります.</VPE_IceWall.description>
+  <VPE_IceWall.jobReportString>能力の使用：{0}</VPE_IceWall.jobReportString>
+  <VPE_IceWall.verbProperties.label>アイスウォール</VPE_IceWall.verbProperties.label>
+
+  <VPE_Blizzard.label>ブリザード</VPE_Blizzard.label>
+  <VPE_Blizzard.description>気圧差のあるスキップゲート,水とリンクしたスキップゲート,サイキックエントロピーの塊を用いて,使用者から離れた場所に渦巻くブリザードを発生させます.吹雪にさらされた者は視界,移動速度,指の操作が低下し,低体温症になり,寒さを感じるようになります.持続時間は使用者の精神感応性によって変化し,5日間昏睡状態に陥ります.</VPE_Blizzard.description>
+  <VPE_Blizzard.jobReportString>能力の使用：{0}</VPE_Blizzard.jobReportString>
+  <VPE_Blizzard.verbProperties.label>ブリザード</VPE_Blizzard.verbProperties.label>
+
+
+</LanguageData>

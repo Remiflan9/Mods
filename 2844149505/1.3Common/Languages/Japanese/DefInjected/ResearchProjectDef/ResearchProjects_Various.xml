@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_EltexGear.label>エルテックス装備</VPE_EltexGear.label>
+  <VPE_EltexGear.description>超能力者の集中力を高めることができるエルテックスの服や,エルテックスを埋め込んだ杖を製作することができます.</VPE_EltexGear.description>
+
+  <VPE_CasterGear.label>能力者装備</VPE_CasterGear.label>
+  <VPE_CasterGear.description>エルテックスを使って超能力者の服や装備などを簡単に作ることができます.</VPE_CasterGear.description>
+
+
+</LanguageData>

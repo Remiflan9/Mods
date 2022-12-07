@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPECC_Darkness.label>幽冥</VPECC_Darkness.label>
+  <VPECC_Darkness.description>指定範囲を完全に覆い隠す暗闇の球を発生させ,その持続時間は使用者の精神感応性によって変化します.全ての視界が遮られ,範囲内またはそこを通過する攻撃は完全にミスするようになります.</VPECC_Darkness.description>
+  <VPECC_Darkness.jobReportString>能力の使用：{0}</VPECC_Darkness.jobReportString>
+  <VPECC_Darkness.verbProperties.label>幽冥</VPECC_Darkness.verbProperties.label>
+
+
+</LanguageData>

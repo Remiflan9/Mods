@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguagData>
+  <VPE.MustTargetBattery>バッテリーを対象にする必要があります</VPE.MustTargetBattery>
+  <VPE.StopHurricane>ハリケーンを停止</VPE.StopHurricane>
+  <VPE.NoChunks>近くに岩塊がありません</VPE.NoChunks>
+  <VPE.MustHaveLivingFamilyMembers>{PAWN_nameDef}には生きている親族がいる必要があります.</VPE.MustHaveLivingFamilyMembers>
+  <VPE.ThingsOfLevel>レベル{1}の{0}のもの</VPE.ThingsOfLevel>
+  <VPE.TooCheap>価値が不十分です.アイテムごとに最低でも1以上の価値が必要です.</VPE.TooCheap>
+  <VPE_BreakLink>リンクの解除</VPE_BreakLink>
+  <VPE_BreakLinkDesc>リンクを解除して,すぐにこの人造体を停止します.</VPE_BreakLinkDesc>
+  <VPE.PsySetNext>次の超能力</VPE.PsySetNext>
+  <VPE.PsySetPrev>前の超能力</VPE.PsySetPrev>
+  <VPE.Nearby>周辺</VPE.Nearby>
+  <VPE.WealthNearby>総資産{1}のうちの{0}の資産</VPE.WealthNearby>
+  <VPE.GroupFocus>{0}近くの他のポーン</VPE.GroupFocus>
+  <VPE.All>すべて</VPE.All>
+  <VPE.PsySetDesc>次の超能力に移動します.右クリックして特定のものを選択します.\n現在：{0},次：{1}</VPE.PsySetDesc>
+  <VPE.MustHaveQuality>対象には品質が必要です</VPE.MustHaveQuality>
+  <VPE.QualityTooHigh>対象の品質が高すぎます.秀品以下である必要があります.</VPE.QualityTooHigh>
+  <VPE.NotEnoughHeat>ニューラルヒートが不足しています.</VPE.NotEnoughHeat>
+  <VPE.MustConsumePower>電力を消費する必要があります.</VPE.MustConsumePower>
+  <VPE.MustBeStoneChunk>岩塊を対象にする</VPE.MustBeStoneChunk>
+  <VPE.MustBeSteelSlag>鉄くずを対象にする</VPE.MustBeSteelSlag>
+  <VPE.PsylinkGained>サイリンクレベルを獲得：{0}</VPE.PsylinkGained>
+  <VPE.PsylinkGained.Desc>{0}はサイリンクの新たなレベルを獲得しました.そのレベルに到達したことで,{1}は超能力関連のステータスがわずかに向上しました.また,{1}は新しい超能力の習得,超能力のステータスのさらなる向上,新しい瞑想対象の解除のいずれかにポイントを割り当てることができるようになりました.\n\n次のレベルに必要な経験値は{2}です.</VPE.PsylinkGained.Desc>
+  <VPE.UnlockedByPoints>超能力ポイントで解除</VPE.UnlockedByPoints>
+  <VPE.MustEltex>対象はエルテックスである必要があります</VPE.MustEltex>
+  <VPE.NotPsycaster>超能力者ではありません</VPE.NotPsycaster>
+  <VPE.AlreadyPsyring>すでにサイリングを着用しています</VPE.AlreadyPsyring>
+  <VPE.Research>研究可能であることが必要です</VPE.Research>
+  <VPE.AlreadyResearch>すでに研究済みです</VPE.AlreadyResearch>
+  <VPE.MustBeAllyOrNeutral>対象は味方か中立である必要があります.</VPE.MustBeAllyOrNeutral>
+  <VPE.MustBeDowned>対象を転倒させる必要があります.</VPE.MustBeDowned>
+  <VPE.MustHavePsychicLevel>対象は超能力者レベルが1以上であることが必要です.</VPE.MustHavePsychicLevel>
+  <VPE.MustHaveHeatAmount>少なくとも{0}のニューラルヒートが必要です.</VPE.MustHaveHeatAmount>
+  <VPE.MustBeCorpse>対象は死体である必要があります.</VPE.MustBeCorpse>
+  <VPE.MustBeCorpseHumanlike>死体は人型のものであることが必要です.</VPE.MustBeCorpseHumanlike>
+  <VPE.PackSummon>群れを呼び出した！</VPE.PackSummon>
+  <VPE.PackSummon.Desc>野生動物の群れがコロニーを守るために{0}によって召喚さ れました.</VPE.PackSummon.Desc>
+  <VPE.NoAvailableFingers>利用可能な指がありません</VPE.NoAvailableFingers>
+  <VPE.CurrentChanneling>現在{0}をチャネリング中</VPE.CurrentChanneling>
+  <VPE.MustBeInDark>対象は闇の中にいます</VPE.MustBeInDark>
+  <VPE.MustBePsycaster>超能力者である必要があります</VPE.MustBePsycaster>
+  <VPE.AlreadyHasPsycast>{0}を既に知っています</VPE.AlreadyHasPsycast>
+  <VPE.MustBeAlly>対象は同じ派閥に属している必要があります.</VPE.MustBeAlly>
+  <VPE.MustHaveDamagedEquipment>対象の装備がダメージを受けている必要があります.</VPE.MustHaveDamagedEquipment>
+  <VPE.NoAnimals>動物を対象にすることはできません</VPE.NoAnimals>
+  <VPE.MustBeDamaged>対象がダメージを受けている必要があります</VPE.MustBeDamaged>
+
+</LanguagData>

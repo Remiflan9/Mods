@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPECC_TemporaryPawn.label>召喚時間</VPECC_TemporaryPawn.label>
+  <VPECC_TemporaryPawn.description>このポーンは,Hediffのタイマーが経過すると死亡します.</VPECC_TemporaryPawn.description>
+
+
+</LanguageData>

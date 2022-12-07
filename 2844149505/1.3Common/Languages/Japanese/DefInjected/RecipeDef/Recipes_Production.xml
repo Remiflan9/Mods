@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Make_EltexRobe.label>エルテックスローブを作る</VPE_Make_EltexRobe.label>
+  <VPE_Make_EltexRobe.description>エルテックスローブを作ります.</VPE_Make_EltexRobe.description>
+  <VPE_Make_EltexRobe.jobString>エルテックスローブを作成中.</VPE_Make_EltexRobe.jobString>
+
+  <VPE_Make_EltexMask.label>エルテックスマスクを作る</VPE_Make_EltexMask.label>
+  <VPE_Make_EltexMask.description>エルテックスマスクを作ります.</VPE_Make_EltexMask.description>
+  <VPE_Make_EltexMask.jobString>エルテックスマスクを作成中.</VPE_Make_EltexMask.jobString>
+
+  <VPE_Make_EltexCape.label>エルテックスケープを作る</VPE_Make_EltexCape.label>
+  <VPE_Make_EltexCape.description>エルテックスケープを作ります.</VPE_Make_EltexCape.description>
+  <VPE_Make_EltexCape.jobString>エルテックスケープを作成中.</VPE_Make_EltexCape.jobString>
+
+  <VPE_Make_EltexVest.label>エルテックスベストを作る</VPE_Make_EltexVest.label>
+  <VPE_Make_EltexVest.description>エルテックスベストを作ります.</VPE_Make_EltexVest.description>
+  <VPE_Make_EltexVest.jobString>エルテックスベストを作成中.</VPE_Make_EltexVest.jobString>
+
+  <VPE_Make_EltexShirt.label>エルテックスシャツを作る</VPE_Make_EltexShirt.label>
+  <VPE_Make_EltexShirt.description>エルテックスシャツを作ります.</VPE_Make_EltexShirt.description>
+  <VPE_Make_EltexShirt.jobString>エルテックスシャツを作成中.</VPE_Make_EltexShirt.jobString>
+
+  <VPE_Make_EltexStaff.label>エルテックススタッフを作る</VPE_Make_EltexStaff.label>
+  <VPE_Make_EltexStaff.description>エルテックススタッフを作ります.</VPE_Make_EltexStaff.description>
+  <VPE_Make_EltexStaff.jobString>エルテックススタッフを作成中.</VPE_Make_EltexStaff.jobString>
+
+  <VPE_Make_EltexHelmet.label>エルテックスヘルメットを作る</VPE_Make_EltexHelmet.label>
+  <VPE_Make_EltexHelmet.description>エルテックスヘルメットを作ります.</VPE_Make_EltexHelmet.description>
+  <VPE_Make_EltexHelmet.jobString>エルテックスヘルメットを作成中.</VPE_Make_EltexHelmet.jobString>
+
+  <VPE_Make_EltexSkullcap.label>エルテックススカルキャップを作る</VPE_Make_EltexSkullcap.label>
+  <VPE_Make_EltexSkullcap.description>エルテックススカルキャップを作ります.</VPE_Make_EltexSkullcap.description>
+  <VPE_Make_EltexSkullcap.jobString>エルテックススカルキャップを作成中.</VPE_Make_EltexSkullcap.jobString>
+
+
+</LanguageData>

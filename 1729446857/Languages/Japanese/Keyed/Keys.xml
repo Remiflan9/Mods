@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--ENGLISH-->
+<LanguageData>
+  <MortarAccuracy>Mortar Accuracy</MortarAccuracy>
+  <OptionWeather>天候による精度の変動</OptionWeather>
+  <OptionSkills>精度に影響するスキルを選んで下さい。複数のスキルが選択された場合、それらの平均値をとります。</OptionSkills>
+  <OptionSkillIntellectual>知力スキル</OptionSkillIntellectual>
+  <OptionSkillShooting>射撃スキル</OptionSkillShooting>
+  <OptionBestAccuracy>最高精度\nポーンのスキルの値が20の場合、精度は{0}%になります(バニラは0%、Modの初期値は75%、最大値は100%)。</OptionBestAccuracy>
+  <OptionWorstAccuracy>最低精度\nポーンのスキルの値が0の場合、精度は{1}%まで{0}(バニラは0%、Modの初期値は-40%)。</OptionWorstAccuracy>
+  <Improved>上昇します</Improved>
+  <Reduced>減少します</Reduced>
+  <OptionShowAccuracy>爆撃範囲を着弾範囲に変更</OptionShowAccuracy>
+  	<OptionShowExplosionRadius>爆発範囲を表示する</OptionShowExplosionRadius>
+  <OptionCover>遮蔽物があると精度減少</OptionCover>
+  <OptionLeadTarget>入植者に標的を追随させる</OptionLeadTarget>
+  <OptionTargetLeading>動く標的を追随する</OptionTargetLeading>
+</LanguageData>

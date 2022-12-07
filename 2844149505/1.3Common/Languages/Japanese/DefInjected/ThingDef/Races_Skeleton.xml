@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Steel -->
+
+  <VPE_SummonedSkeleton.label>スケルトン</VPE_SummonedSkeleton.label>
+  <VPE_SummonedSkeleton.description>死亡した個体の死骸を超能力で蘇らせたもの.非常に攻撃的ではありますが,すぐに無に還ります.</VPE_SummonedSkeleton.description>
+  <VPE_SummonedSkeleton.tools.0.label>左拳</VPE_SummonedSkeleton.tools.0.label>
+  <VPE_SummonedSkeleton.tools.1.label>右拳</VPE_SummonedSkeleton.tools.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Healing.label>治癒向上</VPE_Healing.label>
+  <VPE_Healing.description>超能力による自然治癒力向上.</VPE_Healing.description>
+
+  <VPE_BlockBleeding.label>凝血</VPE_BlockBleeding.label>
+  <VPE_BlockBleeding.description>あらゆる出血を止める,超能力による止血状態.</VPE_BlockBleeding.description>
+
+  <VPE_Immunity.label>免疫向上</VPE_Immunity.label>
+  <VPE_Immunity.description>超能力による免疫力向上.</VPE_Immunity.description>
+
+  <VPE_Overshield.label>オーバーシールド</VPE_Overshield.label>
+  <VPE_Overshield.description>超能力による個人用スキップバリアです.遠距離攻撃を無効化します.</VPE_Overshield.description>
+
+  <VPE_GuardianSkipBarrier.label>スキップバリア</VPE_GuardianSkipBarrier.label>
+  <VPE_GuardianSkipBarrier.description>超能力により作られたバリアで,維持するために大量のニューラルヒートが発生します.</VPE_GuardianSkipBarrier.description>
+
+  <VPE_RegrowLimbs.label>四肢再生</VPE_RegrowLimbs.label>
+  <VPE_RegrowLimbs.description>超能力により誘発された組織再生で,開いた傷口を閉じたり,欠損した身体の一部を再生することができます.</VPE_RegrowLimbs.description>
+
+  <VPE_Regenerating.label>四肢再生</VPE_Regenerating.label>
+  <VPE_Regenerating.description>傷跡を再生します.</VPE_Regenerating.description>
+  <VPE_Regenerating.injuryProps.destroyedLabel>破壊された</VPE_Regenerating.injuryProps.destroyedLabel>
+  <VPE_Regenerating.labelNounPretty>{1}内の{0}</VPE_Regenerating.labelNounPretty>
+
+
+</LanguageData>
