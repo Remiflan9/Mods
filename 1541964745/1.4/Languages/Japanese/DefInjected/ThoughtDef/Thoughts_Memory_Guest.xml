@@ -5,12 +5,14 @@
   <!-- <GuestPaidFee.stages.had_to_pay_fee.label>宿泊費を払わされた</GuestPaidFee.stages.had_to_pay_fee.label> -->
   <!-- <GuestPaidFee.stages.had_to_pay_fee.description>私はここに泊まるために料金を支払わされた.</GuestPaidFee.stages.had_to_pay_fee.description> -->
 
-  <GuestClaimedBed.stages.extremely_expensive_bed.label>信じられないほど高価なベッド</GuestClaimedBed.stages.extremely_expensive_bed.label>
-  <GuestClaimedBed.stages.extremely_expensive_bed.description>ベッド代金としてとんでもない金額を払わなければならなかった.</GuestClaimedBed.stages.extremely_expensive_bed.description>
-  <GuestClaimedBed.stages.very_expensive_bed.label>非常に高価なベッド</GuestClaimedBed.stages.very_expensive_bed.label>
-  <GuestClaimedBed.stages.very_expensive_bed.description>私は莫大なベッド代金を払わなければならなかった.</GuestClaimedBed.stages.very_expensive_bed.description>
-  <GuestClaimedBed.stages.expensive_bed.label>高価なベッド</GuestClaimedBed.stages.expensive_bed.label>
-  <GuestClaimedBed.stages.expensive_bed.description>私はベッド代金を払いすぎた.</GuestClaimedBed.stages.expensive_bed.description>
+  <GuestClaimedBed.stages.free_bed.label>無料のベッド</GuestClaimedBed.stages.free_bed.label>
+  <GuestClaimedBed.stages.free_bed.description>私のベッドは無料だったので,文句は言えません.</GuestClaimedBed.stages.free_bed.description>
+  <GuestClaimedBed.stages.extremely_overpriced_bed.label>信じられないほど高額なベッド</GuestClaimedBed.stages.extremely_overpriced_bed.label>
+  <GuestClaimedBed.stages.extremely_overpriced_bed.description>私のベッドはその価値よりも信じられないほど高額な金額でした.</GuestClaimedBed.stages.extremely_overpriced_bed.description>
+  <GuestClaimedBed.stages.overpriced_bed.label>高額なベッド</GuestClaimedBed.stages.overpriced_bed.label>
+  <GuestClaimedBed.stages.overpriced_bed.description>私のベッドは価値よりも高額過ぎる代金でした.</GuestClaimedBed.stages.overpriced_bed.description>
+  <GuestClaimedBed.stages.lame_bed.label>お粗末なベッド</GuestClaimedBed.stages.lame_bed.label>
+  <GuestClaimedBed.stages.lame_bed.description>私のベッドはその価値に見合わない代金でした.</GuestClaimedBed.stages.lame_bed.description>
   <GuestClaimedBed.stages.appropriate_bed.label>相応しい価格のベッド</GuestClaimedBed.stages.appropriate_bed.label>
   <GuestClaimedBed.stages.appropriate_bed.description>これぐらいのベッド代金なら大丈夫です.</GuestClaimedBed.stages.appropriate_bed.description>
   <GuestClaimedBed.stages.good_value_bed.label>良い価値のベッド</GuestClaimedBed.stages.good_value_bed.label>

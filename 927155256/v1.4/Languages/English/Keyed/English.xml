@@ -178,13 +178,13 @@ Horizontal axis is melee or ranged skill (whichever is better)</FumbleRecoveryCh
 
 
 <SidearmPickupFail_NoFreeSpace>No free space</SidearmPickupFail_NoFreeSpace>
-<SidearmPickupFail_TooHeavyForSidearm>Loadout too heavy</SidearmPickupFail_TooHeavyForSidearm>
-<SidearmPickupFail_TooHeavyForSidearmMelee>Melee loadout too heavy</SidearmPickupFail_TooHeavyForSidearmMelee>
-<SidearmPickupFail_TooHeavyForSidearmRanged>Ranged loadout too heavy</SidearmPickupFail_TooHeavyForSidearmRanged>
-<SidearmPickupFail_SidearmsTooHeavy>Too heavy for a sidearm</SidearmPickupFail_SidearmsTooHeavy>
-<SidearmPickupFail_SidearmsTooHeavyMelee>Too heavy for a melee sidearm</SidearmPickupFail_SidearmsTooHeavyMelee>
+<SidearmPickupFail_TooHeavyForSidearm>Too heavy for a sidearm</SidearmPickupFail_TooHeavyForSidearm>
+<SidearmPickupFail_TooHeavyForSidearmMelee>Too heavy for a melee sidearm</SidearmPickupFail_TooHeavyForSidearmMelee>
+<SidearmPickupFail_TooHeavyForSidearmRanged>Too heavy for a sidearm</SidearmPickupFail_TooHeavyForSidearmRanged>
+<SidearmPickupFail_SidearmsTooHeavy>Loadout too heavy</SidearmPickupFail_SidearmsTooHeavy>
+<SidearmPickupFail_SidearmsTooHeavyMelee>Melee loadout too heavy</SidearmPickupFail_SidearmsTooHeavyMelee>
 <SidearmPickupFail_SidearmsTooHeavyRanged>Too heavy for a ranged sidearm</SidearmPickupFail_SidearmsTooHeavyRanged>
-<SidearmPickupFail_SidearmsTooHeavyInTotal>Too heavy for a sidearm</SidearmPickupFail_SidearmsTooHeavyInTotal>
+<SidearmPickupFail_SidearmsTooHeavyInTotal>Ranged loadout too heavy</SidearmPickupFail_SidearmsTooHeavyInTotal>
 <SidearmPickupFail_NotASidearm>Not a sidearm</SidearmPickupFail_NotASidearm>
 <SidearmPickupFail_NotASidearmMelee>Not a sidearm</SidearmPickupFail_NotASidearmMelee>
 <SidearmPickupFail_NotASidearmRanged>Not a sidearm</SidearmPickupFail_NotASidearmRanged>
