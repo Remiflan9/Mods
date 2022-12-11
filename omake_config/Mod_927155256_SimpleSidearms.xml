@@ -9,12 +9,12 @@
 		<RangedCombatAutoSwitchMaxWarmup>0.75</RangedCombatAutoSwitchMaxWarmup>
 		<SpeedSelectionBiasMelee>1</SpeedSelectionBiasMelee>
 		<SpeedSelectionBiasRanged>1.10000002</SpeedSelectionBiasRanged>
-		<LimitModeSingle>AbsoluteWeight</LimitModeSingle>
 		<LimitModeAmount>Slots</LimitModeAmount>
-		<LimitModeSingle_AbsoluteMass>3.28051639</LimitModeSingle_AbsoluteMass>
+		<LimitModeSingle_AbsoluteMass>1.89999998</LimitModeSingle_AbsoluteMass>
 		<LimitModeSingle_RelativeMass>0.25</LimitModeSingle_RelativeMass>
 		<LimitModeAmount_AbsoluteMass>10</LimitModeAmount_AbsoluteMass>
 		<LimitModeAmount_RelativeMass>0.5</LimitModeAmount_RelativeMass>
+		<LimitModeAmount_Slots>3</LimitModeAmount_Slots>
 		<LimitModeSingleMelee_AbsoluteMass>1.89999998</LimitModeSingleMelee_AbsoluteMass>
 		<LimitModeSingleMelee_RelativeMass>0.25</LimitModeSingleMelee_RelativeMass>
 		<LimitModeAmountMelee_AbsoluteMass>10</LimitModeAmountMelee_AbsoluteMass>
@@ -38,6 +38,9 @@
 			<li>VWE_MeleeWeapon_Axe</li>
 			<li>MeleeWeapon_Knife</li>
 			<li>MeleeWeapon_PsyfocusStaff</li>
+			<li>VPE_MeleeWeapon_EltexSword</li>
+			<li>VPE_MeleeWeapon_EltexMace</li>
+			<li>VPE_MeleeWeapon_EltexDagger</li>
 			<li>VWE_Gun_ChargePistol</li>
 			<li>VWE_Gun_GaussMagnum</li>
 			<li>Weapon_GrenadeEMP</li>
@@ -73,6 +76,9 @@
 			<li>VWE_MeleeWeapon_Axe</li>
 			<li>MeleeWeapon_Knife</li>
 			<li>MeleeWeapon_PsyfocusStaff</li>
+			<li>VPE_MeleeWeapon_EltexSword</li>
+			<li>VPE_MeleeWeapon_EltexMace</li>
+			<li>VPE_MeleeWeapon_EltexDagger</li>
 			<li>ElephantTusk</li>
 			<li>Beer</li>
 			<li>WoodLog</li>
@@ -108,7 +114,6 @@
 		<SidearmSpawnChanceDropoff>0.25</SidearmSpawnChanceDropoff>
 		<SidearmBudgetMultiplier>0.5</SidearmBudgetMultiplier>
 		<SidearmBudgetDropoff>0.25</SidearmBudgetDropoff>
-		<ColonistDefaultWeaponMode>ByGenerated</ColonistDefaultWeaponMode>
 		<FumbleMode>Never</FumbleMode>
 		<ReEquipOutOfCombat>False</ReEquipOutOfCombat>
 		<ReEquipBest>False</ReEquipBest>
