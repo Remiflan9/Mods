@@ -1,0 +1,1 @@
+cp mult-v2.rml "$APPDATA/../LocalLow/Ludeon Studios/RimWorld by Ludeon Studios/ModLists"
