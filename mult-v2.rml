@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <savedModList>
 	<meta>
-		<gameVersion>1.4.3563 rev533</gameVersion>
+		<gameVersion>1.4.3580 rev1304</gameVersion>
 		<modIds>
 			<li>brrainz.harmony</li>
 			<li>ludeon.rimworld</li>
@@ -246,7 +246,6 @@
 			<li>proxyer.jpt.vfemedicaljp</li>
 			<li>proxyer.jpt.vfespacerjp</li>
 			<li>lucifel.vevpe.jpt</li>
-			<li>ghxx.techadvancing</li>
 			<li>akarthus.thecosmicodyssey.victoriavaliant</li>
 			<li>hobtook.mortaraccuracy</li>
 			<li>petetimessix.simplesidearms</li>
@@ -309,7 +308,6 @@
 			<li>VFE - Medical Module 日本語翻訳追加</li>
 			<li>VFE - Spacer Module 日本語翻訳追加</li>
 			<li>Vanilla Psycasts Expanded 日本語翻訳</li>
-			<li>Tech Advancing</li>
 			<li>The Cosmic Odyssey - Victoria Valiant</li>
 			<li>Mortar Accuracy</li>
 			<li>Simple sidearms</li>
