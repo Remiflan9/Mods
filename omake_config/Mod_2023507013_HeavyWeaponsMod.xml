@@ -18,8 +18,12 @@
 				<li>VFEP_WarcasketGun_ChargeLance</li>
 				<li>VFEP_WarcasketGun_HandheldCannon</li>
 				<li>VFEP_WarcasketGun_ChargeBlaster</li>
+				<li>VFEP_WarcasketGun_CryptoCannon</li>
+				<li>VFEP_WarcasketMeleeWeapon_PlasmaSword</li>
 			</keys>
 			<values>
+				<li>True</li>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -54,8 +58,12 @@
 				<li>VFEP_WarcasketGun_ChargeLance</li>
 				<li>VFEP_WarcasketGun_HandheldCannon</li>
 				<li>VFEP_WarcasketGun_ChargeBlaster</li>
+				<li>VFEP_WarcasketGun_CryptoCannon</li>
+				<li>VFEP_WarcasketMeleeWeapon_PlasmaSword</li>
 			</keys>
 			<values>
+				<li>0</li>
+				<li>0</li>
 				<li>0</li>
 				<li>0</li>
 				<li>0</li>

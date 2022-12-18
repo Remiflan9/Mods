@@ -5,8 +5,7 @@
 			<keys />
 			<values />
 		</toggablePatch>
-		<isRandomGraphic>False</isRandomGraphic>
-		<hideRandomizeButton>False</hideRandomizeButton>
+		<hideRandomizeButtons>False</hideRandomizeButtons>
 		<weatherDamagesOptions>
 			<keys>
 				<li>VPE_Hurricane</li>
@@ -15,5 +14,7 @@
 				<li>True</li>
 			</values>
 		</weatherDamagesOptions>
+		<isRandomGraphic>False</isRandomGraphic>
+		<hideRandomizeButton>False</hideRandomizeButton>
 	</ModSettings>
 </SettingsBlock>
