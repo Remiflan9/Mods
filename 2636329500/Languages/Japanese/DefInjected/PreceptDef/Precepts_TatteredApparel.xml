@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_TatteredApparel_DontCare.label>気にしない</VME_TatteredApparel_DontCare.label>
+  <VME_TatteredApparel_DontCare.description>服の穴なんかよりも大きな問題がある.そんな些細なことで悩んだり嘆いたりして,貴重な時間を無駄にしてはならない.</VME_TatteredApparel_DontCare.description>
+
+  <VME_TatteredApparel_Disapproved.label>反対</VME_TatteredApparel_Disapproved.label>
+  <VME_TatteredApparel_Disapproved.description>見すぼらしい服を着るのは不快なので避けるべきだ.</VME_TatteredApparel_Disapproved.description>
+
+  <VME_TatteredApparel_Abhorrent.label>嫌悪</VME_TatteredApparel_Abhorrent.label>
+  <VME_TatteredApparel_Abhorrent.description>見すぼらしい服は気持ち悪いので,できるだけ早く捨てるべきだ.</VME_TatteredApparel_Abhorrent.description>
+
+
+</LanguageData>

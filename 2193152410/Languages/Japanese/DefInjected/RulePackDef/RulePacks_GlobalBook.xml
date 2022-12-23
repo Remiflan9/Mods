@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_BookUtility.rulePack.rulesStrings.0>maybe_adjective-></VBE_BookUtility.rulePack.rulesStrings.0>
+  <VBE_BookUtility.rulePack.rulesStrings.1>maybe_adjective->[Color]</VBE_BookUtility.rulePack.rulesStrings.1>
+  <VBE_BookUtility.rulePack.rulesStrings.2>maybe_adjective->[AdjectiveBadass]</VBE_BookUtility.rulePack.rulesStrings.2>
+  <VBE_BookUtility.rulePack.rulesStrings.3>maybe_adjective->[AdjectiveAngsty]</VBE_BookUtility.rulePack.rulesStrings.3>
+  <VBE_BookUtility.rulePack.rulesStrings.4>Adjective->[Color]</VBE_BookUtility.rulePack.rulesStrings.4>
+  <VBE_BookUtility.rulePack.rulesStrings.5>Adjective->[AdjectiveBadass]</VBE_BookUtility.rulePack.rulesStrings.5>
+  <VBE_BookUtility.rulePack.rulesStrings.6>Adjective->[AdjectiveAngsty]</VBE_BookUtility.rulePack.rulesStrings.6>
+  <VBE_BookUtility.rulePack.rulesStrings.7>cover->本書は[image]の[depiction]を表紙にしている。 </VBE_BookUtility.rulePack.rulesStrings.7>
+  <VBE_BookUtility.rulePack.rulesStrings.8>cover->本書の表紙は[image]の[depiction]である。</VBE_BookUtility.rulePack.rulesStrings.8>
+  <VBE_BookUtility.rulePack.rulesStrings.9>cover->[image]の[depiction]が表紙にあしらわれている。</VBE_BookUtility.rulePack.rulesStrings.9>
+  <VBE_BookUtility.rulePack.rulesStrings.10>first_chapters->前半の数章では、[maybe_cont]以下を概述する。</VBE_BookUtility.rulePack.rulesStrings.10>
+  <VBE_BookUtility.rulePack.rulesStrings.11>first_chapters->本書の第一部は[maybe_cont]以下を詳説するものである。</VBE_BookUtility.rulePack.rulesStrings.11>
+  <VBE_BookUtility.rulePack.rulesStrings.12>first_chapters->冒頭のいくばくかでは、[maybe_cont]以下のとりあつかいを述べる。</VBE_BookUtility.rulePack.rulesStrings.12>
+  <VBE_BookUtility.rulePack.rulesStrings.13>first_chapters->本書の前半では、[maybe_cont]以下をテーマとする。</VBE_BookUtility.rulePack.rulesStrings.13>
+  <VBE_BookUtility.rulePack.rulesStrings.14>first_chapters->本書ははじめに[maybe_cont]以下を論ずる。</VBE_BookUtility.rulePack.rulesStrings.14>
+  <VBE_BookUtility.rulePack.rulesStrings.15>first_chapters->本書では[maybe_cont]以下への言及をもって全体の導入とする。</VBE_BookUtility.rulePack.rulesStrings.15>
+  <VBE_BookUtility.rulePack.rulesStrings.16>maybe_cont(p=2)-></VBE_BookUtility.rulePack.rulesStrings.16>
+  <VBE_BookUtility.rulePack.rulesStrings.17>maybe_cont->[ConceptAny]の概念と合わせて</VBE_BookUtility.rulePack.rulesStrings.17>
+  <VBE_BookUtility.rulePack.rulesStrings.18>maybe_cont->[AdjectiveBadass]語調で</VBE_BookUtility.rulePack.rulesStrings.18>
+  <VBE_BookUtility.rulePack.rulesStrings.19>maybe_cont->[ConceptAny]の重要性と関連づけながら</VBE_BookUtility.rulePack.rulesStrings.19>
+  <VBE_BookUtility.rulePack.rulesStrings.20>maybe_cont->[TerrainFeature]の利用を強調して訴えつつ、</VBE_BookUtility.rulePack.rulesStrings.20>
+  <VBE_BookUtility.rulePack.rulesStrings.21>maybe_cont->その[Vegetable]による改良の可能性を一つの課題として、</VBE_BookUtility.rulePack.rulesStrings.21>
+  <VBE_BookUtility.rulePack.rulesStrings.22>maybe_cont->[Game]で遊びながら</VBE_BookUtility.rulePack.rulesStrings.22>
+  <VBE_BookUtility.rulePack.rulesStrings.23>maybe_cont->[Animal]の世界から見た</VBE_BookUtility.rulePack.rulesStrings.23>
+  <VBE_BookUtility.rulePack.rulesStrings.24>maybe_cont->[Gore]の美とともに、</VBE_BookUtility.rulePack.rulesStrings.24>
+  <VBE_BookUtility.rulePack.rulesStrings.25>maybe_cont->[NaturalObject]との比較をまじえつつ、</VBE_BookUtility.rulePack.rulesStrings.25>
+  <VBE_BookUtility.rulePack.rulesStrings.26>maybe_cont->[Enemy]の立場から、</VBE_BookUtility.rulePack.rulesStrings.26>
+  <VBE_BookUtility.rulePack.rulesStrings.27>maybe_cont->とある[Community]のただ中にある筆者の経験にもとづき、</VBE_BookUtility.rulePack.rulesStrings.27>
+  <VBE_BookUtility.rulePack.rulesStrings.28>maybe_cont->[Character]による私見も加えて、</VBE_BookUtility.rulePack.rulesStrings.28>
+  <VBE_BookUtility.rulePack.rulesStrings.29>maybe_cont->少々知名度の低い人物である[NamePerson]氏の高見を参考にしつつ、</VBE_BookUtility.rulePack.rulesStrings.29>
+  <VBE_BookUtility.rulePack.rulesStrings.30>maybe_cont->[Color]色に対する言及がしばしばなされるところの</VBE_BookUtility.rulePack.rulesStrings.30>
+  <VBE_BookUtility.rulePack.rulesStrings.31>maybe_cont->その[Animal]による改良の可能性を見すえて、</VBE_BookUtility.rulePack.rulesStrings.31>
+  <VBE_BookUtility.rulePack.rulesStrings.32>maybe_cont->当該分野での[Weapon]への応用にもふれつつ、</VBE_BookUtility.rulePack.rulesStrings.32>
+  <VBE_BookUtility.rulePack.rulesStrings.33>maybe_cont->[AdjectiveFriendly] [PersonJob]によって行われた種々の調査にもとづき</VBE_BookUtility.rulePack.rulesStrings.33>
+  <VBE_BookUtility.rulePack.rulesStrings.34>maybe_cont->[Apparel]の重要性とともに、</VBE_BookUtility.rulePack.rulesStrings.34>
+  <VBE_BookUtility.rulePack.rulesStrings.35>maybe_cont->[ConceptPositive]および[ConceptPositive]による改良の可能性を議論の射程として、</VBE_BookUtility.rulePack.rulesStrings.35>
+  <VBE_BookUtility.rulePack.rulesStrings.36>maybe_cont->[bookstyle_adj]スタイルで、</VBE_BookUtility.rulePack.rulesStrings.36>
+  <VBE_BookUtility.rulePack.rulesStrings.37>middle_book->ついで[maybe_cont]以下に関する詳説に続く。</VBE_BookUtility.rulePack.rulesStrings.37>
+  <VBE_BookUtility.rulePack.rulesStrings.38>middle_book->次章は[maybe_cont]以下を考察する。</VBE_BookUtility.rulePack.rulesStrings.38>
+  <VBE_BookUtility.rulePack.rulesStrings.39>middle_book->また[maybe_cont]以下を次章で論ずる。</VBE_BookUtility.rulePack.rulesStrings.39>
+  <VBE_BookUtility.rulePack.rulesStrings.40>middle_book->そののち、[maybe_cont]長大となってしまったが以下の解説に移る。</VBE_BookUtility.rulePack.rulesStrings.40>
+  <VBE_BookUtility.rulePack.rulesStrings.41>middle_book->本書の中盤は[maybe_cont]以下について述べる。</VBE_BookUtility.rulePack.rulesStrings.41>
+  <VBE_BookUtility.rulePack.rulesStrings.42>middle_book->それをふまえ、[maybe_cont]以下を瞥見する。</VBE_BookUtility.rulePack.rulesStrings.42>
+  <VBE_BookUtility.rulePack.rulesStrings.43>ending->終わりにはそれまでのまとめとして、[maybe_cont]以下をあつかっている。</VBE_BookUtility.rulePack.rulesStrings.43>
+  <VBE_BookUtility.rulePack.rulesStrings.44>ending->そして[maybe_cont]総括にかえて以下に対する重要性を力説する。</VBE_BookUtility.rulePack.rulesStrings.44>
+  <VBE_BookUtility.rulePack.rulesStrings.45>ending->後半の数章は[maybe_cont]以下を論ずる。</VBE_BookUtility.rulePack.rulesStrings.45>
+  <VBE_BookUtility.rulePack.rulesStrings.46>ending->最後に[maybe_cont]以下に関して触れる。</VBE_BookUtility.rulePack.rulesStrings.46>
+  <VBE_BookUtility.rulePack.rulesStrings.47>ending->そして[maybe_cont]以下が終章に当てられる。</VBE_BookUtility.rulePack.rulesStrings.47>
+  <VBE_BookUtility.rulePack.rulesStrings.48>ending->結びとして[maybe_cont]以下に言及する。</VBE_BookUtility.rulePack.rulesStrings.48>
+  <VBE_BookUtility.rulePack.rulesStrings.49>ending->後半では[maybe_cont]以下をあつかう</VBE_BookUtility.rulePack.rulesStrings.49>
+  <VBE_BookUtility.rulePack.rulesStrings.50>ending->本書の後半では[maybe_cont]以下をテーマとする。</VBE_BookUtility.rulePack.rulesStrings.50>
+  <VBE_BookUtility.rulePack.rulesStrings.51>book_context->[ConceptAny]に満ちたその文章が[bookstyle_adj]スタイルを提示する</VBE_BookUtility.rulePack.rulesStrings.51>
+  <VBE_BookUtility.rulePack.rulesStrings.52>book_context->[bookstyle_adj]</VBE_BookUtility.rulePack.rulesStrings.52>
+  <VBE_BookUtility.rulePack.rulesStrings.53>book_context->[bookstyle_adj]スタイルを実現する</VBE_BookUtility.rulePack.rulesStrings.53>
+  <VBE_BookUtility.rulePack.rulesStrings.54>book_context->[bookstyle_adj]要素を持ちつつ[bookstyle_adj]</VBE_BookUtility.rulePack.rulesStrings.54>
+  <VBE_BookUtility.rulePack.rulesStrings.55>book_context->[bookstyle_adj]</VBE_BookUtility.rulePack.rulesStrings.55>
+  <VBE_BookUtility.rulePack.rulesStrings.56>book_context->[bookstyle_adj]、しかし[bookstyle_adj]</VBE_BookUtility.rulePack.rulesStrings.56>
+  <VBE_BookUtility.rulePack.rulesStrings.57>maybe_writingstyles(p=3)-></VBE_BookUtility.rulePack.rulesStrings.57>
+  <VBE_BookUtility.rulePack.rulesStrings.58>maybe_writingstyles->[bookstyle]を多用し</VBE_BookUtility.rulePack.rulesStrings.58>
+  <VBE_BookUtility.rulePack.rulesStrings.59>maybe_writingstyles->これでもかというほど[bookstyle]をちりばめ、</VBE_BookUtility.rulePack.rulesStrings.59>
+  <VBE_BookUtility.rulePack.rulesStrings.60>maybe_writingstyles->[bookstyle]を一度も用いないことで</VBE_BookUtility.rulePack.rulesStrings.60>
+  <VBE_BookUtility.rulePack.rulesStrings.61>maybe_writingstyles->ひとえに[bookstyle]を用いて、</VBE_BookUtility.rulePack.rulesStrings.61>
+  <VBE_BookUtility.rulePack.rulesStrings.62>maybe_writingstyles->しきりに[bookstyle]を用いたが[bookstyle]には一切手をつけず、</VBE_BookUtility.rulePack.rulesStrings.62>
+  <VBE_BookUtility.rulePack.rulesStrings.63>maybe_writingstyles->[bookstyle]と[bookstyle]もまじえる形でかなり[bookstyle]を取り入れたが、</VBE_BookUtility.rulePack.rulesStrings.63>
+  <VBE_BookUtility.rulePack.rulesStrings.64>maybe_writingstyles->いくらか[bookstyle_adj] [bookstyle]をまじえ、</VBE_BookUtility.rulePack.rulesStrings.64>
+  <VBE_BookUtility.rulePack.rulesStrings.65>book->本</VBE_BookUtility.rulePack.rulesStrings.65>
+  <VBE_BookUtility.rulePack.rulesStrings.66>book->著作</VBE_BookUtility.rulePack.rulesStrings.66>
+  <VBE_BookUtility.rulePack.rulesStrings.67>book->書籍</VBE_BookUtility.rulePack.rulesStrings.67>
+  <VBE_BookUtility.rulePack.rulesStrings.68>book->著書</VBE_BookUtility.rulePack.rulesStrings.68>
+  <VBE_BookUtility.rulePack.rulesStrings.69>book->本</VBE_BookUtility.rulePack.rulesStrings.69>
+  <VBE_BookUtility.rulePack.rulesStrings.70>book_general->この[book]は[maybe_cont]以下を詳説するものである。</VBE_BookUtility.rulePack.rulesStrings.70>
+  <VBE_BookUtility.rulePack.rulesStrings.71>book_general->この[book]が[maybe_cont]以下への知見をもたらすものとなったことを期待する。</VBE_BookUtility.rulePack.rulesStrings.71>
+  <VBE_BookUtility.rulePack.rulesStrings.72>book_general->筆者は[maybe_cont]この[book]に以下に関する有益な情報を書き記した。</VBE_BookUtility.rulePack.rulesStrings.72>
+  <VBE_BookUtility.rulePack.rulesStrings.73>book_general->この[book]は[maybe_cont]以下をとりあつかっている。</VBE_BookUtility.rulePack.rulesStrings.73>
+  <VBE_BookUtility.rulePack.rulesStrings.74>book_general->これは[maybe_cont]以下に関して焦点を当てた[book]である。</VBE_BookUtility.rulePack.rulesStrings.74>
+  <VBE_BookUtility.rulePack.rulesStrings.75>maybe_ShootingSkill-></VBE_BookUtility.rulePack.rulesStrings.75>
+  <VBE_BookUtility.rulePack.rulesStrings.76>maybe_ShootingSkill->と[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.76>
+  <VBE_BookUtility.rulePack.rulesStrings.77>maybe_ShootingSkill->および[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.77>
+  <VBE_BookUtility.rulePack.rulesStrings.78>maybe_AnimalsSkill-></VBE_BookUtility.rulePack.rulesStrings.78>
+  <VBE_BookUtility.rulePack.rulesStrings.79>maybe_AnimalsSkill->と[AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.79>
+  <VBE_BookUtility.rulePack.rulesStrings.80>maybe_AnimalsSkill->および[AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.80>
+  <VBE_BookUtility.rulePack.rulesStrings.81>maybe_ArtSkill-></VBE_BookUtility.rulePack.rulesStrings.81>
+  <VBE_BookUtility.rulePack.rulesStrings.82>maybe_ArtSkill->と[ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.82>
+  <VBE_BookUtility.rulePack.rulesStrings.83>maybe_ArtSkill->および[ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.83>
+  <VBE_BookUtility.rulePack.rulesStrings.84>maybe_ConstructionSkill-></VBE_BookUtility.rulePack.rulesStrings.84>
+  <VBE_BookUtility.rulePack.rulesStrings.85>maybe_ConstructionSkill->と[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.85>
+  <VBE_BookUtility.rulePack.rulesStrings.86>maybe_ConstructionSkill->および[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.86>
+  <VBE_BookUtility.rulePack.rulesStrings.87>maybe_CookingSkill-></VBE_BookUtility.rulePack.rulesStrings.87>
+  <VBE_BookUtility.rulePack.rulesStrings.88>maybe_CookingSkill->と[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.88>
+  <VBE_BookUtility.rulePack.rulesStrings.89>maybe_CookingSkill->および[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.89>
+  <VBE_BookUtility.rulePack.rulesStrings.90>maybe_CraftingSkill-></VBE_BookUtility.rulePack.rulesStrings.90>
+  <VBE_BookUtility.rulePack.rulesStrings.91>maybe_CraftingSkill->と[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.91>
+  <VBE_BookUtility.rulePack.rulesStrings.92>maybe_CraftingSkill->および[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.92>
+  <VBE_BookUtility.rulePack.rulesStrings.93>maybe_GrowingSkill-></VBE_BookUtility.rulePack.rulesStrings.93>
+  <VBE_BookUtility.rulePack.rulesStrings.94>maybe_GrowingSkill->と[GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.94>
+  <VBE_BookUtility.rulePack.rulesStrings.95>maybe_GrowingSkill->および [GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.95>
+  <VBE_BookUtility.rulePack.rulesStrings.96>maybe_IntellectualSkill-></VBE_BookUtility.rulePack.rulesStrings.96>
+  <VBE_BookUtility.rulePack.rulesStrings.97>maybe_IntellectualSkill->と[IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.97>
+  <VBE_BookUtility.rulePack.rulesStrings.98>maybe_IntellectualSkill->および[IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.98>
+  <VBE_BookUtility.rulePack.rulesStrings.99>maybe_MedicalSkill-></VBE_BookUtility.rulePack.rulesStrings.99>
+  <VBE_BookUtility.rulePack.rulesStrings.100>maybe_MedicalSkill->と[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.100>
+  <VBE_BookUtility.rulePack.rulesStrings.101>maybe_MedicalSkill->および[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.101>
+  <VBE_BookUtility.rulePack.rulesStrings.102>maybe_MeleeSkill-></VBE_BookUtility.rulePack.rulesStrings.102>
+  <VBE_BookUtility.rulePack.rulesStrings.103>maybe_MeleeSkill->と[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.103>
+  <VBE_BookUtility.rulePack.rulesStrings.104>maybe_MeleeSkill->および[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.104>
+  <VBE_BookUtility.rulePack.rulesStrings.105>maybe_MiningSkill-></VBE_BookUtility.rulePack.rulesStrings.105>
+  <VBE_BookUtility.rulePack.rulesStrings.106>maybe_MiningSkill->と[MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.106>
+  <VBE_BookUtility.rulePack.rulesStrings.107>maybe_MiningSkill->および[MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.107>
+  <VBE_BookUtility.rulePack.rulesStrings.108>maybe_SocialSkill-></VBE_BookUtility.rulePack.rulesStrings.108>
+  <VBE_BookUtility.rulePack.rulesStrings.109>maybe_SocialSkill->と[SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.109>
+  <VBE_BookUtility.rulePack.rulesStrings.110>maybe_SocialSkill->および[SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.110>
+  <VBE_BookUtility.rulePack.rulesStrings.111>inspired->本書はベストセラーとなった以下の本に触発され執筆されたものである。</VBE_BookUtility.rulePack.rulesStrings.111>
+  <VBE_BookUtility.rulePack.rulesStrings.112>inspired->本書はつとに有名である以下の本に先んずる内容をあつかうものとして記されたものである。</VBE_BookUtility.rulePack.rulesStrings.112>
+  <VBE_BookUtility.rulePack.rulesStrings.113>inspired->本書はその知見の多くを以下に負っている。</VBE_BookUtility.rulePack.rulesStrings.113>
+  <VBE_BookUtility.rulePack.rulesStrings.114>inspired->本書は以下の他書に対する提議の意味もあって著された。</VBE_BookUtility.rulePack.rulesStrings.114>
+  <VBE_BookUtility.rulePack.rulesStrings.115>context_newspaper->この[newspaper]は[DATE]の[tale_noun]をあつかっている。</VBE_BookUtility.rulePack.rulesStrings.115>
+  <VBE_BookUtility.rulePack.rulesStrings.116>context_newspaper->この[newspaper]は[DATE]の[tale_noun]に関係する記事を載せている。</VBE_BookUtility.rulePack.rulesStrings.116>
+  <VBE_BookUtility.rulePack.rulesStrings.117>context_newspaper->この[newspaper]は[DATE]の[tale_noun]を伝えている。</VBE_BookUtility.rulePack.rulesStrings.117>
+  <VBE_BookUtility.rulePack.rulesStrings.118>context_newspaper->この[newspaper]は[DATE]の[tale_noun]に関するものである。</VBE_BookUtility.rulePack.rulesStrings.118>
+  <VBE_BookUtility.rulePack.rulesStrings.119>context_newspaper->この[newspaper]に[DATE]の[tale_noun]に関して読者に情報をもたらすものである。 informs the reader about.</VBE_BookUtility.rulePack.rulesStrings.119>
+  <VBE_BookUtility.rulePack.rulesStrings.120>newspaper->新聞紙</VBE_BookUtility.rulePack.rulesStrings.120>
+  <VBE_BookUtility.rulePack.rulesStrings.121>newspaper->新聞紙</VBE_BookUtility.rulePack.rulesStrings.121>
+  <VBE_BookUtility.rulePack.rulesStrings.122>newspaper->新聞紙</VBE_BookUtility.rulePack.rulesStrings.122>
+  <VBE_BookUtility.rulePack.rulesStrings.123>newspaper->新聞紙</VBE_BookUtility.rulePack.rulesStrings.123>
+  <VBE_BookUtility.rulePack.rulesStrings.124>ShootingBook->[maybe_adjective][ShootingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.124>
+  <VBE_BookUtility.rulePack.rulesStrings.125>ShootingBook->[AdjectiveBadass][ShootingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.125>
+  <VBE_BookUtility.rulePack.rulesStrings.126>ShootingBook->[AdjectiveLarge][ShootingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.126>
+  <VBE_BookUtility.rulePack.rulesStrings.127>ShootingBook->[PeopleBadass]の[ShootingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.127>
+  <VBE_BookUtility.rulePack.rulesStrings.128>ShootingBook->[maybe_adjective][ShootingSkill]は他の手段をもってする[ConceptAny]の延長である</VBE_BookUtility.rulePack.rulesStrings.128>
+  <VBE_BookUtility.rulePack.rulesStrings.129>ShootingBook->[ShootingSkill]の訓練のための[AdjectiveBadass] [Books]</VBE_BookUtility.rulePack.rulesStrings.129>
+  <VBE_BookUtility.rulePack.rulesStrings.130>ShootingBook->[Adjective][Noun]：[ShootingSkill]の歴史[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.130>
+  <VBE_BookUtility.rulePack.rulesStrings.131>ShootingBook->射術叢書[Digit][ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.131>
+  <VBE_BookUtility.rulePack.rulesStrings.132>ShootingBook->[maybe_letter][Digit][maybe_letter]：[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.132>
+  <VBE_BookUtility.rulePack.rulesStrings.133>ShootingBook->[maybe_letter][Digit][Digit][maybe_letter]：[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.133>
+  <VBE_BookUtility.rulePack.rulesStrings.134>ShootingBook->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.134>
+  <VBE_BookUtility.rulePack.rulesStrings.135>ShootingBook->[maybe_letter][RomanNumeral][maybe_letter]：[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.135>
+  <VBE_BookUtility.rulePack.rulesStrings.136>ShootingBook->[ANYPAWN_nameIndef]著　[ShootingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.136>
+  <VBE_BookUtility.rulePack.rulesStrings.137>ShootingBook->[ANYPAWN_nameIndef]著　[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.137>
+  <VBE_BookUtility.rulePack.rulesStrings.138>ShootingBook->[ANYPAWN_nameIndef]伝　[CookingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.138>
+  <VBE_BookUtility.rulePack.rulesStrings.139>ShootingBook->[ANYPAWN_nameIndef] [Trans] [Color]: [ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.139>
+  <VBE_BookUtility.rulePack.rulesStrings.140>ShootingBook->[Noun]と[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.140>
+  <VBE_BookUtility.rulePack.rulesStrings.141>ShootingBook->[ConceptAny]と[ShootingSkill]</VBE_BookUtility.rulePack.rulesStrings.141>
+  <VBE_BookUtility.rulePack.rulesStrings.142>AnimalsBook->[maybe_adjective][AnimalsSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.142>
+  <VBE_BookUtility.rulePack.rulesStrings.143>AnimalsBook->[AdjectiveBadass][AnimalsSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.143>
+  <VBE_BookUtility.rulePack.rulesStrings.144>AnimalsBook->[AdjectiveLarge][AnimalsSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.144>
+  <VBE_BookUtility.rulePack.rulesStrings.145>AnimalsBook->[PeopleBadass]の[AnimalsSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.145>
+  <VBE_BookUtility.rulePack.rulesStrings.146>AnimalsBook->気づけば私は[maybe_adjective][AnimalsSkill]になっていた</VBE_BookUtility.rulePack.rulesStrings.146>
+  <VBE_BookUtility.rulePack.rulesStrings.147>AnimalsBook->[AnimalsSkill]が[AdjectiveBadass][Books]を書いた</VBE_BookUtility.rulePack.rulesStrings.147>
+  <VBE_BookUtility.rulePack.rulesStrings.148>AnimalsBook->[Adjective][Noun]：[AnimalsSkill]の歴史</VBE_BookUtility.rulePack.rulesStrings.148>
+  <VBE_BookUtility.rulePack.rulesStrings.149>AnimalsBook->動物叢書[Digit] [AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.149>
+  <VBE_BookUtility.rulePack.rulesStrings.150>AnimalsBook->[maybe_letter][Digit][maybe_letter]：[AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.150>
+  <VBE_BookUtility.rulePack.rulesStrings.151>AnimalsBook->[maybe_letter][Digit][Digit][maybe_letter]：[AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.151>
+  <VBE_BookUtility.rulePack.rulesStrings.152>AnimalsBook->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.152>
+  <VBE_BookUtility.rulePack.rulesStrings.153>AnimalsBook->[maybe_letter][RomanNumeral][maybe_letter]：[AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.153>
+  <VBE_BookUtility.rulePack.rulesStrings.154>AnimalsBook->[ANYPAWN_nameIndef]著　[AnimalsSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.154>
+  <VBE_BookUtility.rulePack.rulesStrings.155>AnimalsBook->[ANYPAWN_nameIndef]著　[AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.155>
+  <VBE_BookUtility.rulePack.rulesStrings.156>AnimalsBook->[ANYPAWN_nameIndef]伝　[AnimalsSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.156>
+  <VBE_BookUtility.rulePack.rulesStrings.157>AnimalsBook->[ANYPAWN_nameIndef] [Trans] [Color]: [AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.157>
+  <VBE_BookUtility.rulePack.rulesStrings.158>AnimalsBook->[Noun]と[AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.158>
+  <VBE_BookUtility.rulePack.rulesStrings.159>AnimalsBook->[ConceptAny]と[AnimalsSkill]</VBE_BookUtility.rulePack.rulesStrings.159>
+  <VBE_BookUtility.rulePack.rulesStrings.160>ArtBook->[maybe_adjective][ArtSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.160>
+  <VBE_BookUtility.rulePack.rulesStrings.161>ArtBook->[AdjectiveBadass][ArtSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.161>
+  <VBE_BookUtility.rulePack.rulesStrings.162>ArtBook->[AdjectiveLarge][ArtSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.162>
+  <VBE_BookUtility.rulePack.rulesStrings.163>ArtBook->[PeopleBadass]の[ArtSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.163>
+  <VBE_BookUtility.rulePack.rulesStrings.164>ArtBook->[maybe_adjective][ArtSkill]から見る美術</VBE_BookUtility.rulePack.rulesStrings.164>
+  <VBE_BookUtility.rulePack.rulesStrings.165>ArtBook->[ArtSkill]としての[AdjectiveBadass][Books]</VBE_BookUtility.rulePack.rulesStrings.165>
+  <VBE_BookUtility.rulePack.rulesStrings.166>ArtBook->[Adjective][Noun]：[ArtSkill]の歴史</VBE_BookUtility.rulePack.rulesStrings.166>
+  <VBE_BookUtility.rulePack.rulesStrings.167>ArtBook->芸術叢書[Digit] [ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.167>
+  <VBE_BookUtility.rulePack.rulesStrings.168>ArtBook->[maybe_letter][Digit][maybe_letter]：[ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.168>
+  <VBE_BookUtility.rulePack.rulesStrings.169>ArtBook->[maybe_letter][Digit][Digit][maybe_letter]：[ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.169>
+  <VBE_BookUtility.rulePack.rulesStrings.170>ArtBook->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.170>
+  <VBE_BookUtility.rulePack.rulesStrings.171>ArtBook->[maybe_letter][RomanNumeral][maybe_letter]：[ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.171>
+  <VBE_BookUtility.rulePack.rulesStrings.172>ArtBook->[ANYPAWN_nameIndef]著　[ArtSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.172>
+  <VBE_BookUtility.rulePack.rulesStrings.173>ArtBook->[ANYPAWN_nameIndef]著　[ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.173>
+  <VBE_BookUtility.rulePack.rulesStrings.174>ArtBook->[ANYPAWN_nameIndef]伝　[ArtSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.174>
+  <VBE_BookUtility.rulePack.rulesStrings.175>ArtBook->[ANYPAWN_nameIndef] [Trans] [Color]: [ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.175>
+  <VBE_BookUtility.rulePack.rulesStrings.176>ArtBook->[Noun]と[ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.176>
+  <VBE_BookUtility.rulePack.rulesStrings.177>ArtBook->[ConceptAny]と[ArtSkill]</VBE_BookUtility.rulePack.rulesStrings.177>
+  <VBE_BookUtility.rulePack.rulesStrings.178>ConstructionBook->[maybe_adjective][ConstructionSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.178>
+  <VBE_BookUtility.rulePack.rulesStrings.179>ConstructionBook->[AdjectiveBadass][ConstructionSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.179>
+  <VBE_BookUtility.rulePack.rulesStrings.180>ConstructionBook->[AdjectiveLarge][ConstructionSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.180>
+  <VBE_BookUtility.rulePack.rulesStrings.181>ConstructionBook->[PeopleBadass]の[ConstructionSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.181>
+  <VBE_BookUtility.rulePack.rulesStrings.182>ConstructionBook->[maybe_adjective][ConstructionSkill]を建てる</VBE_BookUtility.rulePack.rulesStrings.182>
+  <VBE_BookUtility.rulePack.rulesStrings.183>ConstructionBook->[AdjectiveBadass][Books]は[ConstructionSkill]でできている</VBE_BookUtility.rulePack.rulesStrings.183>
+  <VBE_BookUtility.rulePack.rulesStrings.184>ConstructionBook->[Adjective][Noun]：[ConstructionSkill]の歴史</VBE_BookUtility.rulePack.rulesStrings.184>
+  <VBE_BookUtility.rulePack.rulesStrings.185>ConstructionBook->建築叢書[Digit] [ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.185>
+  <VBE_BookUtility.rulePack.rulesStrings.186>ConstructionBook->[maybe_letter][Digit][maybe_letter]：[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.186>
+  <VBE_BookUtility.rulePack.rulesStrings.187>ConstructionBook->[maybe_letter][Digit][Digit][maybe_letter]：[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.187>
+  <VBE_BookUtility.rulePack.rulesStrings.188>ConstructionBook->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.188>
+  <VBE_BookUtility.rulePack.rulesStrings.189>ConstructionBook->[maybe_letter][RomanNumeral][maybe_letter]：[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.189>
+  <VBE_BookUtility.rulePack.rulesStrings.190>ConstructionBook->[ANYPAWN_nameIndef]著　[ConstructionSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.190>
+  <VBE_BookUtility.rulePack.rulesStrings.191>ConstructionBook->[ANYPAWN_nameIndef]著　[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.191>
+  <VBE_BookUtility.rulePack.rulesStrings.192>ConstructionBook->[ANYPAWN_nameIndef]伝　[ConstructionSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.192>
+  <VBE_BookUtility.rulePack.rulesStrings.193>ConstructionBook->[ANYPAWN_nameIndef] [Trans] [Color]：[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.193>
+  <VBE_BookUtility.rulePack.rulesStrings.194>ConstructionBook->[Noun]と[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.194>
+  <VBE_BookUtility.rulePack.rulesStrings.195>ConstructionBook->[ConceptAny]と[ConstructionSkill]</VBE_BookUtility.rulePack.rulesStrings.195>
+  
+　<VBE_BookUtility.rulePack.rulesStrings.196>CookingBook->[maybe_adjective][CookingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.196>
+  <VBE_BookUtility.rulePack.rulesStrings.197>CookingBook->[AdjectiveBadass][CookingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.197>
+  <VBE_BookUtility.rulePack.rulesStrings.198>CookingBook->[AdjectiveLarge][CookingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.198>
+  <VBE_BookUtility.rulePack.rulesStrings.199>CookingBook->[PeopleBadass]の[CookingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.199>
+  <VBE_BookUtility.rulePack.rulesStrings.200>CookingBook->今日のごはんは[maybe_adjective] [CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.200>
+  <VBE_BookUtility.rulePack.rulesStrings.201>CookingBook->世界一おいしい[AdjectiveBadass][CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.201>
+  <VBE_BookUtility.rulePack.rulesStrings.202>CookingBook->[Adjective] [Noun]：[CookingSkill]の歴史</VBE_BookUtility.rulePack.rulesStrings.202>
+  <VBE_BookUtility.rulePack.rulesStrings.203>CookingBook->料理叢書[Digit] [CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.203>
+  <VBE_BookUtility.rulePack.rulesStrings.204>CookingBook->[maybe_letter][Digit][maybe_letter]：[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.204>
+  <VBE_BookUtility.rulePack.rulesStrings.205>CookingBook->[maybe_letter][Digit][Digit][maybe_letter]：[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.205>
+  <VBE_BookUtility.rulePack.rulesStrings.206>CookingBook->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.206>
+  <VBE_BookUtility.rulePack.rulesStrings.207>CookingBook->[maybe_letter][RomanNumeral][maybe_letter]：[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.207>
+  <VBE_BookUtility.rulePack.rulesStrings.208>CookingBook->[ANYPAWN_nameIndef]著　[CookingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.208>
+  <VBE_BookUtility.rulePack.rulesStrings.209>CookingBook->[ANYPAWN_nameIndef]著　[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.209>
+  <VBE_BookUtility.rulePack.rulesStrings.210>CookingBook->[ANYPAWN_nameIndef]伝　[CookingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.210>
+  <VBE_BookUtility.rulePack.rulesStrings.211>CookingBook->[ANYPAWN_nameIndef] [Trans] [Color]：[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.211>
+  <VBE_BookUtility.rulePack.rulesStrings.212>CookingBook->[Noun]と[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.212>
+  <VBE_BookUtility.rulePack.rulesStrings.213>CookingBook->[ConceptAny]と[CookingSkill]</VBE_BookUtility.rulePack.rulesStrings.213>
+
+  <VBE_BookUtility.rulePack.rulesStrings.214>CraftingBook->[maybe_adjective][CraftingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.214>
+  <VBE_BookUtility.rulePack.rulesStrings.215>CraftingBook->[AdjectiveBadass][CraftingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.215>
+  <VBE_BookUtility.rulePack.rulesStrings.216>CraftingBook->[AdjectiveLarge] [CraftingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.216>
+  <VBE_BookUtility.rulePack.rulesStrings.217>CraftingBook->[PeopleBadass]の[CraftingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.217>
+  <VBE_BookUtility.rulePack.rulesStrings.218>CraftingBook->[maybe_adjective] [CraftingSkill]で[Noun]を作る</VBE_BookUtility.rulePack.rulesStrings.218>
+  <VBE_BookUtility.rulePack.rulesStrings.219>CraftingBook->[AdjectiveBadass] [Books]で学ぶ[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.219>
+  <VBE_BookUtility.rulePack.rulesStrings.220>CraftingBook->[Adjective] [Noun]：[CraftingSkill]の歴史</VBE_BookUtility.rulePack.rulesStrings.220>
+  <VBE_BookUtility.rulePack.rulesStrings.221>CraftingBook->工芸叢書[Digit] [CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.221>
+  <VBE_BookUtility.rulePack.rulesStrings.222>CraftingBook->[maybe_letter][Digit][maybe_letter]：[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.222>
+  <VBE_BookUtility.rulePack.rulesStrings.223>CraftingBook->[maybe_letter][Digit][Digit][maybe_letter]：[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.223>
+  <VBE_BookUtility.rulePack.rulesStrings.224>CraftingBook->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.224>
+  <VBE_BookUtility.rulePack.rulesStrings.225>CraftingBook->[maybe_letter][RomanNumeral][maybe_letter]：[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.225>
+  <VBE_BookUtility.rulePack.rulesStrings.226>CraftingBook->[ANYPAWN_nameIndef]著 [CraftingSkill][Books] </VBE_BookUtility.rulePack.rulesStrings.226>
+  <VBE_BookUtility.rulePack.rulesStrings.227>CraftingBook->[ANYPAWN_nameIndef]著 [CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.227>
+  <VBE_BookUtility.rulePack.rulesStrings.228>CraftingBook->[ANYPAWN_nameIndef]伝 [CraftingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.228>
+  <VBE_BookUtility.rulePack.rulesStrings.229>CraftingBook->[ANYPAWN_nameIndef] [Trans] [Color]：[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.229>
+  <VBE_BookUtility.rulePack.rulesStrings.230>CraftingBook->[Noun]と[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.230>
+  <VBE_BookUtility.rulePack.rulesStrings.231>CraftingBook->[ConceptAny]と[CraftingSkill]</VBE_BookUtility.rulePack.rulesStrings.231>
+  <VBE_BookUtility.rulePack.rulesStrings.232>GrowingBook->[maybe_adjective][GrowingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.232>
+  <VBE_BookUtility.rulePack.rulesStrings.233>GrowingBook->[AdjectiveBadass][GrowingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.233>
+  <VBE_BookUtility.rulePack.rulesStrings.234>GrowingBook->[AdjectiveLarge][GrowingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.234>
+  <VBE_BookUtility.rulePack.rulesStrings.235>GrowingBook->[PeopleBadass]の[GrowingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.235>
+  <VBE_BookUtility.rulePack.rulesStrings.236>GrowingBook->この[Books]で[maybe_adjective][GrowingSkill]が育つ</VBE_BookUtility.rulePack.rulesStrings.236>
+  <VBE_BookUtility.rulePack.rulesStrings.237>GrowingBook->[GrowingSkill]を育てる[AdjectiveBadass][Books]</VBE_BookUtility.rulePack.rulesStrings.237>
+  <VBE_BookUtility.rulePack.rulesStrings.238>GrowingBook->[Adjective][Noun]：[GrowingSkill]の歴史</VBE_BookUtility.rulePack.rulesStrings.238>
+  <VBE_BookUtility.rulePack.rulesStrings.239>GrowingBook->農業叢書[Digit] [GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.239>
+  <VBE_BookUtility.rulePack.rulesStrings.240>GrowingBook->[maybe_letter][Digit][maybe_letter]：[GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.240>
+  <VBE_BookUtility.rulePack.rulesStrings.241>GrowingBook->[maybe_letter][Digit][Digit][maybe_letter]：[GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.241>
+  <VBE_BookUtility.rulePack.rulesStrings.242>GrowingBook->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.242>
+  <VBE_BookUtility.rulePack.rulesStrings.243>GrowingBook->[maybe_letter][RomanNumeral][maybe_letter]：[GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.243>
+  <VBE_BookUtility.rulePack.rulesStrings.244>GrowingBook->[ANYPAWN_nameIndef]著　[GrowingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.244>
+  <VBE_BookUtility.rulePack.rulesStrings.245>GrowingBook->[ANYPAWN_nameIndef]著　[GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.245>
+  <VBE_BookUtility.rulePack.rulesStrings.246>GrowingBook->[ANYPAWN_nameIndef]伝　[GrowingSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.246>
+  <VBE_BookUtility.rulePack.rulesStrings.247>GrowingBook->[ANYPAWN_nameIndef] [Trans] [Color]：[GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.247>
+  <VBE_BookUtility.rulePack.rulesStrings.248>GrowingBook->[Noun]と[GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.248>
+  <VBE_BookUtility.rulePack.rulesStrings.249>GrowingBook->[ConceptAny]と[GrowingSkill]</VBE_BookUtility.rulePack.rulesStrings.249>
+  <VBE_BookUtility.rulePack.rulesStrings.250>IntellectualBook->[maybe_adjective][IntellectualSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.250>
+  <VBE_BookUtility.rulePack.rulesStrings.251>IntellectualBook->[AdjectiveBadass][IntellectualSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.251>
+  <VBE_BookUtility.rulePack.rulesStrings.252>IntellectualBook->[AdjectiveLarge][IntellectucalSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.252>
+  <VBE_BookUtility.rulePack.rulesStrings.253>IntellectualBook->[PeopleBadass]の[IntellectualSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.253>
+  <VBE_BookUtility.rulePack.rulesStrings.254>IntellectualBook->[maybe_adjective][IntellectualSkill]について</VBE_BookUtility.rulePack.rulesStrings.254>
+  <VBE_BookUtility.rulePack.rulesStrings.255>IntellectualBook->[AdjectiveBadass][Books]は[IntellectualSkill]たりうるのか</VBE_BookUtility.rulePack.rulesStrings.255>
+  <VBE_BookUtility.rulePack.rulesStrings.256>IntellectualBook->[Adjective][Noun]：[IntellectualSkill]の歴史</VBE_BookUtility.rulePack.rulesStrings.256>
+  <VBE_BookUtility.rulePack.rulesStrings.257>IntellectualBook->知力叢書[Digit] [IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.257>
+  <VBE_BookUtility.rulePack.rulesStrings.258>IntellectualBook->[maybe_letter][Digit][maybe_letter]：[IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.258>
+  <VBE_BookUtility.rulePack.rulesStrings.259>IntellectualBook->[maybe_letter][Digit][Digit][maybe_letter]：[IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.259>
+  <VBE_BookUtility.rulePack.rulesStrings.260>IntellectualBook->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.260>
+  <VBE_BookUtility.rulePack.rulesStrings.261>IntellectualBook->[maybe_letter][RomanNumeral][maybe_letter]：[IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.261>
+  <VBE_BookUtility.rulePack.rulesStrings.262>IntellectualBook->[ANYPAWN_nameIndef]著　[IntellectualSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.262>
+  <VBE_BookUtility.rulePack.rulesStrings.263>IntellectualBook->[ANYPAWN_nameIndef]著　[IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.263>
+  <VBE_BookUtility.rulePack.rulesStrings.264>IntellectualBook->[ANYPAWN_nameIndef]伝　[IntellectualSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.264>
+  <VBE_BookUtility.rulePack.rulesStrings.265>IntellectualBook->[ANYPAWN_nameIndef] [Trans] [Color]：[IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.265>
+  <VBE_BookUtility.rulePack.rulesStrings.266>IntellectualBook->[Noun]と[IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.266>
+  <VBE_BookUtility.rulePack.rulesStrings.267>IntellectualBook->[ConceptAny]と[IntellectualSkill]</VBE_BookUtility.rulePack.rulesStrings.267>
+  <VBE_BookUtility.rulePack.rulesStrings.268>MedicalBook->[maybe_adjective][MedicalSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.268>
+  <VBE_BookUtility.rulePack.rulesStrings.269>MedicalBook->[AdjectiveBadass][MedicalSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.269>
+  <VBE_BookUtility.rulePack.rulesStrings.270>MedicalBook->[AdjectiveLarge][MedicalSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.270>
+  <VBE_BookUtility.rulePack.rulesStrings.271>MedicalBook->[PeopleBadass]の[MedicalSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.271>
+  <VBE_BookUtility.rulePack.rulesStrings.272>MedicalBook->[maybe_adjective] [MedicalSkill]方</VBE_BookUtility.rulePack.rulesStrings.272>
+  <VBE_BookUtility.rulePack.rulesStrings.273>MedicalBook->[MedicalSkill]のための[AdjectiveBadass] [Books]</VBE_BookUtility.rulePack.rulesStrings.273>
+  <VBE_BookUtility.rulePack.rulesStrings.274>MedicalBook->[Adjective][Noun]：[MedicalSkill]の歴史</VBE_BookUtility.rulePack.rulesStrings.274>
+  <VBE_BookUtility.rulePack.rulesStrings.275>MedicalBook->医療叢書[Digit] [MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.275>
+  <VBE_BookUtility.rulePack.rulesStrings.276>MedicalBook->[maybe_letter][Digit][maybe_letter]：[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.276>
+  <VBE_BookUtility.rulePack.rulesStrings.277>MedicalBook->[maybe_letter][Digit][Digit][maybe_letter]：[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.277>
+  <VBE_BookUtility.rulePack.rulesStrings.278>MedicalBook->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.278>
+  <VBE_BookUtility.rulePack.rulesStrings.279>MedicalBook->[maybe_letter][RomanNumeral][maybe_letter]：[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.279>
+  <VBE_BookUtility.rulePack.rulesStrings.280>MedicalBook->[ANYPAWN_nameIndef]著　[MedicalSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.280>
+  <VBE_BookUtility.rulePack.rulesStrings.281>MedicalBook->[ANYPAWN_nameIndef]著　[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.281>
+  <VBE_BookUtility.rulePack.rulesStrings.282>MedicalBook->[ANYPAWN_nameIndef]伝　[MedicalSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.282>
+  <VBE_BookUtility.rulePack.rulesStrings.283>MedicalBook->[ANYPAWN_nameIndef] [Trans] [Color]：[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.283>
+  <VBE_BookUtility.rulePack.rulesStrings.284>MedicalBook->[Noun]と[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.284>
+  <VBE_BookUtility.rulePack.rulesStrings.285>MedicalBook->[ConceptAny]と[MedicalSkill]</VBE_BookUtility.rulePack.rulesStrings.285>
+  <VBE_BookUtility.rulePack.rulesStrings.286>MeleeBook->[maybe_adjective][MeleeSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.286>
+  <VBE_BookUtility.rulePack.rulesStrings.287>MeleeBook->[AdjectiveBadass][MeleeSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.287>
+  <VBE_BookUtility.rulePack.rulesStrings.288>MeleeBook->[AdjectiveLarge][MeleeSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.288>
+  <VBE_BookUtility.rulePack.rulesStrings.289>MeleeBook->[PeopleBadass]の[MeleeSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.289>
+  <VBE_BookUtility.rulePack.rulesStrings.290>MeleeBook->[maybe_adjective] [MeleeSkill]の格闘術</VBE_BookUtility.rulePack.rulesStrings.290>
+  <VBE_BookUtility.rulePack.rulesStrings.291>MeleeBook->[MeleeSkill]の訓練のための[AdjectiveBadass][Books]</VBE_BookUtility.rulePack.rulesStrings.291>
+  <VBE_BookUtility.rulePack.rulesStrings.292>MeleeBook->[Adjective][Noun]：[MeleeSkill]の歴史</VBE_BookUtility.rulePack.rulesStrings.292>
+  <VBE_BookUtility.rulePack.rulesStrings.293>MeleeBook->格術叢書[Digit] [MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.293>
+  <VBE_BookUtility.rulePack.rulesStrings.294>MeleeBook->[maybe_letter][Digit][maybe_letter]：[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.294>
+  <VBE_BookUtility.rulePack.rulesStrings.295>MeleeBook->[maybe_letter][Digit][Digit][maybe_letter]：[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.295>
+  <VBE_BookUtility.rulePack.rulesStrings.296>MeleeBook->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.296>
+  <VBE_BookUtility.rulePack.rulesStrings.297>MeleeBook->[maybe_letter][RomanNumeral][maybe_letter]：[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.297>
+  <VBE_BookUtility.rulePack.rulesStrings.298>MeleeBook->[ANYPAWN_nameIndef]著　[MeleeSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.298>
+  <VBE_BookUtility.rulePack.rulesStrings.299>MeleeBook->[ANYPAWN_nameIndef]著　[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.299>
+  <VBE_BookUtility.rulePack.rulesStrings.300>MeleeBook->[ANYPAWN_nameIndef]伝　[MeleeSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.300>
+  <VBE_BookUtility.rulePack.rulesStrings.301>MeleeBook->[ANYPAWN_nameIndef] [Trans] [Color]：[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.301>
+  <VBE_BookUtility.rulePack.rulesStrings.302>MeleeBook->[Noun]と[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.302>
+  <VBE_BookUtility.rulePack.rulesStrings.303>MeleeBook->[ConceptAny]と[MeleeSkill]</VBE_BookUtility.rulePack.rulesStrings.303>
+  <VBE_BookUtility.rulePack.rulesStrings.304>MiningBook->[maybe_adjective][MiningSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.304>
+  <VBE_BookUtility.rulePack.rulesStrings.305>MiningBook->[AdjectiveBadass][MiningSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.305>
+  <VBE_BookUtility.rulePack.rulesStrings.306>MiningBook->[AdjectiveLarge][MiningSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.306>
+  <VBE_BookUtility.rulePack.rulesStrings.307>MiningBook->[PeopleBadass]の[MiningSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.307>
+  <VBE_BookUtility.rulePack.rulesStrings.308>MiningBook->[maybe_adjective][MiningSkill]に出会える[Books]</VBE_BookUtility.rulePack.rulesStrings.308>
+  <VBE_BookUtility.rulePack.rulesStrings.309>MiningBook->[MiningSkill]がザクザクできる[AdjectiveBadass][Books]</VBE_BookUtility.rulePack.rulesStrings.309>
+  <VBE_BookUtility.rulePack.rulesStrings.310>MiningBook->[Adjective][Noun]：[MiningSkill]の歴史</VBE_BookUtility.rulePack.rulesStrings.310>
+  <VBE_BookUtility.rulePack.rulesStrings.311>MiningBook->採掘叢書[Digit] [MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.311>
+  <VBE_BookUtility.rulePack.rulesStrings.312>MiningBook->[maybe_letter][Digit][maybe_letter]：[MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.312>
+  <VBE_BookUtility.rulePack.rulesStrings.313>MiningBook->[maybe_letter][Digit][Digit][maybe_letter]：[MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.313>
+  <VBE_BookUtility.rulePack.rulesStrings.314>MiningBook->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.314>
+  <VBE_BookUtility.rulePack.rulesStrings.315>MiningBook->[maybe_letter][RomanNumeral][maybe_letter]：[MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.315>
+  <VBE_BookUtility.rulePack.rulesStrings.316>MiningBook->[ANYPAWN_nameIndef]著　[MiningSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.316>
+  <VBE_BookUtility.rulePack.rulesStrings.317>MiningBook->[ANYPAWN_nameIndef]著　[MiningSkill</VBE_BookUtility.rulePack.rulesStrings.317>
+  <VBE_BookUtility.rulePack.rulesStrings.318>MiningBook->[ANYPAWN_nameIndef]伝　[MiningSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.318>
+  <VBE_BookUtility.rulePack.rulesStrings.319>MiningBook->[ANYPAWN_nameIndef] [Trans] [Color]: [MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.319>
+  <VBE_BookUtility.rulePack.rulesStrings.320>MiningBook->[Noun]と[MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.320>
+  <VBE_BookUtility.rulePack.rulesStrings.321>MiningBook->[ConceptAny]と[MiningSkill]</VBE_BookUtility.rulePack.rulesStrings.321>
+  <VBE_BookUtility.rulePack.rulesStrings.322>SocialBook->[maybe_adjective][SocialSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.322>
+  <VBE_BookUtility.rulePack.rulesStrings.323>SocialBook->[AdjectiveBadass][SocialSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.323>
+  <VBE_BookUtility.rulePack.rulesStrings.324>SocialBook->[AdjectiveLarge][SocialSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.324>
+  <VBE_BookUtility.rulePack.rulesStrings.325>SocialBook->[PeopleBadass]の[SocialSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.325>
+  <VBE_BookUtility.rulePack.rulesStrings.326>SocialBook->あなたの隣人に[maybe_adjective][SocialSkill]の話をしてみなさい</VBE_BookUtility.rulePack.rulesStrings.326>
+  <VBE_BookUtility.rulePack.rulesStrings.327>SocialBook->デキる人はなぜ[AdjectiveBadass][Books]で[SocialSkill]を学ぶのか</VBE_BookUtility.rulePack.rulesStrings.327>
+  <VBE_BookUtility.rulePack.rulesStrings.328>SocialBook->[Adjective][Noun]：[SocialSkill]の歴史</VBE_BookUtility.rulePack.rulesStrings.328>
+  <VBE_BookUtility.rulePack.rulesStrings.329>SocialBook->社交術叢書[Digit] [SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.329>
+  <VBE_BookUtility.rulePack.rulesStrings.330>SocialBook->[maybe_letter][Digit][maybe_letter]：[SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.330>
+  <VBE_BookUtility.rulePack.rulesStrings.331>SocialBook->[maybe_letter][Digit][Digit][maybe_letter]：[SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.331>
+  <VBE_BookUtility.rulePack.rulesStrings.332>SocialBook->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.332>
+  <VBE_BookUtility.rulePack.rulesStrings.333>SocialBook->[maybe_letter][RomanNumeral][maybe_letter]：[SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.333>
+  <VBE_BookUtility.rulePack.rulesStrings.334>SocialBook->[ANYPAWN_nameIndef]著　[SocialSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.334>
+  <VBE_BookUtility.rulePack.rulesStrings.335>SocialBook->[ANYPAWN_nameIndef]著　[SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.335>
+  <VBE_BookUtility.rulePack.rulesStrings.336>SocialBook->[ANYPAWN_nameIndef]伝　[SocialSkill][Books]</VBE_BookUtility.rulePack.rulesStrings.336>
+  <VBE_BookUtility.rulePack.rulesStrings.337>SocialBook->[ANYPAWN_nameIndef] [Trans] [Color]: [SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.337>
+  <VBE_BookUtility.rulePack.rulesStrings.338>SocialBook->[Noun]と[SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.338>
+  <VBE_BookUtility.rulePack.rulesStrings.339>SocialBook->[ConceptAny]と[SocialSkill]</VBE_BookUtility.rulePack.rulesStrings.339>
+
+
+</LanguageData>

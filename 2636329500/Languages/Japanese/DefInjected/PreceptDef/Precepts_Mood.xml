@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Mood_DictatedByStars.label>星々に委ねる</VME_Mood_DictatedByStars.label>
+  <VME_Mood_DictatedByStars.description>空に広がる無限の星の海は,善意であれ悪意であれ,私たちの運命を決定するものだ.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - 占星術の儀式や日食,オーロラなどが起こるたびに,心情が-30～＋30の間でランダムに変化します.</VME_Mood_DictatedByStars.description>
+
+  <VME_Mood_Shared.label>常に共感</VME_Mood_Shared.label>
+  <VME_Mood_Shared.description>共感とは,私たちが持つべき特性であり,お互いの重荷を背負ったり,喜びを分かちあうべきだ.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - コロニーの平均的な雰囲気が幸せであれば,コロニーの人々はポジティブな心情を受け取ります.その逆も然りです.</VME_Mood_Shared.description>
+
+  <VME_Mood_LowExpectations.label>憂鬱</VME_Mood_LowExpectations.label>
+  <VME_Mood_LowExpectations.description>私たちは存在を忘れられた惑星に取り残されている.事態は悪化の一途をたどっているに違いない.</VME_Mood_LowExpectations.description>
+
+  <VME_Mood_Normal.label>普通</VME_Mood_Normal.label>
+  <VME_Mood_Normal.description>私は大丈夫です.ありがとう.</VME_Mood_Normal.description>
+
+  <VME_Mood_HighExpectations.label>上機嫌</VME_Mood_HighExpectations.label>
+  <VME_Mood_HighExpectations.description>この世界はすべて私たちのものであり,私たちはそれらを探求したり,楽しむことができる.</VME_Mood_HighExpectations.description>
+
+
+  <VME_Mood_Shared.comps.0.thoughtStageDescriptions.1>入植者の平均的な心情が低下</VME_Mood_Shared.comps.0.thoughtStageDescriptions.1>
+  <VME_Mood_Shared.comps.0.thoughtStageDescriptions.0>入植者の平均的な心情が上昇</VME_Mood_Shared.comps.0.thoughtStageDescriptions.0>
+
+
+
+  <VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.0>星と調和した</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.0>
+
+  <VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.1>完璧な星々</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.1>
+
+  <VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.2>素晴らしい星々</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.2>
+
+  <VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.3>良い星々</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.3>
+
+  <VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.4>無関心な星々</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.4>
+  <VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.5>悪い星々</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.5>
+  <VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.6>沈黙の星々</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.6>
+  <VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.7>不吉な星々</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.7>
+  <VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.8>反抗的な星々</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.8>
+
+
+</LanguageData>

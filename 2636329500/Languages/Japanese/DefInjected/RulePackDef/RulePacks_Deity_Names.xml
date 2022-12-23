@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.0>r_deityName->[start][middle][end]</VME_NamerDeityEldritch.rulePack.rulesStrings.0>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.1>start->シュブ</VME_NamerDeityEldritch.rulePack.rulesStrings.1>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.2>start->クトゥ</VME_NamerDeityEldritch.rulePack.rulesStrings.2>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.3>start->ミー</VME_NamerDeityEldritch.rulePack.rulesStrings.3>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.4>start->ヨグ</VME_NamerDeityEldritch.rulePack.rulesStrings.4>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.5>start->イー</VME_NamerDeityEldritch.rulePack.rulesStrings.5>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.6>start->ツァ</VME_NamerDeityEldritch.rulePack.rulesStrings.6>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.7>start->アザ</VME_NamerDeityEldritch.rulePack.rulesStrings.7>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.8>start->イン</VME_NamerDeityEldritch.rulePack.rulesStrings.8>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.9>start->ヴァ</VME_NamerDeityEldritch.rulePack.rulesStrings.9>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.10>start->ゲー</VME_NamerDeityEldritch.rulePack.rulesStrings.10>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.11>start->シュド</VME_NamerDeityEldritch.rulePack.rulesStrings.11>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.12>start->ニャル</VME_NamerDeityEldritch.rulePack.rulesStrings.12>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.13>start->オー</VME_NamerDeityEldritch.rulePack.rulesStrings.13>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.14>start->アーク</VME_NamerDeityEldritch.rulePack.rulesStrings.14>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.15>start->コル</VME_NamerDeityEldritch.rulePack.rulesStrings.15>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.16>start->オクト</VME_NamerDeityEldritch.rulePack.rulesStrings.16>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.17>start->ヨムゥー</VME_NamerDeityEldritch.rulePack.rulesStrings.17>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.18>start->サブゥー</VME_NamerDeityEldritch.rulePack.rulesStrings.18>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.19>start->エド</VME_NamerDeityEldritch.rulePack.rulesStrings.19>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.20>start->イッチ</VME_NamerDeityEldritch.rulePack.rulesStrings.20>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.21>middle->ニグ</VME_NamerDeityEldritch.rulePack.rulesStrings.21>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.22>middle->ヘレ</VME_NamerDeityEldritch.rulePack.rulesStrings.22>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.23>middle->トソー</VME_NamerDeityEldritch.rulePack.rulesStrings.23>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.24>middle->ラト</VME_NamerDeityEldritch.rulePack.rulesStrings.24>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.25>middle->オ</VME_NamerDeityEldritch.rulePack.rulesStrings.25>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.26>middle->ラー</VME_NamerDeityEldritch.rulePack.rulesStrings.26>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.27>middle->トゥ</VME_NamerDeityEldritch.rulePack.rulesStrings.27>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.28>middle->ラト</VME_NamerDeityEldritch.rulePack.rulesStrings.28>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.29>middle->トゥ</VME_NamerDeityEldritch.rulePack.rulesStrings.29>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.30>middle->ムラオ</VME_NamerDeityEldritch.rulePack.rulesStrings.30>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.31>end(p=4)-></VME_NamerDeityEldritch.rulePack.rulesStrings.31>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.32>end->ゴラス</VME_NamerDeityEldritch.rulePack.rulesStrings.32>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.33>end->ラス</VME_NamerDeityEldritch.rulePack.rulesStrings.33>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.34>end->ン</VME_NamerDeityEldritch.rulePack.rulesStrings.34>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.35>end->クス</VME_NamerDeityEldritch.rulePack.rulesStrings.35>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.36>end->グア</VME_NamerDeityEldritch.rulePack.rulesStrings.36>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.37>end->ホテプ</VME_NamerDeityEldritch.rulePack.rulesStrings.37>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.38>end->グァ</VME_NamerDeityEldritch.rulePack.rulesStrings.38>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.39>end->ルフ</VME_NamerDeityEldritch.rulePack.rulesStrings.39>
+  <VME_NamerDeityEldritch.rulePack.rulesStrings.40>end->ゴ</VME_NamerDeityEldritch.rulePack.rulesStrings.40>
+
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.0>r_deityType->[concept]の前駆体</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.0>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.1>r_deityType->[concept]の堕落者</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.1>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.2>r_deityType->[concept]の悪夢</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.2>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.3>r_deityType->[concept]の敵</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.3>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.4>r_deityType->[concept]の破壊者</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.4>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.5>r_deityType->[concept]の惨劇</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.5>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.6>r_deityType->不可解な[concept]</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.6>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.7>r_deityType->[concept]の中心部の轟音</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.7>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.8>r_deityType->[concept3]のうち[concept2]</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.8>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.9>concept->何もかも</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.9>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.10>concept->全て</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.10>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.11>concept->万物</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.11>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.12>concept->星団</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.12>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.13>concept->霊魂</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.13>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.14>concept->人間性</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.14>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.15>concept->宇宙</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.15>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.16>concept->我々の夢</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.16>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.17>concept->我々の恐怖</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.17>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.18>concept2->色彩</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.18>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.19>concept2->千匹のヤギ</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.19>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.20>concept2->飢餓</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.20>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.21>concept2->きらめき</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.21>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.22>concept2->インクのしみ</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.22>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.23>concept2->狂気</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.23>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.24>concept2->発狂</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.24>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.25>concept3->宇宙</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.25>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.26>concept3->深層部</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.26>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.27>concept3->クトーニアンの深淵</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.27>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.28>concept3->冥界</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.28>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.29>concept3->我々の悪夢</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.29>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.30>concept3->我々の夢</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.30>
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings.31>concept3->我々の恐怖</VME_DietyTypeMakerEldritch.rulePack.rulesStrings.31>
+
+  <VME_NamerCultofPersonality.rulePack.rulesStrings.0>r_deityName->最高指導者</VME_NamerCultofPersonality.rulePack.rulesStrings.0>
+  <VME_NamerCultofPersonality.rulePack.rulesStrings.1>r_deityName->総書記</VME_NamerCultofPersonality.rulePack.rulesStrings.1>
+
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.0>r_deityType->[name2]の[name1]</VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.0>
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.1>name1->提督</VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.1>
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.2>name1->権者</VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.2>
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.3>name1->パラティン伯</VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.3>
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.4>name1->皇帝</VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.4>
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.5>name1->代表</VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.5>
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.6>name1->大君主</VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.6>
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.7>name1->議長</VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.7>
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.8>name1->監視者</VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.8>
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.9>name1->総督</VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.9>
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.10>name2->真実</VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.10>
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.11>name2->正義</VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.11>
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.12>name2->人民</VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.12>
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.13>name2->大河</VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.13>
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.14>name2->夢</VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.14>
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.15>name2->永遠</VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.15>
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.16>name2->尊敬</VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.16>
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.17>name2->恵み</VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.17>
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.18>name2->統一</VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.18>
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.19>name2->新しい王国</VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.19>
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.20>name2->王国</VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings.20>
+
+  <VME_NamerPantheism.rulePack.rulesStrings.0>r_deityName->万物</VME_NamerPantheism.rulePack.rulesStrings.0>
+  <VME_NamerPantheism.rulePack.rulesStrings.1>r_deityName->宇宙</VME_NamerPantheism.rulePack.rulesStrings.1>
+  <VME_NamerPantheism.rulePack.rulesStrings.2>r_deityName->全存在物</VME_NamerPantheism.rulePack.rulesStrings.2>
+
+  <VME_DietyTypeMakerPantheism.rulePack.rulesStrings.0>r_deityType->[name1] [name2]</VME_DietyTypeMakerPantheism.rulePack.rulesStrings.0>
+  <VME_DietyTypeMakerPantheism.rulePack.rulesStrings.1>name1->すべてを包み込む</VME_DietyTypeMakerPantheism.rulePack.rulesStrings.1>
+  <VME_DietyTypeMakerPantheism.rulePack.rulesStrings.2>name1->遍在する</VME_DietyTypeMakerPantheism.rulePack.rulesStrings.2>
+  <VME_DietyTypeMakerPantheism.rulePack.rulesStrings.3>name1->遍在性の</VME_DietyTypeMakerPantheism.rulePack.rulesStrings.3>
+  <VME_DietyTypeMakerPantheism.rulePack.rulesStrings.4>name1->普遍的な</VME_DietyTypeMakerPantheism.rulePack.rulesStrings.4>
+  <VME_DietyTypeMakerPantheism.rulePack.rulesStrings.5>name1->一同の</VME_DietyTypeMakerPantheism.rulePack.rulesStrings.5>
+  <VME_DietyTypeMakerPantheism.rulePack.rulesStrings.6>name1->普及した</VME_DietyTypeMakerPantheism.rulePack.rulesStrings.6>
+  <VME_DietyTypeMakerPantheism.rulePack.rulesStrings.7>name1->限りのない</VME_DietyTypeMakerPantheism.rulePack.rulesStrings.7>
+  <VME_DietyTypeMakerPantheism.rulePack.rulesStrings.8>name2->創造</VME_DietyTypeMakerPantheism.rulePack.rulesStrings.8>
+  <VME_DietyTypeMakerPantheism.rulePack.rulesStrings.9>name2->宇宙</VME_DietyTypeMakerPantheism.rulePack.rulesStrings.9>
+  <VME_DietyTypeMakerPantheism.rulePack.rulesStrings.10>name2->真空</VME_DietyTypeMakerPantheism.rulePack.rulesStrings.10>
+  <VME_DietyTypeMakerPantheism.rulePack.rulesStrings.11>name2->全体</VME_DietyTypeMakerPantheism.rulePack.rulesStrings.11>
+  <VME_DietyTypeMakerPantheism.rulePack.rulesStrings.12>name2->無限大</VME_DietyTypeMakerPantheism.rulePack.rulesStrings.12>
+  <VME_DietyTypeMakerPantheism.rulePack.rulesStrings.13>name2->球体</VME_DietyTypeMakerPantheism.rulePack.rulesStrings.13>
+
+  <VME_NamerCorporate.rulePack.rulesStrings.0>r_deityName->会社</VME_NamerCorporate.rulePack.rulesStrings.0>
+  <VME_NamerCorporate.rulePack.rulesStrings.1>r_deityName->事業</VME_NamerCorporate.rulePack.rulesStrings.1>
+  <VME_NamerCorporate.rulePack.rulesStrings.2>r_deityName->企業</VME_NamerCorporate.rulePack.rulesStrings.2>
+  <VME_NamerCorporate.rulePack.rulesStrings.3>r_deityName->組合</VME_NamerCorporate.rulePack.rulesStrings.3>
+
+  <VME_DietyTypeMakerCorporate.rulePack.rulesStrings.0>r_deityType(p=4)->[businessname] [businesstype]</VME_DietyTypeMakerCorporate.rulePack.rulesStrings.0>
+  <VME_DietyTypeMakerCorporate.rulePack.rulesStrings.1>r_deityType->[NamePerson] [businesstype]</VME_DietyTypeMakerCorporate.rulePack.rulesStrings.1>
+  <VME_DietyTypeMakerCorporate.rulePack.rulesStrings.2>r_deityType->[maybe_adjective] [Animal] [businesstype]</VME_DietyTypeMakerCorporate.rulePack.rulesStrings.2>
+  <VME_DietyTypeMakerCorporate.rulePack.rulesStrings.3>r_deityType->[Letter][Letter] [businesstype]</VME_DietyTypeMakerCorporate.rulePack.rulesStrings.3>
+  <VME_DietyTypeMakerCorporate.rulePack.rulesStrings.4>r_deityType(p=0.5)->[PersonAlly] [businesstype]</VME_DietyTypeMakerCorporate.rulePack.rulesStrings.4>
+  <VME_DietyTypeMakerCorporate.rulePack.rulesStrings.5>r_deityType(p=0.5)->[AdjectiveFriendly] [businesstype]</VME_DietyTypeMakerCorporate.rulePack.rulesStrings.5>
+  <VME_DietyTypeMakerCorporate.rulePack.rulesStrings.6>r_deityType(p=0.5)->[AdjectiveBadass] [businesstype]</VME_DietyTypeMakerCorporate.rulePack.rulesStrings.6>
+  <VME_DietyTypeMakerCorporate.rulePack.rulesStrings.7>r_deityType(p=0.3)->[PersonFamily] [businesstype]</VME_DietyTypeMakerCorporate.rulePack.rulesStrings.7>
+  <VME_DietyTypeMakerCorporate.rulePack.rulesStrings.8>r_deityType(p=0.3)->[maybe_adjective] [NaturalObject] [businesstype]</VME_DietyTypeMakerCorporate.rulePack.rulesStrings.8>
+  <VME_DietyTypeMakerCorporate.rulePack.rulesStrings.9>r_deityType(p=0.2)->[maybe_adjective] [TreeType] [businesstype]</VME_DietyTypeMakerCorporate.rulePack.rulesStrings.9>
+  <VME_DietyTypeMakerCorporate.rulePack.rulesStrings.10>r_deityType(p=0.2)->[maybe_adjective] [Vegetable] [businesstype]</VME_DietyTypeMakerCorporate.rulePack.rulesStrings.10>
+  <VME_DietyTypeMakerCorporate.rulePack.rulesStrings.11>r_deityType(p=0.2)->[Direction] [businesstype]</VME_DietyTypeMakerCorporate.rulePack.rulesStrings.11>
+  <VME_DietyTypeMakerCorporate.rulePack.rulesStrings.12>maybe_adjective-></VME_DietyTypeMakerCorporate.rulePack.rulesStrings.12>
+  <VME_DietyTypeMakerCorporate.rulePack.rulesStrings.13>maybe_adjective->[Color]</VME_DietyTypeMakerCorporate.rulePack.rulesStrings.13>
+  <VME_DietyTypeMakerCorporate.rulePack.rulesStrings.14>maybe_adjective->[AdjectiveFriendly]</VME_DietyTypeMakerCorporate.rulePack.rulesStrings.14>
+  <VME_DietyTypeMakerCorporate.rulePack.rulesStrings.15>maybe_adjective->[AdjectiveBadass]</VME_DietyTypeMakerCorporate.rulePack.rulesStrings.15>
+
+
+</LanguageData>

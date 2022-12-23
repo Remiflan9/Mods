@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_BookReading_Desired.label>望ましい</VME_BookReading_Desired.label>
+  <VME_BookReading_Desired.description>できる限り情報を学ぶことが重要だ.他にどうやって学ぶ方法が?本はとても興味深いものだ.</VME_BookReading_Desired.description>
+
+  <VME_BookReading_Disliked.label>嫌い</VME_BookReading_Disliked.label>
+  <VME_BookReading_Disliked.description>読書はただの雑用だ.読書からは何も得られない.</VME_BookReading_Disliked.description>
+
+
+</LanguageData>

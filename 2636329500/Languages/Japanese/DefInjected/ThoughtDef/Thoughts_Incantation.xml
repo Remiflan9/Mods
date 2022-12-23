@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_SquamousIncantation.stages.0.label>奇怪な詠唱の儀</VME_SquamousIncantation.stages.0.label>
+  <VME_SquamousIncantation.stages.0.description>何とも言えない醜悪なゲロゲロといった鳴き声が聞こえてきた.鱗状が見えたが,一体何なのか分からない.とにかく言葉にならない!</VME_SquamousIncantation.stages.0.description>
+
+  <VME_AccursedIncantation.stages.0.label>忌まわしい詠唱の儀</VME_AccursedIncantation.stages.0.label>
+  <VME_AccursedIncantation.stages.0.description>犯罪,堕落,狂気で表現された,暗く病的なものだった.</VME_AccursedIncantation.stages.0.description>
+
+  <VME_BlasphemousIncantation.stages.0.label>冒涜的な詠唱の儀</VME_BlasphemousIncantation.stages.0.label>
+  <VME_BlasphemousIncantation.stages.0.description>星の彼方の溝で脈動が鳴り響き,月の輝く夜に死者だけが垣間見ることのできる神聖とは程遠い次元で,私たちの惑星に恐ろしいほど迫ってくるような,奇妙な生命の隠された底知れぬ世界を約束するものだった.</VME_BlasphemousIncantation.stages.0.description>
+
+  <VME_LoathsomeIncantation.stages.0.label>おぞましい詠唱の儀</VME_LoathsomeIncantation.stages.0.label>
+  <VME_LoathsomeIncantation.stages.0.description>無限の黒い海の中で無知なる島に居るものだった.私たちがそこまで遠くに航海してしまったのは過ちだったようだ.</VME_LoathsomeIncantation.stages.0.description>
+
+
+</LanguageData>

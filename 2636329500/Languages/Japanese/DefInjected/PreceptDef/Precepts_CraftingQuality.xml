@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_CraftingQuality_Increased.label>増加</VME_CraftingQuality_Increased.label>
+  <VME_CraftingQuality_Increased.description>私たちは仕事に誇りを持ち,完璧な作品を創作するためには妥協を許してはならない.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - 作業台で作られたアイテムの品質が1上がり,最大で伝説級になります.</VME_CraftingQuality_Increased.description>
+
+  <VME_CraftingQuality_Decreased.label>減少</VME_CraftingQuality_Decreased.label>
+  <VME_CraftingQuality_Decreased.description>私たちは職人のような難しい仕事には拘らない.そもそも人から買ったり盗んだりできるのに,何故わざわざ作る必要がある?\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - 作業台で作られたアイテムの品質が1下がり,最低で壊れかけにします.</VME_CraftingQuality_Decreased.description>
+
+
+</LanguageData>

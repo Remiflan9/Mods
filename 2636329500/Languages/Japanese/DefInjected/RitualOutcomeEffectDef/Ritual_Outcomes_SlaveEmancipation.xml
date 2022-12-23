@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_SlaveEmancipationOutcome.description>儀式の質に応じて参加者は{MOODDAYS}日間, {MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</VME_SlaveEmancipationOutcome.description>
+  <VME_SlaveEmancipationOutcome.outcomeChances.0.label>迷惑</VME_SlaveEmancipationOutcome.outcomeChances.0.label>
+  <VME_SlaveEmancipationOutcome.outcomeChances.0.description>{0}は酷いものでした!まるで私たちが悪者のような状況に陥ってしまいました...これでは,このコロニーに加入したいと思う人はいません.</VME_SlaveEmancipationOutcome.outcomeChances.0.description>
+  <VME_SlaveEmancipationOutcome.outcomeChances.1.label>自由</VME_SlaveEmancipationOutcome.outcomeChances.1.label>
+  <VME_SlaveEmancipationOutcome.outcomeChances.1.description>{0}は,自由な考えを示す素晴らしいものでした.リーダーの演説は,奴隷制の悪さをすべて簡潔に説明していました.参加した奴隷は25％の確率でコロニーに参加します.</VME_SlaveEmancipationOutcome.outcomeChances.1.description>
+  <VME_SlaveEmancipationOutcome.outcomeChances.2.label>解放</VME_SlaveEmancipationOutcome.outcomeChances.2.label>
+  <VME_SlaveEmancipationOutcome.outcomeChances.2.description>{0}は拘束を解いた.リーダーの演説は,奴隷制によるあらゆる悪事と,自由社会の計り知れない利点を詳しく説明し,とても感動的でした.参加した奴隷は,50％の確率でコロニーに参加します.</VME_SlaveEmancipationOutcome.outcomeChances.2.description>
+  <VME_SlaveEmancipationOutcome.outcomeChances.3.label>救済</VME_SlaveEmancipationOutcome.outcomeChances.3.label>
+  <VME_SlaveEmancipationOutcome.outcomeChances.3.description>{0}の心と身体は解き放たれました!リーダーのスピーチは,奴隷制から解放された自由な社会の美徳を讃える感動的な演説でした.参加した奴隷は75％の確率でコロニーに参加します.</VME_SlaveEmancipationOutcome.outcomeChances.3.description>
+  <VME_SlaveEmancipationOutcome.outcomeChances.4.label>最高</VME_SlaveEmancipationOutcome.outcomeChances.4.label>
+  <VME_SlaveEmancipationOutcome.outcomeChances.4.description>{0}は最高でした!リーダーのスピーチは伝説となり,その言葉が未来に響き,奴隷解放の勢力を強めることになるでしょう.参加した奴隷は100％の確率でコロニーに参加することができます.</VME_SlaveEmancipationOutcome.outcomeChances.4.description>
+  <VME_SlaveEmancipationOutcome.comps.0.label>部屋の印象</VME_SlaveEmancipationOutcome.comps.0.label>
+  <VME_SlaveEmancipationOutcome.comps.1.label>参加者数</VME_SlaveEmancipationOutcome.comps.1.label>
+  <VME_SlaveEmancipationOutcome.comps.2.label>{PAWN_labelShort}の社会的影響</VME_SlaveEmancipationOutcome.comps.2.label>
+
+
+</LanguageData>

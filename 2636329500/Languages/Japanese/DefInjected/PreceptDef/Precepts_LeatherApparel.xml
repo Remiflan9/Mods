@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_LeatherApparel_Abhorrent.label>嫌悪</VME_LeatherApparel_Abhorrent.label>
+  <VME_LeatherApparel_Abhorrent.description>動物を屠殺してその皮を衣服として使用することは残酷で非道だ.</VME_LeatherApparel_Abhorrent.description>
+
+  <VME_LeatherApparel_Disliked.label>軽蔑</VME_LeatherApparel_Disliked.label>
+  <VME_LeatherApparel_Disliked.description>動物の皮を材料として使うことは避けるべきだ.</VME_LeatherApparel_Disliked.description>
+
+</LanguageData>

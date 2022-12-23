@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_DeconstructJunk.label>ガラクタを撤去する</VME_DeconstructJunk.label>
+  <VME_DeconstructJunk.verb>ガラクタを撤去する</VME_DeconstructJunk.verb>
+  <VME_DeconstructJunk.gerund>ガラクタを撤去する</VME_DeconstructJunk.gerund>
+
+  <VME_MaintainInsectNest.label>虫の巣を修復する</VME_MaintainInsectNest.label>
+  <VME_MaintainInsectNest.verb>修復する</VME_MaintainInsectNest.verb>
+  <VME_MaintainInsectNest.gerund>修復する</VME_MaintainInsectNest.gerund>
+
+
+</LanguageData>

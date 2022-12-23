@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_TameInsectoid.label>虫を調教する</VME_TameInsectoid.label>
+  <VME_TameInsectoid.description>対象の虫を手なずけます.</VME_TameInsectoid.description>
+
+  <VME_ConstructANest.label>巣を作る</VME_ConstructANest.label>
+  <VME_ConstructANest.description>インセクトゼリーが生産される虫の巣を作ります.「虫の賛美歌」の儀式を成功させるとクールダウンがリセットされます.</VME_ConstructANest.description>
+
+
+</LanguageData>

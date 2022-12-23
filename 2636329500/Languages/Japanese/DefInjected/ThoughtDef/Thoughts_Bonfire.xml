@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_TerribleBonfire.stages.0.label>酷い大かがり火</VME_TerribleBonfire.stages.0.label>
+  <VME_TerribleBonfire.stages.0.description>哀れな小さな炎が漂っていたが,それもすぐに消えてしまった.なにが"大"じゃ,酷いものだ.</VME_TerribleBonfire.stages.0.description>
+
+  <VME_LacklusterBonfire.stages.0.label>どんよりとした大かがり火</VME_LacklusterBonfire.stages.0.label>
+  <VME_LacklusterBonfire.stages.0.description>幻想的な炎を期待していたのに,それはただ大きいだけの素朴なキャンプファイヤーだった.かろうじて,クスリと笑えただけだ.</VME_LacklusterBonfire.stages.0.description>
+
+  <VME_GoodBonfire.stages.0.label>良い大かがり火</VME_GoodBonfire.stages.0.label>
+  <VME_GoodBonfire.stages.0.description>炎が堂々と上がり,あたりを照らし,気分を高揚させてくれた.</VME_GoodBonfire.stages.0.description>
+
+  <VME_GloriousBonfire.stages.0.label>輝かしい大かがり火</VME_GloriousBonfire.stages.0.label>
+  <VME_GloriousBonfire.stages.0.description>とても楽しかった.共通の経験をすることで,お互いの絆を深めた.</VME_GloriousBonfire.stages.0.description>
+
+
+</LanguageData>

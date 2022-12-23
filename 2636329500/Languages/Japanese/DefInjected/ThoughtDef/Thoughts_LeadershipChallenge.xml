@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_TerribleLeadershipChallenge.stages.0.label>酷い決闘</VME_TerribleLeadershipChallenge.stages.0.label>
+  <VME_TerribleLeadershipChallenge.stages.0.description>決闘は酷いものだった.見ているだけで悲しくなった.それでもこのコロニーには最強のリーダーがいる...</VME_TerribleLeadershipChallenge.stages.0.description>
+
+  <VME_BoringLeadershipChallenge.stages.0.label>うんざりする決闘</VME_BoringLeadershipChallenge.stages.0.label>
+  <VME_BoringLeadershipChallenge.stages.0.description>あの決闘は無様だった.戦士は専心せず,エキサイティングな瞬間もなかった.少なくとも今,私たちのリーダーが最強なのは分かった.</VME_BoringLeadershipChallenge.stages.0.description>
+
+  <VME_GoodLeadershipChallenge.stages.0.label>良い決闘</VME_GoodLeadershipChallenge.stages.0.label>
+  <VME_GoodLeadershipChallenge.stages.0.description>決闘は良いものだった.戦士は血を求めて戦い,本当の心を見せた.私たちのリーダーは最強の戦士ということを誇示してくれた.</VME_GoodLeadershipChallenge.stages.0.description>
+
+  <VME_UnforgettableLeadershipChallenge.stages.0.label>忘れられない決闘</VME_UnforgettableLeadershipChallenge.stages.0.label>
+  <VME_UnforgettableLeadershipChallenge.stages.0.description>決闘は忘れられないものだった!双方の戦士が自身の全力を尽くし,私たちのリーダーは今この場で,最も強い存在であることを知らしめた.</VME_UnforgettableLeadershipChallenge.stages.0.description>
+
+
+</LanguageData>

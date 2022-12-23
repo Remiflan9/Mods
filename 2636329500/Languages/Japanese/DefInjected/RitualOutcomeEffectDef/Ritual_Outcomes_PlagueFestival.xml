@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_PlagueFestivalRitualOutcome.description>儀式の質に応じて参加者は{MOODDAYS}日間, {MINMOOD}~{MAXMOOD}の心情ボーナスを得ます. 儀式の質が「うんざり」以上の出来なら,参加者全員に疫病の報酬が与えられます。</VME_PlagueFestivalRitualOutcome.description>
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.0.label>酷い</VME_PlagueFestivalRitualOutcome.outcomeChances.0.label>
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.0.description>{0}は酷いものでした!スピーチは吃音で一貫性もなく,処刑も失敗しました. 死体はそのまま放置され,疫病の祝福も発生しません.時間の無駄でした.</VME_PlagueFestivalRitualOutcome.outcomeChances.0.description>
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.1.label>うんざり</VME_PlagueFestivalRitualOutcome.outcomeChances.1.label>
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.1.description>{0}は退屈でした.スピーチは同じことを繰り返し,処刑の技術には著しい欠陥がありました.しかし,祝福された疫病は今,私たちの中にいます.</VME_PlagueFestivalRitualOutcome.outcomeChances.1.description>
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.2.label>満足</VME_PlagueFestivalRitualOutcome.outcomeChances.2.label>
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.2.description>{0}は満足のいくものでした.スピーチは意味のあるもので,死体から瘴気が解き放たれ,聖なる疫病の風を全身に浴びました.</VME_PlagueFestivalRitualOutcome.outcomeChances.2.description>
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.3.label>壮観</VME_PlagueFestivalRitualOutcome.outcomeChances.3.label>
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.3.description>{0}は素晴らしいものでした!スピーチで皆が熱狂した後,動物の死体から聖なる疫病の風が漂い,私たちを祝福してくれました.</VME_PlagueFestivalRitualOutcome.outcomeChances.3.description>
+  <VME_PlagueFestivalRitualOutcome.comps.2.label>モラルガイドがいる</VME_PlagueFestivalRitualOutcome.comps.2.label>
+  <VME_PlagueFestivalRitualOutcome.comps.3.label>参加者数</VME_PlagueFestivalRitualOutcome.comps.3.label>
+  <VME_PlagueFestivalRitualOutcome.comps.4.label>祭壇で始まった</VME_PlagueFestivalRitualOutcome.comps.4.label>
+
+
+</LanguageData>

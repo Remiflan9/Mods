@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Aurora_Amazing.stages.0.label>素晴らしいオーロラ</VME_Aurora_Amazing.stages.0.label>
+  <VME_Aurora_Amazing.stages.0.description>暗闇で唯一ほっとする癒やしだ.</VME_Aurora_Amazing.stages.0.description>
+
+  <VME_Aurora_Despised.stages.0.label>気持ち悪いオーロラ</VME_Aurora_Despised.stages.0.label>
+  <VME_Aurora_Despised.stages.0.description>天の光がまぶしくて吐きそうになる.</VME_Aurora_Despised.stages.0.description>
+
+
+</LanguageData>

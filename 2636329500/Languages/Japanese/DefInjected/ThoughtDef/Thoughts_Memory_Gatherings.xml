@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_AttendedParty.stages.0.label>極上のパーティに参加した</VME_AttendedParty.stages.0.label>
+  <VME_AttendedParty.stages.0.description>あのパーティーはとても楽しかった.</VME_AttendedParty.stages.0.description>
+
+  <VME_EnforcedCompliance.stages.0.label>国家主義者の意気込み</VME_EnforcedCompliance.stages.0.label>
+  <VME_EnforcedCompliance.stages.0.description>入植者が何らかの規律違反によって処刑された.このことを前向きに考えてこのコロニーのために頑張らなくては.</VME_EnforcedCompliance.stages.0.description>
+
+
+</LanguageData>

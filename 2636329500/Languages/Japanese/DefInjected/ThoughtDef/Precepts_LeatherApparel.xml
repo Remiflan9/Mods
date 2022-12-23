@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_LeatherApparel_Abhorrent.stages.0.label>皮製の服を着ている</VME_LeatherApparel_Abhorrent.stages.0.label>
+  <VME_LeatherApparel_Abhorrent.stages.0.description>私は動物の皮を使った服を着ている.動物を屠殺してその皮を衣服として使用することは,残酷で非人道的だ.</VME_LeatherApparel_Abhorrent.stages.0.description>
+
+  <VME_LeatherApparel_Disliked.stages.0.label>皮製の服を着ている</VME_LeatherApparel_Disliked.stages.0.label>
+  <VME_LeatherApparel_Disliked.stages.0.description>私は動物の皮を使った服を着ている.材料に使うために動物を屠殺することは避けるべきだ.</VME_LeatherApparel_Disliked.stages.0.description>
+
+</LanguageData>

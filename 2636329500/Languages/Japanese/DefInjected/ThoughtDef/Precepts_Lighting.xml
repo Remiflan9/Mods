@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts -->
+
+  <VME_Darklight_NormalPreferred_Darklight.stages.0.label>ダークライト</VME_Darklight_NormalPreferred_Darklight.stages.0.label>
+  <VME_Darklight_NormalPreferred_Darklight.stages.0.description>ダークライトは自然に反している.</VME_Darklight_NormalPreferred_Darklight.stages.0.description>
+
+  <VME_Darklight_DislikeDarkness.stages.0.label>疎ましい暗闇</VME_Darklight_DislikeDarkness.stages.0.label>
+  <VME_Darklight_DislikeDarkness.stages.0.description>暗闇は忌まわしいものだ.</VME_Darklight_DislikeDarkness.stages.0.description>
+
+
+</LanguageData>

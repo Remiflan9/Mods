@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Corporate -->
+
+  <VME_CorporateFineTileSandstone.label>企業の華麗な砂岩タイル</VME_CorporateFineTileSandstone.label>
+  <VME_CorporateFineTileSandstone.description>経済的地位を示すための,妥協のない,企業をイメージした精巧な石のタイルです.建設に時間がかかります.</VME_CorporateFineTileSandstone.description>
+
+  <VME_CorporateFineTileGranite.label>企業の華麗な花崗岩タイル</VME_CorporateFineTileGranite.label>
+  <VME_CorporateFineTileGranite.description>経済的地位を示すための,妥協のない,企業をイメージした精巧な石のタイルです.建設に時間がかかります.</VME_CorporateFineTileGranite.description>
+
+  <VME_CorporateFineTileLimestone.label>企業の華麗な石灰岩タイル</VME_CorporateFineTileLimestone.label>
+  <VME_CorporateFineTileLimestone.description>経済的地位を示すための,妥協のない,企業をイメージした精巧な石のタイルです.建設に時間がかかります.</VME_CorporateFineTileLimestone.description>
+
+  <VME_CorporateFineTileSlate.label>企業の華麗な粘板岩タイル</VME_CorporateFineTileSlate.label>
+  <VME_CorporateFineTileSlate.description>経済的地位を示すための,妥協のない,企業をイメージした精巧な石のタイルです.建設に時間がかかります.</VME_CorporateFineTileSlate.description>
+
+  <VME_CorporateFineTileMarble.label>企業の大理石タイル</VME_CorporateFineTileMarble.label>
+  <VME_CorporateFineTileMarble.description>経済的地位を示すための,妥協のない,企業をイメージした精巧な石のタイルです.建設に時間がかかります.</VME_CorporateFineTileMarble.description>
+
+
+  <!-- Shintao -->
+
+  <VME_ShintaoFineTileSandstone.label>シンタオの華麗な砂岩タイル</VME_ShintaoFineTileSandstone.label>
+  <VME_ShintaoFineTileSandstone.description>経済的地位を示すための,妥協のない,シンタオをイメージした精巧な石のタイルです.建設に時間がかかります.</VME_ShintaoFineTileSandstone.description>
+
+  <VME_ShintaoFineTileGranite.label>シンタオの華麗な花崗岩タイル</VME_ShintaoFineTileGranite.label>
+  <VME_ShintaoFineTileGranite.description>経済的地位を示すための,妥協のない,シンタオをイメージした精巧な石のタイルです.建設に時間がかかります.</VME_ShintaoFineTileGranite.description>
+
+  <VME_ShintaoFineTileLimestone.label>シンタオの華麗な石灰岩タイル</VME_ShintaoFineTileLimestone.label>
+  <VME_ShintaoFineTileLimestone.description>経済的地位を示すための,妥協のない,シンタオをイメージした精巧な石のタイルです.建設に時間がかかります.</VME_ShintaoFineTileLimestone.description>
+
+  <VME_ShintaoFineTileSlate.label>シンタオの華麗な粘板岩タイル</VME_ShintaoFineTileSlate.label>
+  <VME_ShintaoFineTileSlate.description>経済的地位を示すための,妥協のない,シンタオをイメージした精巧な石のタイルです.建設に時間がかかります.</VME_ShintaoFineTileSlate.description>
+
+  <VME_ShintaoFineTileMarble.label>シンタオの華麗な大理石タイル</VME_ShintaoFineTileMarble.label>
+  <VME_ShintaoFineTileMarble.description>経済的地位を示すための,妥協のない,シンタオをイメージした精巧な石のタイルです.建設に時間がかかります.</VME_ShintaoFineTileMarble.description>
+
+  <VME_ShintaoCarpetRed.label>シンタオの赤の絨毯</VME_ShintaoCarpetRed.label>
+  <VME_ShintaoCarpetRed.description>美しいバラ色の豪華なカーペットです.</VME_ShintaoCarpetRed.description>
+
+  <VME_ShintaoCarpetGreen.label>シンタオの緑の絨毯</VME_ShintaoCarpetGreen.label>
+  <VME_ShintaoCarpetGreen.description>自然な色合いの緑のカーペットです.大地の風格を持つ,洒落た色です.</VME_ShintaoCarpetGreen.description>
+
+  <VME_ShintaoCarpetBlue.label>シンタオの青の絨毯</VME_ShintaoCarpetBlue.label>
+  <VME_ShintaoCarpetBlue.description>涼しい青色の,つま先を包み込む豪華なカーペットです.</VME_ShintaoCarpetBlue.description>
+
+  <VME_ShintaoCarpetCream.label>シンタオのクリーム色 絨毯</VME_ShintaoCarpetCream.label>
+  <VME_ShintaoCarpetCream.description>魅力的なクリーム色のカーペットです.</VME_ShintaoCarpetCream.description>
+
+  <VME_ShintaoCarpetDark.label>シンタオのシックな絨毯</VME_ShintaoCarpetDark.label>
+  <VME_ShintaoCarpetDark.description>プロフェッショナルな質感の濃い灰色のカーペットです.</VME_ShintaoCarpetDark.description>
+
+  <VME_ShintaoCarpetFineBurgundy.label>シンタオの華麗な暗赤色の絨毯</VME_ShintaoCarpetFineBurgundy.label>
+  <VME_ShintaoCarpetFineBurgundy.description>最高級の暗赤色のカーペットです.クラシックで裕福な見た目です.</VME_ShintaoCarpetFineBurgundy.description>
+
+  <VME_ShintaoCarpetFineIndigo.label>シンタオの華麗な藍色の絨毯</VME_ShintaoCarpetFineIndigo.label>
+  <VME_ShintaoCarpetFineIndigo.description>柔らかく滑らかな藍色のカーペットです.極上の心地よさを感じられます.</VME_ShintaoCarpetFineIndigo.description>
+
+  <VME_ShintaoCarpetFineWhite.label>シンタオの華麗な白色の絨毯</VME_ShintaoCarpetFineWhite.label>
+  <VME_ShintaoCarpetFineWhite.description>荘厳な見た目をした白色のカーペットです.繊細な模様が煌いています.</VME_ShintaoCarpetFineWhite.description>
+
+
+</LanguageData>

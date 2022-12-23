@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Leader_Godlike.label>神格化</VME_Leader_Godlike.label>
+  <VME_Leader_Godlike.description>私たちのリーダーは神のように崇められるべきだ.並みの人間として扱うことは私たちにとって破滅を意味する.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - その人がリーダーに抱く評価は,思想の信仰度によって左右されます.</VME_Leader_Godlike.description>
+
+  <VME_Leader_BestCrafter.label>熟練の工芸士</VME_Leader_BestCrafter.label>
+  <VME_Leader_BestCrafter.description>最も優れた工芸士がリーダーになるべきだ.彼らの鋭く繊細なタッチによって,私たちの作業台は創造の詩を歌うだろう.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - リーダーの役割は定期的にコロニー内の最高レベルの工芸担当者に押し付けられる（これは思想が主要なものである場合にのみ機能します）.</VME_Leader_BestCrafter.description>
+
+  <VME_Leader_BestFighter.label>熟練の格闘家</VME_Leader_BestFighter.label>
+  <VME_Leader_BestFighter.description>最も優れた格闘家がリーダーになるべきだ.格闘の専門知識は,それが剣であれ槍であれ,常に強さと勇気を示すものだ.（これは思想が主要なものである場合にのみ機能します）.</VME_Leader_BestFighter.description>
+
+  <VME_Leader_Three.label>3名</VME_Leader_Three.label>
+  <VME_Leader_Three.description>私たちのリーダーは一人ではない.複数の人間に信頼を置くことが重要だ.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - リーダーは最大3名まで指定できます.</VME_Leader_Three.description>
+
+  <VME_Leader_Moralist.label>モラルガイド</VME_Leader_Moralist.label>
+  <VME_Leader_Moralist.description>私たちのリーダーはモラルガイドだ.その神聖な導きによって私たちは繁栄するだろう.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - リーダーはモラルガイドの能力も使うことができます.</VME_Leader_Moralist.description>
+
+  <VME_Leader_Godlike.comps.0.thoughtStageDescriptions.0>神聖な皇帝</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.0>
+
+  <VME_Leader_Godlike.comps.0.thoughtStageDescriptions.1>偉大な皇帝</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.1>
+
+  <VME_Leader_Godlike.comps.0.thoughtStageDescriptions.2>疑惑の皇帝</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.2>
+
+  <VME_Leader_Godlike.comps.0.thoughtStageDescriptions.3>偽りの皇帝</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.3>
+
+
+</LanguageData>

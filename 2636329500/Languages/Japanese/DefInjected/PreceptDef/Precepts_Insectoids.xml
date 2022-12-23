@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Insectoids_Exalted.label>高貴</VME_Insectoids_Exalted.label>
+  <VME_Insectoids_Exalted.description>虫は私たちの敵ではない.多くの人から誤解されている.攻撃するに値するものではないはずだ.</VME_Insectoids_Exalted.description>
+
+  <VME_Insectoids_Despised.label>軽蔑</VME_Insectoids_Despised.label>
+  <VME_Insectoids_Despised.description>虫は私たちの敵であり,駆除すべき疫病だ.</VME_Insectoids_Despised.description>
+
+
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ArtDescription_BookShooting.rulePack.rulesStrings.0>physical_description_root->[cover][first_chapters]――[ShootingSkill] [middle_book]――[ShootingSkill]  [ending]――[ShootingSkill] これにより本書は[maybe_writingstyles][book_context]ものとなっている。本書による学習で射撃スキルが増すだろう。</ArtDescription_BookShooting.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Animals.rulePack.rulesStrings.0>r_animalsbook_desc->[cover] [first_chapters]――[AnimalsSkill]　[middle_book]――[AnimalsSkill]　[ending]――[AnimalsSkill]　これにより本書は[maybe_writingstyles][book_context]ものとなっている。動物書としてこれを読むことで動物の知識を得られるだろう。</VBE_BookDescription_Animals.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Art.rulePack.rulesStrings.0>r_artbook_desc->[cover] [first_chapters]――[ArtSkill]  [middle_book]――[ArtSkill]　 [ending]――[ArtSkill] これにより本書は[maybe_writingstyles][book_context]ものとなっている。芸術書としてこれを読むことで芸術の知識が得られるだろう。</VBE_BookDescription_Art.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Construction.rulePack.rulesStrings.0>r_constructionbook_desc->[cover] [first_chapters]――[ConstructionSkill]  [middle_book]――[ConstructionSkill]　 [ending]――[ConstructionSkill] これにより[maybe_writingstyles][book_context]ものとなっている。建築書としてこれを読むことで建築の知識を得られるだろう。</VBE_BookDescription_Construction.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Cooking.rulePack.rulesStrings.0>r_cookingbook_desc->[cover] [first_chapters]――[CookingSkill]　[middle_book]――[CookingSkill]　[ending]――[CookingSkill] これにより本書は[maybe_writingstyles][book_context]ものとなっている。本書による学習で料理スキルが増すだろう。</VBE_BookDescription_Cooking.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Crafting.rulePack.rulesStrings.0>r_craftingbook_desc->[cover] [first_chapters]――[CraftingSkill]　[middle_book]――[CraftingSkill] [ending]――[CraftingSkill]　これにより本書は[maybe_writingstyles][book_context]ものとなっている。これを読むことで工芸スキルが向上するだろう。</VBE_BookDescription_Crafting.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Growing.rulePack.rulesStrings.0>r_growingbook_desc->[cover] [first_chapters]――[GrowingSkill]  [middle_book]――[GrowingSkill] [ending]――[GrowingSkill] これにより本書は[maybe_writingstyles][book_context]ものとなっている。本書による学習で栽培スキルが増すだろう。</VBE_BookDescription_Growing.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Intellectual.rulePack.rulesStrings.0>r_intellectualbook_desc->[cover] [first_chapters]――[IntellectualSkill] [middle_book]――[IntellectualSkill] [ending]――[IntellectualSkill] これにより本書は[maybe_writingstyles][book_context]ものとなっている。これを読むことで知力スキルが向上するだろう。</VBE_BookDescription_Intellectual.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Medical.rulePack.rulesStrings.0>r_medicalbook_desc->[cover] [first_chapters]――[MedicalSkill] [middle_book]――[MedicalSkill] [ending]――[MedicalSkill] これにより本書[maybe_writingstyles][book_context]ものとなっている。本書による学習で医療スキルが増すだろう。</VBE_BookDescription_Medical.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Melee.rulePack.rulesStrings.0>r_meleebook_desc->[cover] [first_chapters]――[MeleeSkill] [middle_book]――[MeleeSkill]　[ending]――[MeleeSkill] これにより本書は[maybe_writingstyles][book_context]ものとなっている。格術書としてこれを読むことで格闘の知識を得られるだろう。</VBE_BookDescription_Melee.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Mining.rulePack.rulesStrings.0>r_miningbook_desc->[cover] [first_chapters]――[MiningSkill] [middle_book]――[MiningSkill] [ending]――[MiningSkill] これにより本書は[maybe_writingstyles][book_context]ものとなっている。これを読むことで採掘スキルが向上するだろう。</VBE_BookDescription_Mining.rulePack.rulesStrings.0>
+  <VBE_BookDescription_Social.rulePack.rulesStrings.0>r_socialbook_desc->[cover] [first_chapters]――[SocialSkill] [middle_book]――[SocialSkill] [ending]――[SocialSkill] これにより本書は[maybe_writingstyles][book_context]ものとなっている。社交術書としてこれを読むことで社交の知識を得られるだろう。</VBE_BookDescription_Social.rulePack.rulesStrings.0>
+
+
+</LanguageData>

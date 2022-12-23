@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_WoodcuttingYield_High.label>崇高</VME_WoodcuttingYield_High.label>
+  <VME_WoodcuttingYield_High.description>材木は無限に使える資源だ.我々にとって,切り株さえも無駄にはならない.\n\n&lt;color=#E5E54C&gt;統計:&lt;/color&gt;\n - 木材収穫量: +10%.</VME_WoodcuttingYield_High.description>
+
+
+</LanguageData>

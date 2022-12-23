@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <!-- Foot -->
+
+  <VME_InstallFleshcraftedFoot.label>継ぎ接ぎの足 移植</VME_InstallFleshcraftedFoot.label>
+  <VME_InstallFleshcraftedFoot.description>継ぎ接ぎの足を移植します.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_InstallFleshcraftedFoot.description>
+  <VME_InstallFleshcraftedFoot.jobString>継ぎ接ぎの足を移植中</VME_InstallFleshcraftedFoot.jobString>
+  
+  <!-- Arm -->
+
+  <VME_InstallFleshcraftedArm.label>継ぎ接ぎの腕 移植</VME_InstallFleshcraftedArm.label>
+  <VME_InstallFleshcraftedArm.description>継ぎ接ぎの腕を移植します.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_InstallFleshcraftedArm.description>
+  <VME_InstallFleshcraftedArm.jobString>継ぎ接ぎの腕を移植中</VME_InstallFleshcraftedArm.jobString>
+
+
+  <!-- Hand -->
+
+  <VME_InstallFleshcraftedHand.label>継ぎ接ぎの手 移植</VME_InstallFleshcraftedHand.label>
+  <VME_InstallFleshcraftedHand.description>継ぎ接ぎの手を移植します.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_InstallFleshcraftedHand.description>
+  <VME_InstallFleshcraftedHand.jobString>継ぎ接ぎの手を移植中</VME_InstallFleshcraftedHand.jobString>
+
+
+  <!-- Finger -->
+
+  <VME_InstallFleshcraftedFinger.label>継ぎ接ぎの指 移植</VME_InstallFleshcraftedFinger.label>
+  <VME_InstallFleshcraftedFinger.description>継ぎ接ぎの指を移植します.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_InstallFleshcraftedFinger.description>
+  <VME_InstallFleshcraftedFinger.jobString>継ぎ接ぎの指を移植中</VME_InstallFleshcraftedFinger.jobString>
+
+
+  <!-- Toe -->
+
+  <VME_InstallFleshcraftedToe.label>継ぎ接ぎの足趾 移植</VME_InstallFleshcraftedToe.label>
+  <VME_InstallFleshcraftedToe.description>継ぎ接ぎの足趾を移植します.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_InstallFleshcraftedToe.description>
+  <VME_InstallFleshcraftedToe.jobString>継ぎ接ぎの足趾を移植中</VME_InstallFleshcraftedToe.jobString>
+
+
+  <!-- Leg -->
+
+  <VME_InstallFleshcraftedLeg.label>継ぎ接ぎの脚 移植</VME_InstallFleshcraftedLeg.label>
+  <VME_InstallFleshcraftedLeg.description>継ぎ接ぎの脚を移植します.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_InstallFleshcraftedLeg.description>
+  <VME_InstallFleshcraftedLeg.jobString>継ぎ接ぎの脚を移植中</VME_InstallFleshcraftedLeg.jobString>
+
+
+  <!-- Heart -->
+
+  <VME_InstallFleshcraftedHeart.label>継ぎ接ぎの心臓 移植</VME_InstallFleshcraftedHeart.label>
+  <VME_InstallFleshcraftedHeart.description>継ぎ接ぎの心臓を移植します.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_InstallFleshcraftedHeart.description>
+  <VME_InstallFleshcraftedHeart.jobString>継ぎ接ぎの心臓を移植中</VME_InstallFleshcraftedHeart.jobString>
+
+
+  <!-- Lung -->
+
+  <VME_InstallFleshcraftedLung.label>継ぎ接ぎの肺 移植</VME_InstallFleshcraftedLung.label>
+  <VME_InstallFleshcraftedLung.description>継ぎ接ぎの肺を移植します.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_InstallFleshcraftedLung.description>
+  <VME_InstallFleshcraftedLung.jobString>継ぎ接ぎの肺を移植中</VME_InstallFleshcraftedLung.jobString>
+
+
+  <!-- Kidney -->
+
+  <VME_InstallFleshcraftedKidney.label>継ぎ接ぎの腎臓 移植</VME_InstallFleshcraftedKidney.label>
+  <VME_InstallFleshcraftedKidney.description>継ぎ接ぎの腎臓を移植します.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_InstallFleshcraftedKidney.description>
+  <VME_InstallFleshcraftedKidney.jobString>継ぎ接ぎの腎臓を移植中</VME_InstallFleshcraftedKidney.jobString>
+
+
+  <!-- Liver -->
+
+  <VME_InstallFleshcraftedLiver.label>継ぎ接ぎの肝臓 移植</VME_InstallFleshcraftedLiver.label>
+  <VME_InstallFleshcraftedLiver.description>継ぎ接ぎの肝臓を移植します.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_InstallFleshcraftedLiver.description>
+  <VME_InstallFleshcraftedLiver.jobString>継ぎ接ぎの肝臓を移植中</VME_InstallFleshcraftedLiver.jobString>
+
+
+  <!-- Eye -->
+
+  <VME_InstallFleshcraftedEye.label>継ぎ接ぎの眼 移植</VME_InstallFleshcraftedEye.label>
+  <VME_InstallFleshcraftedEye.description>継ぎ接ぎの眼を移植します.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_InstallFleshcraftedEye.description>
+  <VME_InstallFleshcraftedEye.jobString>継ぎ接ぎの眼を移植中</VME_InstallFleshcraftedEye.jobString>
+
+
+  <!-- Ear -->
+
+  <VME_InstallFleshcraftedEar.label>継ぎ接ぎの耳 移植</VME_InstallFleshcraftedEar.label>
+  <VME_InstallFleshcraftedEar.description>継ぎ接ぎの耳を移植します.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_InstallFleshcraftedEar.description>
+  <VME_InstallFleshcraftedEar.jobString>継ぎ接ぎの耳を移植中</VME_InstallFleshcraftedEar.jobString>
+
+
+  <!-- Nose -->
+
+  <VME_InstallFleshcraftedNose.label>継ぎ接ぎの鼻 移植</VME_InstallFleshcraftedNose.label>
+  <VME_InstallFleshcraftedNose.description>継ぎ接ぎの鼻を移植します.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_InstallFleshcraftedNose.description>
+  <VME_InstallFleshcraftedNose.jobString>継ぎ接ぎの鼻を移植中</VME_InstallFleshcraftedNose.jobString>
+
+
+  <!-- Jaw -->
+
+  <VME_InstallFleshcraftedJaw.label>継ぎ接ぎの顎 移植</VME_InstallFleshcraftedJaw.label>
+  <VME_InstallFleshcraftedJaw.description>継ぎ接ぎの顎を移植します.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_InstallFleshcraftedJaw.description>
+  <VME_InstallFleshcraftedJaw.jobString>継ぎ接ぎの顎を移植中</VME_InstallFleshcraftedJaw.jobString>
+
+
+  <!-- Stomach -->
+
+  <VME_InstallFleshcraftedStomach.label>継ぎ接ぎの胃 移植</VME_InstallFleshcraftedStomach.label>
+  <VME_InstallFleshcraftedStomach.description>継ぎ接ぎの胃を移植します.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_InstallFleshcraftedStomach.description>
+  <VME_InstallFleshcraftedStomach.jobString>継ぎ接ぎの胃を移植中</VME_InstallFleshcraftedStomach.jobString>
+
+
+  <!-- Tongue -->
+
+  <VME_InstallFleshcraftedTongue.label>継ぎ接ぎの舌 移植</VME_InstallFleshcraftedTongue.label>
+  <VME_InstallFleshcraftedTongue.description>継ぎ接ぎの舌を移植します.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_InstallFleshcraftedTongue.description>
+  <VME_InstallFleshcraftedTongue.jobString>継ぎ接ぎの舌を移植中</VME_InstallFleshcraftedTongue.jobString>
+
+
+  <!-- Spine -->
+
+  <VME_InstallFleshcraftedSpine.label>継ぎ接ぎの脊椎 移植</VME_InstallFleshcraftedSpine.label>
+  <VME_InstallFleshcraftedSpine.description>継ぎ接ぎの脊椎を移植します.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_InstallFleshcraftedSpine.description>
+  <VME_InstallFleshcraftedSpine.jobString>継ぎ接ぎの脊椎を移植中</VME_InstallFleshcraftedSpine.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_BonfireOutcome.description>儀式の質に応じて参加者は4時間から3日の間,娯楽の充実度を上げることができます.また,{MOODDAYS}日間,{MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.\n\n儀式用のかがり火は最低でも2クワッドラムの間は点灯し,近くにいる入植者に美しい環境のボーナスを与え,火炎崇拝に必要な「火」の数にカウントされます.</VME_BonfireOutcome.description>
+  <VME_BonfireOutcome.outcomeChances.0.label>酷い</VME_BonfireOutcome.outcomeChances.0.label>
+  <VME_BonfireOutcome.outcomeChances.0.description>{0}は酷いものでした!哀れみただよう小さな炎が,ゴミのようにすぐに消えてしまいました（娯楽効果は適用されません）.</VME_BonfireOutcome.outcomeChances.0.description>
+  <VME_BonfireOutcome.outcomeChances.1.label>活気のない</VME_BonfireOutcome.outcomeChances.1.label>
+  <VME_BonfireOutcome.outcomeChances.1.description>{0}は活気がありませんでした.幻想的な炎を期待していたのに,それはただ大きいだけの素朴なキャンプファイヤーでした.かろうじて,クスリと笑えただけです.\n\n参加者全員の娯楽効果が4時間続きます.</VME_BonfireOutcome.outcomeChances.1.description>
+  <VME_BonfireOutcome.outcomeChances.2.label>良い</VME_BonfireOutcome.outcomeChances.2.label>
+  <VME_BonfireOutcome.outcomeChances.2.description>{0}は良いものでした.炎がよく広がり,辺りを照らし続け,私たちの気分を高揚させてくれました.\n\n参加者全員の娯楽効果が1時間続きます.</VME_BonfireOutcome.outcomeChances.2.description>
+  <VME_BonfireOutcome.outcomeChances.3.label>輝かしい</VME_BonfireOutcome.outcomeChances.3.label>
+  <VME_BonfireOutcome.outcomeChances.3.description>{0}は輝かしいものだった!とても楽しくて,共通の経験をすることで,お互いの繋がりが深まりました.\n\n参加者全員の娯楽効果が3時間続きます.</VME_BonfireOutcome.outcomeChances.3.description>
+
+  <VME_BonfireOutcome.comps.0.label>{PAWN_labelShort}の社会的影響</VME_BonfireOutcome.comps.0.label>
+
+  <VME_BonfireOutcome.comps.1.label>参加者数</VME_BonfireOutcome.comps.1.label>
+
+</LanguageData>

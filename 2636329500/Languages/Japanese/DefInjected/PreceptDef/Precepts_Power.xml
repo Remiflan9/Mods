@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Power_Exalted.label>高貴</VME_Power_Exalted.label>
+  <VME_Power_Exalted.description>私は正義の味方だ!私はただの王ではない!まさに神そのものに昇格したのだ! 私に屈するか,命をかけて償うか選べ.</VME_Power_Exalted.description>
+
+  <VME_Power_Desired.label>望ましい</VME_Power_Desired.label>
+  <VME_Power_Desired.description>力のある権力者になりたい願望は,非常に理解できる欲求だ.それを見下すべきではない.</VME_Power_Desired.description>
+
+  <VME_Power_Preferred.label>優先</VME_Power_Preferred.label>
+  <VME_Power_Preferred.description>庶民と思われるのは考えられない侮辱だ.私の言葉を真摯に受け止め,失望させないために多大な努力をするべきだ.</VME_Power_Preferred.description>
+
+
+  <VME_Power_Exalted.comps.0.thoughtStageDescriptions.0>リーダー</VME_Power_Exalted.comps.0.thoughtStageDescriptions.0>
+
+  <VME_Power_Desired.comps.0.thoughtStageDescriptions.0>リーダーとモラルガイド</VME_Power_Desired.comps.0.thoughtStageDescriptions.0>
+
+  <VME_Power_Preferred.comps.0.thoughtStageDescriptions.0>何らかの役職</VME_Power_Preferred.comps.0.thoughtStageDescriptions.0>
+
+
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_Cultured.label>教養主義者</VME_Cultured.label>
+  <VME_Cultured.description>知識を読み書きして伝えることは最も学術的な使命であり,熱狂すべきことです.</VME_Cultured.description>
+  <VME_Cultured.generalRules.rulesStrings.0>memeAdjective-&gt;教養的な</VME_Cultured.generalRules.rulesStrings.0>
+  <VME_Cultured.generalRules.rulesStrings.1>memeAdjective-&gt;見識ある</VME_Cultured.generalRules.rulesStrings.1>
+  <VME_Cultured.generalRules.rulesStrings.2>memeAdjective-&gt;博識な</VME_Cultured.generalRules.rulesStrings.2>
+  <VME_Cultured.generalRules.rulesStrings.3>memeAdjective-&gt;学識のある</VME_Cultured.generalRules.rulesStrings.3>
+  <VME_Cultured.generalRules.rulesStrings.4>memeAdjective-&gt;知識のある</VME_Cultured.generalRules.rulesStrings.4>
+  <VME_Cultured.generalRules.rulesStrings.5>memeConcept-&gt;執筆</VME_Cultured.generalRules.rulesStrings.5>
+  <VME_Cultured.generalRules.rulesStrings.6>memeConcept-&gt;読書</VME_Cultured.generalRules.rulesStrings.6>
+  <VME_Cultured.generalRules.rulesStrings.7>memeLeaderNoun-&gt;司書</VME_Cultured.generalRules.rulesStrings.7>
+  <VME_Cultured.generalRules.rulesStrings.8>memeMoralist-&gt;法律学者</VME_Cultured.generalRules.rulesStrings.8>
+  <VME_Cultured.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Cultured)        -&gt;[deity0_name]は,[deity0_possessive]信者達に書くことの秘訣を教えた.「私があなたに話したすべての言葉を本に書きなさい」</VME_Cultured.descriptionMaker.rules.rulesStrings.0>
+  <VME_Cultured.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Cultured)  -&gt;[deity0_name]は全ての[memberNamePlural]に「天の御国の弟子になった学者は皆,家長のようなもので,自分の宝物の中から新しいものや古いものを出してくれる」と告げた.</VME_Cultured.descriptionMaker.rules.rulesStrings.1>
+  <VME_Cultured.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Cultured)           -&gt;[place_summary]である[place_name]では,[memberNamePlural]がそこに巨大な図書館を建てた.そこでは祖先の知恵が詰まった不思議な本や巻物で埋め尽くされていた.</VME_Cultured.descriptionMaker.rules.rulesStrings.2>
+  <VME_Cultured.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Cultured)        -&gt;[deity0_name]の意志を否定しようとする単純な[foeLeader]は,[foeLeader_possessive][foeSoldiers]に,[foeLeader_pronoun]が猛烈な反知性主義者であったため,すべての知識を灰にするように指示した.</VME_Cultured.descriptionMaker.rules.rulesStrings.3>
+  <VME_Cultured.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Cultured)     -&gt;[deity0_name]は[founderName]という[place_job]に[deity0_possessive]無限の知識を授け,[founder_pronoun]は[memberNamePlural]のすべての知識をほぼ不滅のデータコアに転写した.</VME_Cultured.descriptionMaker.rules.rulesStrings.4>
+  <VME_Cultured.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Cultured)         -&gt;[foeSoldiers]たちは,[memberNamePlural]のすべての古書を燃やして抹消することに成功したが,[founderName]の努力のおかげでデータは無事だったため,大事には至らなかった.</VME_Cultured.descriptionMaker.rules.rulesStrings.5>
+  <VME_Cultured.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Cultured)           -&gt;我々の創始者[founderName]は銀河系で最も偉大な作家の一人だった.[founderName_possessive]散文によって,遠く離れた世界を訪れ,複雑な空想に没頭することができた.</VME_Cultured.descriptionMaker.rules.rulesStrings.6>
+  <VME_Cultured.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Cultured)    -&gt;[founderName]は,「文字を大切にしない社会は失われる」と教えてくれた.</VME_Cultured.descriptionMaker.rules.rulesStrings.7>
+  <VME_Cultured.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Cultured)         -&gt;私は人生のほとんどの期間,本を書いてきましたが,1つの主要なことを学びました.</VME_Cultured.descriptionMaker.rules.rulesStrings.8>
+  <VME_Cultured.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Cultured)              -&gt;自分の中にまだ本で語られていない物語を抱えているほどの苦悩はありません.</VME_Cultured.descriptionMaker.rules.rulesStrings.9>
+  <VME_Cultured.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Cultured) -&gt;読みたい本があっても,まだ書かれていないのであれば,書かなければなりません.</VME_Cultured.descriptionMaker.rules.rulesStrings.10>
+  <VME_Cultured.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Cultured)    -&gt;アルコテックは何よりも知識を重視し,人類の文書化された伝統を尊重していた.</VME_Cultured.descriptionMaker.rules.rulesStrings.11>
+  <VME_Cultured.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Cultured)     -&gt;アルコテックは我々が無知な全自動人形のような人生を送ることを望んではいないだろう.</VME_Cultured.descriptionMaker.rules.rulesStrings.12>
+  <VME_Cultured.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_Cultured) -&gt;[inTheEnd],アルコテックは十分な教養と教育を受けた者だけを超越の対象にしている.</VME_Cultured.descriptionMaker.rules.rulesStrings.13>
+  <VME_Cultured.descriptionMaker.rules.rulesStrings.14>animistFact(tag=meme_Cultured)     -&gt;精霊は,我々が知性を高めることにより,多くの教養を身につけることを望んでいる.</VME_Cultured.descriptionMaker.rules.rulesStrings.14>
+  <VME_Cultured.descriptionMaker.rules.rulesStrings.15>serketistProphecy(tag=meme_Cultured)-&gt;[itIsSaid]我々は虫たちの知識を書き綴ることによって,彼らの聖なる伝えが時の流れによって忘れ去られないようにすべきだ.</VME_Cultured.descriptionMaker.rules.rulesStrings.15>
+  <VME_Cultured.descriptionMaker.rules.rulesStrings.16>chthonianProphecy(tag=meme_Cultured)-&gt;禁断の秘伝が綴られた黒の書物には,トランスヒューマンの知性と狂気への洞察が記されていると言われている.我々の書記がそのエルドリッチな秘伝を解明する時が来るかもしれない.</VME_Cultured.descriptionMaker.rules.rulesStrings.16>
+  <VME_Cultured.descriptionMaker.rules.rulesStrings.17>esotericismProphecy(tag=meme_Cultured)-&gt;この秘密を解き明かすには,難解な書物を注意深く研究する必要があるだろう.</VME_Cultured.descriptionMaker.rules.rulesStrings.17>
+  <VME_Cultured.descriptionMaker.rules.rulesStrings.18>eschatologismFact(tag=meme_Cultured)-&gt;人間の皮の羊皮紙に敵の血で書かれた3つの巻物が我々の勝利の証であり,それを見た敵は恐怖しか感じなくなるだろう.</VME_Cultured.descriptionMaker.rules.rulesStrings.18>
+  <VME_Cultured.descriptionMaker.rules.rulesStrings.19>introMemo(tag=meme_Cultured)-&gt;何度も言うようですが... お願いですから,コードを文書化してください.文書化されていないコードは将来的に役に絶ちませんし,次の開発者に「都合よく忘れてしまった」曖昧なコードを解読するようなトレーニングをさせたくありません.もっとモチベーションアップして!</VME_Cultured.descriptionMaker.rules.rulesStrings.19>
+
+  <VME_Cultured.symbolPacks.0.adjective>教養的な</VME_Cultured.symbolPacks.0.adjective>
+  <VME_Cultured.symbolPacks.0.theme>教養</VME_Cultured.symbolPacks.0.theme>
+  <VME_Cultured.symbolPacks.0.member>読者</VME_Cultured.symbolPacks.0.member>
+  <VME_Cultured.symbolPacks.0.ideoName>教養</VME_Cultured.symbolPacks.0.ideoName>
+
+
+
+  <VME_Cultured.symbolPacks.1.adjective>記された</VME_Cultured.symbolPacks.1.adjective>
+  <VME_Cultured.symbolPacks.1.theme>執筆</VME_Cultured.symbolPacks.1.theme>
+  <VME_Cultured.symbolPacks.1.member>著者</VME_Cultured.symbolPacks.1.member>
+  <VME_Cultured.symbolPacks.1.ideoName>執筆</VME_Cultured.symbolPacks.1.ideoName>
+
+
+</LanguageData>

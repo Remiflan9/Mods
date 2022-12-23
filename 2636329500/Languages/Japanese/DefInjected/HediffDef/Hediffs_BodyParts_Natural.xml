@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <!--  Foot  -->
+  <VME_FleshcraftedFootHediff.label>継ぎ接ぎの足</VME_FleshcraftedFootHediff.label>
+  <VME_FleshcraftedFootHediff.description>移植された継ぎ接ぎの足</VME_FleshcraftedFootHediff.description>
+  <VME_FleshcraftedFootHediff.labelNoun>継ぎ接ぎの足</VME_FleshcraftedFootHediff.labelNoun>
+
+  <!-- Arm -->
+
+  <VME_FleshcraftedArmHediff.label>継ぎ接ぎの腕</VME_FleshcraftedArmHediff.label>
+  <VME_FleshcraftedArmHediff.description>移植された継ぎ接ぎの腕</VME_FleshcraftedArmHediff.description>
+  <VME_FleshcraftedArmHediff.comps.0.tools.0.label>拳</VME_FleshcraftedArmHediff.comps.0.tools.0.label>
+  <VME_FleshcraftedArmHediff.labelNoun>継ぎ接ぎの腕</VME_FleshcraftedArmHediff.labelNoun>
+
+
+  <!-- Hand -->
+
+  <VME_FleshcraftedHandHediff.label>継ぎ接ぎの手</VME_FleshcraftedHandHediff.label>
+  <VME_FleshcraftedHandHediff.description>移植された継ぎ接ぎの手</VME_FleshcraftedHandHediff.description>
+  <VME_FleshcraftedHandHediff.comps.0.tools.0.label>拳</VME_FleshcraftedHandHediff.comps.0.tools.0.label>
+  <VME_FleshcraftedHandHediff.labelNoun>継ぎ接ぎの手</VME_FleshcraftedHandHediff.labelNoun>
+
+
+  <!-- Finger -->
+
+  <VME_FleshcraftedFingerHediff.label>継ぎ接ぎの指</VME_FleshcraftedFingerHediff.label>
+  <VME_FleshcraftedFingerHediff.description>移植された継ぎ接ぎの指</VME_FleshcraftedFingerHediff.description>
+  <VME_FleshcraftedFingerHediff.labelNoun>継ぎ接ぎの指</VME_FleshcraftedFingerHediff.labelNoun>
+
+
+  <!-- Toe -->
+
+  <VME_FleshcraftedToeHediff.label>継ぎ接ぎの足趾</VME_FleshcraftedToeHediff.label>
+  <VME_FleshcraftedToeHediff.description>移植された継ぎ接ぎの足趾</VME_FleshcraftedToeHediff.description>
+  <VME_FleshcraftedToeHediff.labelNoun>継ぎ接ぎの足趾</VME_FleshcraftedToeHediff.labelNoun>
+
+
+  <!-- Leg -->
+
+  <VME_FleshcraftedLegHediff.label>継ぎ接ぎの脚</VME_FleshcraftedLegHediff.label>
+  <VME_FleshcraftedLegHediff.description>移植された継ぎ接ぎの脚</VME_FleshcraftedLegHediff.description>
+  <VME_FleshcraftedLegHediff.labelNoun>継ぎ接ぎの脚</VME_FleshcraftedLegHediff.labelNoun>
+
+
+  <!-- Heart -->
+
+  <VME_FleshcraftedHeartHediff.label>継ぎ接ぎの心臓</VME_FleshcraftedHeartHediff.label>
+  <VME_FleshcraftedHeartHediff.description>移植された継ぎ接ぎの心臓</VME_FleshcraftedHeartHediff.description>
+  <VME_FleshcraftedHeartHediff.labelNoun>継ぎ接ぎの心臓</VME_FleshcraftedHeartHediff.labelNoun>
+
+
+  <!-- Lung -->
+
+  <VME_FleshcraftedLungHediff.label>継ぎ接ぎの肺</VME_FleshcraftedLungHediff.label>
+  <VME_FleshcraftedLungHediff.description>移植された継ぎ接ぎの肺</VME_FleshcraftedLungHediff.description>
+  <VME_FleshcraftedLungHediff.labelNoun>継ぎ接ぎの肺</VME_FleshcraftedLungHediff.labelNoun>
+
+
+  <!-- Kidney -->
+
+  <VME_FleshcraftedKidneyHediff.label>継ぎ接ぎの腎臓</VME_FleshcraftedKidneyHediff.label>
+  <VME_FleshcraftedKidneyHediff.description>移植された継ぎ接ぎの腎臓</VME_FleshcraftedKidneyHediff.description>
+  <VME_FleshcraftedKidneyHediff.labelNoun>継ぎ接ぎの腎臓</VME_FleshcraftedKidneyHediff.labelNoun>
+
+
+  <!-- Liver -->
+
+  <VME_FleshcraftedLiverHediff.label>継ぎ接ぎの肝臓</VME_FleshcraftedLiverHediff.label>
+  <VME_FleshcraftedLiverHediff.description>移植された継ぎ接ぎの肝臓</VME_FleshcraftedLiverHediff.description>
+  <VME_FleshcraftedLiverHediff.labelNoun>継ぎ接ぎの肝臓</VME_FleshcraftedLiverHediff.labelNoun>
+
+
+  <!-- Eye -->
+
+  <VME_FleshcraftedEyeHediff.label>継ぎ接ぎの眼</VME_FleshcraftedEyeHediff.label>
+  <VME_FleshcraftedEyeHediff.description>移植された継ぎ接ぎの眼</VME_FleshcraftedEyeHediff.description>
+  <VME_FleshcraftedEyeHediff.labelNoun>継ぎ接ぎの眼</VME_FleshcraftedEyeHediff.labelNoun>
+
+
+  <!-- Ear -->
+
+  <VME_FleshcraftedEarHediff.label>継ぎ接ぎの耳</VME_FleshcraftedEarHediff.label>
+  <VME_FleshcraftedEarHediff.description>移植された継ぎ接ぎの耳</VME_FleshcraftedEarHediff.description>
+  <VME_FleshcraftedEarHediff.labelNoun>継ぎ接ぎの耳</VME_FleshcraftedEarHediff.labelNoun>
+
+
+  <!-- Nose -->
+
+  <VME_FleshcraftedNoseHediff.label>継ぎ接ぎの鼻</VME_FleshcraftedNoseHediff.label>
+  <VME_FleshcraftedNoseHediff.description>移植された継ぎ接ぎの鼻</VME_FleshcraftedNoseHediff.description>
+  <VME_FleshcraftedNoseHediff.labelNoun>継ぎ接ぎの鼻</VME_FleshcraftedNoseHediff.labelNoun>
+
+
+  <!-- Jaw -->
+
+  <VME_FleshcraftedJawHediff.label>継ぎ接ぎの顎</VME_FleshcraftedJawHediff.label>
+  <VME_FleshcraftedJawHediff.description>移植された継ぎ接ぎの顎</VME_FleshcraftedJawHediff.description>
+  <VME_FleshcraftedJawHediff.labelNoun>継ぎ接ぎの顎</VME_FleshcraftedJawHediff.labelNoun>
+
+
+  <!-- Stomach -->
+
+  <VME_FleshcraftedStomachHediff.label>継ぎ接ぎの胃</VME_FleshcraftedStomachHediff.label>
+  <VME_FleshcraftedStomachHediff.description>移植された継ぎ接ぎの胃</VME_FleshcraftedStomachHediff.description>
+  <VME_FleshcraftedStomachHediff.labelNoun>継ぎ接ぎの胃</VME_FleshcraftedStomachHediff.labelNoun>
+
+
+  <!-- Tongue -->
+
+  <VME_FleshcraftedTongueHediff.label>継ぎ接ぎの舌</VME_FleshcraftedTongueHediff.label>
+  <VME_FleshcraftedTongueHediff.description>移植された継ぎ接ぎの舌</VME_FleshcraftedTongueHediff.description>
+  <VME_FleshcraftedTongueHediff.labelNoun>継ぎ接ぎの舌</VME_FleshcraftedTongueHediff.labelNoun>
+
+
+  <!-- Spine -->
+
+  <VME_FleshcraftedSpineHediff.label>継ぎ接ぎの脊椎</VME_FleshcraftedSpineHediff.label>
+  <VME_FleshcraftedSpineHediff.description>移植された継ぎ接ぎの脊椎</VME_FleshcraftedSpineHediff.description>
+  <VME_FleshcraftedSpineHediff.labelNoun>継ぎ接ぎの脊椎</VME_FleshcraftedSpineHediff.labelNoun>
+
+
+</LanguageData>

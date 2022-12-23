@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_AutonomousWeapons_Accepted.label>容認</VME_AutonomousWeapons_Accepted.label>
+  <VME_AutonomousWeapons_Accepted.description>自動化された防衛システムは私たちを守るための良い手段だ.</VME_AutonomousWeapons_Accepted.description>
+  <VME_AutonomousWeapons_Accepted.comps.0.description>コロニー内の自動タレット</VME_AutonomousWeapons_Accepted.comps.0.description>
+
+  <VME_AutonomousWeapons_Exalted.label>高貴</VME_AutonomousWeapons_Exalted.label>
+  <VME_AutonomousWeapons_Exalted.description>自動化された防衛システムは私たちを危険から守るための鍵となる.</VME_AutonomousWeapons_Exalted.description>
+  <VME_AutonomousWeapons_Exalted.comps.0.description>コロニー内の自動タレット</VME_AutonomousWeapons_Exalted.comps.0.description>
+
+
+</LanguageData>

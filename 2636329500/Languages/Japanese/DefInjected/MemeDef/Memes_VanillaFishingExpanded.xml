@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_Angler.label>漁業文化</VME_Angler.label>
+  <VME_Angler.description>穏やかな湖や波打つ岸辺が癒しを与えます.川も海も,そこで少しの手間をかければ,私たちのお腹を美味しい魚でいっぱいにしてくれます.</VME_Angler.description>
+  <VME_Angler.generalRules.rulesStrings.0>memeAdjective-&gt;漁夫の</VME_Angler.generalRules.rulesStrings.0>
+  <VME_Angler.generalRules.rulesStrings.1>memeAdjective-&gt;沿岸の</VME_Angler.generalRules.rulesStrings.1>
+  <VME_Angler.generalRules.rulesStrings.2>memeAdjective-&gt;船乗りの</VME_Angler.generalRules.rulesStrings.2>
+  <VME_Angler.generalRules.rulesStrings.3>memeAdjective-&gt;魚釣りの</VME_Angler.generalRules.rulesStrings.3>
+  <VME_Angler.generalRules.rulesStrings.4>memeHyphenPrefix-&gt;魚</VME_Angler.generalRules.rulesStrings.4>
+  <VME_Angler.generalRules.rulesStrings.5>memeHyphenPrefix-&gt;川</VME_Angler.generalRules.rulesStrings.5>
+  <VME_Angler.generalRules.rulesStrings.6>memeHyphenPrefix-&gt;海</VME_Angler.generalRules.rulesStrings.6>
+  <VME_Angler.generalRules.rulesStrings.7>memeConcept-&gt;漁業</VME_Angler.generalRules.rulesStrings.7>
+  <VME_Angler.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Anglers)        -&gt;[deity0_name]は全ての[deity0_possessive]信者たちに語りかけた.「繰り返しますが,天の国は海に投じられた網のようなもので,あらゆる種類の魚が集まってきます」</VME_Angler.descriptionMaker.rules.rulesStrings.0>
+  <VME_Angler.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Anglers)  -&gt;[deity0_name]は全ての[memberNamePlural]に「私に従いなし.さすれば,人を釣る者にしてあげます」と告げた.</VME_Angler.descriptionMaker.rules.rulesStrings.1>
+  <VME_Angler.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Anglers)           -&gt;[plaza_summary]である[place_name]に[memberNamePlural]は偉大な[altarName]を建てた.そこでは毎年素晴らしい釣りの大会が行われた.</VME_Angler.descriptionMaker.rules.rulesStrings.2>
+  <VME_Angler.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Anglers)        -&gt;嫉妬深い[foeLeader]が[deity0_name]の意思を否定しようと,[foeLeader_possessive][foeSoldiers]に[altarName]を囲っている湖の魚を毒殺するよう指示した.</VME_Angler.descriptionMaker.rules.rulesStrings.3>
+  <VME_Angler.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Anglers)     -&gt;[deity0_name]は[place_job]の[founderName]という者に[deity0_possessive]知性を授け,[founder_pronoun]が偉大な浄水器を作り,水は再び何千もの魚と共鳴した.</VME_Angler.descriptionMaker.rules.rulesStrings.4>
+  <VME_Angler.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Anglers)         -&gt;[foeSoldiers]と[foeLeader]は屈辱を受けて挫折し,[memberNamePlural]を放っておくことにした.</VME_Angler.descriptionMaker.rules.rulesStrings.5>
+  <VME_Angler.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Anglers)           -&gt;我々の創始者[founderName]は史上最高の漁師だった.[founderName_objective]知る者は,もはや[founderName_pronoun]に捕れない魚など存在しないと言われるほどだった.</VME_Angler.descriptionMaker.rules.rulesStrings.6>
+  <VME_Angler.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Anglers)    -&gt;[founderName]は「釣りは心の持ちようだ」と教えてくれた.[founderName_pronoun]はいつも,釣りの魅力は,つかみどころがないが達成可能なものを追求することであり,希望を持つ機会が永遠に続くことだと言っていた.</VME_Angler.descriptionMaker.rules.rulesStrings.7>
+  <VME_Angler.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Anglers)         -&gt;私は人生の中で良識が許す限り釣りをしてきましたが,その過程でこのようなことを学びました.</VME_Angler.descriptionMaker.rules.rulesStrings.8>
+  <VME_Angler.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Anglers)              -&gt;釣りは大変な仕事です.夜のや昼,雨の日,どんな状況でも賢く獲物を捕らえなければいけません.</VME_Angler.descriptionMaker.rules.rulesStrings.9>
+  <VME_Angler.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Anglers) -&gt;釣りをした後は,何かの解決策がわかったり,今まで到達できなかった良いアイデアが浮かんだりします.</VME_Angler.descriptionMaker.rules.rulesStrings.10>
+  <VME_Angler.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Anglers)    -&gt;アルコテックは海や川を不思議なほど豊かに満たし,知識があれば誰でもそれを利用することができる.</VME_Angler.descriptionMaker.rules.rulesStrings.11>
+  <VME_Angler.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Anglers)     -&gt;アルコテックは何よりも資源を大切にする.水の恵みを彼らの贈り物として受け入れなければならない.</VME_Angler.descriptionMaker.rules.rulesStrings.12>
+  <VME_Angler.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_Anglers) -&gt;[inTheEnd],アルコテックは最も偉大な漁師となり,その釣果は超越に値するものとなるだろう.</VME_Angler.descriptionMaker.rules.rulesStrings.13>
+  <VME_Angler.descriptionMaker.rules.rulesStrings.14>animistFact(tag=meme_Anglers)     -&gt;魚に宿る精霊は,川や海に存在する豊かな生命という最大の恵みを与えてくれた.</VME_Angler.descriptionMaker.rules.rulesStrings.14>
+  <VME_Angler.descriptionMaker.rules.rulesStrings.15>serketistProphecy(tag=meme_Anglers)-&gt;[itIsSaid]虫たちが,川や海に存在する生命体という最大の恵みを利用して,必要な食料を確保する方法を学ぶだろう.</VME_Angler.descriptionMaker.rules.rulesStrings.15>
+  <VME_Angler.descriptionMaker.rules.rulesStrings.16>chthonianProphecy(tag=meme_Anglers)-&gt;Ph'nglui mglw'nafh [deity0_name] [place_name] wgah'nagl fhtagn.</VME_Angler.descriptionMaker.rules.rulesStrings.16>
+  <VME_Angler.descriptionMaker.rules.rulesStrings.17>esotericismProphecy(tag=meme_Anglers)-&gt;死んだ魚の内臓を占うことで,これらの秘密をあばくだろう.</VME_Angler.descriptionMaker.rules.rulesStrings.17>
+  <VME_Angler.descriptionMaker.rules.rulesStrings.18>eschatologismFact(tag=meme_Anglers)-&gt;深淵の向こうに隠れているスベスベした魚のように,我々は暗闇から襲ってきて,止められなくなるだろう.</VME_Angler.descriptionMaker.rules.rulesStrings.18>
+  <VME_Angler.descriptionMaker.rules.rulesStrings.19>introMemo(tag=meme_Anglers)-&gt;良いニュースです!今年の全社的な抽選会の賞品に,今年も2週間の全費用負担の釣り旅行が含まれているのです!皆さんも私と同じように興奮していると思いますので,できるだけ早くチケットを入手してください.</VME_Angler.descriptionMaker.rules.rulesStrings.19>
+
+  <VME_Angler.symbolPacks.0.adjective>魚釣りの</VME_Angler.symbolPacks.0.adjective>
+  <VME_Angler.symbolPacks.0.theme>漁業</VME_Angler.symbolPacks.0.theme>
+  <VME_Angler.symbolPacks.0.member>漁師</VME_Angler.symbolPacks.0.member>
+  <VME_Angler.symbolPacks.0.ideoName>漁業</VME_Angler.symbolPacks.0.ideoName>
+
+
+</LanguageData>

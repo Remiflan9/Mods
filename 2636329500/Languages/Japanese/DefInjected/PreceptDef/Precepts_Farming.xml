@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_FarmingYield_High.label>崇高</VME_FarmingYield_High.label>
+  <VME_FarmingYield_High.description>収穫した野菜や果物は,最後の茎や根,葉に至るまで収穫するべきだ.収穫しなかった野菜や果物は一片も残らないほどに.\n\n&lt;color=#E5E54C&gt;統計:&lt;/color&gt;\n - 農作物の収穫量: +10%.</VME_FarmingYield_High.description>
+
+
+</LanguageData>

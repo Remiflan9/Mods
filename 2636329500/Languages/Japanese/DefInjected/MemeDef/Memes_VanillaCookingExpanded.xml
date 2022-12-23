@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_SweetTeeth.label>甘党</VME_SweetTeeth.label>
+  <VME_SweetTeeth.description>デカダン,ベルベット,リッチ......そんな言葉を耳にしたら,まず思い浮かべるのは甘い甘いチョコレートのバーでしょう.ヨーグルトやお菓子,ケーキも,ただ歓迎されるのではなく当然のように食べるべきです.\n\n&lt;color=#E5E54C&gt;ゲーム上の効果:&lt;/color&gt;\n - デザートやチョコレートを定期的に摂取することでコロニーの人々が幸せになる「デザート欲求」をアンロックします（入植者の期待が中程度以上である必要があります）.\n - 木よりも効率が良く,室内でも水耕栽培が可能なカカオ生産植物「カカオの低木」を解禁します.\n - コロニーに15個のチョコレートが届き,スタートします.</VME_SweetTeeth.description>
+  <VME_SweetTeeth.generalRules.rulesStrings.0>memeAdjective-&gt;甘い</VME_SweetTeeth.generalRules.rulesStrings.0>
+  <VME_SweetTeeth.generalRules.rulesStrings.1>memeAdjective-&gt;甘ったるい</VME_SweetTeeth.generalRules.rulesStrings.1>
+  <VME_SweetTeeth.generalRules.rulesStrings.2>memeAdjective-&gt;甘すぎる</VME_SweetTeeth.generalRules.rulesStrings.2>
+  <VME_SweetTeeth.generalRules.rulesStrings.3>memeAdjective-&gt;砂糖漬けの</VME_SweetTeeth.generalRules.rulesStrings.3>
+  <VME_SweetTeeth.generalRules.rulesStrings.4>memeAdjective-&gt;甘党の</VME_SweetTeeth.generalRules.rulesStrings.4>
+  <VME_SweetTeeth.generalRules.rulesStrings.5>memeHyphenPrefix-&gt;スイーツ</VME_SweetTeeth.generalRules.rulesStrings.5>
+  <VME_SweetTeeth.generalRules.rulesStrings.6>memeConcept-&gt;デザート</VME_SweetTeeth.generalRules.rulesStrings.6>
+  <VME_SweetTeeth.generalRules.rulesStrings.7>memeLeaderNoun-&gt;パティシエシェフ</VME_SweetTeeth.generalRules.rulesStrings.7>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_SweetTeeth)        -&gt;[deity0_name]は,全ての[deity0_possessive]信者たちにこう言った.「私の魂が宿っているスイーツを食べる者は,その者の中に私が宿るのです」</VME_SweetTeeth.descriptionMaker.rules.rulesStrings.0>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_SweetTeeth)  -&gt;[deity0_name]は全ての[memberNamePlural]に「世界を巨大なバースデーケーキのように捉えてください.それらを食べるのはよいですが,食べ過ぎないように.」と戒めた.</VME_SweetTeeth.descriptionMaker.rules.rulesStrings.1>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_SweetTeeth)           -&gt;[memberNamePlural]は,[place_summary]である[place_name]に偉大な[altarName]を建てた.そこでは甘いお菓子を作り,訪れる巡礼者に提供した.</VME_SweetTeeth.descriptionMaker.rules.rulesStrings.2>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_SweetTeeth)        -&gt;[deity0_name]の意思を頑なに拒んだ[foeLeader]が,[foeLeader_possessive][foeSoldiers]に,[foeLeader_pronoun]が厳しいダイエットをしているため,おいしいデザートを全て処分するように指示した.</VME_SweetTeeth.descriptionMaker.rules.rulesStrings.3>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_SweetTeeth)     -&gt;[deity0_name]は[founderName]という[place_job]に[deity0_possessive]食欲と創造性を授け,[founderName]は誰も見たことがないような素晴らしいお菓子を創り出した.</VME_SweetTeeth.descriptionMaker.rules.rulesStrings.4>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_SweetTeeth)         -&gt;[founderName]は[founderName_possessive]創造物を[foeSoldiers]に提供し,彼らは喜んだ.[foeLeader]もその崇高な品質を確信し,[foeLeader_pronoun]は[deity0_name]の意志の賢明さに服従した.</VME_SweetTeeth.descriptionMaker.rules.rulesStrings.5>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_SweetTeeth)           -&gt;当時の創始者[founderName]は誰も見たことがないような素晴らしいお菓子を作るパティシエだった.</VME_SweetTeeth.descriptionMaker.rules.rulesStrings.6>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_SweetTeeth)    -&gt;[founderName]は,[founderName_possessive]芸術は単に人を養うための道具ではなく,最大の敵をも団結させ,和解させることができる深いものであると信じていた.</VME_SweetTeeth.descriptionMaker.rules.rulesStrings.7>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_SweetTeeth)         -&gt;私はパティシエとして何年も何年も労働してきました.そして私は,このような事を学んだのです.</VME_SweetTeeth.descriptionMaker.rules.rulesStrings.8>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_SweetTeeth)              -&gt;この世でケーキに勝るものはありません.</VME_SweetTeeth.descriptionMaker.rules.rulesStrings.9>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_SweetTeeth) -&gt;私のケーキへの愛は,「執着」という言葉では言い表せません.必要とあらば,小さな子供たちとも戦います.</VME_SweetTeeth.descriptionMaker.rules.rulesStrings.10>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_SweetTeeth)    -&gt;アルコテックは我々が人生で最も甘い味を楽しむことができるように,絶妙な食欲を授けてくれた.</VME_SweetTeeth.descriptionMaker.rules.rulesStrings.11>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_SweetTeeth)     -&gt;アルコテックは我々が楽しむことなく,舌をいたわるような人生を過ごしてほしくないと思っているに違いない.</VME_SweetTeeth.descriptionMaker.rules.rulesStrings.12>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_SweetTeeth) -&gt;[inTheEnd],アルコテックは最も単純な喜びに浸ることなく,超越することは空虚な目標に過ぎないことを教えてくれるだろう.</VME_SweetTeeth.descriptionMaker.rules.rulesStrings.13>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings.14>animistFact(tag=meme_SweetTeeth)     -&gt;精霊は我々が五感を研ぎ澄まし,人生で最も甘いフレーバーを楽しむことを望んでいた.彼らは我々が自分自身を楽しむことで,自分の舌をいたわることのない人生の素晴らしさを伝えている.</VME_SweetTeeth.descriptionMaker.rules.rulesStrings.14>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings.15>serketistProphecy(tag=meme_SweetTeeth)-&gt;[itIsSaid]我々は彼らの知恵を自分の料理のレシピに取り入れることを学んだ.インセクトゼリーは,自然界で最も甘い味の一つを提供する一つのアンブロシアである。</VME_SweetTeeth.descriptionMaker.rules.rulesStrings.15>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings.16>chthonianProphecy(tag=meme_SweetTeeth)-&gt;逃げることも,解放することもできない.美味しいお菓子を食べて,短くて汚い人生を楽しんだ方がいいだろう.</VME_SweetTeeth.descriptionMaker.rules.rulesStrings.16>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings.17>esotericismProphecy(tag=meme_SweetTeeth)-&gt;もしかしたら,全ての理想郷には,心を揺さぶるお菓子の不思議なレシピが隠されているかもしれない.とても夢がある話だ.</VME_SweetTeeth.descriptionMaker.rules.rulesStrings.17>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings.18>eschatologismFact(tag=meme_SweetTeeth)-&gt;全てを血の海で覆って...ケーキを.そう,ケーキ.</VME_SweetTeeth.descriptionMaker.rules.rulesStrings.18>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings.19>introMemo(tag=meme_SweetTeeth)-&gt;ご存知のように,同僚の誕生日を祝うために,アシスタント1人につき最低4個のお菓子を持ってくるという会社の方針があります.誰かがそれを悪用して自分の分を超えて食べていたので,私たちはこれを規制しなければなりませんでした.あなたは自分が誰であるか知っていて,自分自身を恥じるべきです.</VME_SweetTeeth.descriptionMaker.rules.rulesStrings.19>
+
+  <VME_SweetTeeth.symbolPacks.0.adjective>甘党の</VME_SweetTeeth.symbolPacks.0.adjective>
+  <VME_SweetTeeth.symbolPacks.0.theme>デザート</VME_SweetTeeth.symbolPacks.0.theme>
+  <VME_SweetTeeth.symbolPacks.0.ideoName>甘党</VME_SweetTeeth.symbolPacks.0.ideoName>
+  <VME_SweetTeeth.symbolPacks.0.member>スイーツ愛好家</VME_SweetTeeth.symbolPacks.0.member>
+
+
+</LanguageData>

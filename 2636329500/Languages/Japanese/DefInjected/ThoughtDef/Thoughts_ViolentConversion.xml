@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_AwkwardViolentConversion.stages.0.label>酷い強制改宗</VME_AwkwardViolentConversion.stages.0.label>
+  <VME_AwkwardViolentConversion.stages.0.description>なにも実らない会話で,主張も曖昧で説得力に欠けていた.</VME_AwkwardViolentConversion.stages.0.description>
+
+  <VME_SatisfyingViolentConversion.stages.0.label>満足のいく強制改宗</VME_SatisfyingViolentConversion.stages.0.label>
+  <VME_SatisfyingViolentConversion.stages.0.description>強制改宗の儀式がうまくいいった.スピーチは心を揺さぶられ,楽しく聞くことができた.</VME_SatisfyingViolentConversion.stages.0.description>
+
+  <VME_SpectacularViolentConversion.stages.0.label>壮観な強制改宗</VME_SpectacularViolentConversion.stages.0.label>
+  <VME_SpectacularViolentConversion.stages.0.description>強制改宗の儀式は感動的だった!きっと,私たちの信念は他の誰よりも優先される.</VME_SpectacularViolentConversion.stages.0.description>
+
+
+</LanguageData>

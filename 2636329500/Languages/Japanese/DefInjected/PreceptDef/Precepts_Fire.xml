@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Fire_Desired.label>望ましい</VME_Fire_Desired.label>
+  <VME_Fire_Desired.description>灰の温かさ,燠火の明るさ,きらめく炎は,見ていて圧巻だ.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - マップ上の有効な火の数に応じて,入植者は心情ボーナスを得ることができます.キャンプファイヤー,トーチ,ストーンキャンプファイヤー(VFEやVFE - Vikingsもカウントされます)</VME_Fire_Desired.description>
+
+  <VME_Fire_Despised.label>軽蔑</VME_Fire_Despised.label>
+  <VME_Fire_Despised.description>制御不能な炎ほど嫌なものはない.炎はどんな手段を使っても避けるべきだ.その破壊力は比類のないものだからだ.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - マップ上の有効な火の数に応じて,入植者はネガティブな心情になります.キャンプファイヤー,トーチ,ストーンキャンプファイヤー (VFEやVFE - Vikingsもカウントされます)</VME_Fire_Despised.description>
+
+  <VME_Fire_Desired.comps.0.thoughtStageDescriptions.0>近くに炎がない</VME_Fire_Desired.comps.0.thoughtStageDescriptions.0>
+
+  <VME_Fire_Desired.comps.0.thoughtStageDescriptions.1>炎が少ない</VME_Fire_Desired.comps.0.thoughtStageDescriptions.1>
+
+  <VME_Fire_Desired.comps.0.thoughtStageDescriptions.2>小さな炎を見た</VME_Fire_Desired.comps.0.thoughtStageDescriptions.2>
+
+  <VME_Fire_Desired.comps.0.thoughtStageDescriptions.3>炎を見た</VME_Fire_Desired.comps.0.thoughtStageDescriptions.3>
+
+  <VME_Fire_Desired.comps.0.thoughtStageDescriptions.4>素晴らしい炎を見た</VME_Fire_Desired.comps.0.thoughtStageDescriptions.4>
+
+  <VME_Fire_Desired.comps.0.thoughtStageDescriptions.5>美しい炎を見た</VME_Fire_Desired.comps.0.thoughtStageDescriptions.5>
+
+
+  <VME_Fire_Despised.comps.0.thoughtStageDescriptions.0>近くに炎がない</VME_Fire_Despised.comps.0.thoughtStageDescriptions.0>
+
+  <VME_Fire_Despised.comps.0.thoughtStageDescriptions.1>少し炎を見た</VME_Fire_Despised.comps.0.thoughtStageDescriptions.1>
+
+  <VME_Fire_Despised.comps.0.thoughtStageDescriptions.2>小さな炎を見た</VME_Fire_Despised.comps.0.thoughtStageDescriptions.2>
+
+  <VME_Fire_Despised.comps.0.thoughtStageDescriptions.3>炎を見た</VME_Fire_Despised.comps.0.thoughtStageDescriptions.3>
+
+  <VME_Fire_Despised.comps.0.thoughtStageDescriptions.4>燃え盛る炎を見た</VME_Fire_Despised.comps.0.thoughtStageDescriptions.4>
+
+  <VME_Fire_Despised.comps.0.thoughtStageDescriptions.5>大炎上</VME_Fire_Despised.comps.0.thoughtStageDescriptions.5>
+
+
+</LanguageData>

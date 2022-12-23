@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_DemagogicSlaveEmancipation.stages.0.label>迷惑な奴隷解放</VME_DemagogicSlaveEmancipation.stages.0.label>
+  <VME_DemagogicSlaveEmancipation.stages.0.description>まるで私たちが悪者のような状況に陥ってしまった.このコロニーに入りたいと思う人はいないだろう.</VME_DemagogicSlaveEmancipation.stages.0.description>
+
+  <VME_FreethinkingSlaveEmancipation.stages.0.label>自由な奴隷解放</VME_FreethinkingSlaveEmancipation.stages.0.label>
+  <VME_FreethinkingSlaveEmancipation.stages.0.description>自由な考えを示す素晴らしいものだった.リーダーの演説は,奴隷制の悪さをすべて簡潔に説明していた.</VME_FreethinkingSlaveEmancipation.stages.0.description>
+
+  <VME_UnshacklingSlaveEmancipation.stages.0.label>足鎖外れた奴隷解放</VME_UnshacklingSlaveEmancipation.stages.0.label>
+  <VME_UnshacklingSlaveEmancipation.stages.0.description>リーダーの演説は,奴隷制によるあらゆる悪事と,自由社会の計り知れない利点を詳しく説明し,とても感動的だった.</VME_UnshacklingSlaveEmancipation.stages.0.description>
+
+  <VME_LiberatingSlaveEmancipation.stages.0.label>解き放たれた奴隷解放</VME_LiberatingSlaveEmancipation.stages.0.label>
+  <VME_LiberatingSlaveEmancipation.stages.0.description>リーダーのスピーチは,奴隷制から解放された自由な社会の美徳を讃える感動的な演説だった.</VME_LiberatingSlaveEmancipation.stages.0.description>
+
+  <VME_AmazingSlaveEmancipation.stages.0.label>最高の奴隷解放</VME_AmazingSlaveEmancipation.stages.0.label>
+  <VME_AmazingSlaveEmancipation.stages.0.description>リーダーのスピーチは伝説となり,その言葉が未来に響き,奴隷解放の目的を高めることになるだろう.</VME_AmazingSlaveEmancipation.stages.0.description>
+
+
+</LanguageData>

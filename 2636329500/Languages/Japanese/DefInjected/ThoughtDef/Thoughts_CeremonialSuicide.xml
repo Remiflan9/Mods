@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_TerribleCeremonialSuicide.stages.0.label>酷い切腹</VME_TerribleCeremonialSuicide.stages.0.label>
+  <VME_TerribleCeremonialSuicide.stages.0.description>切腹は酷いものだった.刃が乱雑に横から突き刺さっていて,血や内臓がそこらじゅうに散らばってあった.気持ち悪い!</VME_TerribleCeremonialSuicide.stages.0.description>
+
+  <VME_BoringCeremonialSuicide.stages.0.label>うんざりする切腹</VME_BoringCeremonialSuicide.stages.0.label>
+  <VME_BoringCeremonialSuicide.stages.0.description>切腹は無様だった.スピーチは無理矢理感があって耳障りでした.それでもコロニーの名誉は少しだけ守られた.</VME_BoringCeremonialSuicide.stages.0.description>
+
+  <VME_HonorableCeremonialSuicide.stages.0.label>誉れある切腹</VME_HonorableCeremonialSuicide.stages.0.label>
+  <VME_HonorableCeremonialSuicide.stages.0.description>切腹は誉れ高かった!敗戦の影が心を曇らせることはもうないだろう.</VME_HonorableCeremonialSuicide.stages.0.description>
+
+  <VME_UnforgettableCeremonialSuicide.stages.0.label>忘れられない誉れある切腹</VME_UnforgettableCeremonialSuicide.stages.0.label>
+  <VME_UnforgettableCeremonialSuicide.stages.0.description>切腹は忘れられないほど誉れ高かった!誰もがその勇気,自制心,強い決意を忘れられないものになった.私たちのコロニーの名誉は,今では一点の曇りもないだろう.</VME_UnforgettableCeremonialSuicide.stages.0.description>
+
+
+</LanguageData>

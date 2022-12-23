@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_InsectoidHymnPrecept.label>虫の賛美歌</VME_InsectoidHymnPrecept.label>
+  <VME_InsectoidHymnPrecept.description>虫の賛美歌です.この儀式は虫調教師の能力「虫の巣を作る」のクールダウンをリセットします.儀式で最高の結果が得られれば,コロニーを襲撃中の虫たちを撤退させることができます.ただし,ブラックハイブは例外です.彼らはあなたの血を常に求めています.</VME_InsectoidHymnPrecept.description>
+
+
+</LanguageData>

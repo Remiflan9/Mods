@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_NamerSecondTriumvir.rulePack.rulesStrings.0>r_roleName->第二のリーダー</VME_NamerSecondTriumvir.rulePack.rulesStrings.0>
+  <VME_NamerThirdTriumvir.rulePack.rulesStrings.0>r_roleName->第三のリーダー</VME_NamerThirdTriumvir.rulePack.rulesStrings.0>
+
+  <VME_RoleFireKeeper.rulePack.rulesStrings.0>r_roleName(p=7)->[firstPart][secondPart]</VME_RoleFireKeeper.rulePack.rulesStrings.0>
+  <VME_RoleFireKeeper.rulePack.rulesStrings.1>r_roleName->炎の番人</VME_RoleFireKeeper.rulePack.rulesStrings.1>
+  <VME_RoleFireKeeper.rulePack.rulesStrings.2>r_roleName->炎の番人</VME_RoleFireKeeper.rulePack.rulesStrings.2>
+  <VME_RoleFireKeeper.rulePack.rulesStrings.3>firstPart->炎</VME_RoleFireKeeper.rulePack.rulesStrings.3>
+  <VME_RoleFireKeeper.rulePack.rulesStrings.4>firstPart->灰</VME_RoleFireKeeper.rulePack.rulesStrings.4>
+  <VME_RoleFireKeeper.rulePack.rulesStrings.5>firstPart->火</VME_RoleFireKeeper.rulePack.rulesStrings.5>
+  <VME_RoleFireKeeper.rulePack.rulesStrings.6>firstPart->温暖</VME_RoleFireKeeper.rulePack.rulesStrings.6>
+  <VME_RoleFireKeeper.rulePack.rulesStrings.7>firstPart->光</VME_RoleFireKeeper.rulePack.rulesStrings.7>
+  <VME_RoleFireKeeper.rulePack.rulesStrings.8>firstPart->光輝</VME_RoleFireKeeper.rulePack.rulesStrings.8>
+  <VME_RoleFireKeeper.rulePack.rulesStrings.9>firstPart->窯</VME_RoleFireKeeper.rulePack.rulesStrings.9>
+  <VME_RoleFireKeeper.rulePack.rulesStrings.10>firstPart->炉</VME_RoleFireKeeper.rulePack.rulesStrings.10>
+  <VME_RoleFireKeeper.rulePack.rulesStrings.11>secondPart(p=4)->に触れた者</VME_RoleFireKeeper.rulePack.rulesStrings.11>
+  <VME_RoleFireKeeper.rulePack.rulesStrings.12>secondPart(p=4)->の番人</VME_RoleFireKeeper.rulePack.rulesStrings.12>
+  <VME_RoleFireKeeper.rulePack.rulesStrings.13>secondPart(p=4)->の使者</VME_RoleFireKeeper.rulePack.rulesStrings.13>
+  <VME_RoleFireKeeper.rulePack.rulesStrings.14>secondPart(p=4)->の保護者</VME_RoleFireKeeper.rulePack.rulesStrings.14>
+  <VME_RoleFireKeeper.rulePack.rulesStrings.15>secondPart(p=4)->を守る者</VME_RoleFireKeeper.rulePack.rulesStrings.15>
+  <VME_RoleFireKeeper.rulePack.rulesStrings.16>secondPart(p=4)->を捜す者</VME_RoleFireKeeper.rulePack.rulesStrings.16>
+  <VME_RoleFireKeeper.rulePack.rulesStrings.17>secondPart(p=4)->をささやく者</VME_RoleFireKeeper.rulePack.rulesStrings.17>
+  <VME_RoleFireKeeper.rulePack.rulesStrings.18>secondPart(p=4)->の看守</VME_RoleFireKeeper.rulePack.rulesStrings.18>
+
+  <VME_Mechacker.rulePack.rulesStrings.0>r_roleName(p=7)->[firstPart][secondPart]</VME_Mechacker.rulePack.rulesStrings.0>
+  <VME_Mechacker.rulePack.rulesStrings.1>r_roleName->メカハッカー</VME_Mechacker.rulePack.rulesStrings.1>
+  <VME_Mechacker.rulePack.rulesStrings.2>firstPart->エンジン</VME_Mechacker.rulePack.rulesStrings.2>
+  <VME_Mechacker.rulePack.rulesStrings.3>firstPart->メカノイド</VME_Mechacker.rulePack.rulesStrings.3>
+  <VME_Mechacker.rulePack.rulesStrings.4>firstPart->バイオニック</VME_Mechacker.rulePack.rulesStrings.4>
+  <VME_Mechacker.rulePack.rulesStrings.5>firstPart->科学技術</VME_Mechacker.rulePack.rulesStrings.5>
+  <VME_Mechacker.rulePack.rulesStrings.6>firstPart->電子工学</VME_Mechacker.rulePack.rulesStrings.6>
+  <VME_Mechacker.rulePack.rulesStrings.7>firstPart->人工</VME_Mechacker.rulePack.rulesStrings.7>
+  <VME_Mechacker.rulePack.rulesStrings.8>firstPart->自然科学</VME_Mechacker.rulePack.rulesStrings.8>
+  <VME_Mechacker.rulePack.rulesStrings.9>firstPart->メカ</VME_Mechacker.rulePack.rulesStrings.9>
+  <VME_Mechacker.rulePack.rulesStrings.10>secondPart(p=4)->のエンジン関係者</VME_Mechacker.rulePack.rulesStrings.10>
+  <VME_Mechacker.rulePack.rulesStrings.11>secondPart(p=4)->の技術家</VME_Mechacker.rulePack.rulesStrings.11>
+  <VME_Mechacker.rulePack.rulesStrings.12>secondPart(p=4)->の機械工</VME_Mechacker.rulePack.rulesStrings.12>
+  <VME_Mechacker.rulePack.rulesStrings.13>secondPart(p=4)->の予言者</VME_Mechacker.rulePack.rulesStrings.13>
+  <VME_Mechacker.rulePack.rulesStrings.14>secondPart(p=4)->のデザイナー</VME_Mechacker.rulePack.rulesStrings.14>
+  <VME_Mechacker.rulePack.rulesStrings.15>secondPart(p=4)->のハックマスター</VME_Mechacker.rulePack.rulesStrings.15>
+  <VME_Mechacker.rulePack.rulesStrings.16>secondPart(p=4)->の偉大な賢者</VME_Mechacker.rulePack.rulesStrings.16>
+  <VME_Mechacker.rulePack.rulesStrings.17>secondPart(p=4)->の開発者</VME_Mechacker.rulePack.rulesStrings.17>
+
+  <VME_PartyHost.rulePack.rulesStrings.0>r_roleName(p=7)->[firstPart][secondPart]</VME_PartyHost.rulePack.rulesStrings.0>
+  <VME_PartyHost.rulePack.rulesStrings.1>r_roleName->パーティ主催者</VME_PartyHost.rulePack.rulesStrings.1>
+  <VME_PartyHost.rulePack.rulesStrings.2>r_roleName->パリピ</VME_PartyHost.rulePack.rulesStrings.2>
+  <VME_PartyHost.rulePack.rulesStrings.3>firstPart->興奮させる</VME_PartyHost.rulePack.rulesStrings.3>
+  <VME_PartyHost.rulePack.rulesStrings.4>firstPart->喜劇の</VME_PartyHost.rulePack.rulesStrings.4>
+  <VME_PartyHost.rulePack.rulesStrings.5>firstPart->尊敬する</VME_PartyHost.rulePack.rulesStrings.5>
+  <VME_PartyHost.rulePack.rulesStrings.6>firstPart->浮かれ騒ぐ</VME_PartyHost.rulePack.rulesStrings.6>
+  <VME_PartyHost.rulePack.rulesStrings.7>firstPart->気が狂った</VME_PartyHost.rulePack.rulesStrings.7>
+  <VME_PartyHost.rulePack.rulesStrings.8>firstPart->ワイルドな</VME_PartyHost.rulePack.rulesStrings.8>
+  <VME_PartyHost.rulePack.rulesStrings.9>firstPart->歓喜に酔った</VME_PartyHost.rulePack.rulesStrings.9>
+  <VME_PartyHost.rulePack.rulesStrings.10>firstPart->おめでたい</VME_PartyHost.rulePack.rulesStrings.10>
+  <VME_PartyHost.rulePack.rulesStrings.11>secondPart(p=4)->天才</VME_PartyHost.rulePack.rulesStrings.11>
+  <VME_PartyHost.rulePack.rulesStrings.12>secondPart(p=4)->芸人</VME_PartyHost.rulePack.rulesStrings.12>
+  <VME_PartyHost.rulePack.rulesStrings.13>secondPart(p=4)->ホスト</VME_PartyHost.rulePack.rulesStrings.13>
+  <VME_PartyHost.rulePack.rulesStrings.14>secondPart(p=4)->道化師</VME_PartyHost.rulePack.rulesStrings.14>
+  <VME_PartyHost.rulePack.rulesStrings.15>secondPart(p=4)->ジョーカー</VME_PartyHost.rulePack.rulesStrings.15>
+  <VME_PartyHost.rulePack.rulesStrings.16>secondPart(p=4)->ケダモノ</VME_PartyHost.rulePack.rulesStrings.16>
+  <VME_PartyHost.rulePack.rulesStrings.17>secondPart(p=4)->役者</VME_PartyHost.rulePack.rulesStrings.17>
+  <VME_PartyHost.rulePack.rulesStrings.18>secondPart(p=4)->コメディアン</VME_PartyHost.rulePack.rulesStrings.18>
+
+  <VME_InsectoidHerder.rulePack.rulesStrings.0>r_roleName(p=7)->[firstPart][secondPart]</VME_InsectoidHerder.rulePack.rulesStrings.0>
+  <VME_InsectoidHerder.rulePack.rulesStrings.1>r_roleName->虫調教師</VME_InsectoidHerder.rulePack.rulesStrings.1>
+  <VME_InsectoidHerder.rulePack.rulesStrings.2>firstPart->クモ</VME_InsectoidHerder.rulePack.rulesStrings.2>
+  <VME_InsectoidHerder.rulePack.rulesStrings.3>firstPart->蛆</VME_InsectoidHerder.rulePack.rulesStrings.3>
+  <VME_InsectoidHerder.rulePack.rulesStrings.4>firstPart->スカラベ</VME_InsectoidHerder.rulePack.rulesStrings.4>
+  <VME_InsectoidHerder.rulePack.rulesStrings.5>firstPart->コオロギ</VME_InsectoidHerder.rulePack.rulesStrings.5>
+  <VME_InsectoidHerder.rulePack.rulesStrings.6>firstPart->ダニ</VME_InsectoidHerder.rulePack.rulesStrings.6>
+  <VME_InsectoidHerder.rulePack.rulesStrings.7>firstPart->幼虫</VME_InsectoidHerder.rulePack.rulesStrings.7>
+  <VME_InsectoidHerder.rulePack.rulesStrings.8>firstPart->甲虫</VME_InsectoidHerder.rulePack.rulesStrings.8>
+  <VME_InsectoidHerder.rulePack.rulesStrings.9>firstPart->バッタ</VME_InsectoidHerder.rulePack.rulesStrings.9>
+  <VME_InsectoidHerder.rulePack.rulesStrings.10>secondPart(p=4)->収穫者</VME_InsectoidHerder.rulePack.rulesStrings.10>
+  <VME_InsectoidHerder.rulePack.rulesStrings.11>secondPart(p=4)->調教師</VME_InsectoidHerder.rulePack.rulesStrings.11>
+  <VME_InsectoidHerder.rulePack.rulesStrings.12>secondPart(p=4)->の血縁者</VME_InsectoidHerder.rulePack.rulesStrings.12>
+  <VME_InsectoidHerder.rulePack.rulesStrings.13>secondPart(p=4)->熱愛者</VME_InsectoidHerder.rulePack.rulesStrings.13>
+  <VME_InsectoidHerder.rulePack.rulesStrings.14>secondPart(p=4)->の巣の超能力者</VME_InsectoidHerder.rulePack.rulesStrings.14>
+  <VME_InsectoidHerder.rulePack.rulesStrings.15>secondPart(p=4)->の巣の指揮者</VME_InsectoidHerder.rulePack.rulesStrings.15>
+  <VME_InsectoidHerder.rulePack.rulesStrings.16>secondPart(p=4)->の巣の流血者</VME_InsectoidHerder.rulePack.rulesStrings.16>
+  <VME_InsectoidHerder.rulePack.rulesStrings.17>secondPart(p=4)->の巣の奴隷</VME_InsectoidHerder.rulePack.rulesStrings.17>
+
+  <VME_Trader.rulePack.rulesStrings.0>r_roleName(p=7)->[firstPart][secondPart]</VME_Trader.rulePack.rulesStrings.0>
+  <VME_Trader.rulePack.rulesStrings.1>r_roleName->トレーダー</VME_Trader.rulePack.rulesStrings.1>
+  <VME_Trader.rulePack.rulesStrings.2>firstPart->気前のよい</VME_Trader.rulePack.rulesStrings.2>
+  <VME_Trader.rulePack.rulesStrings.3>firstPart->巡歴の</VME_Trader.rulePack.rulesStrings.3>
+  <VME_Trader.rulePack.rulesStrings.4>firstPart->不徳な</VME_Trader.rulePack.rulesStrings.4>
+  <VME_Trader.rulePack.rulesStrings.5>firstPart->上品ぶる</VME_Trader.rulePack.rulesStrings.5>
+  <VME_Trader.rulePack.rulesStrings.6>firstPart->富裕な</VME_Trader.rulePack.rulesStrings.6>
+  <VME_Trader.rulePack.rulesStrings.7>firstPart->成功した</VME_Trader.rulePack.rulesStrings.7>
+  <VME_Trader.rulePack.rulesStrings.8>firstPart->華やかな</VME_Trader.rulePack.rulesStrings.8>
+  <VME_Trader.rulePack.rulesStrings.9>firstPart->金持ちな</VME_Trader.rulePack.rulesStrings.9>
+  <VME_Trader.rulePack.rulesStrings.10>secondPart(p=4)->商人</VME_Trader.rulePack.rulesStrings.10>
+  <VME_Trader.rulePack.rulesStrings.11>secondPart(p=4)->経営者</VME_Trader.rulePack.rulesStrings.11>
+  <VME_Trader.rulePack.rulesStrings.12>secondPart(p=4)->販売人</VME_Trader.rulePack.rulesStrings.12>
+  <VME_Trader.rulePack.rulesStrings.13>secondPart(p=4)->小売店主</VME_Trader.rulePack.rulesStrings.13>
+  <VME_Trader.rulePack.rulesStrings.14>secondPart(p=4)->行商人</VME_Trader.rulePack.rulesStrings.14>
+  <VME_Trader.rulePack.rulesStrings.15>secondPart(p=4)->仲買人</VME_Trader.rulePack.rulesStrings.15>
+  <VME_Trader.rulePack.rulesStrings.16>secondPart(p=4)->売り業者</VME_Trader.rulePack.rulesStrings.16>
+  <VME_Trader.rulePack.rulesStrings.17>secondPart(p=4)->販売係</VME_Trader.rulePack.rulesStrings.17>
+
+  <VME_Patissier.rulePack.rulesStrings.0>r_roleName(p=7)->[firstPart][secondPart]</VME_Patissier.rulePack.rulesStrings.0>
+  <VME_Patissier.rulePack.rulesStrings.1>r_roleName->パティシエ</VME_Patissier.rulePack.rulesStrings.1>
+  <VME_Patissier.rulePack.rulesStrings.2>firstPart->手際のよい</VME_Patissier.rulePack.rulesStrings.2>
+  <VME_Patissier.rulePack.rulesStrings.3>firstPart->練達の</VME_Patissier.rulePack.rulesStrings.3>
+  <VME_Patissier.rulePack.rulesStrings.4>firstPart->才能のある</VME_Patissier.rulePack.rulesStrings.4>
+  <VME_Patissier.rulePack.rulesStrings.5>firstPart->絶妙な</VME_Patissier.rulePack.rulesStrings.5>
+  <VME_Patissier.rulePack.rulesStrings.6>firstPart->調味した</VME_Patissier.rulePack.rulesStrings.6>
+  <VME_Patissier.rulePack.rulesStrings.7>firstPart->巧みな</VME_Patissier.rulePack.rulesStrings.7>
+  <VME_Patissier.rulePack.rulesStrings.8>secondPart(p=4)->料理人</VME_Patissier.rulePack.rulesStrings.8>
+  <VME_Patissier.rulePack.rulesStrings.9>secondPart(p=4)->美食家</VME_Patissier.rulePack.rulesStrings.9>
+  <VME_Patissier.rulePack.rulesStrings.10>secondPart(p=4)->パン屋</VME_Patissier.rulePack.rulesStrings.10>
+  <VME_Patissier.rulePack.rulesStrings.11>secondPart(p=4)->パティシエ</VME_Patissier.rulePack.rulesStrings.11>
+  <VME_Patissier.rulePack.rulesStrings.12>secondPart(p=4)->バンケッタ</VME_Patissier.rulePack.rulesStrings.12>
+  <VME_Patissier.rulePack.rulesStrings.13>secondPart(p=4)->グレイシャー</VME_Patissier.rulePack.rulesStrings.13>
+  <VME_Patissier.rulePack.rulesStrings.14>secondPart(p=4)->菓子屋</VME_Patissier.rulePack.rulesStrings.14>
+
+  <VME_Commissar.rulePack.rulesStrings.0>r_roleName->コミッサール</VME_Commissar.rulePack.rulesStrings.0>
+  <VME_Fleshcrafter.rulePack.rulesStrings.0>r_roleName->バイオクラフター</VME_Fleshcrafter.rulePack.rulesStrings.0>
+  <VME_Nurse.rulePack.rulesStrings.0>r_roleName->看護師</VME_Nurse.rulePack.rulesStrings.0>
+
+
+</LanguageData>

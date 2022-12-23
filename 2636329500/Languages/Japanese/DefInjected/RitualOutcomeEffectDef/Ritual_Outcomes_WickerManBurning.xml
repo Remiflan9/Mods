@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_WickerManBurningOutcome.description>コロニーの囚人を檻に閉じ込めて火をつけ,その過程で囚人は死亡します.儀式の質に応じて参加者は{MOODDAYS}日間, {MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</VME_WickerManBurningOutcome.description>
+  <VME_WickerManBurningOutcome.outcomeChances.0.label>酷い</VME_WickerManBurningOutcome.outcomeChances.0.label>
+  <VME_WickerManBurningOutcome.outcomeChances.0.description>{0}は酷いものでした!囚人はずっと檻をガタガタと不快な音を鳴らしていて,中から腐ったベーコンのような臭いがしました.</VME_WickerManBurningOutcome.outcomeChances.0.description>
+  <VME_WickerManBurningOutcome.outcomeChances.1.label>活気のない</VME_WickerManBurningOutcome.outcomeChances.1.label>
+  <VME_WickerManBurningOutcome.outcomeChances.1.description>{0}は活気がありませんでした.囚人はあまりにも呆気なく燃え尽きてしまい,炎上してもあまり気分が高揚しませんでした.</VME_WickerManBurningOutcome.outcomeChances.1.description>
+  <VME_WickerManBurningOutcome.outcomeChances.2.label>良い</VME_WickerManBurningOutcome.outcomeChances.2.label>
+  <VME_WickerManBurningOutcome.outcomeChances.2.description>{0}は良いものでした.囚人の苦悩に満ちた叫び声は,長く私たちの心に響き,また一つの魂が炎に包まれていきました.</VME_WickerManBurningOutcome.outcomeChances.2.description>
+  <VME_WickerManBurningOutcome.outcomeChances.3.label>輝かしい</VME_WickerManBurningOutcome.outcomeChances.3.label>
+  <VME_WickerManBurningOutcome.outcomeChances.3.description>{0}は輝かしいものだった!,囚人の暴れっぷりや,聖なる炎に魂が焼き尽くされていく恐怖の叫び声を私たちは忘れないでしょう</VME_WickerManBurningOutcome.outcomeChances.3.description>
+
+  <VME_WickerManBurningOutcome.comps.0.label>参加者数</VME_WickerManBurningOutcome.comps.0.label>
+
+  <VME_WickerManBurningOutcome.comps.1.label>{PAWN_labelShort}の社会的影響</VME_WickerManBurningOutcome.comps.1.label>
+
+
+</LanguageData>

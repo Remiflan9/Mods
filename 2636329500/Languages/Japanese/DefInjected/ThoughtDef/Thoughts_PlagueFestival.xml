@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_TerriblePlagueFestival.stages.0.label>酷い疫病の祝祭</VME_TerriblePlagueFestival.stages.0.label>
+  <VME_TerriblePlagueFestival.stages.0.description>スピーチは吃音で一貫性もなく,処刑も失敗した.死体はそのまま放置され,疫病の祝福も発生しなかった.時間の無駄だった.</VME_TerriblePlagueFestival.stages.0.description>
+
+  <VME_BoringPlagueFestival.stages.0.label>うんざりする疫病の祝祭</VME_BoringPlagueFestival.stages.0.label>
+  <VME_BoringPlagueFestival.stages.0.description>スピーチは同じことを繰り返し,処刑の技術には著しい欠陥があった.しかし,祝福された疫病は今,私たちの中にいる.</VME_BoringPlagueFestival.stages.0.description>
+
+  <VME_SatisfyingPlagueFestival.stages.0.label>満足のいく疫病の祝祭</VME_SatisfyingPlagueFestival.stages.0.label>
+  <VME_SatisfyingPlagueFestival.stages.0.description>スピーチは意味のあるもので,死体から瘴気が解き放たれ,聖なる疫病の風を全身に浴びた.</VME_SatisfyingPlagueFestival.stages.0.description>
+
+  <VME_SpectacularPlagueFestival.stages.0.label>壮観な疫病の祝祭</VME_SpectacularPlagueFestival.stages.0.label>
+  <VME_SpectacularPlagueFestival.stages.0.description>血!解放!聖なる疫病の風が漂い,私たちを祝福してくれた.</VME_SpectacularPlagueFestival.stages.0.description>
+
+
+</LanguageData>

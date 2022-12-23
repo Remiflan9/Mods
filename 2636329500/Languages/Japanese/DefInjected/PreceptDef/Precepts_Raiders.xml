@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_Raiding_Honorable.label>尊重</VME_Raiding_Honorable.label>
+  <VME_Raiding_Honorable.description>敵の陣地を征服することで,私たちの強さを示し,私たちに名誉をもたらす.</VME_Raiding_Honorable.description>
+
+  <VME_Raiding_Abhorrent.label>嫌悪</VME_Raiding_Abhorrent.label>
+  <VME_Raiding_Abhorrent.description>人が苦労して手に入れた他人の所有物を,相手の立場や心境も考えずに強奪することは,愚かで恥だ.</VME_Raiding_Abhorrent.description>
+
+  <VME_Raiding_Honorable.comps.0.eventLabel>誰かを襲撃した</VME_Raiding_Honorable.comps.0.eventLabel>
+  <VME_Raiding_Abhorrent.comps.0.eventLabel>誰かを襲撃した</VME_Raiding_Abhorrent.comps.0.eventLabel>
+
+  <VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.0>前回の奇襲から{DAYSSINCELASTRAIDTHRESHOLD}日未満</VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.0>
+
+  <VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.1>前回の奇襲から{DAYSSINCELASTRAIDTHRESHOLD}日以上</VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.1>
+
+  <VME_Raiding_Honorable.comps.0.thoughtStageDescriptions.0>前回の奇襲から{DAYSSINCELASTRAIDTHRESHOLD}日未満</VME_Raiding_Honorable.comps.0.thoughtStageDescriptions.0>
+
+  <VME_Raiding_Honorable.comps.0.thoughtStageDescriptions.1>前回の奇襲から{DAYSSINCELASTRAIDTHRESHOLD}日以上</VME_Raiding_Honorable.comps.0.thoughtStageDescriptions.1>
+
+
+  <VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.0>前回の奇襲から{DAYSSINCELASTRAIDTHRESHOLD}日未満</VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.0>
+
+  <VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.1>前回の奇襲から{DAYSSINCELASTRAIDTHRESHOLD}日以上</VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.1>
+
+
+  <VME_Raiding_Abhorrent.comps.0.thoughtStageDescriptions.0>前回の奇襲から{DAYSSINCELASTRAIDTHRESHOLD}日未満</VME_Raiding_Abhorrent.comps.0.thoughtStageDescriptions.0>
+
+  <VME_Raiding_Abhorrent.comps.0.thoughtStageDescriptions.1>前回の奇襲から{DAYSSINCELASTRAIDTHRESHOLD}日以上</VME_Raiding_Abhorrent.comps.0.thoughtStageDescriptions.1>
+
+</LanguageData>

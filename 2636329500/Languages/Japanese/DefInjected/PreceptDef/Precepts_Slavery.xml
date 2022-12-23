@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Slavery_Forbidden.label>禁止</VME_Slavery_Forbidden.label>
+  <VME_Slavery_Forbidden.description>奴隷貿易に参加することは,絶対的に下劣な考えだ.奴隷を購入する唯一の理由は,すぐに解放する意図に限られる.ましてや,奴隷として苦労してきた人々には,同情と尊敬の念を抱くべきだ.</VME_Slavery_Forbidden.description>
+  <VME_Slavery_Forbidden.comps.0.description>コロニー内の全ての奴隷（解放されるまで)</VME_Slavery_Forbidden.comps.0.description>
+
+
+</LanguageData>

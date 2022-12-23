@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_InstalledProsthetic_OnlyBiological.stages.0.label>自然に反する義肢</VME_InstalledProsthetic_OnlyBiological.stages.0.label>
+  <VME_InstalledProsthetic_OnlyBiological.stages.0.description>自然物ではない義肢を取り付けられた.人体改造は生身の肉や器官のみで行うべきだ.</VME_InstalledProsthetic_OnlyBiological.stages.0.description>
+
+  <VME_InstalledProsthetic_Know_OnlyBiological.stages.0.label>自然に反する義肢を移植</VME_InstalledProsthetic_Know_OnlyBiological.stages.0.label>
+
+  <VME_HasProsthetic_OnlyBiological.stages.0.label>自然に反する臓器</VME_HasProsthetic_OnlyBiological.stages.0.label>
+  <VME_HasProsthetic_OnlyBiological.stages.0.description>私の中には自然物ではない臓器が埋まっている.自然の臓器と置き換えるべきだ!</VME_HasProsthetic_OnlyBiological.stages.0.description>
+
+  <VME_HasProsthetic_OnlyBiological_Social.stages.0.label>自然に反する臓器</VME_HasProsthetic_OnlyBiological_Social.stages.0.label>
+
+
+</LanguageData>

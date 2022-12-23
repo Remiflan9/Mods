@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_WickerMan.label>ウィッカーマン</VME_WickerMan.label>
+  <VME_WickerMan.description>乾燥した茂みや茅,木の切れ端などで作られた大きな人型の人形です.裁判や儀式の一環として,囚人を物理的に拘束して生きたまま焼き殺すために使われます.</VME_WickerMan.description>
+
+  <VME_Bonfire.label>大かがり火</VME_Bonfire.label>
+  <VME_Bonfire.description>石の台座の上に丁寧に積まれた丸太で作られた,非常に大きくて明るく燃える焚き火です.火炎の儀式の際によく使われ,屋外にしか設置できません.</VME_Bonfire.description>
+
+  <VME_BonfireAfterRitual.label>大かがり火</VME_BonfireAfterRitual.label>
+  <VME_BonfireAfterRitual.description>石の台座の上に丁寧に積まれた丸太で作られた,非常に大きくて明るく燃える焚き火です.火炎の儀式の際によく使われ,屋外にしか設置できません.最低でも2クワッドラムの間は燃え続け,近くに美しさをもたらすと同時に,火炎崇拝の戒律にも適用されます.</VME_BonfireAfterRitual.description>
+
+  <VME_MechanoidEffigy.label>メカノイドのエフィジー</VME_MechanoidEffigy.label>
+  <VME_MechanoidEffigy.description>メカノイドの残骸で作られた建造物です.メカノイドのAIを混乱させるIFFプログラミング信号を発生させます.1人の入植者につき2つ存在すると,十分なシグナルノイズが古代のメカノイドのプログラムをリセットし,即座に退却させることができます.</VME_MechanoidEffigy.description>
+
+  <VME_Obelisk.label>不吉なオベリスク</VME_Obelisk.label>
+  <VME_Obelisk.description>不吉な外観をした石のオブジェです.効果範囲内にいる入植者は狂気の欲求値が減少しません.</VME_Obelisk.description>
+
+  <VME_InsectNest.label>虫の巣</VME_InsectNest.label>
+  <VME_InsectNest.description>インセクトロイドゼリーを生産します.この巣は昆虫を孵化させません.耐久度が0％になると巣は破壊されます.</VME_InsectNest.description>
+
+
+</LanguageData>

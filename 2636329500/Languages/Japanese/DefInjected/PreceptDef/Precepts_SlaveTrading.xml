@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_SlaveTrading_OnlyBuying.label>購入のみ</VME_SlaveTrading_OnlyBuying.label>
+  <VME_SlaveTrading_OnlyBuying.description>奴隷を買うことだけが正当であり,その後コロニー内で適切な数の寝室と配慮を与えるべきだ.奴隷を売ることで,その運命を買い手の善意に委ねるのは,非常に愚かな行為だ.</VME_SlaveTrading_OnlyBuying.description>
+  <VME_SlaveTrading_OnlyBuying.comps.2.description>誰かが奴隷を買った</VME_SlaveTrading_OnlyBuying.comps.2.description>
+  <VME_SlaveTrading_OnlyBuying.comps.3.description>誰かが奴隷を売った</VME_SlaveTrading_OnlyBuying.comps.3.description>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_IncantationOutcome.description>呪文の詠唱の儀式がうまくいった場合（ポジティブな結果）,参加者全員の堕落値が10％増加し,心情ボーナスも得られます.</VME_IncantationOutcome.description>
+
+  <VME_IncantationOutcome.outcomeChances.0.label>鱗状の呪い</VME_IncantationOutcome.outcomeChances.0.label>
+  <VME_IncantationOutcome.outcomeChances.0.description>それは何とも言えない醜悪なゲロゲロといった鳴き声が聞こえてくるものでした.それらは鱗状に見えましたが,一体全体何なのかもわかりません.とにかく言葉にならない!</VME_IncantationOutcome.outcomeChances.0.description>
+  <VME_IncantationOutcome.outcomeChances.1.label>忌まわしい</VME_IncantationOutcome.outcomeChances.1.label>
+  <VME_IncantationOutcome.outcomeChances.1.description>それは犯罪,堕落,狂気で表現された,暗く病的なものでした.</VME_IncantationOutcome.outcomeChances.1.description>
+  <VME_IncantationOutcome.outcomeChances.2.label>冒涜的</VME_IncantationOutcome.outcomeChances.2.label>
+  <VME_IncantationOutcome.outcomeChances.2.description>それは星の彼方の溝で脈動が鳴り響き,月の輝く夜に死者だけが垣間見ることのできる神聖とは程遠い次元で,私たちの惑星に恐ろしいほど迫ってくるような,奇妙な生命の隠された底知れぬ世界を約束するものでした.</VME_IncantationOutcome.outcomeChances.2.description>
+  <VME_IncantationOutcome.outcomeChances.3.label>おぞましい</VME_IncantationOutcome.outcomeChances.3.label>
+  <VME_IncantationOutcome.outcomeChances.3.description>それは私たちが無限の黒い海の中で無知なる島に居るものでした.私たちがそこまで遠くに航海してしまったのは過ちだったようです.</VME_IncantationOutcome.outcomeChances.3.description>
+  <VME_IncantationOutcome.comps.0.label>部屋の印象</VME_IncantationOutcome.comps.0.label>
+  <VME_IncantationOutcome.comps.1.label>参加者数</VME_IncantationOutcome.comps.1.label>
+  <VME_IncantationOutcome.comps.2.label>{PAWN_labelShort}の社会的影響</VME_IncantationOutcome.comps.2.label>
+
+
+</LanguageData>

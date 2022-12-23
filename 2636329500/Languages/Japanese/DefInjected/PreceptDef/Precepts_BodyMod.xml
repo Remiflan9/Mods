@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_BodyMod_OnlyBiological.label>自然物のみ</VME_BodyMod_OnlyBiological.label>
+  <VME_BodyMod_OnlyBiological.description>人体から自然に取り出された肉や臓器だけを利用するべきだ.科学的に作られた人工物に頼るのは禁止だ.</VME_BodyMod_OnlyBiological.description>
+
+
+</LanguageData>

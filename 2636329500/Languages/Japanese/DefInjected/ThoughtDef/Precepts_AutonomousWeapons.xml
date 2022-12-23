@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Related: Has automated turrets -->
+
+  <VME_AutonomousWeapons_Accepted.stages.0.label>自動タレット</VME_AutonomousWeapons_Accepted.stages.0.label>
+  <VME_AutonomousWeapons_Accepted.stages.0.description>私たちは自動タレットを配備している.コロニーの防衛にとって驚くべき恩恵だ.</VME_AutonomousWeapons_Accepted.stages.0.description>
+
+  <VME_AutonomousWeapons_Exalted.stages.0.label>自動タレット</VME_AutonomousWeapons_Exalted.stages.0.label>
+  <VME_AutonomousWeapons_Exalted.stages.0.description>私たちは自動タレットを配備している.自動化された防衛システムは,コロニーを守るための鍵となるだろう.</VME_AutonomousWeapons_Exalted.stages.0.description>
+
+
+</LanguageData>

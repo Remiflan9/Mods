@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_InsectMeatEating_Sacrilegious.label>嫌悪(厳格)</VME_InsectMeatEating_Sacrilegious.label>
+  <VME_InsectMeatEating_Sacrilegious.description>神聖なる虫の肉を食べる行為は下品で冒涜的な行為であり,口に近づけることさえ恥だ.</VME_InsectMeatEating_Sacrilegious.description>
+
+  <VME_InsectMeatEating_DontCare.label>気にしない</VME_InsectMeatEating_DontCare.label>
+  <VME_InsectMeatEating_DontCare.description>虫の肉は単なる食材の一種である.人類の歴史の中で,昆虫食の伝統を持つ文化は無数にある.</VME_InsectMeatEating_DontCare.description>
+
+
+</LanguageData>

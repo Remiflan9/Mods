@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Illness_Exalted.stages.0.label>病気になった</VME_Illness_Exalted.stages.0.label>
+  <VME_Illness_Exalted.stages.0.description>聖なるウィルスと神なるバクテリアが私の血管の中で繁殖している.</VME_Illness_Exalted.stages.0.description>
+
+  <VME_Illness_Exalted_TooHealthy.stages.0.label>病気になりたい</VME_Illness_Exalted_TooHealthy.stages.0.label>
+  <VME_Illness_Exalted_TooHealthy.stages.0.description>もう一度痛みに縛られることになったら,どんなに良いことか.</VME_Illness_Exalted_TooHealthy.stages.0.description>
+
+  <VME_Illness_Preferred.stages.0.label>病気になった</VME_Illness_Preferred.stages.0.label>
+  <VME_Illness_Preferred.stages.0.description>私は病気になった.仕事をサボるための完璧な言い訳だ.</VME_Illness_Preferred.stages.0.description>
+
+
+</LanguageData>

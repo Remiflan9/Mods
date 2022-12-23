@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_WritersTable.label>執筆卓</VBE_WritersTable.label>
+  <VBE_WritersTable.description>書籍の執筆を行うための作業机です。</VBE_WritersTable.description>
+
+  <VBE_TypewritersTable.label>打字機つき執筆卓</VBE_TypewritersTable.label>
+  <VBE_TypewritersTable.description>書籍の執筆を行うための作業机です。執筆作業の速度を大幅に高める打字機を備えていますが、打字機の作動には電気の供給が必要です。</VBE_TypewritersTable.description>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Defeat_Dishonorable.label>恥ずべき</VME_Defeat_Dishonorable.label>
+  <VME_Defeat_Dishonorable.description>戦場での挫折は,身体と精神への侮辱行為だ.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - 30日以内に2回,人間のような敵との戦闘でダウンした入植者は,不名誉を清めるための儀式的な自殺が必要になります.メカノイドや動物はこれに該当しません.</VME_Defeat_Dishonorable.description>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Violence_Honorable.stages.0.label>無実の人間を攻撃した</VME_Violence_Honorable.stages.0.label>
+  <VME_Violence_Honorable.stages.0.description>私は無害な人間に致命傷を負わせた.私たちの強さと決意を証明した.</VME_Violence_Honorable.stages.0.description>
+
+  <VME_Violence_Disapproved.stages.0.label>無実の人間を攻撃した</VME_Violence_Disapproved.stages.0.label>
+  <VME_Violence_Disapproved.stages.0.description>私は無害な人間に致命傷を負わせた.これは過ちだ.</VME_Violence_Disapproved.stages.0.description>
+
+  <VME_Violence_Abhorrent.stages.0.label>誰かを攻撃した</VME_Violence_Abhorrent.stages.0.label>
+  <VME_Violence_Abhorrent.stages.0.description>私は相手に致命傷を負わせた.とても恥じるべき行為だ.</VME_Violence_Abhorrent.stages.0.description>
+
+
+</LanguageData>

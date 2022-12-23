@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_SerketistDescription.rules.rulesStrings.0>serketistBasis   -&gt;我々の聖なるクイーンに勝る生命体はいない.そこから生まれる栄養たっぷりの恵みのゼリーはアンブロシアのように至高だ.世界全体は彼女らの観念に作り変えられるべきだ.</VME_SerketistDescription.rules.rulesStrings.0>
+  <VME_SerketistDescription.rules.rulesStrings.1>serketistBasis   -&gt;人類はその傲慢さゆえに,偶然にも完璧な生命体の誕生に遭遇してしまった.インセクトロイド(虫)だ.</VME_SerketistDescription.rules.rulesStrings.1>
+  <VME_SerketistDescription.rules.rulesStrings.2>serketistBasis   -&gt;忘れ去られた古代の遺伝学者が生み出した虫たちは,完璧な生命体になるために常に進化を続けてきた.</VME_SerketistDescription.rules.rulesStrings.2>
+  <VME_SerketistDescription.rules.rulesStrings.3>serketistBasis   -&gt;メカノイドの脅威にさらされていた人類は,完璧な生命体を設計した.インセクトロイド(虫)である.</VME_SerketistDescription.rules.rulesStrings.3>
+  <VME_SerketistDescription.rules.rulesStrings.4>serketistBasis   -&gt;聖なるクイーンに率いられた虫たちは,銀河系の中でも完璧な生命体だ.</VME_SerketistDescription.rules.rulesStrings.4>
+  <VME_SerketistDescription.rules.rulesStrings.5>serketistFact    -&gt;虫たちは進化の頂点を極めている.[InsectAdjective].[InsectAdjective2].[InsectAdjective3]彼らのようになるため,我々は努力すべきなのだ.</VME_SerketistDescription.rules.rulesStrings.5>
+  <VME_SerketistDescription.rules.rulesStrings.6>serketistProphecy-&gt;[itIsSaid]我々は彼らから学び,敵を圧倒する大群のようになるだろう.</VME_SerketistDescription.rules.rulesStrings.6>
+  <VME_SerketistDescription.rules.rulesStrings.7>itIsSaid-&gt;そして</VME_SerketistDescription.rules.rulesStrings.7>
+  <VME_SerketistDescription.rules.rulesStrings.8>itIsSaid-&gt;運命によれば</VME_SerketistDescription.rules.rulesStrings.8>
+  <VME_SerketistDescription.rules.rulesStrings.9>itIsSaid-&gt;予言によれば</VME_SerketistDescription.rules.rulesStrings.9>
+  <VME_SerketistDescription.rules.rulesStrings.10>itIsSaid-&gt;彼らの知性に従い</VME_SerketistDescription.rules.rulesStrings.10>
+  <VME_SerketistDescription.rules.rulesStrings.11>itIsSaid-&gt;クイーンの意志を尊重することで</VME_SerketistDescription.rules.rulesStrings.11>
+  <VME_SerketistDescription.rules.rulesStrings.12>InsectAdjective-&gt;適応性の</VME_SerketistDescription.rules.rulesStrings.12>
+  <VME_SerketistDescription.rules.rulesStrings.13>InsectAdjective-&gt;貪欲な</VME_SerketistDescription.rules.rulesStrings.13>
+  <VME_SerketistDescription.rules.rulesStrings.14>InsectAdjective-&gt;強烈な</VME_SerketistDescription.rules.rulesStrings.14>
+  <VME_SerketistDescription.rules.rulesStrings.15>InsectAdjective2-&gt;万能の</VME_SerketistDescription.rules.rulesStrings.15>
+  <VME_SerketistDescription.rules.rulesStrings.16>InsectAdjective2-&gt;断固とした</VME_SerketistDescription.rules.rulesStrings.16>
+  <VME_SerketistDescription.rules.rulesStrings.17>InsectAdjective2-&gt;破壊的な</VME_SerketistDescription.rules.rulesStrings.17>
+  <VME_SerketistDescription.rules.rulesStrings.18>InsectAdjective3-&gt;複雑な</VME_SerketistDescription.rules.rulesStrings.18>
+  <VME_SerketistDescription.rules.rulesStrings.19>InsectAdjective3-&gt;不滅の</VME_SerketistDescription.rules.rulesStrings.19>
+  <VME_SerketistDescription.rules.rulesStrings.20>InsectAdjective3-&gt;抵抗力のある</VME_SerketistDescription.rules.rulesStrings.20>
+
+  <VME_ChthonianDescription.rules.rulesStrings.0>chthonianBasis   -&gt;この世には,どんな理論をもってしても説明できない強大な存在がいる.それらは単なる神々よりもはるかに古代の概念だ.</VME_ChthonianDescription.rules.rulesStrings.0>
+  <VME_ChthonianDescription.rules.rulesStrings.1>chthonianBasis   -&gt;ベールの向こう側には,狂気に満ちた旧神たちの新世界が待っている.</VME_ChthonianDescription.rules.rulesStrings.1>
+  <VME_ChthonianDescription.rules.rulesStrings.2>chthonianBasis   -&gt;全宇宙に佇む神々は究極の捕食者には決してなれない.それを上回る強力な古代の存在がいるからだ.そして彼らは尊敬すべき存在であり,同時に恐れをなす存在だ.</VME_ChthonianDescription.rules.rulesStrings.2>
+  <VME_ChthonianDescription.rules.rulesStrings.3>chthonianBasis   -&gt;未知の広大な宇宙には,ちょっとした思いつきで宇宙全体を変えてしまうような狂気の存在がいる.</VME_ChthonianDescription.rules.rulesStrings.3>
+  <VME_ChthonianDescription.rules.rulesStrings.4>chthonianFact    -&gt;彼らにとって我々は虫けらのような存在だ.彼らにとって我々は注意を引く価値もない虫ケラであり,いともたやすく踏みにじる.我々は取るに足らない存在と見なされている.</VME_ChthonianDescription.rules.rulesStrings.4>
+  <VME_ChthonianDescription.rules.rulesStrings.5>chthonianFact    -&gt;彼らは人類に関心がない.彼らにとって我々はなんでもない存在だ.足手まといとも思われていない.</VME_ChthonianDescription.rules.rulesStrings.5>
+  <VME_ChthonianDescription.rules.rulesStrings.6>chthonianFact    -&gt;強大かつ,無慈悲であり.我々の知性をはるかに超えた存在だ.彼らの関心を引くことは賢明ではない.</VME_ChthonianDescription.rules.rulesStrings.6>
+  <VME_ChthonianDescription.rules.rulesStrings.7>chthonianFact    -&gt;彼らからすれば,我々は存在しないも同然だ.自分が座っている椅子の表面に微生物がいることを考えないのと同じことだ.</VME_ChthonianDescription.rules.rulesStrings.7>
+  <VME_ChthonianDescription.rules.rulesStrings.8>chthonianProphecy-&gt;[weMustBe],彼らの注意を引かず賢明さをもって行動することだ.彼らは一瞬にして我々を破壊することができる恐ろしい存在だ.</VME_ChthonianDescription.rules.rulesStrings.8>
+  <VME_ChthonianDescription.rules.rulesStrings.9>chthonianProphecy-&gt;[byWorshipping],彼らの視線を逸らすことができるかもしれない.</VME_ChthonianDescription.rules.rulesStrings.9>
+  <VME_ChthonianDescription.rules.rulesStrings.10>chthonianProphecy-&gt;騙されてはいけない.彼らは我々の献身に値しないのだ.しかし,偽りの信心深さを示すことで,彼らの注意を十分に避けることができるはず.</VME_ChthonianDescription.rules.rulesStrings.10>
+  <VME_ChthonianDescription.rules.rulesStrings.11>chthonianProphecy-&gt;それでも,そこから学べることはたくさんある.狂気の叫びを覗き見る勇気ある者,あるいは愚かな者には,エルドリッチな知識が待っている.</VME_ChthonianDescription.rules.rulesStrings.11>
+  <VME_ChthonianDescription.rules.rulesStrings.12>weMustBe-&gt;絶対に</VME_ChthonianDescription.rules.rulesStrings.12>
+  <VME_ChthonianDescription.rules.rulesStrings.13>weMustBe-&gt;慎重に</VME_ChthonianDescription.rules.rulesStrings.13>
+  <VME_ChthonianDescription.rules.rulesStrings.14>weMustBe-&gt;大切なのは</VME_ChthonianDescription.rules.rulesStrings.14>
+  <VME_ChthonianDescription.rules.rulesStrings.15>byWorshipping-&gt;崇拝することで</VME_ChthonianDescription.rules.rulesStrings.15>
+  <VME_ChthonianDescription.rules.rulesStrings.16>byWorshipping-&gt;信仰を示すことで</VME_ChthonianDescription.rules.rulesStrings.16>
+
+  <VME_EsotericismDescription.rules.rulesStrings.0>esotericismBasis   -&gt;一般的な科学の常識を超えて,秘密の知識の比類のない高みを得る.</VME_EsotericismDescription.rules.rulesStrings.0>
+  <VME_EsotericismDescription.rules.rulesStrings.1>esotericismBasis   -&gt;科学者や哲学者の目が届かないところに,隠された知識を持つ神秘の世界が待っている.</VME_EsotericismDescription.rules.rulesStrings.1>
+  <VME_EsotericismDescription.rules.rulesStrings.2>esotericismBasis   -&gt;科学はあなたを彼方に連れ去るだけだ.現実のベールの向こう側は,秘密の知識の宝庫であり,我々に発見されるのをしかと待ちわびている.</VME_EsotericismDescription.rules.rulesStrings.2>
+  <VME_EsotericismDescription.rules.rulesStrings.3>esotericismBasis   -&gt;そして,宇宙はあまりにも広大なため,純粋な数学や物理学の制約を受けることはないのだ.人間の限界を超えたところに,秘密の知識の膨大な宝庫が存在し,それに触れようとする者は,代償と引き換えに到達することができるだろう.</VME_EsotericismDescription.rules.rulesStrings.3>
+  <VME_EsotericismDescription.rules.rulesStrings.4>esotericismFact    -&gt;そのような洞察力を身につけられる精神的な強さを持った者は限られている.</VME_EsotericismDescription.rules.rulesStrings.4>
+  <VME_EsotericismDescription.rules.rulesStrings.5>esotericismFact    -&gt;これらの秘伝の洞察は誰にでも適用されるものではない.限られた賢者たちだけが,それらを探求し観察することができる.それこそが,選ばれし者たちだ.</VME_EsotericismDescription.rules.rulesStrings.5>
+  <VME_EsotericismDescription.rules.rulesStrings.6>esotericismFact    -&gt;このような洞察力は,おそらく一般の人間には手に負えないものだ.精神的に強い者だけが,神秘の世界を覗き見ることができ,やがて精神は保たれる.</VME_EsotericismDescription.rules.rulesStrings.6>
+  <VME_EsotericismDescription.rules.rulesStrings.7>esotericismProphecy-&gt;そのような知識を掘り下げることで,我々の死すべき存在を超越することもできるかもしれない.</VME_EsotericismDescription.rules.rulesStrings.7>
+  <VME_EsotericismDescription.rules.rulesStrings.8>esotericismProphecy-&gt;十分な時間があれば,我々は最も守られてきた秘密を解き明かし,この宇宙での自分の居場所を最終的に理解することができる.</VME_EsotericismDescription.rules.rulesStrings.8>
+  <VME_EsotericismDescription.rules.rulesStrings.9>esotericismProphecy-&gt;古代の錬金術師たちが楽園を求めたとして,それは愚かではなかったかもしれないが,我々はもっと野心的になれるはずだ.我々はトランスマンダンを自分の魂に適用し,人間以上の存在になる.</VME_EsotericismDescription.rules.rulesStrings.9>
+  <VME_EsotericismDescription.rules.rulesStrings.10>esotericismProphecy-&gt;このような知識があれば,我々は他の惑星の住民よりも優位になり,我々の支配は確実なものとなるだろう.</VME_EsotericismDescription.rules.rulesStrings.10>
+
+  <VME_HedonistDescription.rules.rulesStrings.0>lesson(priority=-1)-&gt;何かが起こる</VME_HedonistDescription.rules.rulesStrings.0>
+  <VME_HedonistDescription.rules.rulesStrings.1>r_pattern-&gt;"[r_lessonIntro] [r_lessonMain]. [r_lessonReinforcement]"\n\n  - [lessonAttribution]</VME_HedonistDescription.rules.rulesStrings.1>
+  <VME_HedonistDescription.rules.rulesStrings.2>lessonAttribution-&gt;[founder_nameFull]</VME_HedonistDescription.rules.rulesStrings.2>
+  <VME_HedonistDescription.rules.rulesStrings.3>lessonAttribution(p=2)-&gt;&lt;i&gt;[attributionSource_titleCase]&lt;/i&gt; by [founder_nameFull]</VME_HedonistDescription.rules.rulesStrings.3>
+  <VME_HedonistDescription.rules.rulesStrings.4>lessonAttribution-&gt;[founder_nameFull]の[believer_nameFull]への手紙</VME_HedonistDescription.rules.rulesStrings.4>
+  <VME_HedonistDescription.rules.rulesStrings.5>lessonAttribution-&gt;[founder_nameFull],[founder_possessive]死に際して</VME_HedonistDescription.rules.rulesStrings.5>
+  <VME_HedonistDescription.rules.rulesStrings.6>lessonAttribution-&gt;[founder_nameFull],死刑執行の直前</VME_HedonistDescription.rules.rulesStrings.6>
+  <VME_HedonistDescription.rules.rulesStrings.7>lessonAttribution-&gt;[founder_nameFull],[TerrainFeature]の[speech].</VME_HedonistDescription.rules.rulesStrings.7>
+  <VME_HedonistDescription.rules.rulesStrings.8>lessonAttribution-&gt;[founder_nameFull],[Community]での[speech]</VME_HedonistDescription.rules.rulesStrings.8>
+  <VME_HedonistDescription.rules.rulesStrings.9>attributionSource-&gt;[memeConcept]</VME_HedonistDescription.rules.rulesStrings.9>
+  <VME_HedonistDescription.rules.rulesStrings.10>attributionSource-&gt;[memeAdjective][memeConcept]</VME_HedonistDescription.rules.rulesStrings.10>
+  <VME_HedonistDescription.rules.rulesStrings.11>attributionSource-&gt;[memeAdjective]人生</VME_HedonistDescription.rules.rulesStrings.11>
+  <VME_HedonistDescription.rules.rulesStrings.12>attributionSource-&gt;[attributionJob]の熟考</VME_HedonistDescription.rules.rulesStrings.12>
+  <VME_HedonistDescription.rules.rulesStrings.13>attributionSource-&gt;[attributionJob]の日記</VME_HedonistDescription.rules.rulesStrings.13>
+  <VME_HedonistDescription.rules.rulesStrings.14>attributionSource-&gt;[attributionJob]の感想</VME_HedonistDescription.rules.rulesStrings.14>
+  <VME_HedonistDescription.rules.rulesStrings.15>attributionSource-&gt;[attributionJob]の生活</VME_HedonistDescription.rules.rulesStrings.15>
+  <VME_HedonistDescription.rules.rulesStrings.16>attributionJob-&gt;[memeAdjective][place_job]</VME_HedonistDescription.rules.rulesStrings.16>
+  <VME_HedonistDescription.rules.rulesStrings.17>attributionJob-&gt;[place_job]</VME_HedonistDescription.rules.rulesStrings.17>
+  <VME_HedonistDescription.rules.rulesStrings.18>speech-&gt;演説</VME_HedonistDescription.rules.rulesStrings.18>
+  <VME_HedonistDescription.rules.rulesStrings.19>speech-&gt;講演</VME_HedonistDescription.rules.rulesStrings.19>
+  <VME_HedonistDescription.rules.rulesStrings.20>lessonIntro-&gt;寝る間も惜しんで熟考した結果,私はシンプルな結論に達しました.</VME_HedonistDescription.rules.rulesStrings.20>
+  <VME_HedonistDescription.rules.rulesStrings.21>lessonIntro-&gt;人間の存在の根本的な真実とは何でしょうか?</VME_HedonistDescription.rules.rulesStrings.21>
+  <VME_HedonistDescription.rules.rulesStrings.22>lessonIntro-&gt;私はこの人生でたくさんの苦しみを味わってきました.しかし,この苦しみは私にシンプルな原則を教えてくれました.</VME_HedonistDescription.rules.rulesStrings.22>
+  <VME_HedonistDescription.rules.rulesStrings.23>lessonIntro-&gt;私は[place_summary]である[place_name]で貧しい暮らしをする中,ある誠実な公理を学びました.</VME_HedonistDescription.rules.rulesStrings.23>
+  <VME_HedonistDescription.rules.rulesStrings.24>lessonIntro-&gt;この教訓を胸に刻んで,あなたのために役立ててください:</VME_HedonistDescription.rules.rulesStrings.24>
+  <VME_HedonistDescription.rules.rulesStrings.25>lessonIntro-&gt;あなたは自分を見失っていませんか?おそらく,この非常にシンプルなコンセプトをまだ理解していないのでしょう.</VME_HedonistDescription.rules.rulesStrings.25>
+  <VME_HedonistDescription.rules.rulesStrings.26>lessonIntro-&gt;豊かで退屈な生産性のある生活で私を誘惑しようとしましたが,私を欺くことはできませんでした.</VME_HedonistDescription.rules.rulesStrings.26>
+  <VME_HedonistDescription.rules.rulesStrings.27>lessonMain-&gt;体の欲求を満たす「快楽」は,人間の人生における最高の善であり,正しい目的です.宗教であれ,哲学であれ,私たちの生活全体は,可能な限り自分自身を楽しむことに集中すべきです.</VME_HedonistDescription.rules.rulesStrings.27>
+  <VME_HedonistDescription.rules.rulesStrings.28>lessonMain-&gt;生きている理由は,とにかく楽しむことだということを,やっと理解しました.</VME_HedonistDescription.rules.rulesStrings.28>
+  <VME_HedonistDescription.rules.rulesStrings.29>lessonMain-&gt;誘惑から逃れるには,誘惑に屈するしかありません.</VME_HedonistDescription.rules.rulesStrings.29>
+  <VME_HedonistDescription.rules.rulesStrings.30>lessonMain-&gt;救いは弱者のために存在します.でも,私は救いが欲しいのではなく,人生が欲しいのです.人生の全てが,悲惨な人も,素晴らしい人も</VME_HedonistDescription.rules.rulesStrings.30>
+  <VME_HedonistDescription.rules.rulesStrings.31>lessonMain-&gt;喜びは欲求ではなく,動機です</VME_HedonistDescription.rules.rulesStrings.31>
+  <VME_HedonistDescription.rules.rulesStrings.32>lessonMain-&gt;今,最も責任ある生き方は,とにかく今を楽しんでおくことだと思います</VME_HedonistDescription.rules.rulesStrings.32>
+  <VME_HedonistDescription.rules.rulesStrings.33>lessonMain-&gt;100歳まで生きたいなどという願望を思い切って捨てれば,100歳まで生きることは夢ではありません</VME_HedonistDescription.rules.rulesStrings.33>
+  <VME_HedonistDescription.rules.rulesStrings.34>lessonReinforcement-&gt;誰もこのことに反論できません.</VME_HedonistDescription.rules.rulesStrings.34>
+  <VME_HedonistDescription.rules.rulesStrings.35>lessonReinforcement-&gt;そうでないと考えるのは愚か者だけです.</VME_HedonistDescription.rules.rulesStrings.35>
+  <VME_HedonistDescription.rules.rulesStrings.36>lessonReinforcement-&gt;そして,今ではそのことが誰の目にも明らかになりました.</VME_HedonistDescription.rules.rulesStrings.36>
+  <VME_HedonistDescription.rules.rulesStrings.37>lessonReinforcement-&gt;その後の全ての出来事が,その事実を強く印象づけています.</VME_HedonistDescription.rules.rulesStrings.37>
+  <VME_HedonistDescription.rules.rulesStrings.38>lessonReinforcement-&gt;それがそのまま私の心に刻まれているような気がします.</VME_HedonistDescription.rules.rulesStrings.38>
+  <VME_HedonistDescription.rules.rulesStrings.39>lessonReinforcement-&gt;このことは,一生忘れることができないことだと思います.</VME_HedonistDescription.rules.rulesStrings.39>
+
+  <VME_EschatologismDescription.rules.rulesStrings.0>eschatologismBasis   -&gt;この世界は汚染され,不浄であり,浄化されなければならない.我々は日の終わりをもたらし,宇宙の灰から新しい宇宙が生まれ変わるだろう.</VME_EschatologismDescription.rules.rulesStrings.0>
+  <VME_EschatologismDescription.rules.rulesStrings.1>eschatologismBasis   -&gt;もうこの世界には何の価値もない.膨大なポストヒューマンの知能が暗躍している.凶悪な遺伝子操作された創造物が土地に蔓延している.強欲で愚かで野心的な人間が弱者を食い物にしている.全てを破壊しなければならない.</VME_EschatologismDescription.rules.rulesStrings.1>
+  <VME_EschatologismDescription.rules.rulesStrings.2>eschatologismBasis   -&gt;この世界は浄化されなければならない.あまりにも長い間,我々はそれを放置してきた.人間の愚かさが暴走し,全てを台無しにすべきだ.</VME_EschatologismDescription.rules.rulesStrings.2>
+  <VME_EschatologismDescription.rules.rulesStrings.3>eschatologismBasis   -&gt;それは避けられない事実である.前進する唯一の方法は,最初からやり直して新たに始めることだ.この世界は破壊しなければならない.</VME_EschatologismDescription.rules.rulesStrings.3>
+  <VME_EschatologismDescription.rules.rulesStrings.4>eschatologismBasis   -&gt;もはや妥協の余地はない.この世界は汚染されており,不浄である.破壊しなければならない.</VME_EschatologismDescription.rules.rulesStrings.4>
+  <VME_EschatologismDescription.rules.rulesStrings.5>eschatologismFact    -&gt;核爆弾でも何でもいいので,「黙示録」を実現しなければならない.</VME_EschatologismDescription.rules.rulesStrings.5>
+  <VME_EschatologismDescription.rules.rulesStrings.6>eschatologismFact    -&gt;全てが終わる大いなる戦争が起こる,そして我々はその準備をする.</VME_EschatologismDescription.rules.rulesStrings.6>
+  <VME_EschatologismDescription.rules.rulesStrings.7>eschatologismFact    -&gt;腐敗の種は,我々一人ひとりの中に深く潜んでいるからだ.</VME_EschatologismDescription.rules.rulesStrings.7>
+  <VME_EschatologismDescription.rules.rulesStrings.8>eschatologismFact    -&gt;何もなく,焦げた跡しか残らない.</VME_EschatologismDescription.rules.rulesStrings.8>
+  <VME_EschatologismDescription.rules.rulesStrings.9>eschatologismFact    -&gt;全てが破壊された後は,我々選ばれし者が,我々の好きなように世界を再構築するだろう.</VME_EschatologismDescription.rules.rulesStrings.9>
+  <VME_EschatologismDescription.rules.rulesStrings.10>eschatologismProphecy-&gt;我々は勝利するのだ.</VME_EschatologismDescription.rules.rulesStrings.10>
+  <VME_EschatologismDescription.rules.rulesStrings.11>eschatologismProphecy-&gt;誰も我々の怒りに備えることはできない.</VME_EschatologismDescription.rules.rulesStrings.11>
+  <VME_EschatologismDescription.rules.rulesStrings.12>eschatologismProphecy-&gt;我々が最終に攻撃するとき,全ての者が我々の前に倒れるだろう.</VME_EschatologismDescription.rules.rulesStrings.12>
+  <VME_EschatologismDescription.rules.rulesStrings.13>eschatologismProphecy-&gt;この世の日数は常に数えられている.</VME_EschatologismDescription.rules.rulesStrings.13>
+
+  <VME_AuthoritarianDescription.rules.rulesStrings.0>lesson(priority=-1)-&gt;何かが起こる</VME_AuthoritarianDescription.rules.rulesStrings.0>
+  <VME_AuthoritarianDescription.rules.rulesStrings.1>r_pattern-&gt;"[r_lessonIntro] [r_lessonMain]. [r_lessonReinforcement]"\n\n  - [lessonAttribution]</VME_AuthoritarianDescription.rules.rulesStrings.1>
+  <VME_AuthoritarianDescription.rules.rulesStrings.2>lessonAttribution-&gt;[founder_nameFull],[TerrainFeature]での[speechadjective][speech].</VME_AuthoritarianDescription.rules.rulesStrings.2>
+  <VME_AuthoritarianDescription.rules.rulesStrings.3>lessonAttribution-&gt;[founder_nameFull],[Community]での[speechadjective][speech].</VME_AuthoritarianDescription.rules.rulesStrings.3>
+  <VME_AuthoritarianDescription.rules.rulesStrings.4>speechadjective-&gt;鼓舞する</VME_AuthoritarianDescription.rules.rulesStrings.4>
+  <VME_AuthoritarianDescription.rules.rulesStrings.5>speechadjective-&gt;国民全体の</VME_AuthoritarianDescription.rules.rulesStrings.5>
+  <VME_AuthoritarianDescription.rules.rulesStrings.6>speechadjective-&gt;多数の</VME_AuthoritarianDescription.rules.rulesStrings.6>
+  <VME_AuthoritarianDescription.rules.rulesStrings.7>speechadjective-&gt;政治的な</VME_AuthoritarianDescription.rules.rulesStrings.7>
+  <VME_AuthoritarianDescription.rules.rulesStrings.8>speechadjective-&gt;熱烈な</VME_AuthoritarianDescription.rules.rulesStrings.8>
+  <VME_AuthoritarianDescription.rules.rulesStrings.9>speechadjective-&gt;気の荒い</VME_AuthoritarianDescription.rules.rulesStrings.9>
+  <VME_AuthoritarianDescription.rules.rulesStrings.10>speech-&gt;演説</VME_AuthoritarianDescription.rules.rulesStrings.10>
+  <VME_AuthoritarianDescription.rules.rulesStrings.11>speech-&gt;講演</VME_AuthoritarianDescription.rules.rulesStrings.11>
+  <VME_AuthoritarianDescription.rules.rulesStrings.12>speech-&gt;論文</VME_AuthoritarianDescription.rules.rulesStrings.12>
+  <VME_AuthoritarianDescription.rules.rulesStrings.13>speech-&gt;熱論</VME_AuthoritarianDescription.rules.rulesStrings.13>
+  <VME_AuthoritarianDescription.rules.rulesStrings.14>lessonIntro-&gt;生き残りをかけた戦争は,私たちが生存するための唯一の手段です.</VME_AuthoritarianDescription.rules.rulesStrings.14>
+  <VME_AuthoritarianDescription.rules.rulesStrings.15>lessonIntro-&gt;私はまた,民族の統一と独立を達成するための神聖な戦争で尊い命を犠牲にした,歌われたものも歌われなかったものも含めて,革命の殉教者たちに崇高な敬意を表します.</VME_AuthoritarianDescription.rules.rulesStrings.15>
+  <VME_AuthoritarianDescription.rules.rulesStrings.16>lessonIntro-&gt;勝者の世代が戦争で流した汗と血,彼らが示した偉大な精神,そして戦士たちの崇高な犠牲を思い起こさずして,今日の我々の国民を考えることはできません.</VME_AuthoritarianDescription.rules.rulesStrings.16>
+  <VME_AuthoritarianDescription.rules.rulesStrings.17>lessonIntro-&gt;秩序は一つしか存在しません.それは,全ての人にとって断固とした義務です.それはすでに,この世界の[place_name]から隅々までの心に翼を広げ,燃え上がっています.征服せよ!</VME_AuthoritarianDescription.rules.rulesStrings.17>
+  <VME_AuthoritarianDescription.rules.rulesStrings.18>lessonIntro-&gt;一人の意志が命令しなければ何もできず,その意志は他の人に従わなければならず,上から始まって下までしか終わることはありません.</VME_AuthoritarianDescription.rules.rulesStrings.18>
+  <VME_AuthoritarianDescription.rules.rulesStrings.19>lessonIntro-&gt;同胞の皆さん,人間は理論や言葉,宣言や政治哲学の体系の上に存在するのではなく,自らの労働によって土から得られるものの上に生きているのです.</VME_AuthoritarianDescription.rules.rulesStrings.19>
+  <VME_AuthoritarianDescription.rules.rulesStrings.20>lessonIntro-&gt;私たちの勝利は,市民の崇高な愛国心と大衆的なヒロイズムの勝利であり,不正と反逆に対する正義と進歩の勝利であり,我々の敵に対する人類の未来の勝利でした.</VME_AuthoritarianDescription.rules.rulesStrings.20>
+  <VME_AuthoritarianDescription.rules.rulesStrings.21>lessonMain-&gt;私の声が聞こえる人には,「絶望しないで」と言います.</VME_AuthoritarianDescription.rules.rulesStrings.21>
+  <VME_AuthoritarianDescription.rules.rulesStrings.22>lessonMain-&gt;克服されたと考えられる今,私たちの運動の実現に向けた行進から私たちを遠ざけようとするものが何であれ,誰であれ,それを投げ捨てたとしても,誰も驚くことはないでしょう.</VME_AuthoritarianDescription.rules.rulesStrings.22>
+  <VME_AuthoritarianDescription.rules.rulesStrings.23>lessonMain-&gt;私たちは,過去のメンタリティとは無縁の新しい時代の役者です.</VME_AuthoritarianDescription.rules.rulesStrings.23>
+  <VME_AuthoritarianDescription.rules.rulesStrings.24>lessonMain-&gt;若者たちは,歴史的な責任を意識しながら,感覚的ではあるものの明確に定義されていない目標に向かって行進します.</VME_AuthoritarianDescription.rules.rulesStrings.24>
+  <VME_AuthoritarianDescription.rules.rulesStrings.25>lessonMain-&gt;今日,私たちの世代は,単に領土問題や政治問題に直面しているだけでなく,私たちの信仰,文明,文化の存在をめぐる至高の問題にも直面しており,これらの問題は今再び危機に瀕しています.</VME_AuthoritarianDescription.rules.rulesStrings.25>
+  <VME_AuthoritarianDescription.rules.rulesStrings.26>lessonMain-&gt;ある人たちは,私たちの中に統制組織や新しい少数派グループを作るために,私たちの仲間になりたがっていました.そんなことは許されません.</VME_AuthoritarianDescription.rules.rulesStrings.26>
+  <VME_AuthoritarianDescription.rules.rulesStrings.27>lessonReinforcement-&gt;新しい時代の幕開けに向けて,共に歩んでいきましょう.</VME_AuthoritarianDescription.rules.rulesStrings.27>
+  <VME_AuthoritarianDescription.rules.rulesStrings.28>lessonReinforcement-&gt;私たちの未来は明るいものです.粘り強く頑張りましょう.</VME_AuthoritarianDescription.rules.rulesStrings.28>
+  <VME_AuthoritarianDescription.rules.rulesStrings.29>lessonReinforcement-&gt;今,どんな計画でも,私たちの時代の歴史的な運命は決着します.</VME_AuthoritarianDescription.rules.rulesStrings.29>
+  <VME_AuthoritarianDescription.rules.rulesStrings.30>lessonReinforcement-&gt;だからこそ,私たちは私たちのものが真実であることを知っていて,それを求めて果てしなく努力してきたので,私たちは穏やかに物事や出来事を見ることができるのです.</VME_AuthoritarianDescription.rules.rulesStrings.30>
+  <VME_AuthoritarianDescription.rules.rulesStrings.31>lessonReinforcement-&gt;私たちは,私たちの仕事を完成させるためにあなた方を招集しました.</VME_AuthoritarianDescription.rules.rulesStrings.31>
+  <VME_AuthoritarianDescription.rules.rulesStrings.32>lessonReinforcement-&gt;ただ目標を決めるだけでは十分ではありません.絶え間なく,そして犠牲を払って追求しなければなりません.</VME_AuthoritarianDescription.rules.rulesStrings.32>
+
+  <VME_CultOfPersonalityDescription.rules.rulesStrings.0>story(priority=-999)-&gt;</VME_CultOfPersonalityDescription.rules.rulesStrings.0>
+  <VME_CultOfPersonalityDescription.rules.rulesStrings.1>setup-&gt;しっかりとした手で物事を指示しなければ,秩序は生まれない.このことは,初代[leaderTitle]である[honorific][founderName]にも明らかだった.</VME_CultOfPersonalityDescription.rules.rulesStrings.1>
+  <VME_CultOfPersonalityDescription.rules.rulesStrings.2>setup-&gt;我々は[founder_possessive]神の意志に選ばれた者たちだ.我々の最初の[leaderTitle]である[honorific][founderName]の息子と娘たち.</VME_CultOfPersonalityDescription.rules.rulesStrings.2>
+  <VME_CultOfPersonalityDescription.rules.rulesStrings.3>setup-&gt;我々の民族の最初の[leaderTitle]である[honorific][founderName]は,宇宙によって創造の粘土から鍛えられたと言われている.</VME_CultOfPersonalityDescription.rules.rulesStrings.3>
+  <VME_CultOfPersonalityDescription.rules.rulesStrings.4>setup-&gt;我々の古代人が受け入れた恐ろしい混沌から,我々の最初の[leaderTitle]である[founderName]が生まれた.</VME_CultOfPersonalityDescription.rules.rulesStrings.4>
+  <VME_CultOfPersonalityDescription.rules.rulesStrings.5>setup-&gt;謙虚で目立たない出自から,初代リーダーである[honorific][founderName]は,[founder_possessive]地位を超え,[founder_possessive]揺るぎない意志を押し付けた.</VME_CultOfPersonalityDescription.rules.rulesStrings.5>
+  <VME_CultOfPersonalityDescription.rules.rulesStrings.6>honorific-&gt;崇高な</VME_CultOfPersonalityDescription.rules.rulesStrings.6>
+  <VME_CultOfPersonalityDescription.rules.rulesStrings.7>honorific-&gt;華麗なる</VME_CultOfPersonalityDescription.rules.rulesStrings.7>
+  <VME_CultOfPersonalityDescription.rules.rulesStrings.8>honorific-&gt;聖人の</VME_CultOfPersonalityDescription.rules.rulesStrings.8>
+  <VME_CultOfPersonalityDescription.rules.rulesStrings.9>honorific-&gt;偉大なる</VME_CultOfPersonalityDescription.rules.rulesStrings.9>
+  <VME_CultOfPersonalityDescription.rules.rulesStrings.10>honorific-&gt;征服者の</VME_CultOfPersonalityDescription.rules.rulesStrings.10>
+  <VME_CultOfPersonalityDescription.rules.rulesStrings.11>honorific-&gt;天才の</VME_CultOfPersonalityDescription.rules.rulesStrings.11>
+  <VME_CultOfPersonalityDescription.rules.rulesStrings.12>story(uses=1,priority=-10)-&gt;[memberNamePlural]は,[founderName]と[founder_possessive]子孫に永遠の忠誠を誓い,献身的な隷属に永遠に縛られた.</VME_CultOfPersonalityDescription.rules.rulesStrings.12>
+  <VME_CultOfPersonalityDescription.rules.rulesStrings.13>story(uses=1,priority=-10)-&gt;[founderName]は,多くの者に正義の人生を歩むように促し,我々の絶え間ない献身を受けた.</VME_CultOfPersonalityDescription.rules.rulesStrings.13>
+  <VME_CultOfPersonalityDescription.rules.rulesStrings.14>story(uses=1,priority=-10)-&gt;[founder_possessive]命令で[founder_possessive]信者の軍隊を使って,[founderName]の路線は我々の最愛のリーダーに代表される現在まで続いている.</VME_CultOfPersonalityDescription.rules.rulesStrings.14>
+  <VME_CultOfPersonalityDescription.rules.rulesStrings.15>story(uses=1,priority=-10)-&gt;我々の最愛のリーダー,[founderName]の最新の後継者は,我々に繁栄をもたらし,我々全員が[memeAdjective]な生活を送れるようにした</VME_CultOfPersonalityDescription.rules.rulesStrings.15>
+
+  <VME_PantheismDescription.rules.rulesStrings.0>episode(priority=-1)-&gt;</VME_PantheismDescription.rules.rulesStrings.0>
+  <VME_PantheismDescription.rules.rulesStrings.1>creation-&gt;[deity0_name]は全てのものに存在する.我々は星屑から作られており,[Animal]と同じように神性の一部なのである.</VME_PantheismDescription.rules.rulesStrings.1>
+  <VME_PantheismDescription.rules.rulesStrings.2>creation-&gt;全てのものは,全てを包含する内在的な神,[deity0_name]の一部である.現実の全ての形態は,その存在の様式か,それと同一であると考えられる.</VME_PantheismDescription.rules.rulesStrings.2>
+  <VME_PantheismDescription.rules.rulesStrings.3>creation-&gt;全ての存在の総体という意味での「宇宙」と「神」は同一である.神性は我々の周りにあり,[deity0_name]を形成している.</VME_PantheismDescription.rules.rulesStrings.3>
+  <VME_PantheismDescription.rules.rulesStrings.4>creation-&gt;そこには果てしない空虚さがあった.その虚無の中で[deity0_name]が形成され,時間の計時が始まった.</VME_PantheismDescription.rules.rulesStrings.4>
+  <VME_PantheismDescription.rules.rulesStrings.5>episode(uses=1)-&gt;[deity0_name]を注意深く研究することによってのみ,現実の本質を真に理解することができる.</VME_PantheismDescription.rules.rulesStrings.5>
+  <VME_PantheismDescription.rules.rulesStrings.6>episode(uses=1)-&gt;我々は,この内在する神性を身の回りの全てのものに認識し,[deity0_name]内の全ての創造物を神聖なものとして尊重しなければならない.</VME_PantheismDescription.rules.rulesStrings.6>
+  <VME_PantheismDescription.rules.rulesStrings.7>episode(uses=1)-&gt;[deity0_name]の性質を真に理解したいのであれば,そこにある全てのものを静かに,そして敬意を持って熟考しなければならない.</VME_PantheismDescription.rules.rulesStrings.7>
+  <VME_PantheismDescription.rules.rulesStrings.8>episode(uses=1)-&gt;[deity0_name]をコントロールすることは,我々自身の本質的な神性の自然な帰結である.</VME_PantheismDescription.rules.rulesStrings.8>
+
+  <VME_OmnismDescription.rules.rulesStrings.0>episode(priority=-1)-&gt;</VME_OmnismDescription.rules.rulesStrings.0>
+  <VME_OmnismDescription.rules.rulesStrings.1>creation-&gt;特定の神や信仰に己を縛ることは,言葉にならないほどの自縛である.全ての至高の存在,哲学者,力の組み合わせによる贈り物こそが,真に評価されるべきものである.</VME_OmnismDescription.rules.rulesStrings.1>
+  <VME_OmnismDescription.rules.rulesStrings.2>creation-&gt;全ての宗教や思想は,ひとつの超越した目的が全てのものを統合しているという全体的な真実を指し示している.</VME_OmnismDescription.rules.rulesStrings.2>
+  <VME_OmnismDescription.rules.rulesStrings.3>creation-&gt;古代の[religion]や[religion2]の学者たちの教えには,我々に教えてくれる真実がたくさんあったようだ.</VME_OmnismDescription.rules.rulesStrings.3>
+  <VME_OmnismDescription.rules.rulesStrings.4>creation-&gt;真実は全ての宗教や思想の中に見つけることができる.[religion]の教えであろうと,古代の[religion2]の学者の哲学であろうと,我々はこの真実に心を開くことで,宇宙について学ぶことができる.</VME_OmnismDescription.rules.rulesStrings.4>
+  <VME_OmnismDescription.rules.rulesStrings.5>creation-&gt;人間は探究心の強い生き物だ.[religion]や[religion2]には完全な真実の一部が含まれており,そのために全ての信念は本質的に真実であり有用であるという,信じられないような概念を生み出した.</VME_OmnismDescription.rules.rulesStrings.5>
+  <VME_OmnismDescription.rules.rulesStrings.6>creation-&gt;全ての宗教や思想は正当なものである.単一の超越的な目的が全ての物事や人々を統合しており,古代の[religion]の古文書を研究することでも,[religion2]の教義に従うことでも,どのような手段でもこの普遍的な目的に到達することができるだろう.</VME_OmnismDescription.rules.rulesStrings.6>
+  <VME_OmnismDescription.rules.rulesStrings.7>episode(uses=1)-&gt;全ての信念を注意深く研究することによってのみ,現実の本質を真に理解することができる.</VME_OmnismDescription.rules.rulesStrings.7>
+  <VME_OmnismDescription.rules.rulesStrings.8>episode(uses=1)-&gt;我々は全ての宗教が共通の真理のさまざまな要素を含んでいることを認識し,全ての信念を尊重しなければならない.</VME_OmnismDescription.rules.rulesStrings.8>
+  <VME_OmnismDescription.rules.rulesStrings.9>religion-&gt;キリスト教</VME_OmnismDescription.rules.rulesStrings.9>
+  <VME_OmnismDescription.rules.rulesStrings.10>religion-&gt;仏教</VME_OmnismDescription.rules.rulesStrings.10>
+  <VME_OmnismDescription.rules.rulesStrings.11>religion-&gt;ムスリム</VME_OmnismDescription.rules.rulesStrings.11>
+  <VME_OmnismDescription.rules.rulesStrings.12>religion-&gt;ユダヤ教</VME_OmnismDescription.rules.rulesStrings.12>
+  <VME_OmnismDescription.rules.rulesStrings.13>religion-&gt;道教</VME_OmnismDescription.rules.rulesStrings.13>
+  <VME_OmnismDescription.rules.rulesStrings.14>religion-&gt;儒教</VME_OmnismDescription.rules.rulesStrings.14>
+  <VME_OmnismDescription.rules.rulesStrings.15>religion-&gt;ゾロアスター教</VME_OmnismDescription.rules.rulesStrings.15>
+  <VME_OmnismDescription.rules.rulesStrings.16>religion2-&gt;資本主義</VME_OmnismDescription.rules.rulesStrings.16>
+  <VME_OmnismDescription.rules.rulesStrings.17>religion2-&gt;共産主義</VME_OmnismDescription.rules.rulesStrings.17>
+  <VME_OmnismDescription.rules.rulesStrings.18>religion2-&gt;権威主義</VME_OmnismDescription.rules.rulesStrings.18>
+  <VME_OmnismDescription.rules.rulesStrings.19>religion2-&gt;自由思想</VME_OmnismDescription.rules.rulesStrings.19>
+  <VME_OmnismDescription.rules.rulesStrings.20>religion2-&gt;フリーメイソン</VME_OmnismDescription.rules.rulesStrings.20>
+  <VME_OmnismDescription.rules.rulesStrings.21>religion2-&gt;エコロジスト</VME_OmnismDescription.rules.rulesStrings.21>
+  <VME_OmnismDescription.rules.rulesStrings.22>religion2-&gt;無政府主義</VME_OmnismDescription.rules.rulesStrings.22>
+  <VME_OmnismDescription.rules.rulesStrings.23>religion2-&gt;リバタリアン</VME_OmnismDescription.rules.rulesStrings.23>
+  <VME_OmnismDescription.rules.rulesStrings.24>religion2-&gt;ユートピアン</VME_OmnismDescription.rules.rulesStrings.24>
+
+  <VME_AgnosticismDescription.rules.rulesStrings.0>story(priority=-999)-&gt;</VME_AgnosticismDescription.rules.rulesStrings.0>
+  <VME_AgnosticismDescription.rules.rulesStrings.1>setup-&gt;[founderName]は,神の存在,神的なもの,超自然的なものが未知であり,不明瞭なものであると我々に告げた.</VME_AgnosticismDescription.rules.rulesStrings.1>
+  <VME_AgnosticismDescription.rules.rulesStrings.2>setup-&gt;[founderName]は,宇宙を説明するのに神々は必要ないと最初に気付いたお方だ.</VME_AgnosticismDescription.rules.rulesStrings.2>
+  <VME_AgnosticismDescription.rules.rulesStrings.3>setup-&gt;[founderName]は,非霊的な世界に衝撃を受け,歴史や哲学を学び,我々を導く新しい真実を発見した.</VME_AgnosticismDescription.rules.rulesStrings.3>
+  <VME_AgnosticismDescription.rules.rulesStrings.4>setup-&gt;古代の儀式の中で,[founderName]はかつての[founder_possessive]宗教の正当性に疑問を持ち始めた.なぜ自分の人生の全てを得体の知れない神のために捧げるのか?</VME_AgnosticismDescription.rules.rulesStrings.4>
+  <VME_AgnosticismDescription.rules.rulesStrings.5>setup-&gt;[founderName]の過酷な人生は,[founder_objective]に[founder_possessive]信仰を拒絶させた.神々は得体の知れない存在であり,人の日々の生活には関係ないはずだという.</VME_AgnosticismDescription.rules.rulesStrings.5>
+  <VME_AgnosticismDescription.rules.rulesStrings.6>story(uses=1,priority=-10)-&gt;[founderName]の教えがなければ,[memberNamePlural]はいまだに古代の精霊を崇拝していただろう.[founder_pronoun]は我々の間で,常に次のように記憶されている:[honorific].</VME_AgnosticismDescription.rules.rulesStrings.6>
+  <VME_AgnosticismDescription.rules.rulesStrings.7>story(uses=1,priority=-10)-&gt;[ritualName]での[founderName]の演説は,多くの者に魔法のような思考の束縛から解放された[memeAdjective]な人生を送るように促した.このように,[founder_pronoun]は我々の人々の間で常に[honorific]として記憶されている.</VME_AgnosticismDescription.rules.rulesStrings.7>
+  <VME_AgnosticismDescription.rules.rulesStrings.8>story(uses=1,priority=-10)-&gt;[founderName]は,我々の間では常に[honorific]として記憶されている.我々の心から魔法のような考えを永遠に追放したお方だ.</VME_AgnosticismDescription.rules.rulesStrings.8>
+  <VME_AgnosticismDescription.rules.rulesStrings.9>honorific-&gt;神殺し</VME_AgnosticismDescription.rules.rulesStrings.9>
+  <VME_AgnosticismDescription.rules.rulesStrings.10>honorific-&gt;無神論者</VME_AgnosticismDescription.rules.rulesStrings.10>
+  <VME_AgnosticismDescription.rules.rulesStrings.11>honorific-&gt;不可知論者</VME_AgnosticismDescription.rules.rulesStrings.11>
+  <VME_AgnosticismDescription.rules.rulesStrings.12>honorific-&gt;反対者</VME_AgnosticismDescription.rules.rulesStrings.12>
+  <VME_AgnosticismDescription.rules.rulesStrings.13>honorific-&gt;闇の中の光</VME_AgnosticismDescription.rules.rulesStrings.13>
+  <VME_AgnosticismDescription.rules.rulesStrings.14>honorific-&gt;不信心者</VME_AgnosticismDescription.rules.rulesStrings.14>
+  <VME_AgnosticismDescription.rules.rulesStrings.15>honorific-&gt;異端者</VME_AgnosticismDescription.rules.rulesStrings.15>
+
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.0>lesson(priority=-1)-&gt;何かが起こる</VME_SecularSpiritualityDescription.rules.rulesStrings.0>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.1>r_pattern-&gt;"[r_lessonIntro] [r_lesson]. [r_lessonReinforcement]"\n\n  - [lessonAttribution]</VME_SecularSpiritualityDescription.rules.rulesStrings.1>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.2>lessonAttribution-&gt;[founder_nameFull]</VME_SecularSpiritualityDescription.rules.rulesStrings.2>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.3>lessonAttribution-&gt;[founder_nameFull]の[believer_nameFull]への手紙</VME_SecularSpiritualityDescription.rules.rulesStrings.3>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.4>lessonAttribution-&gt;[founder_nameFull]で,[founder_possessive]マインドフルネスの論文について</VME_SecularSpiritualityDescription.rules.rulesStrings.4>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.5>lessonAttribution-&gt;[founder_nameFull],[TerrainFeature]での[speech]</VME_SecularSpiritualityDescription.rules.rulesStrings.5>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.6>lessonAttribution-&gt;[founder_nameFull],[Community]での[speech].</VME_SecularSpiritualityDescription.rules.rulesStrings.6>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.7>speech-&gt;瞑想に関する演説</VME_SecularSpiritualityDescription.rules.rulesStrings.7>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.8>speech-&gt;自分自身を知ること</VME_SecularSpiritualityDescription.rules.rulesStrings.8>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.9>lessonIntro-&gt;私はいつも,"手放すことは最も難しいアサナである "と繰り返し主張しています.</VME_SecularSpiritualityDescription.rules.rulesStrings.9>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.10>lessonIntro-&gt;それを理解するには,長い年月をかけて熱心な瞑想をしなければなりませんでした.</VME_SecularSpiritualityDescription.rules.rulesStrings.10>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.11>lessonIntro-&gt;おのれを知らない[foeLeader]のようになってはいけません.彼らを観察することで,私は一つのことを学びました.</VME_SecularSpiritualityDescription.rules.rulesStrings.11>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.12>lessonIntro-&gt;[place_summary]である[place_name]でヨガを教えてきた私は以下のことを実感しました.</VME_SecularSpiritualityDescription.rules.rulesStrings.12>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.13>lessonIntro-&gt;自分自身の中心部を見つけ,その日の目標を設定しながら,呼吸と体のつながりに意識を向けていきましょう.そうすると,次のことに気付きます.</VME_SecularSpiritualityDescription.rules.rulesStrings.13>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.14>lessonIntro-&gt;まず,呼吸から動きへの一連の流れで,体と心にエネルギーを与え,活性化させることから始めてください.そして,あなたは最終的に次のことを知ることになります.</VME_SecularSpiritualityDescription.rules.rulesStrings.14>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.15>lessonIntro-&gt;花は隣の花と競争しようとは思っていません.ただ単に咲いているだけです.そのとき,ひとつのことが明らかになってきます.</VME_SecularSpiritualityDescription.rules.rulesStrings.15>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.16>lessonIntro-&gt;あなたは,自己の旅を始め,自己を通り抜け,そしてまた自己へと帰ります.</VME_SecularSpiritualityDescription.rules.rulesStrings.16>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.17>lessonIntro-&gt;外側に起こることを常にコントロールすることはできません.しかし,内側で起こっていることは常にコントロールできるのです.このことを達成すれば,次のことがわかるでしょう.</VME_SecularSpiritualityDescription.rules.rulesStrings.17>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.18>lessonIntro-&gt;どんな者でも一番長い旅は,自分の内面への旅です.この旅ではこんなことが理解できます.</VME_SecularSpiritualityDescription.rules.rulesStrings.18>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.19>lessonIntro-&gt;真実は,宗教に固執することなく精神的な哲学を追求することにある.個人の成長と内なる平和は,神との関係よりも重要です.</VME_SecularSpiritualityDescription.rules.rulesStrings.19>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.20>lessonReinforcement-&gt;ただ息をするだけでいいのです.</VME_SecularSpiritualityDescription.rules.rulesStrings.20>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.21>lessonReinforcement-&gt;あなたが思うところではなく,あなたの拠り所にいます.</VME_SecularSpiritualityDescription.rules.rulesStrings.21>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.22>lessonReinforcement-&gt;ポーズは残したいと思った時に始まります.</VME_SecularSpiritualityDescription.rules.rulesStrings.22>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.23>lessonReinforcement-&gt;未来を吸って,過去を吐きましょう.</VME_SecularSpiritualityDescription.rules.rulesStrings.23>
+  <VME_SecularSpiritualityDescription.rules.rulesStrings.24>lessonReinforcement-&gt;何かに長けていることが重要ではありません.最終的に自分自身にとって良いことです.</VME_SecularSpiritualityDescription.rules.rulesStrings.24>
+
+  <VME_TaoismDescription.rules.rulesStrings.0>episode(priority=-1)-&gt;</VME_TaoismDescription.rules.rulesStrings.0>
+  <VME_TaoismDescription.rules.rulesStrings.1>r_pattern-&gt;"[r_creation] [r_episode] [r_episode]."\n\n  - 「老子道徳経」より</VME_TaoismDescription.rules.rulesStrings.1>
+  <VME_TaoismDescription.rules.rulesStrings.2>creation-&gt;タオと調和した生活をすることで,人は完璧な状態になり,宇宙の無造作な律動と一体になることができる.</VME_TaoismDescription.rules.rulesStrings.2>
+  <VME_TaoismDescription.rules.rulesStrings.3>creation-&gt;誰かに深く愛されることで強さが生まれ,誰かを深く愛することで勇気が生まれる.</VME_TaoismDescription.rules.rulesStrings.3>
+  <VME_TaoismDescription.rules.rulesStrings.4>creation-&gt;純粋さ,忍耐強さ,思いやり.この3つが最大の宝である.</VME_TaoismDescription.rules.rulesStrings.4>
+  <VME_TaoismDescription.rules.rulesStrings.5>creation-&gt;千里の道も一歩から.</VME_TaoismDescription.rules.rulesStrings.5>
+  <VME_TaoismDescription.rules.rulesStrings.6>creation-&gt;人生は,自然で自発的な変化の連続である.それに抵抗してはいけない.悲しみを生むだけだ.現実は現実として受け止めよ.物事が好きなように自然に進んでいくようにするがよい.</VME_TaoismDescription.rules.rulesStrings.6>
+  <VME_TaoismDescription.rules.rulesStrings.7>episode(uses=1)-&gt;比べたり競ったりせず,無垢な自分であることに満足すれば,誰もがあなたを尊敬する.</VME_TaoismDescription.rules.rulesStrings.7>
+  <VME_TaoismDescription.rules.rulesStrings.8>episode(uses=1)-&gt;真実が美しいとは限らないし,美しい言葉が真実であるとも限らない.</VME_TaoismDescription.rules.rulesStrings.8>
+  <VME_TaoismDescription.rules.rulesStrings.9>episode(uses=1)-&gt;自分を信じているからこそ,他人を説得しようとはしない.自分に満足しているからこそ,他人の承認を必要としない.自分を受け入れるからこそ,世界全体がその者を受け入れる.</VME_TaoismDescription.rules.rulesStrings.9>
+  <VME_TaoismDescription.rules.rulesStrings.10>episode(uses=1)-&gt;他人の評価を気にしていると,いつまでたっても他人に振り回されるだけだ.</VME_TaoismDescription.rules.rulesStrings.10>
+
+  <VME_CorporateDescription.rules.rulesStrings.0>episodeCorporate(priority=-1)-&gt;</VME_CorporateDescription.rules.rulesStrings.0>
+  <VME_CorporateDescription.rules.rulesStrings.1>r_pattern-&gt;宛先: 従業員各位\n\n送信者: 管理本部\n\n件名: [subject]\n\n[r_introMemo] [r_episodeCorporate] [r_episodeCorporate]"</VME_CorporateDescription.rules.rulesStrings.1>
+  <VME_CorporateDescription.rules.rulesStrings.2>introMemo-&gt;同僚の皆さん,職場の多くの人が承認されていない活動に時間を費やしていることが私の目に留まりました.</VME_CorporateDescription.rules.rulesStrings.2>
+  <VME_CorporateDescription.rules.rulesStrings.3>introMemo-&gt;これは,本日より,全てのTPS（Testing Procedure Specification）レポートに新しいカバーシートをつけて提出することをお知らせするものです.</VME_CorporateDescription.rules.rulesStrings.3>
+  <VME_CorporateDescription.rules.rulesStrings.4>introMemo-&gt;I皆様に快適なオリエンテーションを提供するために,当社では,福利厚生の登録を含む新入社員の手続きを支援する従業員セルフサービスシステムを導入しています.</VME_CorporateDescription.rules.rulesStrings.4>
+  <VME_CorporateDescription.rules.rulesStrings.5>introMemo-&gt;ご存知の通り,明日の午後には,現在進行中の全てのプロジェクトの状況を話し合うためのミーティングが行われます.</VME_CorporateDescription.rules.rulesStrings.5>
+  <VME_CorporateDescription.rules.rulesStrings.6>introMemo-&gt;明日の午後3時から会議室で行われるミーティングには,前述の資料を5部持参してください.</VME_CorporateDescription.rules.rulesStrings.6>
+  <VME_CorporateDescription.rules.rulesStrings.7>introMemo-&gt;昨年の優れた業績（特に北西地域での活躍）を受けて,当社の注目社員としてご紹介したいと思います.</VME_CorporateDescription.rules.rulesStrings.7>
+  <VME_CorporateDescription.rules.rulesStrings.8>introMemo-&gt;お客様にとって一番大切なものは何か,ご存知ですか?もちろん,お金です.</VME_CorporateDescription.rules.rulesStrings.8>
+  <VME_CorporateDescription.rules.rulesStrings.9>introMemo-&gt;最も便利な3つのコラボレーションツールを使っていますか?その相乗効果を発揮していただけると本当にありがたいです.</VME_CorporateDescription.rules.rulesStrings.9>
+  <VME_CorporateDescription.rules.rulesStrings.10>introMemo-&gt;おはようございます.私たちの部署にいくつかのエキサイティングな変化がありますので,お知らせします.</VME_CorporateDescription.rules.rulesStrings.10>
+  <VME_CorporateDescription.rules.rulesStrings.11>introMemo-&gt;あなたが私たちのオファーを受け入れ,私たちのチームに参加してくれたことを大変うれしく思います.</VME_CorporateDescription.rules.rulesStrings.11>
+  <VME_CorporateDescription.rules.rulesStrings.12>introMemo-&gt;あなたをチームの一員として迎え入れることができ,とても嬉しく思っています.私たちのスタッフは,あなたがしばらくの間,私たちが抱えていたマネジメントの空白を埋める手助けをしてくれることを楽しみにしています.</VME_CorporateDescription.rules.rulesStrings.12>
+  <VME_CorporateDescription.rules.rulesStrings.13>episodeCorporate(uses=1)-&gt;このメモは,労働時間を自分の仕事のために使うための注意書きです.</VME_CorporateDescription.rules.rulesStrings.13>
+  <VME_CorporateDescription.rules.rulesStrings.14>episodeCorporate(uses=1)-&gt;もちろん,私たちの組織を苦行の場,厳格なルールの場と見なしてほしくはありません.私たちは,楽しくて競争的な環境を奨励します.</VME_CorporateDescription.rules.rulesStrings.14>
+  <VME_CorporateDescription.rules.rulesStrings.15>episodeCorporate(uses=1)-&gt;この変更は,最初は頭痛の種や余分なステップのように思えるかもしれませんが,当社が適切に機能するためには必要なことです.</VME_CorporateDescription.rules.rulesStrings.15>
+  <VME_CorporateDescription.rules.rulesStrings.16>episodeCorporate(uses=1)-&gt;この新しい手順に必ず従ってください.</VME_CorporateDescription.rules.rulesStrings.16>
+  <VME_CorporateDescription.rules.rulesStrings.17>episodeCorporate(uses=1)-&gt;皆さんには,私たちがチームであること,いや,家族であることをお伝えする必要は今更ないと思います.そして家族は,どんな困難があっても団結します.</VME_CorporateDescription.rules.rulesStrings.17>
+  <VME_CorporateDescription.rules.rulesStrings.18>episodeCorporate(uses=1)-&gt;この重要な問題は,早急に全員参加の会議で議論されます.</VME_CorporateDescription.rules.rulesStrings.18>
+  <VME_CorporateDescription.rules.rulesStrings.19>episodeCorporate(uses=1)-&gt;私たちは既成概念にとらわれない発想をすることが大切です.そして,みんなで同じ讃美歌を歌いましょう.</VME_CorporateDescription.rules.rulesStrings.19>
+  <VME_CorporateDescription.rules.rulesStrings.20>episodeCorporate(uses=1)-&gt;皆さん,次のステップに進みましょう.</VME_CorporateDescription.rules.rulesStrings.20>
+  <VME_CorporateDescription.rules.rulesStrings.21>episodeCorporate(uses=1)-&gt;当社の経営陣は,この合併による移行を可能な限りスムーズに行うために,部門の再編が必要であると判断しました.詳細は追ってお知らせいたします.</VME_CorporateDescription.rules.rulesStrings.21>
+  <VME_CorporateDescription.rules.rulesStrings.22>episodeCorporate(uses=1)-&gt;明日の午後12時から1時までミーティングを行い,この重要な移行のステップを説明します.</VME_CorporateDescription.rules.rulesStrings.22>
+  <VME_CorporateDescription.rules.rulesStrings.23>episodeCorporate(uses=1)-&gt;あなたの経験とビジョンは,このグループにとって大きな財産となるでしょう.チームもあなたと一緒に働くことを楽しみにしています.</VME_CorporateDescription.rules.rulesStrings.23>
+  <VME_CorporateDescription.rules.rulesStrings.24>subject-&gt;Google Doodleを利用した不適切な時間の使い方について</VME_CorporateDescription.rules.rulesStrings.24>
+  <VME_CorporateDescription.rules.rulesStrings.25>subject-&gt;プリンターのインクが無くなったら補充してください</VME_CorporateDescription.rules.rulesStrings.25>
+  <VME_CorporateDescription.rules.rulesStrings.26>subject-&gt;秋の衣替えプロモーションについて</VME_CorporateDescription.rules.rulesStrings.26>
+  <VME_CorporateDescription.rules.rulesStrings.27>subject-&gt;Steveを会議に招待するな.彼はまるで背後霊のようだ</VME_CorporateDescription.rules.rulesStrings.27>
+  <VME_CorporateDescription.rules.rulesStrings.28>subject-&gt;警告: 机の中の放置物は盗まれる可能性があります.当社は持ち物について責任を負いません</VME_CorporateDescription.rules.rulesStrings.28>
+  <VME_CorporateDescription.rules.rulesStrings.29>subject-&gt;迅速なディシジョンメイキングが求められています</VME_CorporateDescription.rules.rulesStrings.29>
+  <VME_CorporateDescription.rules.rulesStrings.30>subject-&gt;先日の会議のサマリーです</VME_CorporateDescription.rules.rulesStrings.30>
+  <VME_CorporateDescription.rules.rulesStrings.31>subject-&gt;ストリーキングに関する当社の考え方</VME_CorporateDescription.rules.rulesStrings.31>
+  <VME_CorporateDescription.rules.rulesStrings.32>subject-&gt;モチベーションアップしていきましょう</VME_CorporateDescription.rules.rulesStrings.32>
+  <VME_CorporateDescription.rules.rulesStrings.33>subject-&gt;社長の掟</VME_CorporateDescription.rules.rulesStrings.33>
+  <VME_CorporateDescription.rules.rulesStrings.34>subject-&gt;従業員の評価について</VME_CorporateDescription.rules.rulesStrings.34>
+  <VME_CorporateDescription.rules.rulesStrings.35>subject-&gt;Re: 昇給のお願い</VME_CorporateDescription.rules.rulesStrings.35>
+  <VME_CorporateDescription.rules.rulesStrings.36>subject-&gt;Re: これが私からの最後のメールだ!</VME_CorporateDescription.rules.rulesStrings.36>
+  <VME_CorporateDescription.rules.rulesStrings.37>subject-&gt;早期退職制度について</VME_CorporateDescription.rules.rulesStrings.37>
+  <VME_CorporateDescription.rules.rulesStrings.38>subject-&gt;ベネフィットを追求することを重視しましょう</VME_CorporateDescription.rules.rulesStrings.38>
+  <VME_CorporateDescription.rules.rulesStrings.39>subject-&gt;会議を行なう前にアジェンダを共有しましょう</VME_CorporateDescription.rules.rulesStrings.39>
+  <VME_CorporateDescription.rules.rulesStrings.40>subject-&gt;ご参考までに</VME_CorporateDescription.rules.rulesStrings.40>
+  <VME_CorporateDescription.rules.rulesStrings.41>subject-&gt;今の考えをお聞かせください</VME_CorporateDescription.rules.rulesStrings.41>
+  <VME_CorporateDescription.rules.rulesStrings.42>subject-&gt;例の件については検討中です</VME_CorporateDescription.rules.rulesStrings.42>
+  <VME_CorporateDescription.rules.rulesStrings.43>subject-&gt;取引先との会議はリスケとなりましたことをご報告します</VME_CorporateDescription.rules.rulesStrings.43>
+  <VME_CorporateDescription.rules.rulesStrings.44>subject-&gt;見える化</VME_CorporateDescription.rules.rulesStrings.44>
+
+
+</LanguageData>

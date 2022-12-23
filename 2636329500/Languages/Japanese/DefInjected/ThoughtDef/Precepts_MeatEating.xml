@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts: Ate meat -->
+
+  <VME_AteAnimalProducts_Abhorrent.stages.0.label>畜産物を食べた</VME_AteAnimalProducts_Abhorrent.stages.0.label>
+  <VME_AteAnimalProducts_Abhorrent.stages.0.description>私は動物性食品を食べなければならなかった.動物を監禁して食品工場として扱う行為は間違っていて不道徳だ.</VME_AteAnimalProducts_Abhorrent.stages.0.description>
+
+  <VME_AteAnimalProducts_Know_Abhorrent.stages.0.label>畜産物を食べた</VME_AteAnimalProducts_Know_Abhorrent.stages.0.label>
+
+
+</LanguageData>

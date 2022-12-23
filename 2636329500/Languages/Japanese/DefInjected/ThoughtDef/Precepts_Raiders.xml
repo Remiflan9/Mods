@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_ParticipatedInRaid_Honorable.stages.0.label>襲撃に参加した</VME_ParticipatedInRaid_Honorable.stages.0.label>
+  <VME_ParticipatedInRaid_Honorable.stages.0.description>この征服は私たちに名誉をもたらした.</VME_ParticipatedInRaid_Honorable.stages.0.description>
+
+  <VME_RecentConquest_Honorable.stages.0.label>最近の征服</VME_RecentConquest_Honorable.stages.0.label>
+  <VME_RecentConquest_Honorable.stages.0.description>最近別の派閥を襲撃した.この征服は私たちに名誉をもたらした.</VME_RecentConquest_Honorable.stages.0.description>
+  <VME_RecentConquest_Honorable.stages.1.label>最近征服してない</VME_RecentConquest_Honorable.stages.1.label>
+  <VME_RecentConquest_Honorable.stages.1.description>私たちは長い間誰も襲撃していない.名誉をもたらすには敵を成敗せねば.</VME_RecentConquest_Honorable.stages.1.description>
+
+  <VME_ParticipatedInRaid_Abhorrent.stages.0.label>襲撃に参加した</VME_ParticipatedInRaid_Abhorrent.stages.0.label>
+  <VME_ParticipatedInRaid_Abhorrent.stages.0.description>私は襲撃に参加した.どうしてこんなことに?恐ろしくて,とても恥ずかしい行為だ!</VME_ParticipatedInRaid_Abhorrent.stages.0.description>
+
+  <VME_RecentConquest_Abhorrent.stages.0.label>最近の征服</VME_RecentConquest_Abhorrent.stages.0.label>
+  <VME_RecentConquest_Abhorrent.stages.0.description>最近別の派閥を襲撃した.とても恐ろしい.私たちは恥知らずだ.</VME_RecentConquest_Abhorrent.stages.0.description>
+  <VME_RecentConquest_Abhorrent.stages.1.label>最近征服してない</VME_RecentConquest_Abhorrent.stages.1.label>
+  <VME_RecentConquest_Abhorrent.stages.1.description>私たちは長い間誰も襲撃していない.これは当然のことだ.私たちは暴漢ではない.</VME_RecentConquest_Abhorrent.stages.1.description>
+
+</LanguageData>

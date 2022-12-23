@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Power_Exalted.stages.0.label>神格化</VME_Power_Exalted.stages.0.label>
+  <VME_Power_Exalted.stages.0.description>私の支配は絶対的だ.もはや神のような存在だ.</VME_Power_Exalted.stages.0.description>
+
+  <VME_Power_Desired.stages.0.label>権力者</VME_Power_Desired.stages.0.label>
+  <VME_Power_Desired.stages.0.description>私は重要な存在であり,皆が私を尊敬していると感じる</VME_Power_Desired.stages.0.description>
+
+  <VME_Power_Preferred.stages.0.label>重要な役割</VME_Power_Preferred.stages.0.label>
+  <VME_Power_Preferred.stages.0.description>私はそれなりの権力を持っている.そしてこの感じが好きだ.</VME_Power_Preferred.stages.0.description>
+
+
+</LanguageData>

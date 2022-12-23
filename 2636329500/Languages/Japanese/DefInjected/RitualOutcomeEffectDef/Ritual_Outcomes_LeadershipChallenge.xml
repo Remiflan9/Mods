@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_LeadershipChallengeRitualOutcome.description>儀式の質に応じて参加者は{MOODDAYS}日間, {MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</VME_LeadershipChallengeRitualOutcome.description>
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.0.label>酷い</VME_LeadershipChallengeRitualOutcome.outcomeChances.0.label>
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.0.description>決闘は酷いものでした!戦士は臆病と弱さを表に出しながら何時間もお互いを無様に避け,ふらふらと逃げ回りました.それを見た観客は悲しい気持ちになりました.</VME_LeadershipChallengeRitualOutcome.outcomeChances.0.description>
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.1.label>うんざり</VME_LeadershipChallengeRitualOutcome.outcomeChances.1.label>
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.1.description>決闘はつまらないものでした.戦士は専心せず,エキサイティングな瞬間もありませんでした.少なくとも,最強のリーダーとしての実力を誇示しました.</VME_LeadershipChallengeRitualOutcome.outcomeChances.1.description>
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.2.label>良い</VME_LeadershipChallengeRitualOutcome.outcomeChances.2.label>
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.2.description>決闘は良いものでした.戦士は血を求めて戦い,本当の心を見せました.そして,最強のリーダーとしての実力を誇示しました..</VME_LeadershipChallengeRitualOutcome.outcomeChances.2.description>
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.3.label>忘れられない</VME_LeadershipChallengeRitualOutcome.outcomeChances.3.label>
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.3.description>決闘は忘れられないものでした!双方の戦士が自身の全力を尽くし,最強のリーダーとしての実力を誇示しました.</VME_LeadershipChallengeRitualOutcome.outcomeChances.3.description>
+  <VME_LeadershipChallengeRitualOutcome.comps.0.label>挑戦者がいる</VME_LeadershipChallengeRitualOutcome.comps.0.label>
+  <VME_LeadershipChallengeRitualOutcome.comps.1.label>部屋の印象</VME_LeadershipChallengeRitualOutcome.comps.1.label>
+  <VME_LeadershipChallengeRitualOutcome.comps.2.label>{PAWN_labelShort}の社会的影響</VME_LeadershipChallengeRitualOutcome.comps.2.label>
+  <VME_LeadershipChallengeRitualOutcome.comps.3.label>参加者数</VME_LeadershipChallengeRitualOutcome.comps.3.label>
+
+  <VME_LeadershipChallengeRitualOutcome.extraPredictedOutcomeDescriptions.0>これは両者の生死を賭けた決闘です.もし挑戦者が勝利すれば新たなリーダーになりますが,敗北すれば現在のリーダーのまま変わりません.</VME_LeadershipChallengeRitualOutcome.extraPredictedOutcomeDescriptions.0>
+
+
+</LanguageData>

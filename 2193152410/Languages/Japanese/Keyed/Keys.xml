@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+  <VBE.Book>本</VBE.Book>
+  <VBE.ReadBook>本を読む</VBE.ReadBook>
+
+  <VBE.CantReadSkillBookTooSimple>本の内容がこの入植者に適切ではありません。</VBE.CantReadSkillBookTooSimple>
+
+  <VBE.ReadNewsPaper>新聞紙を読む</VBE.ReadNewsPaper>
+  <VBE.NewspaperRelevantUntil>以下の日まで有効です </VBE.NewspaperRelevantUntil>
+  <VBE.CantReadNewsPaperExpired>この新聞紙の情報は古すぎます。</VBE.CantReadNewsPaperExpired>
+
+  <VBE.ReadBlueprint>設計図を読む</VBE.ReadBlueprint>
+  <VBE.CantReadBlueprintAlreadyResearched>この設計図の内容はすでに取得しています</VBE.CantReadBlueprintAlreadyResearched>
+  <VBE.CantReadBlueprintTooAdvanced>設計図の内容が先進的すぎるため解読できません。</VBE.CantReadBlueprintTooAdvanced>
+  <VBE.CantReadBlueprintUsed>この設計図を一度読んで内容をすでに取得しています。</VBE.CantReadBlueprintUsed>
+
+  <VBE.ReadMap>地図を読む</VBE.ReadMap>
+  <VBE.CantReadMapUsed>この地図はすでに読んで情報を得ました</VBE.CantReadMapUsed>
+  <VBE.LocationsOpened>新たな地点の情報を得ました</VBE.LocationsOpened>
+  <VBE.LocationsOpenedDesc>地図を読み新たな地点の情報を得ました。</VBE.LocationsOpenedDesc>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_BookReading_Desired.stages.0.label>本を読んだ</VME_BookReading_Desired.stages.0.label>
+  <VME_BookReading_Desired.stages.0.description>本を読むことは,心に栄養を与えるようなものだ.</VME_BookReading_Desired.stages.0.description>
+
+  <VME_BookReading_Disliked.stages.0.label>本を読んだ</VME_BookReading_Disliked.stages.0.label>
+  <VME_BookReading_Disliked.stages.0.description>私は読書が嫌いだ.この本を読むことを強制されて,その1秒1秒が苦痛だった.</VME_BookReading_Disliked.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Hospital_Required.label>必須</VME_Hospital_Required.label>
+  <VME_Hospital_Required.description>人々を癒やす医務室は長期的な健全さを保つ上で欠かせないものだ.最悪の事態に備えてベッドと医薬品を確保しておくことが何よりも大切だ.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - 入植者は,マップ上にある医務室の大きさに応じて,心情ペナルティまたはボーナスを得ます.この計算には,印象度が「見苦しくない」以上の医務室のみがカウントされます.</VME_Hospital_Required.description>
+
+  <VME_Hospital_Required.comps.0.thoughtStageDescriptions.0>医務室がない</VME_Hospital_Required.comps.0.thoughtStageDescriptions.0>
+
+  <VME_Hospital_Required.comps.0.thoughtStageDescriptions.1>汚い医務室</VME_Hospital_Required.comps.0.thoughtStageDescriptions.1>
+
+  <VME_Hospital_Required.comps.0.thoughtStageDescriptions.2>小さな医務室</VME_Hospital_Required.comps.0.thoughtStageDescriptions.2>
+
+  <VME_Hospital_Required.comps.0.thoughtStageDescriptions.3>広々とした医務室</VME_Hospital_Required.comps.0.thoughtStageDescriptions.3>
+
+  <VME_Hospital_Required.comps.0.thoughtStageDescriptions.4>巨大な医務室</VME_Hospital_Required.comps.0.thoughtStageDescriptions.4>
+
+
+</LanguageData>

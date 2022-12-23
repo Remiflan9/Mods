@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_EnableSelfDestruct.label>自爆させる</VME_EnableSelfDestruct.label>
+  <VME_EnableSelfDestruct.description>タレットやメカノイドを自爆させます.敵味方を問わず,すべてのタレットやメカノイドに適用できます.</VME_EnableSelfDestruct.description>
+
+
+</LanguageData>

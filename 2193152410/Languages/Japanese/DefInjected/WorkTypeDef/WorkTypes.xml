@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Writing.label>執筆</VBE_Writing.label>
+  <VBE_Writing.description>書籍などの執筆を行います。</VBE_Writing.description>
+  <VBE_Writing.labelShort>執筆</VBE_Writing.labelShort>
+  <VBE_Writing.pawnLabel>筆者</VBE_Writing.pawnLabel>
+  <VBE_Writing.gerundLabel>執筆</VBE_Writing.gerundLabel>
+  <VBE_Writing.verb>執筆する</VBE_Writing.verb>
+
+
+</LanguageData>

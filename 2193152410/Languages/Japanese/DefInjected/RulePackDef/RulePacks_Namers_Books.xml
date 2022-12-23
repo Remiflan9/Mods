@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Newspaper name -->
+
+  <ArtDescription_Newspaper.rulePack.rulesStrings.0>r_art_name->[nearnameinitial] [political_union_outlander][Newspapers]</ArtDescription_Newspaper.rulePack.rulesStrings.0>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.1>r_art_name->[nearnameinitial] [political_adjective] [political_union_outlander][Newspapers] </ArtDescription_Newspaper.rulePack.rulesStrings.1>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.2>r_art_name->[Newspapers][nearnameinitial]の[political_union_outlander]</ArtDescription_Newspaper.rulePack.rulesStrings.2>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.3>r_art_name->[PeopleBadass][Newspapers]</ArtDescription_Newspaper.rulePack.rulesStrings.3>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.4>r_art_name->[PlaceOutlander][Newspapers]</ArtDescription_Newspaper.rulePack.rulesStrings.4>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.5>r_art_name->[Direction][PlaceOutlander][Newspapers]</ArtDescription_Newspaper.rulePack.rulesStrings.5>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.6>r_art_name->第[Digit]惑星[Newspapers]</ArtDescription_Newspaper.rulePack.rulesStrings.6>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.7>r_art_name->[maybe_letter] [Digit] [maybe_letter][Newspapers]</ArtDescription_Newspaper.rulePack.rulesStrings.7>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.8>r_art_name->[maybe_letter] [Digit] [Digit] [maybe_letter][Newspapers]</ArtDescription_Newspaper.rulePack.rulesStrings.8>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.9>r_art_name->[maybe_letter] [Digit] [Digit] [Digit] [maybe_letter][Newspapers] </ArtDescription_Newspaper.rulePack.rulesStrings.9>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.10>r_art_name->[maybe_letter] [RomanNumeral] [maybe_letter][Newspapers]</ArtDescription_Newspaper.rulePack.rulesStrings.10>
+  <ArtDescription_Newspaper.rulePack.rulesStrings.11>r_art_name->[ANYPAWN_nameIndef] [Newspapers]</ArtDescription_Newspaper.rulePack.rulesStrings.11>
+
+  <ArtDescription_NewspaperDesc.rulePack.rulesStrings.0>r_art_name->本紙はここ数日の事件を深くとりあげています。</ArtDescription_NewspaperDesc.rulePack.rulesStrings.0>
+
+
+  <!-- Shooting book name -->
+
+  <ArtDescription_BookShootingName.rulePack.rulesStrings.0>r_art_name->[maybe_adjective][ShootingSkill][Books]</ArtDescription_BookShootingName.rulePack.rulesStrings.0>
+  <ArtDescription_BookShootingName.rulePack.rulesStrings.1>r_art_name->[AdjectiveBadass][ShootingSkill][Books]</ArtDescription_BookShootingName.rulePack.rulesStrings.1>
+  <ArtDescription_BookShootingName.rulePack.rulesStrings.2>r_art_name->[AdjectiveLarge][ShootingSkill][Books]</ArtDescription_BookShootingName.rulePack.rulesStrings.2>
+  <ArtDescription_BookShootingName.rulePack.rulesStrings.3>r_art_name->[PeopleBadass]の[ShootingSkill][Books]</ArtDescription_BookShootingName.rulePack.rulesStrings.3>
+  <ArtDescription_BookShootingName.rulePack.rulesStrings.4>r_art_name->[maybe_adjective][ShootingSkill]は[ConceptAny]の延長である</ArtDescription_BookShootingName.rulePack.rulesStrings.4>
+  <ArtDescription_BookShootingName.rulePack.rulesStrings.5>r_art_name->[ShootingSkill]の訓練のための[AdjectiveBadass] [Books]</ArtDescription_BookShootingName.rulePack.rulesStrings.5>
+  <ArtDescription_BookShootingName.rulePack.rulesStrings.6>r_art_name->[Adjective][Noun]：[ShootingSkill]の歴史</ArtDescription_BookShootingName.rulePack.rulesStrings.6>
+  <ArtDescription_BookShootingName.rulePack.rulesStrings.7>r_art_name->射術叢書[Digit][ShootingSkill]</ArtDescription_BookShootingName.rulePack.rulesStrings.7>
+  <ArtDescription_BookShootingName.rulePack.rulesStrings.8>r_art_name->[maybe_letter][Digit][maybe_letter]：[ShootingSkill]</ArtDescription_BookShootingName.rulePack.rulesStrings.8>
+  <ArtDescription_BookShootingName.rulePack.rulesStrings.9>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]：[ShootingSkill]</ArtDescription_BookShootingName.rulePack.rulesStrings.9>
+  <ArtDescription_BookShootingName.rulePack.rulesStrings.10>r_art_name->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[ShootingSkill]</ArtDescription_BookShootingName.rulePack.rulesStrings.10>
+  <ArtDescription_BookShootingName.rulePack.rulesStrings.11>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]：[ShootingSkill]</ArtDescription_BookShootingName.rulePack.rulesStrings.11>
+  <ArtDescription_BookShootingName.rulePack.rulesStrings.12>r_art_name->[ANYPAWN_nameIndef]著　[ShootingSkill][Books]</ArtDescription_BookShootingName.rulePack.rulesStrings.12>
+  <ArtDescription_BookShootingName.rulePack.rulesStrings.13>r_art_name->[ANYPAWN_nameIndef]著　[ShootingSkill]</ArtDescription_BookShootingName.rulePack.rulesStrings.13>
+  <ArtDescription_BookShootingName.rulePack.rulesStrings.14>r_art_name->[ANYPAWN_nameIndef]伝　[CookingSkill][Books]</ArtDescription_BookShootingName.rulePack.rulesStrings.14>
+  <ArtDescription_BookShootingName.rulePack.rulesStrings.15>r_art_name->[ANYPAWN_nameIndef] [Trans] [Color]：[ShootingSkill]</ArtDescription_BookShootingName.rulePack.rulesStrings.15>
+  <ArtDescription_BookShootingName.rulePack.rulesStrings.16>r_art_name->[Noun]と[ShootingSkill]</ArtDescription_BookShootingName.rulePack.rulesStrings.16>
+  <ArtDescription_BookShootingName.rulePack.rulesStrings.17>r_art_name->[ConceptAny]と[ShootingSkill]</ArtDescription_BookShootingName.rulePack.rulesStrings.17>
+
+  <ArtDescription_BookShootingDesc.rulePack.rulesStrings.0>r_art_name->[first_chapters]――[ShootingSkill]\n[middle_book]――[ShootingSkill]\n[ending]――[ShootingSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の射撃スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookShootingDesc.rulePack.rulesStrings.0>
+  <ArtDescription_BookShootingDesc.rulePack.rulesStrings.1>r_art_name->[first_chapters]――[ShootingSkill][maybe_ShootingSkill]\n[middle_book]――[ShootingSkill][maybe_ShootingSkill]\n[ending]――[ShootingSkill][maybe_ShootingSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の射撃スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookShootingDesc.rulePack.rulesStrings.1>
+  <ArtDescription_BookShootingDesc.rulePack.rulesStrings.2>r_art_name->[cover]\n[first_chapters]――[ShootingSkill][maybe_ShootingSkill]\n[middle_book]――[ShootingSkill][maybe_ShootingSkill] \n[ending]――[ShootingSkill][maybe_ShootingSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の射撃スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookShootingDesc.rulePack.rulesStrings.2>
+  <ArtDescription_BookShootingDesc.rulePack.rulesStrings.3>r_art_name->[inspired]――「[ShootingBook]」\n[first_chapters]――[ShootingSkill][maybe_ShootingSkill]\n[middle_book]――[ShootingSkill][maybe_ShootingSkill]\n\n[ending]――[ShootingSkill][maybe_ShootingSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の射撃スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookShootingDesc.rulePack.rulesStrings.3>
+  <ArtDescription_BookShootingDesc.rulePack.rulesStrings.4>r_art_name->[book_general]――[ShootingSkill]、[ShootingSkill] \nしかし[ShootingSkill]についてもかなり筆を多くした。\n\n本書は[maybe_writingstyles][book_context]ものとしてできあがったと思う。本書が読者諸氏の射撃スキルの向上の一助となれば幸いである。</ArtDescription_BookShootingDesc.rulePack.rulesStrings.4>
+
+
+  <!-- Animals book name -->
+
+  <ArtDescription_BookAnimalsName.rulePack.rulesStrings.0>r_art_name->[maybe_adjective][AnimalsSkill][Books]</ArtDescription_BookAnimalsName.rulePack.rulesStrings.0>
+  <ArtDescription_BookAnimalsName.rulePack.rulesStrings.1>r_art_name->[AdjectiveBadass][AnimalsSkill][Books]</ArtDescription_BookAnimalsName.rulePack.rulesStrings.1>
+  <ArtDescription_BookAnimalsName.rulePack.rulesStrings.2>r_art_name->[AdjectiveLarge][AnimalsSkill][Books]</ArtDescription_BookAnimalsName.rulePack.rulesStrings.2>
+  <ArtDescription_BookAnimalsName.rulePack.rulesStrings.3>r_art_name->[PeopleBadass]の[AnimalsSkill][Books]</ArtDescription_BookAnimalsName.rulePack.rulesStrings.3>
+  <ArtDescription_BookAnimalsName.rulePack.rulesStrings.4>r_art_name->気づけば私は[maybe_adjective] [AnimalsSkill]になっていた</ArtDescription_BookAnimalsName.rulePack.rulesStrings.4>
+  <ArtDescription_BookAnimalsName.rulePack.rulesStrings.5>r_art_name->[AnimalsSkill]が[AdjectiveBadass][Books]を書いた</ArtDescription_BookAnimalsName.rulePack.rulesStrings.5>
+  <ArtDescription_BookAnimalsName.rulePack.rulesStrings.6>r_art_name->[Adjective][Noun]：[AnimalsSkill]の歴史</ArtDescription_BookAnimalsName.rulePack.rulesStrings.6>
+  <ArtDescription_BookAnimalsName.rulePack.rulesStrings.7>r_art_name->動物叢書[Digit] [AnimalsSkill]</ArtDescription_BookAnimalsName.rulePack.rulesStrings.7>
+  <ArtDescription_BookAnimalsName.rulePack.rulesStrings.8>r_art_name->[maybe_letter][Digit][maybe_letter]：[AnimalsSkill]</ArtDescription_BookAnimalsName.rulePack.rulesStrings.8>
+  <ArtDescription_BookAnimalsName.rulePack.rulesStrings.9>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]：[AnimalsSkill]</ArtDescription_BookAnimalsName.rulePack.rulesStrings.9>
+  <ArtDescription_BookAnimalsName.rulePack.rulesStrings.10>r_art_name->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[AnimalsSkill]</ArtDescription_BookAnimalsName.rulePack.rulesStrings.10>
+  <ArtDescription_BookAnimalsName.rulePack.rulesStrings.11>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]：[AnimalsSkill]</ArtDescription_BookAnimalsName.rulePack.rulesStrings.11>
+  <ArtDescription_BookAnimalsName.rulePack.rulesStrings.12>r_art_name->[ANYPAWN_nameIndef]著　[AnimalsSkill][Books]</ArtDescription_BookAnimalsName.rulePack.rulesStrings.12>
+  <ArtDescription_BookAnimalsName.rulePack.rulesStrings.13>r_art_name->[ANYPAWN_nameIndef]著　[AnimalsSkill]</ArtDescription_BookAnimalsName.rulePack.rulesStrings.13>
+  <ArtDescription_BookAnimalsName.rulePack.rulesStrings.14>r_art_name->[ANYPAWN_nameIndef]伝　[AnimalsSkill][Books]</ArtDescription_BookAnimalsName.rulePack.rulesStrings.14>
+  <ArtDescription_BookAnimalsName.rulePack.rulesStrings.15>r_art_name->[ANYPAWN_nameIndef] [Trans] [Color]：[AnimalsSkill]</ArtDescription_BookAnimalsName.rulePack.rulesStrings.15>
+  <ArtDescription_BookAnimalsName.rulePack.rulesStrings.16>r_art_name->[Noun]と[AnimalsSkill]</ArtDescription_BookAnimalsName.rulePack.rulesStrings.16>
+  <ArtDescription_BookAnimalsName.rulePack.rulesStrings.17>r_art_name->[ConceptAny]と[AnimalsSkill]</ArtDescription_BookAnimalsName.rulePack.rulesStrings.17>
+　
+  <ArtDescription_BookAnimalsDesc.rulePack.rulesStrings.0>r_art_name->[first_chapters]――[AnimalsSkill]\n[middle_book]――[AnimalsSkill]\n[ending]――[AnimalsSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の動物スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookAnimalsDesc.rulePack.rulesStrings.0>
+  <ArtDescription_BookAnimalsDesc.rulePack.rulesStrings.1>r_art_name->[first_chapters]――[AnimalsSkill][maybe_AnimalsSkill]\n[middle_book]――[AnimalsSkill][maybe_AnimalsSkill]\n[ending]――[AnimalsSkill][maybe_AnimalsSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の動物スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookAnimalsDesc.rulePack.rulesStrings.1>
+  <ArtDescription_BookAnimalsDesc.rulePack.rulesStrings.2>r_art_name->[cover]\n[first_chapters]――[AnimalsSkill][maybe_AnimalsSkill]\n[middle_book]――[AnimalsSkill][maybe_AnimalsSkill] \n[ending]――[AnimalsSkill][maybe_AnimalsSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の動物スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookAnimalsDesc.rulePack.rulesStrings.2>
+  <ArtDescription_BookAnimalsDesc.rulePack.rulesStrings.3>r_art_name->[inspired]――「[AnimalsBook]」\n[first_chapters]――[AnimalsSkill][maybe_AnimalsSkill]\n[middle_book]――[AnimalsSkill][maybe_AnimalsSkill]\n\n[ending]――[AnimalsSkill][maybe_AnimalsSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の芸術スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookAnimalsDesc.rulePack.rulesStrings.3>
+  <ArtDescription_BookAnimalsDesc.rulePack.rulesStrings.4>r_art_name->[book_general]――[AnimalsSkill]、[AnimalsSkill] \nしかし[AnimalsSkill]についてもかなり筆を多くした。\n\n本書は[maybe_writingstyles][book_context]ものとしてできあがったと思う。本書が読者諸氏の動物スキルの向上の一助となれば幸いである。</ArtDescription_BookAnimalsDesc.rulePack.rulesStrings.4>
+
+
+  <!-- Art book name -->
+
+  <ArtDescription_BookArtName.rulePack.rulesStrings.0>r_art_name->[maybe_adjective][ArtSkill][Books]</ArtDescription_BookArtName.rulePack.rulesStrings.0>
+  <ArtDescription_BookArtName.rulePack.rulesStrings.1>r_art_name->[AdjectiveBadass][ArtSkill][Books]</ArtDescription_BookArtName.rulePack.rulesStrings.1>
+  <ArtDescription_BookArtName.rulePack.rulesStrings.2>r_art_name->[AdjectiveLarge][ArtSkill][Books]</ArtDescription_BookArtName.rulePack.rulesStrings.2>
+  <ArtDescription_BookArtName.rulePack.rulesStrings.3>r_art_name->[PeopleBadass]の[ArtSkill][Books]</ArtDescription_BookArtName.rulePack.rulesStrings.3>
+  <ArtDescription_BookArtName.rulePack.rulesStrings.4>r_art_name->[maybe_adjective][ArtSkill]から見る美術[Books]</ArtDescription_BookArtName.rulePack.rulesStrings.4>
+  <ArtDescription_BookArtName.rulePack.rulesStrings.5>r_art_name->[ArtSkill]としての[AdjectiveBadass][Books]</ArtDescription_BookArtName.rulePack.rulesStrings.5>
+  <ArtDescription_BookArtName.rulePack.rulesStrings.6>r_art_name->[Adjective][Noun]：[ArtSkill]の歴史</ArtDescription_BookArtName.rulePack.rulesStrings.6>
+  <ArtDescription_BookArtName.rulePack.rulesStrings.7>r_art_name->芸術叢書[Digit] [ArtSkill]</ArtDescription_BookArtName.rulePack.rulesStrings.7>
+  <ArtDescription_BookArtName.rulePack.rulesStrings.8>r_art_name->[maybe_letter][Digit][maybe_letter]：[ArtSkill]</ArtDescription_BookArtName.rulePack.rulesStrings.8>
+  <ArtDescription_BookArtName.rulePack.rulesStrings.9>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]：[ArtSkill]</ArtDescription_BookArtName.rulePack.rulesStrings.9>
+  <ArtDescription_BookArtName.rulePack.rulesStrings.10>r_art_name->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[ArtSkill]</ArtDescription_BookArtName.rulePack.rulesStrings.10>
+  <ArtDescription_BookArtName.rulePack.rulesStrings.11>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]：[ArtSkill]</ArtDescription_BookArtName.rulePack.rulesStrings.11>
+  <ArtDescription_BookArtName.rulePack.rulesStrings.12>r_art_name->[ANYPAWN_nameIndef]著　[ArtSkill][Books]</ArtDescription_BookArtName.rulePack.rulesStrings.12>
+  <ArtDescription_BookArtName.rulePack.rulesStrings.13>r_art_name->[ANYPAWN_nameIndef]著　[ArtSkill]</ArtDescription_BookArtName.rulePack.rulesStrings.13>
+  <ArtDescription_BookArtName.rulePack.rulesStrings.14>r_art_name->[ANYPAWN_nameIndef]伝　[ArtSkill][Books]</ArtDescription_BookArtName.rulePack.rulesStrings.14>
+  <ArtDescription_BookArtName.rulePack.rulesStrings.15>r_art_name->[ANYPAWN_nameIndef] [Trans] [Color]：[ArtSkill]</ArtDescription_BookArtName.rulePack.rulesStrings.15>
+  <ArtDescription_BookArtName.rulePack.rulesStrings.16>r_art_name->[Noun]と[ArtSkill]</ArtDescription_BookArtName.rulePack.rulesStrings.16>
+  <ArtDescription_BookArtName.rulePack.rulesStrings.17>r_art_name->[ConceptAny]と[ArtSkill]</ArtDescription_BookArtName.rulePack.rulesStrings.17>
+　
+
+  <ArtDescription_BookArtDesc.rulePack.rulesStrings.0>r_art_name->[first_chapters]――[ArtSkill]\n[middle_book]――[ArtSkill]\n[ending]――[ArtSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の芸術スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookArtDesc.rulePack.rulesStrings.0>
+  <ArtDescription_BookArtDesc.rulePack.rulesStrings.1>r_art_name->[first_chapters]――[ArtSkill][maybe_ArtSkill]\n[middle_book]――[ArtSkill][maybe_ArtSkill]\n[ending]――[ArtSkill][maybe_ArtSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の芸術スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookArtDesc.rulePack.rulesStrings.1>
+  <ArtDescription_BookArtDesc.rulePack.rulesStrings.2>r_art_name->[cover]\n[first_chapters]――[ArtSkill][maybe_ArtSkill]\n[middle_book]――[ArtSkill][maybe_ArtSkill] \n[ending]――[ArtSkill][maybe_ArtSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の芸術スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookArtDesc.rulePack.rulesStrings.2>
+  <ArtDescription_BookArtDesc.rulePack.rulesStrings.3>r_art_name->[inspired]――「[ArtBook]」\n[first_chapters]――[ArtSkill][maybe_ArtSkill]\n[middle_book]――[ArtSkill][maybe_ArtSkill]\n\n[ending]――[ArtSkill][maybe_ArtSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の芸術スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookArtDesc.rulePack.rulesStrings.3>
+  <ArtDescription_BookArtDesc.rulePack.rulesStrings.4>r_art_name->[book_general]――[ArtSkill]、[ArtSkill] \nしかし[ArtSkill]についてもかなり筆を多くした。\n\n本書は[maybe_writingstyles][book_context]ものとしてできあがったと思う。本書が読者諸氏の芸術スキルの向上の一助となれば幸いである。</ArtDescription_BookArtDesc.rulePack.rulesStrings.4>
+
+
+  <!-- Construction book name -->
+
+  <ArtDescription_BookConstructionName.rulePack.rulesStrings.0>r_art_name->[maybe_adjective][ConstructionSkill][Books]</ArtDescription_BookConstructionName.rulePack.rulesStrings.0>
+  <ArtDescription_BookConstructionName.rulePack.rulesStrings.1>r_art_name->[AdjectiveBadass][ConstructionSkill][Books]</ArtDescription_BookConstructionName.rulePack.rulesStrings.1>
+  <ArtDescription_BookConstructionName.rulePack.rulesStrings.2>r_art_name->[AdjectiveLarge][ConstructionSkill][Books]</ArtDescription_BookConstructionName.rulePack.rulesStrings.2>
+  <ArtDescription_BookConstructionName.rulePack.rulesStrings.3>r_art_name->[PeopleBadass]の[ConstructionSkill][Books]</ArtDescription_BookConstructionName.rulePack.rulesStrings.3>
+  <ArtDescription_BookConstructionName.rulePack.rulesStrings.4>r_art_name->[maybe_adjective] [ConstructionSkill]を建てる</ArtDescription_BookConstructionName.rulePack.rulesStrings.4>
+  <ArtDescription_BookConstructionName.rulePack.rulesStrings.5>r_art_name->[AdjectiveBadass] [Books]は[ConstructionSkill]でできている</ArtDescription_BookConstructionName.rulePack.rulesStrings.5>
+  <ArtDescription_BookConstructionName.rulePack.rulesStrings.6>r_art_name->[Adjective][Noun]：[ConstructionSkill]の歴史</ArtDescription_BookConstructionName.rulePack.rulesStrings.6>
+  <ArtDescription_BookConstructionName.rulePack.rulesStrings.7>r_art_name->建築叢書[Digit] [ConstructionSkill]</ArtDescription_BookConstructionName.rulePack.rulesStrings.7>
+  <ArtDescription_BookConstructionName.rulePack.rulesStrings.8>r_art_name->[maybe_letter][Digit][maybe_letter]：[ConstructionSkill]</ArtDescription_BookConstructionName.rulePack.rulesStrings.8>
+  <ArtDescription_BookConstructionName.rulePack.rulesStrings.9>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]：[ConstructionSkill]</ArtDescription_BookConstructionName.rulePack.rulesStrings.9>
+  <ArtDescription_BookConstructionName.rulePack.rulesStrings.10>r_art_name->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[ConstructionSkill]</ArtDescription_BookConstructionName.rulePack.rulesStrings.10>
+  <ArtDescription_BookConstructionName.rulePack.rulesStrings.11>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]：[ConstructionSkill]</ArtDescription_BookConstructionName.rulePack.rulesStrings.11>
+  <ArtDescription_BookConstructionName.rulePack.rulesStrings.12>r_art_name->[ANYPAWN_nameIndef]著　[ConstructionSkill][Books]</ArtDescription_BookConstructionName.rulePack.rulesStrings.12>
+  <ArtDescription_BookConstructionName.rulePack.rulesStrings.13>r_art_name->[ANYPAWN_nameIndef]著　[ConstructionSkill]</ArtDescription_BookConstructionName.rulePack.rulesStrings.13>
+  <ArtDescription_BookConstructionName.rulePack.rulesStrings.14>r_art_name->[ANYPAWN_nameIndef]伝　[ConstructionSkill][Books]</ArtDescription_BookConstructionName.rulePack.rulesStrings.14>
+  <ArtDescription_BookConstructionName.rulePack.rulesStrings.15>r_art_name->[ANYPAWN_nameIndef] [Trans] [Color]：[ConstructionSkill]</ArtDescription_BookConstructionName.rulePack.rulesStrings.15>
+  <ArtDescription_BookConstructionName.rulePack.rulesStrings.16>r_art_name->[Noun]と[ConstructionSkill]</ArtDescription_BookConstructionName.rulePack.rulesStrings.16>
+  <ArtDescription_BookConstructionName.rulePack.rulesStrings.17>r_art_name->[ConceptAny]と[ConstructionSkill]</ArtDescription_BookConstructionName.rulePack.rulesStrings.17>
+
+  <ArtDescription_BookConstructionDesc.rulePack.rulesStrings.0>r_art_name->[first_chapters]――[ConstructionSkill]\n[middle_book]――[ConstructionSkill]\n[ending]――[ConstructionSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の料理スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookConstructionDesc.rulePack.rulesStrings.0>
+  <ArtDescription_BookConstructionDesc.rulePack.rulesStrings.1>r_art_name->[first_chapters]――[ConstructionSkill][maybe_ConstructionSkill]\n[middle_book]――[ConstructionSkill][maybe_ConstructionSkill]\n[ending]――[ConstructionSkill][maybe_ConstructionSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の建設スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookConstructionDesc.rulePack.rulesStrings.1>
+  <ArtDescription_BookConstructionDesc.rulePack.rulesStrings.2>r_art_name->[cover]\n[first_chapters]――[ConstructionSkill][maybe_ConstructionSkill]\n[middle_book]――[ConstructionSkill][maybe_ConstructionSkill] \n[ending]――[ConstructionSkill][maybe_ConstructionSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の建築スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookConstructionDesc.rulePack.rulesStrings.2>
+  <ArtDescription_BookConstructionDesc.rulePack.rulesStrings.3>r_art_name->[inspired]――「[CostructionBook]」\n[first_chapters]――[ConstructionSkill][maybe_ConstructionSkill]\n[middle_book]――[ConstructionSkill][maybe_ConstructionSkill]\n\n[ending]――[ConstructionSkill][maybe_ConstructionSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の建築スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookConstructionDesc.rulePack.rulesStrings.3>
+  <ArtDescription_BookConstructionDesc.rulePack.rulesStrings.4>r_art_name->[book_general]――[ConstructionSkill]、[ConstructionSkill] \nしかし[ConstructionSkill]についてもかなり筆を多くした。\n\n本書は[maybe_writingstyles][book_context]ものとしてできあがったと思う。本書が読者諸氏の建設スキルの向上の一助となれば幸いである。</ArtDescription_BookConstructionDesc.rulePack.rulesStrings.4>
+
+
+  <!-- Cooking book name -->
+
+  <ArtDescription_BookCookingName.rulePack.rulesStrings.0>r_art_name->[maybe_adjective][CookingSkill][Books]</ArtDescription_BookCookingName.rulePack.rulesStrings.0>
+  <ArtDescription_BookCookingName.rulePack.rulesStrings.1>r_art_name->[AdjectiveBadass][CookingSkill][Books]</ArtDescription_BookCookingName.rulePack.rulesStrings.1>
+  <ArtDescription_BookCookingName.rulePack.rulesStrings.2>r_art_name->[AdjectiveLarge][CookingSkill][Books]</ArtDescription_BookCookingName.rulePack.rulesStrings.2>
+  <ArtDescription_BookCookingName.rulePack.rulesStrings.3>r_art_name->[PeopleBadass]の[CookingSkill][Books]</ArtDescription_BookCookingName.rulePack.rulesStrings.3>
+  <ArtDescription_BookCookingName.rulePack.rulesStrings.4>r_art_name->今日のごはんは[maybe_adjective][CookingSkill]</ArtDescription_BookCookingName.rulePack.rulesStrings.4>
+  <ArtDescription_BookCookingName.rulePack.rulesStrings.5>r_art_name->世界一おいしい[AdjectiveBadass][CookingSkill]</ArtDescription_BookCookingName.rulePack.rulesStrings.5>
+  <ArtDescription_BookCookingName.rulePack.rulesStrings.6>r_art_name->[Adjective][Noun]：[CookingSkill]の歴史</ArtDescription_BookCookingName.rulePack.rulesStrings.6>
+  <ArtDescription_BookCookingName.rulePack.rulesStrings.7>r_art_name->料理叢書[Digit] [CookingSkill]</ArtDescription_BookCookingName.rulePack.rulesStrings.7>
+  <ArtDescription_BookCookingName.rulePack.rulesStrings.8>r_art_name->[maybe_letter][Digit][maybe_letter]：[CookingSkill]</ArtDescription_BookCookingName.rulePack.rulesStrings.8>
+  <ArtDescription_BookCookingName.rulePack.rulesStrings.9>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]：[CookingSkill]</ArtDescription_BookCookingName.rulePack.rulesStrings.9>
+  <ArtDescription_BookCookingName.rulePack.rulesStrings.10>r_art_name->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[CookingSkill]</ArtDescription_BookCookingName.rulePack.rulesStrings.10>
+  <ArtDescription_BookCookingName.rulePack.rulesStrings.11>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]：[CookingSkill]</ArtDescription_BookCookingName.rulePack.rulesStrings.11>
+  <ArtDescription_BookCookingName.rulePack.rulesStrings.12>r_art_name->[ANYPAWN_nameIndef]著　[CookingSkill][Books]</ArtDescription_BookCookingName.rulePack.rulesStrings.12>
+  <ArtDescription_BookCookingName.rulePack.rulesStrings.13>r_art_name->[ANYPAWN_nameIndef]著　[CookingSkill]</ArtDescription_BookCookingName.rulePack.rulesStrings.13>
+  <ArtDescription_BookCookingName.rulePack.rulesStrings.14>r_art_name->[ANYPAWN_nameIndef]伝　[CookingSkill][Books]</ArtDescription_BookCookingName.rulePack.rulesStrings.14>
+  <ArtDescription_BookCookingName.rulePack.rulesStrings.15>r_art_name->[ANYPAWN_nameIndef] [Trans] [Color]色：[CookingSkill]</ArtDescription_BookCookingName.rulePack.rulesStrings.15>
+  <ArtDescription_BookCookingName.rulePack.rulesStrings.16>r_art_name->[Noun]と[CookingSkill]</ArtDescription_BookCookingName.rulePack.rulesStrings.16>
+  <ArtDescription_BookCookingName.rulePack.rulesStrings.17>r_art_name->[ConceptAny]と[CookingSkill]</ArtDescription_BookCookingName.rulePack.rulesStrings.17>
+
+
+  <ArtDescription_BookCookingDesc.rulePack.rulesStrings.0>r_art_name->[first_chapters]――[CookingSkill]\n[middle_book]――[CookingSkill]\n[ending]――[CookingSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の料理スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookCookingDesc.rulePack.rulesStrings.0>
+  <ArtDescription_BookCookingDesc.rulePack.rulesStrings.1>r_art_name->[first_chapters]――[CookingSkill][maybe_CookingSkill]\n[middle_book]――[CookingSkill][maybe_CookingSkill]\n[ending]――[CookingSkill][maybe_CookingSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の料理スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookCookingDesc.rulePack.rulesStrings.1>
+  <ArtDescription_BookCookingDesc.rulePack.rulesStrings.2>r_art_name->[cover]\n[first_chapters]――[CookingSkill][maybe_CookingSkill]\n[middle_book]――[CookingSkill][maybe_CookingSkill] \n[ending]――[CookingSkill][maybe_CookingSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の料理スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookCookingDesc.rulePack.rulesStrings.2>
+  <ArtDescription_BookCookingDesc.rulePack.rulesStrings.3>r_art_name->[inspired]――「[CookingBook]」\n[first_chapters]――[CookingSkill][maybe_CookingSkill]\n[middle_book]――[CookingSkill][maybe_CookingSkill]\n\n[ending]――[CookingSkill][maybe_CookingSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の料理スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookCookingDesc.rulePack.rulesStrings.3>
+  <ArtDescription_BookCookingDesc.rulePack.rulesStrings.4>r_art_name->[book_general]――[CookingSkill]、[CookingSkill] \nしかし[CookingSkill]についてもかなり筆を多くした。\n\n本書は[maybe_writingstyles][book_context]ものとしてできあがったと思う。本書が読者諸氏の料理スキルの向上の一助となれば幸いである。</ArtDescription_BookCookingDesc.rulePack.rulesStrings.4>
+
+
+  <!-- Crafting book name -->
+
+  <ArtDescription_BookCraftingName.rulePack.rulesStrings.0>r_art_name->[maybe_adjective][CraftingSkill][Books]</ArtDescription_BookCraftingName.rulePack.rulesStrings.0>
+  <ArtDescription_BookCraftingName.rulePack.rulesStrings.1>r_art_name->[AdjectiveBadass][CraftingSkill][Books]</ArtDescription_BookCraftingName.rulePack.rulesStrings.1>
+  <ArtDescription_BookCraftingName.rulePack.rulesStrings.2>r_art_name->[AdjectiveLarge] [CraftingSkill][Books]</ArtDescription_BookCraftingName.rulePack.rulesStrings.2>
+  <ArtDescription_BookCraftingName.rulePack.rulesStrings.3>r_art_name->[PeopleBadass]の[CraftingSkill][Books]</ArtDescription_BookCraftingName.rulePack.rulesStrings.3>
+  <ArtDescription_BookCraftingName.rulePack.rulesStrings.4>r_art_name->[maybe_adjective] [CraftingSkill]で[Noun]を作る</ArtDescription_BookCraftingName.rulePack.rulesStrings.4>
+  <ArtDescription_BookCraftingName.rulePack.rulesStrings.5>r_art_name->[AdjectiveBadass] [Books]で学ぶ[CraftingSkill]</ArtDescription_BookCraftingName.rulePack.rulesStrings.5>
+  <ArtDescription_BookCraftingName.rulePack.rulesStrings.6>r_art_name->[Adjective] [Noun]:[CraftingSkill]の歴史</ArtDescription_BookCraftingName.rulePack.rulesStrings.6>
+  <ArtDescription_BookCraftingName.rulePack.rulesStrings.7>r_art_name->工芸叢書[Digit] [CraftingSkill]</ArtDescription_BookCraftingName.rulePack.rulesStrings.7>
+  <ArtDescription_BookCraftingName.rulePack.rulesStrings.8>r_art_name->[maybe_letter][Digit][maybe_letter]：[CraftingSkill]</ArtDescription_BookCraftingName.rulePack.rulesStrings.8>
+  <ArtDescription_BookCraftingName.rulePack.rulesStrings.9>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]：[CraftingSkill]</ArtDescription_BookCraftingName.rulePack.rulesStrings.9>
+  <ArtDescription_BookCraftingName.rulePack.rulesStrings.10>r_art_name->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[CraftingSkill]</ArtDescription_BookCraftingName.rulePack.rulesStrings.10>
+  <ArtDescription_BookCraftingName.rulePack.rulesStrings.11>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]：[CraftingSkill]</ArtDescription_BookCraftingName.rulePack.rulesStrings.11>
+  <ArtDescription_BookCraftingName.rulePack.rulesStrings.12>r_art_name->[ANYPAWN_nameIndef]著 [CraftingSkill][Books] </ArtDescription_BookCraftingName.rulePack.rulesStrings.12>
+  <ArtDescription_BookCraftingName.rulePack.rulesStrings.13>r_art_name->[ANYPAWN_nameIndef]著 [CraftingSkill]</ArtDescription_BookCraftingName.rulePack.rulesStrings.13>
+  <ArtDescription_BookCraftingName.rulePack.rulesStrings.14>r_art_name->[ANYPAWN_nameIndef]伝 [CraftingSkill][Books]</ArtDescription_BookCraftingName.rulePack.rulesStrings.14>
+  <ArtDescription_BookCraftingName.rulePack.rulesStrings.15>r_art_name->[ANYPAWN_nameIndef] [Trans] [Color]：[CraftingSkill]</ArtDescription_BookCraftingName.rulePack.rulesStrings.15>
+  <ArtDescription_BookCraftingName.rulePack.rulesStrings.16>r_art_name->[Noun]と[CraftingSkill]</ArtDescription_BookCraftingName.rulePack.rulesStrings.16>
+  <ArtDescription_BookCraftingName.rulePack.rulesStrings.17>r_art_name->[ConceptAny]と[CraftingSkill]</ArtDescription_BookCraftingName.rulePack.rulesStrings.17>
+　
+
+  <ArtDescription_BookCraftingDesc.rulePack.rulesStrings.0>r_art_name->[first_chapters]――[CraftingSkill]\n[middle_book]――[CraftingSkill]\n[ending]――[CraftingSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の工芸スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookCraftingDesc.rulePack.rulesStrings.0>
+  <ArtDescription_BookCraftingDesc.rulePack.rulesStrings.1>r_art_name->[first_chapters]――[CraftingSkill][maybe_CraftingSkill]\n[middle_book]――[CraftingSkill][maybe_CraftingSkill]\n[ending]――[CraftingSkill][maybe_CraftingSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の工芸スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookCraftingDesc.rulePack.rulesStrings.1>
+  <ArtDescription_BookCraftingDesc.rulePack.rulesStrings.2>r_art_name->[cover]\n[first_chapters]――[CraftingSkill][maybe_CraftingSkill]\n[middle_book]――[CraftingSkill][maybe_CraftingSkill] \n[ending]――[CraftingSkill][maybe_CraftingSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の工芸スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookCraftingDesc.rulePack.rulesStrings.2>
+  <ArtDescription_BookCraftingDesc.rulePack.rulesStrings.3>r_art_name->[inspired]――「[CraftingBook]」\n[first_chapters]――[CraftingSkill][maybe_CraftingSkill]\n[middle_book]――[CraftingSkill][maybe_CraftingSkill]\n\n[ending]――[CraftingSkill][maybe_CraftingSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の工芸スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookCraftingDesc.rulePack.rulesStrings.3>
+  <ArtDescription_BookCraftingDesc.rulePack.rulesStrings.4>r_art_name->[book_general]――[CraftingSkill]、[CraftingSkill] \nしかし[CraftingSkill]についてもかなり筆を多くした。\n\n本書は[maybe_writingstyles][book_context]ものとしてできあがったと思う。本書が読者諸氏の工芸スキルの向上の一助となれば幸いである。</ArtDescription_BookCraftingDesc.rulePack.rulesStrings.4>
+
+
+  <!-- Growing book name -->
+
+  <ArtDescription_BookGrowingName.rulePack.rulesStrings.0>r_art_name->[maybe_adjective][GrowingSkill][Books]</ArtDescription_BookGrowingName.rulePack.rulesStrings.0>
+  <ArtDescription_BookGrowingName.rulePack.rulesStrings.1>r_art_name->[AdjectiveBadass][GrowingSkill][Books]</ArtDescription_BookGrowingName.rulePack.rulesStrings.1>
+  <ArtDescription_BookGrowingName.rulePack.rulesStrings.2>r_art_name->[AdjectiveLarge][GrowingSkill][Books]</ArtDescription_BookGrowingName.rulePack.rulesStrings.2>
+  <ArtDescription_BookGrowingName.rulePack.rulesStrings.3>r_art_name->[PeopleBadass]の[GrowingSkill][Books]</ArtDescription_BookGrowingName.rulePack.rulesStrings.3>
+  <ArtDescription_BookGrowingName.rulePack.rulesStrings.4>r_art_name->この[Books]で[maybe_adjective] [GrowingSkill]が育つ</ArtDescription_BookGrowingName.rulePack.rulesStrings.4>
+  <ArtDescription_BookGrowingName.rulePack.rulesStrings.5>r_art_name->[GrowingSkill]を育てる[AdjectiveBadass][Books]</ArtDescription_BookGrowingName.rulePack.rulesStrings.5>
+  <ArtDescription_BookGrowingName.rulePack.rulesStrings.6>r_art_name->[Adjective][Noun]：[GrowingSkill]の歴史</ArtDescription_BookGrowingName.rulePack.rulesStrings.6>
+  <ArtDescription_BookGrowingName.rulePack.rulesStrings.7>r_art_name->農業叢書[Digit] [GrowingSkill]</ArtDescription_BookGrowingName.rulePack.rulesStrings.7>
+  <ArtDescription_BookGrowingName.rulePack.rulesStrings.8>r_art_name->[maybe_letter][Digit][maybe_letter]：[GrowingSkill]</ArtDescription_BookGrowingName.rulePack.rulesStrings.8>
+  <ArtDescription_BookGrowingName.rulePack.rulesStrings.9>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]：[GrowingSkill]</ArtDescription_BookGrowingName.rulePack.rulesStrings.9>
+  <ArtDescription_BookGrowingName.rulePack.rulesStrings.10>r_art_name->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[GrowingSkill]</ArtDescription_BookGrowingName.rulePack.rulesStrings.10>
+  <ArtDescription_BookGrowingName.rulePack.rulesStrings.11>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]：[GrowingSkill]</ArtDescription_BookGrowingName.rulePack.rulesStrings.11>
+  <ArtDescription_BookGrowingName.rulePack.rulesStrings.12>r_art_name->[ANYPAWN_nameIndef]著　[GrowingSkill][Books]</ArtDescription_BookGrowingName.rulePack.rulesStrings.12>
+  <ArtDescription_BookGrowingName.rulePack.rulesStrings.13>r_art_name->[ANYPAWN_nameIndef]著　[GrowingSkill]</ArtDescription_BookGrowingName.rulePack.rulesStrings.13>
+  <ArtDescription_BookGrowingName.rulePack.rulesStrings.14>r_art_name->[ANYPAWN_nameIndef]伝　[GrowingSkill][Books]</ArtDescription_BookGrowingName.rulePack.rulesStrings.14>
+  <ArtDescription_BookGrowingName.rulePack.rulesStrings.15>r_art_name->[ANYPAWN_nameIndef] [Trans] [Color]：[GrowingSkill]</ArtDescription_BookGrowingName.rulePack.rulesStrings.15>
+  <ArtDescription_BookGrowingName.rulePack.rulesStrings.16>r_art_name->[Noun]と[GrowingSkill]</ArtDescription_BookGrowingName.rulePack.rulesStrings.16>
+  <ArtDescription_BookGrowingName.rulePack.rulesStrings.17>r_art_name->[ConceptAny]と[GrowingSkill]</ArtDescription_BookGrowingName.rulePack.rulesStrings.17>
+　
+  <ArtDescription_BookGrowingDesc.rulePack.rulesStrings.0>r_art_name->[first_chapters]――[GrowingSkill]\n[middle_book]――[GrowingSkill]\n[ending]――[GrowingSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の栽培スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookGrowingDesc.rulePack.rulesStrings.0>
+  <ArtDescription_BookGrowingDesc.rulePack.rulesStrings.1>r_art_name->[first_chapters]――[GrowingSkill][maybe_GrowingSkill]\n[middle_book]――[GrowingSkill][maybe_GrowSkill]\n[ending]――[GrowingSkill][maybe_GrowingSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の栽培スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookGrowingDesc.rulePack.rulesStrings.1>
+  <ArtDescription_BookGrowingDesc.rulePack.rulesStrings.2>r_art_name->[cover]\n[first_chapters]――[GrowingSkill][maybe_GrwoingSkill]\n[middle_book]――[GrowingSkill][maybe_GrowingSkill] \n[ending]――[GrowingSkill][maybe_GrowingSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の栽培スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookGrowingDesc.rulePack.rulesStrings.2>
+  <ArtDescription_BookGrowingDesc.rulePack.rulesStrings.3>r_art_name->[inspired]――「[GrowingBook]」\n[first_chapters]――[GrowingSkill][maybe_GrowingSkill]\n[middle_book]――[GrowingSkill][maybe_GrowingSkill]\n\n[ending]――[GrowingSkill][maybe_GrowingSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の栽培スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookGrowingDesc.rulePack.rulesStrings.3>
+  <ArtDescription_BookGrowingDesc.rulePack.rulesStrings.4>r_art_name->[book_general]――[GrowingSkill]、[GrowingSkill] \nしかし[GrowingSkill]についてもかなり筆を多くした。\n\n本書は[maybe_writingstyles][book_context]ものとしてできあがったと思う。本書が読者諸氏の栽培スキルの向上の一助となれば幸いである。</ArtDescription_BookGrowingDesc.rulePack.rulesStrings.4>
+
+
+  <!-- Intellectual book name -->
+
+  <ArtDescription_BookIntellectualName.rulePack.rulesStrings.0>r_art_name->[maybe_adjective][IntellectualSkill][Books]</ArtDescription_BookIntellectualName.rulePack.rulesStrings.0>
+  <ArtDescription_BookIntellectualName.rulePack.rulesStrings.1>r_art_name->[AdjectiveBadass][IntellectualSkill][Books]</ArtDescription_BookIntellectualName.rulePack.rulesStrings.1>
+  <ArtDescription_BookIntellectualName.rulePack.rulesStrings.2>r_art_name->[AdjectiveLarge][IntellectucalSkill][Books]</ArtDescription_BookIntellectualName.rulePack.rulesStrings.2>
+  <ArtDescription_BookIntellectualName.rulePack.rulesStrings.3>r_art_name->[PeopleBadass]の[IntellectualSkill][Books]</ArtDescription_BookIntellectualName.rulePack.rulesStrings.3>
+  <ArtDescription_BookIntellectualName.rulePack.rulesStrings.4>r_art_name->[maybe_adjective] [IntellectualSkill]について</ArtDescription_BookIntellectualName.rulePack.rulesStrings.4>
+  <ArtDescription_BookIntellectualName.rulePack.rulesStrings.5>r_art_name->[AdjectiveBadass] [Books]は[IntellectualSkill]たりうるのか</ArtDescription_BookIntellectualName.rulePack.rulesStrings.5>
+  <ArtDescription_BookIntellectualName.rulePack.rulesStrings.6>r_art_name->[Adjective][Noun]：[IntellectualSkill]の歴史</ArtDescription_BookIntellectualName.rulePack.rulesStrings.6>
+  <ArtDescription_BookIntellectualName.rulePack.rulesStrings.7>r_art_name->知力叢書[Digit] [IntellectualSkill]</ArtDescription_BookIntellectualName.rulePack.rulesStrings.7>
+  <ArtDescription_BookIntellectualName.rulePack.rulesStrings.8>r_art_name->[maybe_letter][Digit][maybe_letter]：[IntellectualSkill]</ArtDescription_BookIntellectualName.rulePack.rulesStrings.8>
+  <ArtDescription_BookIntellectualName.rulePack.rulesStrings.9>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]：[IntellectualSkill]</ArtDescription_BookIntellectualName.rulePack.rulesStrings.9>
+  <ArtDescription_BookIntellectualName.rulePack.rulesStrings.10>r_art_name->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[IntellectualSkill]</ArtDescription_BookIntellectualName.rulePack.rulesStrings.10>
+  <ArtDescription_BookIntellectualName.rulePack.rulesStrings.11>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]：[IntellectualSkill]</ArtDescription_BookIntellectualName.rulePack.rulesStrings.11>
+  <ArtDescription_BookIntellectualName.rulePack.rulesStrings.12>r_art_name->[ANYPAWN_nameIndef]著　[IntellectualSkill][Books]</ArtDescription_BookIntellectualName.rulePack.rulesStrings.12>
+  <ArtDescription_BookIntellectualName.rulePack.rulesStrings.13>r_art_name->[ANYPAWN_nameIndef]著　[IntellectualSkill]</ArtDescription_BookIntellectualName.rulePack.rulesStrings.13>
+  <ArtDescription_BookIntellectualName.rulePack.rulesStrings.14>r_art_name->[ANYPAWN_nameIndef]伝　[IntellectualSkill][Books]</ArtDescription_BookIntellectualName.rulePack.rulesStrings.14>
+  <ArtDescription_BookIntellectualName.rulePack.rulesStrings.15>r_art_name->[ANYPAWN_nameIndef] [Trans] [Color]: [IntellectualSkill]</ArtDescription_BookIntellectualName.rulePack.rulesStrings.15>
+  <ArtDescription_BookIntellectualName.rulePack.rulesStrings.16>r_art_name->[Noun]と[IntellectualSkill]</ArtDescription_BookIntellectualName.rulePack.rulesStrings.16>
+  <ArtDescription_BookIntellectualName.rulePack.rulesStrings.17>r_art_name->[ConceptAny]と[IntellectualSkill]</ArtDescription_BookIntellectualName.rulePack.rulesStrings.17>
+
+
+  <ArtDescription_BookIntellectualDesc.rulePack.rulesStrings.0>r_art_name->[first_chapters]――[IntellectualSkill]\n[middle_book]――[IntellectualSkill]\n[ending]――[IntellectualSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の知力スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookIntellectualDesc.rulePack.rulesStrings.0>
+  <ArtDescription_BookIntellectualDesc.rulePack.rulesStrings.1>r_art_name->[first_chapters]――[IntellectualSkill][maybe_IntellectualSkill]\n[middle_book]――[IntellectualSkill][maybe_IntellectualSkill]\n[ending]――[IntellectualSkill][maybe_IntellectualSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の知力スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookIntellectualDesc.rulePack.rulesStrings.1>
+  <ArtDescription_BookIntellectualDesc.rulePack.rulesStrings.2>r_art_name->[cover]\n[first_chapters]――[IntellectualSkill][maybe_IntellectualSkill]\n[middle_book]――[IntellectualSkill][maybe_IntellectualSkill] \n[ending]――[IntellectualSkill][maybe_IntellectualSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の知力スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookIntellectualDesc.rulePack.rulesStrings.2>
+  <ArtDescription_BookIntellectualDesc.rulePack.rulesStrings.3>r_art_name->[inspired]――「[IntellectualBook]」\n[first_chapters]――[IntellectualSkill][maybe_IntellectualSkill]\n[middle_book]――[IntellectualSkill][maybe_IntellectualSkill]\n\n[ending]――[IntellectualSkill][maybe_IntellectualSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の知力スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookIntellectualDesc.rulePack.rulesStrings.3>
+  <ArtDescription_BookIntellectualDesc.rulePack.rulesStrings.4>r_art_name->[book_general]――[IntellectualSkill]、[IntellectualSkill] \nしかし[IntellectualSkill]についてもかなり筆を多くした。\n\n本書は[maybe_writingstyles][book_context]ものとしてできあがったと思う。本書が読者諸氏の知力スキルの向上の一助となれば幸いである。</ArtDescription_BookIntellectualDesc.rulePack.rulesStrings.4>
+
+
+  <!-- Medical book name -->
+
+  <ArtDescription_BookMedicalName.rulePack.rulesStrings.0>r_art_name->[maybe_adjective][MedicalSkill][Books]</ArtDescription_BookMedicalName.rulePack.rulesStrings.0>
+  <ArtDescription_BookMedicalName.rulePack.rulesStrings.1>r_art_name->[AdjectiveBadass][MedicalSkill][Books]</ArtDescription_BookMedicalName.rulePack.rulesStrings.1>
+  <ArtDescription_BookMedicalName.rulePack.rulesStrings.2>r_art_name->[AdjectiveLarge][MedicalSkill][Books]</ArtDescription_BookMedicalName.rulePack.rulesStrings.2>
+  <ArtDescription_BookMedicalName.rulePack.rulesStrings.3>r_art_name->[PeopleBadass]の[MedicalSkill][Books]</ArtDescription_BookMedicalName.rulePack.rulesStrings.3>
+  <ArtDescription_BookMedicalName.rulePack.rulesStrings.4>r_art_name->[maybe_adjective] [MedicalSkill]方</ArtDescription_BookMedicalName.rulePack.rulesStrings.4>
+  <ArtDescription_BookMedicalName.rulePack.rulesStrings.5>r_art_name->[MedicalSkill]のための[AdjectiveBadass] [Books]</ArtDescription_BookMedicalName.rulePack.rulesStrings.5>
+  <ArtDescription_BookMedicalName.rulePack.rulesStrings.6>r_art_name->[Adjective][Noun]：[MedicalSkill]の歴史</ArtDescription_BookMedicalName.rulePack.rulesStrings.6>
+  <ArtDescription_BookMedicalName.rulePack.rulesStrings.7>r_art_name->医療叢書[Digit] [MedicalSkill]</ArtDescription_BookMedicalName.rulePack.rulesStrings.7>
+  <ArtDescription_BookMedicalName.rulePack.rulesStrings.8>r_art_name->[maybe_letter][Digit][maybe_letter]：[MedicalSkill]</ArtDescription_BookMedicalName.rulePack.rulesStrings.8>
+  <ArtDescription_BookMedicalName.rulePack.rulesStrings.9>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]：[MedicalSkill]</ArtDescription_BookMedicalName.rulePack.rulesStrings.9>
+  <ArtDescription_BookMedicalName.rulePack.rulesStrings.10>r_art_name->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[MedicalSkill]</ArtDescription_BookMedicalName.rulePack.rulesStrings.10>
+  <ArtDescription_BookMedicalName.rulePack.rulesStrings.11>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]：[MedicalSkill]</ArtDescription_BookMedicalName.rulePack.rulesStrings.11>
+  <ArtDescription_BookMedicalName.rulePack.rulesStrings.12>r_art_name->[ANYPAWN_nameIndef]著　[MedicalSkill][Books]</ArtDescription_BookMedicalName.rulePack.rulesStrings.12>
+  <ArtDescription_BookMedicalName.rulePack.rulesStrings.13>r_art_name->[ANYPAWN_nameIndef]著　[MedicalSkill]</ArtDescription_BookMedicalName.rulePack.rulesStrings.13>
+  <ArtDescription_BookMedicalName.rulePack.rulesStrings.14>r_art_name->[ANYPAWN_nameIndef]伝　[MedicalSkill][Books]</ArtDescription_BookMedicalName.rulePack.rulesStrings.14>
+  <ArtDescription_BookMedicalName.rulePack.rulesStrings.15>r_art_name->[ANYPAWN_nameIndef] [Trans] [Color]: [MedicalSkill]</ArtDescription_BookMedicalName.rulePack.rulesStrings.15>
+  <ArtDescription_BookMedicalName.rulePack.rulesStrings.16>r_art_name->[Noun]と[MedicalSkill]</ArtDescription_BookMedicalName.rulePack.rulesStrings.16>
+  <ArtDescription_BookMedicalName.rulePack.rulesStrings.17>r_art_name->[ConceptAny]と[MedicalSkill]</ArtDescription_BookMedicalName.rulePack.rulesStrings.17>
+　
+
+
+
+  <ArtDescription_BookMedicalDesc.rulePack.rulesStrings.0>r_art_name->[first_chapters]――[MedicalSkill]\n[middle_book]――[MedicalSkill]\n[ending]――[MedicalSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の医療スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookMedicalDesc.rulePack.rulesStrings.0>
+  <ArtDescription_BookMedicalDesc.rulePack.rulesStrings.1>r_art_name->[first_chapters]――[MedicalSkill][maybe_MedicalSkill]\n[middle_book]――[MedicalSkill][maybe_MedicalSkill]\n[ending]――[MedicalSkill][maybe_MedicalSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の医療スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookMedicalDesc.rulePack.rulesStrings.1>
+  <ArtDescription_BookMedicalDesc.rulePack.rulesStrings.2>r_art_name->[cover]\n[first_chapters]――[MedicalSkill][maybe_MedicalSkill]\n[middle_book]――[MedicalSkill][maybe_MedicalSkill] \n[ending]――[MedicalSkill][maybe_MedicalSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の医療スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookMedicalDesc.rulePack.rulesStrings.2>
+  <ArtDescription_BookMedicalDesc.rulePack.rulesStrings.3>r_art_name->[inspired]――「[MedicalBook]」\n[first_chapters]――[MedicalSkill][maybe_MedicalSkill]\n[middle_book]――[MedicalSkill][maybe_MedicalSkill]\n\n[ending]――[MedicalSkill][maybe_MedicalSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の医療スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookMedicalDesc.rulePack.rulesStrings.3>
+  <ArtDescription_BookMedicalDesc.rulePack.rulesStrings.4>r_art_name->[book_general]――[MedicalSkill]、[MedicalSkill] \nしかし[MedicalSkill]についてもかなり筆を多くした。\n\n本書は[maybe_writingstyles][book_context]ものとしてできあがったと思う。本書が読者諸氏の医療スキルの向上の一助となれば幸いである。</ArtDescription_BookMedicalDesc.rulePack.rulesStrings.4>
+
+
+  <!-- Melee book name -->
+
+  <ArtDescription_BookMeleeName.rulePack.rulesStrings.0>r_art_name->[maybe_adjective][MeleeSkill][Books]</ArtDescription_BookMeleeName.rulePack.rulesStrings.0>
+  <ArtDescription_BookMeleeName.rulePack.rulesStrings.1>r_art_name->[AdjectiveBadass][MeleeSkill][Books]</ArtDescription_BookMeleeName.rulePack.rulesStrings.1>
+  <ArtDescription_BookMeleeName.rulePack.rulesStrings.2>r_art_name->[AdjectiveLarge][MeleeSkill][Books]</ArtDescription_BookMeleeName.rulePack.rulesStrings.2>
+  <ArtDescription_BookMeleeName.rulePack.rulesStrings.3>r_art_name->[PeopleBadass]の[MeleeSkill][Books]</ArtDescription_BookMeleeName.rulePack.rulesStrings.3>
+  <ArtDescription_BookMeleeName.rulePack.rulesStrings.4>r_art_name->[maybe_adjective] [MeleeSkill]の格闘術</ArtDescription_BookMeleeName.rulePack.rulesStrings.4>
+  <ArtDescription_BookMeleeName.rulePack.rulesStrings.5>r_art_name->[MeleeSkill]の訓練のための[AdjectiveBadass][Books]</ArtDescription_BookMeleeName.rulePack.rulesStrings.5>
+  <ArtDescription_BookMeleeName.rulePack.rulesStrings.6>r_art_name->[Adjective][Noun]：[MeleeSkill]の歴史</ArtDescription_BookMeleeName.rulePack.rulesStrings.6>
+  <ArtDescription_BookMeleeName.rulePack.rulesStrings.7>r_art_name->格術叢書[Digit] [MeleeSkill]</ArtDescription_BookMeleeName.rulePack.rulesStrings.7>
+  <ArtDescription_BookMeleeName.rulePack.rulesStrings.8>r_art_name->[maybe_letter][Digit][maybe_letter]：[MeleeSkill]</ArtDescription_BookMeleeName.rulePack.rulesStrings.8>
+  <ArtDescription_BookMeleeName.rulePack.rulesStrings.9>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]：[MeleeSkill]</ArtDescription_BookMeleeName.rulePack.rulesStrings.9>
+  <ArtDescription_BookMeleeName.rulePack.rulesStrings.10>r_art_name->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[MeleeSkill]</ArtDescription_BookMeleeName.rulePack.rulesStrings.10>
+  <ArtDescription_BookMeleeName.rulePack.rulesStrings.11>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]：[MeleeSkill]</ArtDescription_BookMeleeName.rulePack.rulesStrings.11>
+  <ArtDescription_BookMeleeName.rulePack.rulesStrings.12>r_art_name->[ANYPAWN_nameIndef]著　[MeleeSkill][Books]</ArtDescription_BookMeleeName.rulePack.rulesStrings.12>
+  <ArtDescription_BookMeleeName.rulePack.rulesStrings.13>r_art_name->[ANYPAWN_nameIndef]著　[MeleeSkill]</ArtDescription_BookMeleeName.rulePack.rulesStrings.13>
+  <ArtDescription_BookMeleeName.rulePack.rulesStrings.14>r_art_name->[ANYPAWN_nameIndef]伝　[MeleeSkill][Books]</ArtDescription_BookMeleeName.rulePack.rulesStrings.14>
+  <ArtDescription_BookMeleeName.rulePack.rulesStrings.15>r_art_name->[ANYPAWN_nameIndef] [Trans] [Color]：[MeleeSkill]</ArtDescription_BookMeleeName.rulePack.rulesStrings.15>
+  <ArtDescription_BookMeleeName.rulePack.rulesStrings.16>r_art_name->[Noun]と[MeleeSkill]</ArtDescription_BookMeleeName.rulePack.rulesStrings.16>
+  <ArtDescription_BookMeleeName.rulePack.rulesStrings.17>r_art_name->[ConceptAny]と[MeleeSkill]</ArtDescription_BookMeleeName.rulePack.rulesStrings.17>
+  
+
+  <ArtDescription_BookMeleeDesc.rulePack.rulesStrings.0>r_art_name->[first_chapters]――[MeleeSkill]\n[middle_book]――[MeleeSkill]\n[ending]――[MeleeSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の格闘スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookMeleeDesc.rulePack.rulesStrings.0>
+  <ArtDescription_BookMeleeDesc.rulePack.rulesStrings.1>r_art_name->[first_chapters]――[MeleeSkill][maybe_MeleeSkill]\n[middle_book]――[MeleeSkill][maybe_MeleeSkill]\n[ending]――[MeleeSkill][maybe_MeleeSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の格闘スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookMeleeDesc.rulePack.rulesStrings.1>
+  <ArtDescription_BookMeleeDesc.rulePack.rulesStrings.2>r_art_name->[cover]\n[first_chapters]――[MeleeSkill][maybe_MeleeSkill]\n[middle_book]――[MeleeSkill][maybe_MeleeSkill] \n[ending]――[MeleeSkill][maybe_MeleeSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の格闘スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookMeleeDesc.rulePack.rulesStrings.2>
+  <ArtDescription_BookMeleeDesc.rulePack.rulesStrings.3>r_art_name->[inspired]――「[MeleeBook]]」\n[first_chapters]――[MeleeSkill][maybe_MeleeSkill]\n[middle_book]――[MeleeSkill][maybe_MeleegSkill]\n\n[ending]――[MeleeSkill][maybe_MeleeSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の格闘スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookMeleeDesc.rulePack.rulesStrings.3>
+  <ArtDescription_BookMeleeDesc.rulePack.rulesStrings.4>r_art_name->[book_general]――[MeleeSkill]、[MeleeSkill] \nしかし[MeleeSkill]についてもかなり筆を多くした。\n\n本書は[maybe_writingstyles][book_context]ものとしてできあがったと思う。本書が読者諸氏の格闘スキルの向上の一助となれば幸いである。</ArtDescription_BookMeleeDesc.rulePack.rulesStrings.4>
+
+
+  <!-- Mining book name -->
+
+  <ArtDescription_BookMiningName.rulePack.rulesStrings.0>r_art_name->[maybe_adjective][MiningSkill][Books]</ArtDescription_BookMiningName.rulePack.rulesStrings.0>
+  <ArtDescription_BookMiningName.rulePack.rulesStrings.1>r_art_name->[AdjectiveBadass][MiningSkill][Books]</ArtDescription_BookMiningName.rulePack.rulesStrings.1>
+  <ArtDescription_BookMiningName.rulePack.rulesStrings.2>r_art_name->[AdjectiveLarge][MiningSkill][Books]</ArtDescription_BookMiningName.rulePack.rulesStrings.2>
+  <ArtDescription_BookMiningName.rulePack.rulesStrings.3>r_art_name->[PeopleBadass]の[MiningSkill][Books]</ArtDescription_BookMiningName.rulePack.rulesStrings.3>
+  <ArtDescription_BookMiningName.rulePack.rulesStrings.4>r_art_name->[maybe_adjective] [MiningSkill]に出会える[Books]</ArtDescription_BookMiningName.rulePack.rulesStrings.4>
+  <ArtDescription_BookMiningName.rulePack.rulesStrings.5>r_art_name->[MiningSkill]がザクザクできる[AdjectiveBadass][Books]</ArtDescription_BookMiningName.rulePack.rulesStrings.5>
+  <ArtDescription_BookMiningName.rulePack.rulesStrings.6>r_art_name->[Adjective][Noun]：[MiningSkill]の歴史</ArtDescription_BookMiningName.rulePack.rulesStrings.6>
+  <ArtDescription_BookMiningName.rulePack.rulesStrings.7>r_art_name->採掘叢書[Digit] [MiningSkill]</ArtDescription_BookMiningName.rulePack.rulesStrings.7>
+  <ArtDescription_BookMiningName.rulePack.rulesStrings.8>r_art_name->[maybe_letter][Digit][maybe_letter]：[MiningSkill]</ArtDescription_BookMiningName.rulePack.rulesStrings.8>
+  <ArtDescription_BookMiningName.rulePack.rulesStrings.9>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]：[MiningSkill]</ArtDescription_BookMiningName.rulePack.rulesStrings.9>
+  <ArtDescription_BookMiningName.rulePack.rulesStrings.10>r_art_name->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[MiningSkill]</ArtDescription_BookMiningName.rulePack.rulesStrings.10>
+  <ArtDescription_BookMiningName.rulePack.rulesStrings.11>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]：[MiningSkill]</ArtDescription_BookMiningName.rulePack.rulesStrings.11>
+  <ArtDescription_BookMiningName.rulePack.rulesStrings.12>r_art_name->[ANYPAWN_nameIndef]著　[MiningSkill][Books]</ArtDescription_BookMiningName.rulePack.rulesStrings.12>
+  <ArtDescription_BookMiningName.rulePack.rulesStrings.13>r_art_name->[ANYPAWN_nameIndef]著　[MiningSkill]</ArtDescription_BookMiningName.rulePack.rulesStrings.13>
+  <ArtDescription_BookMiningName.rulePack.rulesStrings.14>r_art_name->[ANYPAWN_nameIndef]伝　[MiningSkill][Books]</ArtDescription_BookMiningName.rulePack.rulesStrings.14>
+  <ArtDescription_BookMiningName.rulePack.rulesStrings.15>r_art_name->[ANYPAWN_nameIndef] [Trans] [Color]：[MiningSkill]</ArtDescription_BookMiningName.rulePack.rulesStrings.15>
+  <ArtDescription_BookMiningName.rulePack.rulesStrings.16>r_art_name->[Noun]と[MiningSkill]</ArtDescription_BookMiningName.rulePack.rulesStrings.16>
+  <ArtDescription_BookMiningName.rulePack.rulesStrings.17>r_art_name->[ConceptAny]と[MiningSkill]</ArtDescription_BookMiningName.rulePack.rulesStrings.17>
+  
+  <ArtDescription_BookMiningDesc.rulePack.rulesStrings.0>r_art_name->[first_chapters]――[MiningSkill]\n[middle_book]――[MiningSkill]\n[ending]――[MiningSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の採掘スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookMiningDesc.rulePack.rulesStrings.0>
+  <ArtDescription_BookMiningDesc.rulePack.rulesStrings.1>r_art_name->[first_chapters]――[MiningSkill][maybe_MiningSkill]\n[middle_book]――[MiningSkill][maybe_MiningSkill]\n[ending]――[MiningSkill][maybe_MiningSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の採掘スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookMiningDesc.rulePack.rulesStrings.1>
+  <ArtDescription_BookMiningDesc.rulePack.rulesStrings.2>r_art_name->[cover]\n[first_chapters]――[MiningSkill][maybe_MiningSkill]\n[middle_book]――[MiningSkill][maybe_MiningSkill] \n[ending]――[MiningSkill][maybe_MiningSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の採掘スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookMiningDesc.rulePack.rulesStrings.2>
+  <ArtDescription_BookMiningDesc.rulePack.rulesStrings.3>r_art_name->[inspired]――「[MiningBook]」\n[first_chapters]――[MiningSkill][maybe_MiningSkill]\n[middle_book]――[MiningSkill][maybe_MiningSkill]\n\n[ending]――[MiningSkill][maybe_MiningSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の採掘スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookMiningDesc.rulePack.rulesStrings.3>
+  <ArtDescription_BookMiningDesc.rulePack.rulesStrings.4>r_art_name->[book_general]――[MiningSkill]、[MiningSkill] \nしかし[MiningSkill]についてもかなり筆を多くした。\n\n本書は[maybe_writingstyles][book_context]ものとしてできあがったと思う。本書が読者諸氏の採掘スキルの向上の一助となれば幸いである。</ArtDescription_BookMiningDesc.rulePack.rulesStrings.4>
+
+
+  <!-- Social book name -->
+
+  <ArtDescription_BookSocialName.rulePack.rulesStrings.0>r_art_name->[maybe_adjective][SocialSkill][Books]</ArtDescription_BookSocialName.rulePack.rulesStrings.0>
+  <ArtDescription_BookSocialName.rulePack.rulesStrings.1>r_art_name->[AdjectiveBadass][SocialSkill][Books]</ArtDescription_BookSocialName.rulePack.rulesStrings.1>
+  <ArtDescription_BookSocialName.rulePack.rulesStrings.2>r_art_name->[AdjectiveLarge][SocialSkill][Books]</ArtDescription_BookSocialName.rulePack.rulesStrings.2>
+  <ArtDescription_BookSocialName.rulePack.rulesStrings.3>r_art_name->[PeopleBadass]の[SocialSkill][Books]</ArtDescription_BookSocialName.rulePack.rulesStrings.3>
+  <ArtDescription_BookSocialName.rulePack.rulesStrings.4>r_art_name->あなたの隣人に[maybe_adjective][SocialSkill]の話をしてみなさい</ArtDescription_BookSocialName.rulePack.rulesStrings.4>
+  <ArtDescription_BookSocialName.rulePack.rulesStrings.5>r_art_name->デキる人はなぜ[AdjectiveBadass][Books]で[SocialSkill]を学ぶのか</ArtDescription_BookSocialName.rulePack.rulesStrings.5>
+  <ArtDescription_BookSocialName.rulePack.rulesStrings.6>r_art_name->[Adjective][Noun]：[SocialSkill]の歴史</ArtDescription_BookSocialName.rulePack.rulesStrings.6>
+  <ArtDescription_BookSocialName.rulePack.rulesStrings.7>r_art_name->社交術叢書[Digit] [SocialSkill]</ArtDescription_BookSocialName.rulePack.rulesStrings.7>
+  <ArtDescription_BookSocialName.rulePack.rulesStrings.8>r_art_name->[maybe_letter][Digit][maybe_letter]：[SocialSkill]</ArtDescription_BookSocialName.rulePack.rulesStrings.8>
+  <ArtDescription_BookSocialName.rulePack.rulesStrings.9>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]：[SocialSkill]</ArtDescription_BookSocialName.rulePack.rulesStrings.9>
+  <ArtDescription_BookSocialName.rulePack.rulesStrings.10>r_art_name->シリーズ[maybe_letter][Digit][Digit][Digit][maybe_letter]：[SocialSkill]</ArtDescription_BookSocialName.rulePack.rulesStrings.10>
+  <ArtDescription_BookSocialName.rulePack.rulesStrings.11>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]：[SocialSkill]</ArtDescription_BookSocialName.rulePack.rulesStrings.11>
+  <ArtDescription_BookSocialName.rulePack.rulesStrings.12>r_art_name->[ANYPAWN_nameIndef]著　[SocialSkill][Books]</ArtDescription_BookSocialName.rulePack.rulesStrings.12>
+  <ArtDescription_BookSocialName.rulePack.rulesStrings.13>r_art_name->[ANYPAWN_nameIndef]著　[SocialSkill]</ArtDescription_BookSocialName.rulePack.rulesStrings.13>
+  <ArtDescription_BookSocialName.rulePack.rulesStrings.14>r_art_name->[ANYPAWN_nameIndef]伝　[SocialSkill][Books]</ArtDescription_BookSocialName.rulePack.rulesStrings.14>
+  <ArtDescription_BookSocialName.rulePack.rulesStrings.15>r_art_name->[ANYPAWN_nameIndef] [Trans] [Color]: [SocialSkill]</ArtDescription_BookSocialName.rulePack.rulesStrings.15>
+  <ArtDescription_BookSocialName.rulePack.rulesStrings.16>r_art_name->[Noun]と[SocialSkill]</ArtDescription_BookSocialName.rulePack.rulesStrings.16>
+  <ArtDescription_BookSocialName.rulePack.rulesStrings.17>r_art_name->[ConceptAny]と[SocialSkill]</ArtDescription_BookSocialName.rulePack.rulesStrings.17>
+
+  <ArtDescription_BookSocialDesc.rulePack.rulesStrings.0>r_art_name->[first_chapters]――[SocialSkill]\n[middle_book]――[SocialSkill]\n[ending]――[SocialSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の社交スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookSocialDesc.rulePack.rulesStrings.0>
+  <ArtDescription_BookSocialDesc.rulePack.rulesStrings.1>r_art_name->[first_chapters]――[SocialSkill][maybe_SoicalSkill]\n[middle_book]――[SocialSkill][maybe_SoicalSkill]\n[ending]――[SocialSkill][maybe_SocialSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の社交スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookSocialDesc.rulePack.rulesStrings.1>
+  <ArtDescription_BookSocialDesc.rulePack.rulesStrings.2>r_art_name->[cover]\n[first_chapters]――[SocialSkill][maybe_SocialSkill]\n[middle_book]――[SoicalSkill][maybe_SocialSkill] \n[ending]――[SocialSkill][maybe_SocialSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の社交スキルに裨益することを願い、ここにこれを記す。</ArtDescription_BookSocialDesc.rulePack.rulesStrings.2>
+  <ArtDescription_BookSocialDesc.rulePack.rulesStrings.3>r_art_name->[inspired]――「[SocialBook]」\n[first_chapters]――[SocialSkill][maybe_SocialSkill]\n[middle_book]――[SocialSkill][maybe_SocialSkill]\n\n[ending]――[SocialSkill][maybe_SocialSkill]\n\n執筆に際し、[maybe_writingstyles]本書が[book_context]ものとなるよう心がけた。本書が読者諸氏の社交スキルの向上の一助となることを願い、ここにこれを記す。</ArtDescription_BookSocialDesc.rulePack.rulesStrings.3>
+  <ArtDescription_BookSocialDesc.rulePack.rulesStrings.4>r_art_name->[book_general]――[SocialSkill]、[SocialSkill] \nしかし[SocialSkill]についてもかなり筆を多くした。\n\n本書は[maybe_writingstyles][book_context]ものとしてできあがったと思う。本書が読者諸氏の社交スキルの向上の一助となれば幸いである。</ArtDescription_BookSocialDesc.rulePack.rulesStrings.4>
+
+
+</LanguageData>

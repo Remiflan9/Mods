@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_CeremonialSuicideRitualOutcome.description>儀式の質に応じて参加者は{MOODDAYS}日間, {MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.参加者全員が健康であることが条件です.</VME_CeremonialSuicideRitualOutcome.description>
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.0.label>酷い</VME_CeremonialSuicideRitualOutcome.outcomeChances.0.label>
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.0.description>{0}は酷いものでした!刃が乱雑に横から突き刺さっていて,血や内臓がそこらじゅうに散らばっていました.気持ち悪い!</VME_CeremonialSuicideRitualOutcome.outcomeChances.0.description>
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.1.label>うんざり</VME_CeremonialSuicideRitualOutcome.outcomeChances.1.label>
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>{0}は退屈でした.スピーチは無理矢理感があって耳障りでした.それでもコロニーの名誉は少し守られたような気がします.</VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.2.label>誉れ</VME_CeremonialSuicideRitualOutcome.outcomeChances.2.label>
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.2.description>{0}は我々の名誉を守りました.敗戦の影が心を曇らせることはもうありません.</VME_CeremonialSuicideRitualOutcome.outcomeChances.2.description>
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.3.label>忘れられない誉れ</VME_CeremonialSuicideRitualOutcome.outcomeChances.3.label>
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.3.description>{0}は忘れられない出来事でした!誰もがその勇気,自制心,強い決意に敬意を払うでしょう.私たちのコロニーの名誉は,今では一点の曇りもありません.</VME_CeremonialSuicideRitualOutcome.outcomeChances.3.description>
+
+  <VME_CeremonialSuicideRitualOutcome.comps.0.label>{PAWN_labelShort}の社会的影響</VME_CeremonialSuicideRitualOutcome.comps.0.label>
+
+  <VME_CeremonialSuicideRitualOutcome.comps.1.label>部屋の印象</VME_CeremonialSuicideRitualOutcome.comps.1.label>
+
+  <VME_CeremonialSuicideRitualOutcome.comps.2.label>参加者数</VME_CeremonialSuicideRitualOutcome.comps.2.label>
+
+</LanguageData>

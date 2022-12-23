@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_KillingWithFire_Preferred.stages.0.label>敵を焼死させた</VME_KillingWithFire_Preferred.stages.0.label>
+  <VME_KillingWithFire_Preferred.stages.0.description>私たちの敵は聖なる炎に包まれた.</VME_KillingWithFire_Preferred.stages.0.description>
+
+  <VME_KillingWithFire_Abhorrent.stages.0.label>敵を焼死させた</VME_KillingWithFire_Abhorrent.stages.0.label>
+  <VME_KillingWithFire_Abhorrent.stages.0.description>私たちの敵が焼かれて死んだ.その凄惨な死を避けることができなかった.</VME_KillingWithFire_Abhorrent.stages.0.description>
+
+
+</LanguageData>

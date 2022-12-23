@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_LeaderConversionOutcome.description>うまくいけばターゲットの思想の信仰度が低下するか,改心します.うまくいかなかった場合,自身の思想への信仰度が増すでしょう.</VME_LeaderConversionOutcome.description>
+  <VME_LeaderConversionOutcome.outcomeChances.0.label>酷い</VME_LeaderConversionOutcome.outcomeChances.0.label>
+  <VME_LeaderConversionOutcome.outcomeChances.0.description>{0}は酷いものでした!始めの言葉から既に最初から最後まで実りのない議論でした.それはひりひりするほどの長時間,無理やり続きました.</VME_LeaderConversionOutcome.outcomeChances.0.description>
+  <VME_LeaderConversionOutcome.outcomeChances.1.label>無駄</VME_LeaderConversionOutcome.outcomeChances.1.label>
+  <VME_LeaderConversionOutcome.outcomeChances.1.description>{0}は無駄でした.ほとんどの議論は不明確であり,改宗者の反論は理にかなっていました.</VME_LeaderConversionOutcome.outcomeChances.1.description>
+  <VME_LeaderConversionOutcome.outcomeChances.2.label>有効</VME_LeaderConversionOutcome.outcomeChances.2.label>
+  <VME_LeaderConversionOutcome.outcomeChances.2.description>{0}は有効でした.スピーチは確かな議論をもたらし,改宗者の考えを目に見えて揺さぶっただけでなく,聴衆を楽しませ続けました.</VME_LeaderConversionOutcome.outcomeChances.2.description>
+  <VME_LeaderConversionOutcome.outcomeChances.3.label>見事</VME_LeaderConversionOutcome.outcomeChances.3.label>
+  <VME_LeaderConversionOutcome.outcomeChances.3.description>{0}は見事な結果をもたらしました!古い思想は難なく必然的に解消されたようで,コロニーの真の知識は受け入れられました.</VME_LeaderConversionOutcome.outcomeChances.3.description>
+  <VME_LeaderConversionOutcome.comps.0.label>部屋の印象</VME_LeaderConversionOutcome.comps.0.label>
+  <VME_LeaderConversionOutcome.comps.1.label>参加者数</VME_LeaderConversionOutcome.comps.1.label>
+  <VME_LeaderConversionOutcome.comps.2.label>{PAWN_labelShort}の社会的影響</VME_LeaderConversionOutcome.comps.2.label>
+  <VME_LeaderConversionOutcome.comps.3.label>{PAWN_labelShort}の期待</VME_LeaderConversionOutcome.comps.3.label>
+
+
+</LanguageData>

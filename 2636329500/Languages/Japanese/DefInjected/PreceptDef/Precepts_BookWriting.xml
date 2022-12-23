@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_BookWriting_Exalted.label>高貴</VME_BookWriting_Exalted.label>
+  <VME_BookWriting_Exalted.description>自分の知識を伝えることは尊敬すべき行為だ.この世界の著者とその相続者は,この世界の果実を受け継ぐ者となる.</VME_BookWriting_Exalted.description>
+  <VME_BookWriting_Exalted.comps.1.description>驚くべき書物を書き上げた</VME_BookWriting_Exalted.comps.1.description>
+
+  <VME_BookWriting_Disliked.label>嫌い</VME_BookWriting_Disliked.label>
+  <VME_BookWriting_Disliked.description>意味的にも試行錯誤的にも,もっと早く教えられるはずなのに,なぜ書き留めておく必要があるのか?それは時間の無駄だ.</VME_BookWriting_Disliked.description>
+  <VME_BookWriting_Disliked.comps.1.description>罪深い言葉を紙に書いた</VME_BookWriting_Disliked.comps.1.description>
+
+
+</LanguageData>

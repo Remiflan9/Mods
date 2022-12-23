@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_SkilledLabor_Slow.label>遅い</VME_SkilledLabor_Slow.label>
+  <VME_SkilledLabor_Slow.description>熟練した技術を追求するのは時間とコストがかかるので他の作業に注力すべきだ.</VME_SkilledLabor_Slow.description>
+
+  <VME_SkilledLabor_Relaxed.label>まったり</VME_SkilledLabor_Relaxed.label>
+  <VME_SkilledLabor_Relaxed.description>高度な作業は慎重かつ時間をかけて取り組まなければならない.焦るといい加減な結果や不幸な事故に繋がるからだ.</VME_SkilledLabor_Relaxed.description>
+
+</LanguageData>

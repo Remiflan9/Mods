@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_ViolentConversionPrecept.label>強制改宗の儀式</VME_ViolentConversionPrecept.label>
+  <VME_ViolentConversionPrecept.description>異なる思想を持つ人間に,自分たちの思想へ改宗するように脅します.もし断ったら相手を殺害します.</VME_ViolentConversionPrecept.description>
+
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_PoorlyOrganizedTradingFair.stages.0.label>貧弱な見本市</VME_PoorlyOrganizedTradingFair.stages.0.label>
+  <VME_PoorlyOrganizedTradingFair.stages.0.description>このような質の低い取り組みでは,私たちの集落にキャラバンが集まることはないだろう.</VME_PoorlyOrganizedTradingFair.stages.0.description>
+
+  <VME_UnexcitingTradingFair.stages.0.label>うんざりする見本市</VME_UnexcitingTradingFair.stages.0.label>
+  <VME_UnexcitingTradingFair.stages.0.description>刺激的な取引も行われたが,大半は退屈な商談だった.</VME_UnexcitingTradingFair.stages.0.description>
+
+  <VME_WellOrganizedTradingFair.stages.0.label>充実した見本市</VME_WellOrganizedTradingFair.stages.0.label>
+  <VME_WellOrganizedTradingFair.stages.0.description>品物について様々な意見が飛び交い,商談も充実していた.</VME_WellOrganizedTradingFair.stages.0.description>
+
+  <VME_WondrousTradingFair.stages.0.label>素晴らしい見本市</VME_WondrousTradingFair.stages.0.label>
+  <VME_WondrousTradingFair.stages.0.description>私たちは刺激的で革新的な経済のパラダイムを議論し,私たちのコロニーは金融と経済の中心地として有名になるだろう.</VME_WondrousTradingFair.stages.0.description>
+
+  <VME_CheapTradingFair.stages.0.label>安っぽい</VME_CheapTradingFair.stages.0.label>
+  <VME_CheapTradingFair.stages.0.description>私たちはお金をかけずに見本市を開催した.こんなに安いとは情けない.</VME_CheapTradingFair.stages.0.description>
+
+
+</LanguageData>

@@ -225,7 +225,9 @@
 			<li>vanillaexpanded.vbrewecandt</li>
 			<li>vanillaexpanded.vwec</li>
 			<li>vanillaexpanded.basegeneration</li>
+			<li>vanillaexpanded.vbookse</li>
 			<li>vanillaexpanded.vpsycastse</li>
+			<li>vanillaexpanded.vmemese</li>
 			<li>oskarpotocki.vanillaexpanded.ideologypatches</li>
 			<li>oskarpotocki.vanillaexpanded.royaltypatches</li>
 			<li>proxyer.jpt.veframework</li>
@@ -237,12 +239,13 @@
 			<li>proxyer.jpt.vfemedicaljp</li>
 			<li>proxyer.jpt.vfespacerjp</li>
 			<li>lucifel.vevpe.jpt</li>
-			<li>akarthus.thecosmicodyssey.victoriavaliant</li>
+			<li>avilmask.microdesignations</li>
 			<li>hobtook.mortaraccuracy</li>
 			<li>petetimessix.simplesidearms</li>
 			<li>proxyer.jpt.simplesidearmsjp</li>
 			<li>dubwise.dubsbadhygiene</li>
 			<li>proxyer.jpt.dubsbadhygienejp</li>
+			<li>akarthus.thecosmicodyssey.victoriavaliant</li>
 		</ids>
 		<names>
 			<li>Harmony</li>
@@ -285,7 +288,9 @@
 			<li>Vanilla Brewing Expanded - Coffees and Teas</li>
 			<li>Vanilla Weapons Expanded - Coilguns</li>
 			<li>Vanilla Base Generation Expanded</li>
+			<li>Vanilla Books Expanded</li>
 			<li>Vanilla Psycasts Expanded</li>
+			<li>Vanilla Ideology Expanded - Memes and Structures</li>
 			<li>Vanilla Expanded - Ideology Patches</li>
 			<li>Vanilla Expanded - Royalty Patches</li>
 			<li>Vanilla Expanded Framework 日本語翻訳追加</li>
@@ -297,12 +302,13 @@
 			<li>VFE - Medical Module 日本語翻訳追加</li>
 			<li>VFE - Spacer Module 日本語翻訳追加</li>
 			<li>Vanilla Psycasts Expanded 日本語翻訳</li>
-			<li>The Cosmic Odyssey - Victoria Valiant</li>
+			<li>Micro Designations</li>
 			<li>Mortar Accuracy</li>
 			<li>Simple sidearms</li>
 			<li>Simple sidearms 日本語翻訳追加</li>
 			<li>Dubs Bad Hygiene</li>
 			<li>Dubs Bad Hygiene 日本語翻訳追加</li>
+			<li>The Cosmic Odyssey - Victoria Valiant</li>
 		</names>
 	</modList>
 </savedModList>

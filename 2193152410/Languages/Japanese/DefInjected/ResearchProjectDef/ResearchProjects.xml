@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_Writing.label>書籍の執筆</VBE_Writing.label>
+  <VBE_Writing.description>コロニーの他のメンバーに知識を伝達する書籍を製作できる、執筆卓が建設可能になります。</VBE_Writing.description>
+
+  <VBE_Printing.label>印刷技術</VBE_Printing.label>
+  <VBE_Printing.description>他の入植者に知識を伝達する書籍の製作の速度を高める打字機を建設できるようになります。また入植者の心情を一時的に向上させる新聞紙を製作することが可能になります。</VBE_Printing.description>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_OrgyRitualBehaviour.roles.0.label>乱交パーティー主催者</VME_OrgyRitualBehaviour.roles.0.label>
+  <VME_OrgyRitualBehaviour.spectatorFilter.description>参加者は成人である必要があります.</VME_OrgyRitualBehaviour.spectatorFilter.description>
+
+  <VME_OrgyRitualBehaviour.spectatorGerund>参加する</VME_OrgyRitualBehaviour.spectatorGerund>
+
+  <VME_OrgyRitualBehaviour.spectatorsLabel>参加者</VME_OrgyRitualBehaviour.spectatorsLabel>
+
+</LanguageData>

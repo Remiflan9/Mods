@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Trading_Required.stages.0.label>取引した</VME_Trading_Required.stages.0.label>
+  <VME_Trading_Required.stages.0.description>いつものように品物が飛ぶように売れている.</VME_Trading_Required.stages.0.description>
+  <VME_Trading_Required.stages.1.label>最近取引してない</VME_Trading_Required.stages.1.label>
+  <VME_Trading_Required.stages.1.description>私たちの品物を誰も買いたいとは思わないのか?この閑古鳥が鳴り止むことを願っている.</VME_Trading_Required.stages.1.description>
+
+
+</LanguageData>

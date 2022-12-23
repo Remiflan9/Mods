@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_UnfinishedBook.label>製作中の書籍</VBE_UnfinishedBook.label>
+  <VBE_UnfinishedBook.description>製作を行っている途中の書籍です</VBE_UnfinishedBook.description>
+
+  <VBE_UnfinishedNewspaper.label>製作中の新聞紙</VBE_UnfinishedNewspaper.label>
+  <VBE_UnfinishedNewspaper.description>製作を行っている途中の新聞紙です。</VBE_UnfinishedNewspaper.description>
+
+
+</LanguageData>

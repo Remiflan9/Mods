@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_JunkDeconstructionYield_High.label>崇高</VME_JunkDeconstructionYield_High.label>
+  <VME_JunkDeconstructionYield_High.description>再利用できるものを捨ててしまうのは非常にもったいないことだ.建物を解体した時（破壊時に資源を生産する建物の場合）や,建設に失敗した時にも適用される.</VME_JunkDeconstructionYield_High.description>
+
+
+</LanguageData>

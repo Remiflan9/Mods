@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_KillingWithFire_Preferred.label>優先</VME_KillingWithFire_Preferred.label>
+  <VME_KillingWithFire_Preferred.description>敵が聖なる火で焼かれるのを見るのは,私たちにとって何にも代えがたい喜びだ.</VME_KillingWithFire_Preferred.description>
+
+  <VME_KillingWithFire_Abhorrent.label>嫌悪</VME_KillingWithFire_Abhorrent.label>
+  <VME_KillingWithFire_Abhorrent.description>助けようとせず黙って人が焼死するところを見るのは恐ろしい.絶対に避けるべきだ.</VME_KillingWithFire_Abhorrent.description>
+
+
+</LanguageData>

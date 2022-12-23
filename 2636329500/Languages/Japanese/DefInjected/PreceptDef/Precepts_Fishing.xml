@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Fishing_Adept.label>熟練</VME_Fishing_Adept.label>
+  <VME_Fishing_Adept.description>私たちは水の中に潜む生命への憧れから,できるだけ多くの魚を捕まえるための新しい技法を駆使してきた.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - .パッシブ効果「名人の漁獲」によって,通常よりも大量の魚を釣ることができます.これにより,通常の魚の2倍の栄養を摂ることが可能になります.</VME_Fishing_Adept.description>
+
+
+  <VME_Fishing_Forbidden.label>禁止</VME_Fishing_Forbidden.label>
+  <VME_Fishing_Forbidden.description>魚も動物なので釣りは禁止だ.</VME_Fishing_Forbidden.description>
+
+
+</LanguageData>

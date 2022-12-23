@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_Structure_Serketist.label>セルケティズム</VME_Structure_Serketist.label>
+  <VME_Structure_Serketist.description>クモの噛み跡には神々の素性が隠されています.脚の多い虫たちが私たちの上を這い回ります.</VME_Structure_Serketist.description>
+  <VME_Structure_Serketist.generalRules.rulesStrings.0>memeAdjective-&gt;虫の</VME_Structure_Serketist.generalRules.rulesStrings.0>
+  <VME_Structure_Serketist.generalRules.rulesStrings.1>memeAdjective-&gt;虫食いの</VME_Structure_Serketist.generalRules.rulesStrings.1>
+  <VME_Structure_Serketist.generalRules.rulesStrings.2>memeAdjective-&gt;害虫の</VME_Structure_Serketist.generalRules.rulesStrings.2>
+  <VME_Structure_Serketist.generalRules.rulesStrings.3>memeLeaderNoun-&gt;スカラベの王</VME_Structure_Serketist.generalRules.rulesStrings.3>
+  <VME_Structure_Serketist.generalRules.rulesStrings.4>memeLeaderNoun-&gt;虫支配者</VME_Structure_Serketist.generalRules.rulesStrings.4>
+  <VME_Structure_Serketist.generalRules.rulesStrings.5>memeLeaderAdjective-&gt;カサカサした</VME_Structure_Serketist.generalRules.rulesStrings.5>
+  <VME_Structure_Serketist.generalRules.rulesStrings.6>memeLeaderAdjective-&gt;群雄割拠の</VME_Structure_Serketist.generalRules.rulesStrings.6>
+  <VME_Structure_Serketist.generalRules.rulesStrings.7>memeLeaderAdjective-&gt;引き裂き魔の</VME_Structure_Serketist.generalRules.rulesStrings.7>
+  <VME_Structure_Serketist.generalRules.rulesStrings.8>memeMoralist-&gt;祈祷師</VME_Structure_Serketist.generalRules.rulesStrings.8>
+  <VME_Structure_Serketist.generalRules.rulesStrings.9>memeMoralist-&gt;蛾の司祭</VME_Structure_Serketist.generalRules.rulesStrings.9>
+  <VME_Structure_Serketist.generalRules.rulesStrings.10>memeMoralist-&gt;疫病神</VME_Structure_Serketist.generalRules.rulesStrings.10>
+
+  <VME_Structure_Serketist.symbolPacks.0.adjective>セルケティストな</VME_Structure_Serketist.symbolPacks.0.adjective>
+  <VME_Structure_Serketist.symbolPacks.0.theme>セルケティズム</VME_Structure_Serketist.symbolPacks.0.theme>
+  <VME_Structure_Serketist.symbolPacks.0.member>セルケティスト</VME_Structure_Serketist.symbolPacks.0.member>
+
+  <VME_Structure_Serketist.worshipRoomLabel>巣窟</VME_Structure_Serketist.worshipRoomLabel>
+
+  <VME_Structure_Esotericism.label>秘教</VME_Structure_Esotericism.label>
+  <VME_Structure_Esotericism.description>この世界を導くための壮大な力は,心の弱い者には到達できません.禁断の書物を持ち,暗黒の盟約を結び,そして適切な通過儀礼によって,私たちは真理のベールの向こう側を見ることができます.</VME_Structure_Esotericism.description>
+  <VME_Structure_Esotericism.generalRules.rulesStrings.0>memeAdjective-&gt;不透明な</VME_Structure_Esotericism.generalRules.rulesStrings.0>
+  <VME_Structure_Esotericism.generalRules.rulesStrings.1>memeAdjective-&gt;秘伝の</VME_Structure_Esotericism.generalRules.rulesStrings.1>
+  <VME_Structure_Esotericism.generalRules.rulesStrings.2>memeAdjective-&gt;オカルト的な</VME_Structure_Esotericism.generalRules.rulesStrings.2>
+  <VME_Structure_Esotericism.generalRules.rulesStrings.3>memeAdjective-&gt;ミステリアスな</VME_Structure_Esotericism.generalRules.rulesStrings.3>
+  <VME_Structure_Esotericism.generalRules.rulesStrings.4>memeCreed-&gt;神秘</VME_Structure_Esotericism.generalRules.rulesStrings.4>
+  <VME_Structure_Esotericism.generalRules.rulesStrings.5>memeCreed-&gt;秘訣</VME_Structure_Esotericism.generalRules.rulesStrings.5>
+  <VME_Structure_Esotericism.generalRules.rulesStrings.6>memeCreed-&gt;秘密結社</VME_Structure_Esotericism.generalRules.rulesStrings.6>
+  <VME_Structure_Esotericism.generalRules.rulesStrings.7>memeCreed-&gt;占術</VME_Structure_Esotericism.generalRules.rulesStrings.7>
+  <VME_Structure_Esotericism.generalRules.rulesStrings.8>memeLeaderNoun-&gt;グランドマガス</VME_Structure_Esotericism.generalRules.rulesStrings.8>
+  <VME_Structure_Esotericism.generalRules.rulesStrings.9>memeLeaderNoun-&gt;悟りを開いた者</VME_Structure_Esotericism.generalRules.rulesStrings.9>
+  <VME_Structure_Esotericism.generalRules.rulesStrings.10>memeLeaderAdjective-&gt;秘伝の</VME_Structure_Esotericism.generalRules.rulesStrings.10>
+  <VME_Structure_Esotericism.generalRules.rulesStrings.11>memeLeaderAdjective-&gt;ミステリアスな</VME_Structure_Esotericism.generalRules.rulesStrings.11>
+  <VME_Structure_Esotericism.generalRules.rulesStrings.12>memeLeaderAdjective-&gt;秘密の</VME_Structure_Esotericism.generalRules.rulesStrings.12>
+  <VME_Structure_Esotericism.generalRules.rulesStrings.13>memeMoralist-&gt;修行者</VME_Structure_Esotericism.generalRules.rulesStrings.13>
+  <VME_Structure_Esotericism.generalRules.rulesStrings.14>memeMoralist-&gt;哲学者</VME_Structure_Esotericism.generalRules.rulesStrings.14>
+  <VME_Structure_Esotericism.generalRules.rulesStrings.15>memeMoralist-&gt;魔法使い</VME_Structure_Esotericism.generalRules.rulesStrings.15>
+
+  <VME_Structure_Esotericism.symbolPacks.0.adjective>秘教の</VME_Structure_Esotericism.symbolPacks.0.adjective>
+  <VME_Structure_Esotericism.symbolPacks.0.theme>秘教</VME_Structure_Esotericism.symbolPacks.0.theme>
+  <VME_Structure_Esotericism.symbolPacks.0.member>修行者</VME_Structure_Esotericism.symbolPacks.0.member>
+
+  <VME_Structure_Esotericism.worshipRoomLabel>聖域</VME_Structure_Esotericism.worshipRoomLabel>
+
+  <VME_Structure_Bacchanalianism.label>快楽主義</VME_Structure_Bacchanalianism.label>
+  <VME_Structure_Bacchanalianism.description>人間がこの世に存在する時間は短く,はかないものです.欲望や大食のような人生の楽しみを否定することは,唯一の罪です.飽くなき祝祭への門戸を開き,無限の快楽へと導かれます.</VME_Structure_Bacchanalianism.description>
+  <VME_Structure_Bacchanalianism.generalRules.rulesStrings.0>memeAdjective-&gt;快楽主義の</VME_Structure_Bacchanalianism.generalRules.rulesStrings.0>
+  <VME_Structure_Bacchanalianism.generalRules.rulesStrings.1>memeAdjective-&gt;快感な</VME_Structure_Bacchanalianism.generalRules.rulesStrings.1>
+  <VME_Structure_Bacchanalianism.generalRules.rulesStrings.2>memeAdjective-&gt;オーガズムの</VME_Structure_Bacchanalianism.generalRules.rulesStrings.2>
+  <VME_Structure_Bacchanalianism.generalRules.rulesStrings.3>memeAdjective-&gt;愉快な</VME_Structure_Bacchanalianism.generalRules.rulesStrings.3>
+  <VME_Structure_Bacchanalianism.generalRules.rulesStrings.4>memeAdjective-&gt;楽しい</VME_Structure_Bacchanalianism.generalRules.rulesStrings.4>
+  <VME_Structure_Bacchanalianism.generalRules.rulesStrings.5>memeAdjective-&gt;嬉しい</VME_Structure_Bacchanalianism.generalRules.rulesStrings.5>
+  <VME_Structure_Bacchanalianism.generalRules.rulesStrings.6>memeLeaderNoun-&gt;快楽の主</VME_Structure_Bacchanalianism.generalRules.rulesStrings.6>
+  <VME_Structure_Bacchanalianism.generalRules.rulesStrings.7>memeLeaderNoun-&gt;道楽者</VME_Structure_Bacchanalianism.generalRules.rulesStrings.7>
+  <VME_Structure_Bacchanalianism.generalRules.rulesStrings.8>memeLeaderAdjective-&gt;愉快な</VME_Structure_Bacchanalianism.generalRules.rulesStrings.8>
+  <VME_Structure_Bacchanalianism.generalRules.rulesStrings.9>memeLeaderAdjective-&gt;心地よい</VME_Structure_Bacchanalianism.generalRules.rulesStrings.9>
+  <VME_Structure_Bacchanalianism.generalRules.rulesStrings.10>memeLeaderAdjective-&gt;楽しげな</VME_Structure_Bacchanalianism.generalRules.rulesStrings.10>
+  <VME_Structure_Bacchanalianism.generalRules.rulesStrings.11>memeMoralist-&gt;お調子者</VME_Structure_Bacchanalianism.generalRules.rulesStrings.11>
+  <VME_Structure_Bacchanalianism.generalRules.rulesStrings.12>memeMoralist-&gt;愛の司祭</VME_Structure_Bacchanalianism.generalRules.rulesStrings.12>
+
+  <VME_Structure_Bacchanalianism.symbolPacks.0.adjective>快楽主義の</VME_Structure_Bacchanalianism.symbolPacks.0.adjective>
+  <VME_Structure_Bacchanalianism.symbolPacks.0.theme>快楽主義</VME_Structure_Bacchanalianism.symbolPacks.0.theme>
+  <VME_Structure_Bacchanalianism.symbolPacks.0.member>快楽主義者</VME_Structure_Bacchanalianism.symbolPacks.0.member>
+
+  <VME_Structure_Bacchanalianism.worshipRoomLabel>楽園</VME_Structure_Bacchanalianism.worshipRoomLabel>
+
+  <VME_Structure_ChthonianCult.label>エルドリッチ・カルト</VME_Structure_ChthonianCult.label>
+  <VME_Structure_ChthonianCult.description>この宇宙には,単なる神々よりも強力な古代の存在があります.それは莫大な力を持ち,冷淡であり,私たち人間には理解しがたいものです.彼らを崇拝することによってのみ,彼らの怒りを鎮めることができるのです.</VME_Structure_ChthonianCult.description>
+  <VME_Structure_ChthonianCult.generalRules.rulesStrings.0>memeAdjective-&gt;クトーニアンの</VME_Structure_ChthonianCult.generalRules.rulesStrings.0>
+  <VME_Structure_ChthonianCult.generalRules.rulesStrings.1>memeAdjective-&gt;エルドリッチな</VME_Structure_ChthonianCult.generalRules.rulesStrings.1>
+  <VME_Structure_ChthonianCult.generalRules.rulesStrings.2>memeAdjective-&gt;漠然とした</VME_Structure_ChthonianCult.generalRules.rulesStrings.2>
+  <VME_Structure_ChthonianCult.generalRules.rulesStrings.3>memeAdjective-&gt;狂気の</VME_Structure_ChthonianCult.generalRules.rulesStrings.3>
+  <VME_Structure_ChthonianCult.generalRules.rulesStrings.4>memeAdjective-&gt;非ユークリッドの</VME_Structure_ChthonianCult.generalRules.rulesStrings.4>
+  <VME_Structure_ChthonianCult.generalRules.rulesStrings.5>memeAdjective-&gt;言葉にならない</VME_Structure_ChthonianCult.generalRules.rulesStrings.5>
+  <VME_Structure_ChthonianCult.generalRules.rulesStrings.6>memeAdjective-&gt;忌まわしい</VME_Structure_ChthonianCult.generalRules.rulesStrings.6>
+  <VME_Structure_ChthonianCult.generalRules.rulesStrings.7>memeCreed-&gt;走り書き</VME_Structure_ChthonianCult.generalRules.rulesStrings.7>
+  <VME_Structure_ChthonianCult.generalRules.rulesStrings.8>memeCreed-&gt;知識</VME_Structure_ChthonianCult.generalRules.rulesStrings.8>
+  <VME_Structure_ChthonianCult.generalRules.rulesStrings.9>memeCreed-&gt;狂気</VME_Structure_ChthonianCult.generalRules.rulesStrings.9>
+  <VME_Structure_ChthonianCult.generalRules.rulesStrings.10>memeLeaderNoun-&gt;好古家</VME_Structure_ChthonianCult.generalRules.rulesStrings.10>
+  <VME_Structure_ChthonianCult.generalRules.rulesStrings.11>memeLeaderNoun-&gt;名無し</VME_Structure_ChthonianCult.generalRules.rulesStrings.11>
+  <VME_Structure_ChthonianCult.generalRules.rulesStrings.12>memeLeaderAdjective-&gt;漠然とした</VME_Structure_ChthonianCult.generalRules.rulesStrings.12>
+  <VME_Structure_ChthonianCult.generalRules.rulesStrings.13>memeLeaderAdjective-&gt;口に出せない</VME_Structure_ChthonianCult.generalRules.rulesStrings.13>
+  <VME_Structure_ChthonianCult.generalRules.rulesStrings.14>memeLeaderAdjective-&gt;ささやきの</VME_Structure_ChthonianCult.generalRules.rulesStrings.14>
+  <VME_Structure_ChthonianCult.generalRules.rulesStrings.15>memeMoralist-&gt;狂ったカルト信者</VME_Structure_ChthonianCult.generalRules.rulesStrings.15>
+  <VME_Structure_ChthonianCult.generalRules.rulesStrings.16>memeMoralist-&gt;カルト牧師</VME_Structure_ChthonianCult.generalRules.rulesStrings.16>
+  <VME_Structure_ChthonianCult.generalRules.rulesStrings.17>memeMoralist-&gt;陰うつな提唱者</VME_Structure_ChthonianCult.generalRules.rulesStrings.17>
+
+  <VME_Structure_ChthonianCult.symbolPacks.0.adjective>エルドリッチの</VME_Structure_ChthonianCult.symbolPacks.0.adjective>
+  <VME_Structure_ChthonianCult.symbolPacks.0.theme>エルドリッチ</VME_Structure_ChthonianCult.symbolPacks.0.theme>
+  <VME_Structure_ChthonianCult.symbolPacks.0.member>修行者</VME_Structure_ChthonianCult.symbolPacks.0.member>
+
+  <VME_Structure_ChthonianCult.worshipRoomLabel>囁きの間</VME_Structure_ChthonianCult.worshipRoomLabel>
+
+
+  <VME_Structure_Eschatologism.label>終末論</VME_Structure_Eschatologism.label>
+  <VME_Structure_Eschatologism.description>忌まわしいこの世界を歩くことは耐え難い拷問です.そのため,天変地異や,飢饉,疫病など,いかなる厄災であっても,人間の魂が現世から解放され旅立つことは祝福されることです.</VME_Structure_Eschatologism.description>
+  <VME_Structure_Eschatologism.generalRules.rulesStrings.0>memeAdjective-&gt;この世の終わりの</VME_Structure_Eschatologism.generalRules.rulesStrings.0>
+  <VME_Structure_Eschatologism.generalRules.rulesStrings.1>memeAdjective-&gt;終末論の</VME_Structure_Eschatologism.generalRules.rulesStrings.1>
+  <VME_Structure_Eschatologism.generalRules.rulesStrings.2>memeAdjective-&gt;黙示録的な</VME_Structure_Eschatologism.generalRules.rulesStrings.2>
+  <VME_Structure_Eschatologism.generalRules.rulesStrings.3>memeAdjective-&gt;大変動の</VME_Structure_Eschatologism.generalRules.rulesStrings.3>
+  <VME_Structure_Eschatologism.generalRules.rulesStrings.4>memeAdjective-&gt;破滅的な</VME_Structure_Eschatologism.generalRules.rulesStrings.4>
+  <VME_Structure_Eschatologism.generalRules.rulesStrings.5>memeCreed-&gt;予言</VME_Structure_Eschatologism.generalRules.rulesStrings.5>
+  <VME_Structure_Eschatologism.generalRules.rulesStrings.6>memeCreed-&gt;天啓</VME_Structure_Eschatologism.generalRules.rulesStrings.6>
+  <VME_Structure_Eschatologism.generalRules.rulesStrings.7>memeCreed-&gt;前兆</VME_Structure_Eschatologism.generalRules.rulesStrings.7>
+  <VME_Structure_Eschatologism.generalRules.rulesStrings.8>memeLeaderNoun-&gt;カルトリーダー</VME_Structure_Eschatologism.generalRules.rulesStrings.8>
+  <VME_Structure_Eschatologism.generalRules.rulesStrings.9>memeLeaderNoun-&gt;ドゥームブリンガー</VME_Structure_Eschatologism.generalRules.rulesStrings.9>
+  <VME_Structure_Eschatologism.generalRules.rulesStrings.10>memeLeaderAdjective-&gt;不吉な</VME_Structure_Eschatologism.generalRules.rulesStrings.10>
+  <VME_Structure_Eschatologism.generalRules.rulesStrings.11>memeLeaderAdjective-&gt;謎めいた</VME_Structure_Eschatologism.generalRules.rulesStrings.11>
+  <VME_Structure_Eschatologism.generalRules.rulesStrings.12>memeLeaderAdjective-&gt;予知能力がある</VME_Structure_Eschatologism.generalRules.rulesStrings.12>
+  <VME_Structure_Eschatologism.generalRules.rulesStrings.13>memeMoralist-&gt;予言する人</VME_Structure_Eschatologism.generalRules.rulesStrings.13>
+  <VME_Structure_Eschatologism.generalRules.rulesStrings.14>memeMoralist-&gt;噂好き</VME_Structure_Eschatologism.generalRules.rulesStrings.14>
+  <VME_Structure_Eschatologism.generalRules.rulesStrings.15>memeMoralist-&gt;運命を見る者</VME_Structure_Eschatologism.generalRules.rulesStrings.15>
+
+  <VME_Structure_Eschatologism.symbolPacks.0.adjective>終末論の</VME_Structure_Eschatologism.symbolPacks.0.adjective>
+  <VME_Structure_Eschatologism.symbolPacks.0.theme>終末論</VME_Structure_Eschatologism.symbolPacks.0.theme>
+  <VME_Structure_Eschatologism.symbolPacks.0.member>終末論者</VME_Structure_Eschatologism.symbolPacks.0.member>
+
+  <VME_Structure_Eschatologism.worshipRoomLabel>控えの間</VME_Structure_Eschatologism.worshipRoomLabel>
+
+  <VME_Structure_Authoritarianism.label>権威主義</VME_Structure_Authoritarianism.label>
+  <VME_Structure_Authoritarianism.description>民衆に選択肢を与えると,誤った幻想を抱かせてしまいます.それは不満や反発,混乱を招くだけです.私たちは鉄の拳を振り下ろし,頑固として民衆を統治します.さすれば,全ての者に繁栄をもたらすでしょう.</VME_Structure_Authoritarianism.description>
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings.0>memeAdjective-&gt;断固とした</VME_Structure_Authoritarianism.generalRules.rulesStrings.0>
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings.1>memeAdjective-&gt;寡頭政治の</VME_Structure_Authoritarianism.generalRules.rulesStrings.1>
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings.2>memeAdjective-&gt;絶対的な</VME_Structure_Authoritarianism.generalRules.rulesStrings.2>
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings.3>memeAdjective-&gt;強硬な</VME_Structure_Authoritarianism.generalRules.rulesStrings.3>
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings.4>memeAdjective-&gt;抑圧的な</VME_Structure_Authoritarianism.generalRules.rulesStrings.4>
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings.5>memeAdjective-&gt;強権的な</VME_Structure_Authoritarianism.generalRules.rulesStrings.5>
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings.6>memeAdjective-&gt;人民主義の</VME_Structure_Authoritarianism.generalRules.rulesStrings.6>
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings.7>memeLeaderNoun-&gt;最高指導者</VME_Structure_Authoritarianism.generalRules.rulesStrings.7>
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings.8>memeLeaderNoun-&gt;独裁者</VME_Structure_Authoritarianism.generalRules.rulesStrings.8>
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings.9>memeLeaderNoun-&gt;総書記</VME_Structure_Authoritarianism.generalRules.rulesStrings.9>
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings.10>memeLeaderNoun-&gt;首領</VME_Structure_Authoritarianism.generalRules.rulesStrings.10>
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings.11>memeLeaderNoun-&gt;終身名誉大統領</VME_Structure_Authoritarianism.generalRules.rulesStrings.11>
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings.12>memeLeaderAdjective-&gt;厳格な</VME_Structure_Authoritarianism.generalRules.rulesStrings.12>
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings.13>memeLeaderAdjective-&gt;愛国的な</VME_Structure_Authoritarianism.generalRules.rulesStrings.13>
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings.14>memeLeaderAdjective-&gt;無神経な</VME_Structure_Authoritarianism.generalRules.rulesStrings.14>
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings.15>memeLeaderAdjective-&gt;残酷な</VME_Structure_Authoritarianism.generalRules.rulesStrings.15>
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings.16>memeLeaderAdjective-&gt;容赦のない</VME_Structure_Authoritarianism.generalRules.rulesStrings.16>
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings.17>memeLeaderAdjective-&gt;冷酷な</VME_Structure_Authoritarianism.generalRules.rulesStrings.17>
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings.18>memeMoralist-&gt;宣伝者</VME_Structure_Authoritarianism.generalRules.rulesStrings.18>
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings.19>memeMoralist-&gt;体制主唱者</VME_Structure_Authoritarianism.generalRules.rulesStrings.19>
+  <VME_Structure_Authoritarianism.generalRules.rulesStrings.20>memeMoralist-&gt;従軍者</VME_Structure_Authoritarianism.generalRules.rulesStrings.20>
+
+  <VME_Structure_Authoritarianism.symbolPacks.0.adjective>権威主義の</VME_Structure_Authoritarianism.symbolPacks.0.adjective>
+  <VME_Structure_Authoritarianism.symbolPacks.0.theme>権威主義</VME_Structure_Authoritarianism.symbolPacks.0.theme>
+  <VME_Structure_Authoritarianism.symbolPacks.0.member>人民</VME_Structure_Authoritarianism.symbolPacks.0.member>
+
+  <VME_Structure_Authoritarianism.worshipRoomLabel>本部</VME_Structure_Authoritarianism.worshipRoomLabel>
+
+  <VME_Structure_CultOfPersonality.label>個人崇拝</VME_Structure_CultOfPersonality.label>
+  <VME_Structure_CultOfPersonality.description>私たちが敬愛するリーダーの王冠を疑うことは禁じられています.例えそれが地面であろうと,リーダーの神聖な足の裏の感触を感じるには値しません.私たちのリーダーが唱える全体構想によって繁栄をもたらすでしょう.</VME_Structure_CultOfPersonality.description>
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings.0>memeAdjective-&gt;統一された</VME_Structure_CultOfPersonality.generalRules.rulesStrings.0>
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings.1>memeAdjective-&gt;帝権の</VME_Structure_CultOfPersonality.generalRules.rulesStrings.1>
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings.2>memeAdjective-&gt;王者の</VME_Structure_CultOfPersonality.generalRules.rulesStrings.2>
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings.3>memeAdjective-&gt;高貴な</VME_Structure_CultOfPersonality.generalRules.rulesStrings.3>
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings.4>memeAdjective-&gt;君主制の</VME_Structure_CultOfPersonality.generalRules.rulesStrings.4>
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings.5>memeAdjective-&gt;威厳のある</VME_Structure_CultOfPersonality.generalRules.rulesStrings.5>
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings.6>memeAdjective-&gt;主権の</VME_Structure_CultOfPersonality.generalRules.rulesStrings.6>
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings.7>memeCreed-&gt;法律</VME_Structure_CultOfPersonality.generalRules.rulesStrings.7>
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings.8>memeCreed-&gt;命令</VME_Structure_CultOfPersonality.generalRules.rulesStrings.8>
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings.9>memeCreed-&gt;神意</VME_Structure_CultOfPersonality.generalRules.rulesStrings.9>
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings.10>memeLeaderNoun-&gt;神皇帝</VME_Structure_CultOfPersonality.generalRules.rulesStrings.10>
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings.11>memeLeaderNoun-&gt;皇帝</VME_Structure_CultOfPersonality.generalRules.rulesStrings.11>
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings.12>memeLeaderNoun-&gt;王</VME_Structure_CultOfPersonality.generalRules.rulesStrings.12>
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings.13>memeLeaderNoun-&gt;独裁者</VME_Structure_CultOfPersonality.generalRules.rulesStrings.13>
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings.14>memeLeaderAdjective-&gt;威厳のある</VME_Structure_CultOfPersonality.generalRules.rulesStrings.14>
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings.15>memeLeaderAdjective-&gt;愛される</VME_Structure_CultOfPersonality.generalRules.rulesStrings.15>
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings.16>memeLeaderAdjective-&gt;崇拝された</VME_Structure_CultOfPersonality.generalRules.rulesStrings.16>
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings.17>memeLeaderAdjective-&gt;偉い</VME_Structure_CultOfPersonality.generalRules.rulesStrings.17>
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings.18>memeMoralist-&gt;へつらう人</VME_Structure_CultOfPersonality.generalRules.rulesStrings.18>
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings.19>memeMoralist-&gt;召し使い</VME_Structure_CultOfPersonality.generalRules.rulesStrings.19>
+  <VME_Structure_CultOfPersonality.generalRules.rulesStrings.20>memeMoralist-&gt;判官</VME_Structure_CultOfPersonality.generalRules.rulesStrings.20>
+
+  <VME_Structure_CultOfPersonality.symbolPacks.0.adjective>全体主義の</VME_Structure_CultOfPersonality.symbolPacks.0.adjective>
+  <VME_Structure_CultOfPersonality.symbolPacks.0.theme>個人崇拝</VME_Structure_CultOfPersonality.symbolPacks.0.theme>
+  <VME_Structure_CultOfPersonality.symbolPacks.0.member>忠臣</VME_Structure_CultOfPersonality.symbolPacks.0.member>
+
+  <VME_Structure_CultOfPersonality.worshipRoomLabel>偉大なる王宮</VME_Structure_CultOfPersonality.worshipRoomLabel>
+
+  <VME_Structure_Pantheism.label>汎神論</VME_Structure_Pantheism.label>
+  <VME_Structure_Pantheism.description>宇宙全体こそ神そのもので,厳密には具体化された神は存在せず,それらは常に複合体とされています.宇宙に現れている物質,力,法則,そして万物のものに神が宿っています.</VME_Structure_Pantheism.description>
+  <VME_Structure_Pantheism.generalRules.rulesStrings.0>memeAdjective-&gt;内在的な</VME_Structure_Pantheism.generalRules.rulesStrings.0>
+  <VME_Structure_Pantheism.generalRules.rulesStrings.1>memeAdjective-&gt;神々の</VME_Structure_Pantheism.generalRules.rulesStrings.1>
+  <VME_Structure_Pantheism.generalRules.rulesStrings.2>memeAdjective-&gt;無限定な</VME_Structure_Pantheism.generalRules.rulesStrings.2>
+  <VME_Structure_Pantheism.generalRules.rulesStrings.3>memeAdjective-&gt;超絶的な</VME_Structure_Pantheism.generalRules.rulesStrings.3>
+  <VME_Structure_Pantheism.generalRules.rulesStrings.4>memeAdjective-&gt;無限の</VME_Structure_Pantheism.generalRules.rulesStrings.4>
+  <VME_Structure_Pantheism.generalRules.rulesStrings.5>memeAdjective-&gt;啓発された</VME_Structure_Pantheism.generalRules.rulesStrings.5>
+  <VME_Structure_Pantheism.generalRules.rulesStrings.6>memeLeaderNoun-&gt;導師</VME_Structure_Pantheism.generalRules.rulesStrings.6>
+  <VME_Structure_Pantheism.generalRules.rulesStrings.7>memeLeaderNoun-&gt;指導者</VME_Structure_Pantheism.generalRules.rulesStrings.7>
+  <VME_Structure_Pantheism.generalRules.rulesStrings.8>memeLeaderNoun-&gt;王子</VME_Structure_Pantheism.generalRules.rulesStrings.8>
+  <VME_Structure_Pantheism.generalRules.rulesStrings.9>memeLeaderAdjective-&gt;穏やかな</VME_Structure_Pantheism.generalRules.rulesStrings.9>
+  <VME_Structure_Pantheism.generalRules.rulesStrings.10>memeLeaderAdjective-&gt;瞑想する</VME_Structure_Pantheism.generalRules.rulesStrings.10>
+  <VME_Structure_Pantheism.generalRules.rulesStrings.11>memeLeaderAdjective-&gt;啓発された</VME_Structure_Pantheism.generalRules.rulesStrings.11>
+  <VME_Structure_Pantheism.generalRules.rulesStrings.12>memeMoralist-&gt;哲学者</VME_Structure_Pantheism.generalRules.rulesStrings.12>
+  <VME_Structure_Pantheism.generalRules.rulesStrings.13>memeMoralist-&gt;思想家</VME_Structure_Pantheism.generalRules.rulesStrings.13>
+  <VME_Structure_Pantheism.generalRules.rulesStrings.14>memeMoralist-&gt;降霊術者</VME_Structure_Pantheism.generalRules.rulesStrings.14>
+
+  <VME_Structure_Pantheism.symbolPacks.0.adjective>汎神論の</VME_Structure_Pantheism.symbolPacks.0.adjective>
+  <VME_Structure_Pantheism.symbolPacks.0.theme>汎神論</VME_Structure_Pantheism.symbolPacks.0.theme>
+  <VME_Structure_Pantheism.symbolPacks.0.member>汎神論の</VME_Structure_Pantheism.symbolPacks.0.member>
+  
+  <VME_Structure_Pantheism.worshipRoomLabel>大広間</VME_Structure_Pantheism.worshipRoomLabel>
+
+  <VME_Structure_Omnism.label>オムニズム</VME_Structure_Omnism.label>
+  <VME_Structure_Omnism.description>すべての宗教や思想は,真実とウソで別れています.私たちにとって健全な生き方とは,各宗教が主張する教義にしっかり耳を傾け,それらを精査し,正当性のある教えだけを受け入れることです.</VME_Structure_Omnism.description>
+  <VME_Structure_Omnism.generalRules.rulesStrings.0>memeAdjective-&gt;普遍的な</VME_Structure_Omnism.generalRules.rulesStrings.0>
+  <VME_Structure_Omnism.generalRules.rulesStrings.1>memeAdjective-&gt;改良した</VME_Structure_Omnism.generalRules.rulesStrings.1>
+  <VME_Structure_Omnism.generalRules.rulesStrings.2>memeAdjective-&gt;包括的な</VME_Structure_Omnism.generalRules.rulesStrings.2>
+  <VME_Structure_Omnism.generalRules.rulesStrings.3>memeAdjective-&gt;遍在する</VME_Structure_Omnism.generalRules.rulesStrings.3>
+  <VME_Structure_Omnism.generalRules.rulesStrings.4>memeAdjective-&gt;すべてを含む</VME_Structure_Omnism.generalRules.rulesStrings.4>
+  <VME_Structure_Omnism.generalRules.rulesStrings.5>memeLeaderNoun-&gt;すべての有神論者</VME_Structure_Omnism.generalRules.rulesStrings.5>
+  <VME_Structure_Omnism.generalRules.rulesStrings.6>memeLeaderNoun-&gt;超越者</VME_Structure_Omnism.generalRules.rulesStrings.6>
+  <VME_Structure_Omnism.generalRules.rulesStrings.7>memeLeaderAdjective-&gt;賢い</VME_Structure_Omnism.generalRules.rulesStrings.7>
+  <VME_Structure_Omnism.generalRules.rulesStrings.8>memeLeaderAdjective-&gt;包括的な</VME_Structure_Omnism.generalRules.rulesStrings.8>
+  <VME_Structure_Omnism.generalRules.rulesStrings.9>memeMoralist-&gt;聖職者</VME_Structure_Omnism.generalRules.rulesStrings.9>
+  <VME_Structure_Omnism.generalRules.rulesStrings.10>memeMoralist-&gt;伝道師</VME_Structure_Omnism.generalRules.rulesStrings.10>
+
+  <VME_Structure_Omnism.symbolPacks.0.adjective>オムニストの</VME_Structure_Omnism.symbolPacks.0.adjective>
+  <VME_Structure_Omnism.symbolPacks.0.theme>オムニズム</VME_Structure_Omnism.symbolPacks.0.theme>
+  <VME_Structure_Omnism.symbolPacks.0.member>信者</VME_Structure_Omnism.symbolPacks.0.member>
+  
+  <VME_Structure_Omnism.worshipRoomLabel>殿堂</VME_Structure_Omnism.worshipRoomLabel>
+    
+
+  <VME_Structure_Agnosticism.label>不可知論</VME_Structure_Agnosticism.label>
+  <VME_Structure_Agnosticism.description>どんな些細なことでも神々が万能の力をもって守ったり,導いてくれるという説は,単なる人間の憶測で,観測や認識ができないため,無意味です.すべてが無から生じたという説も同じことです.そのような宗教の教えは無視しますが,それらの教義や信念に安らぎを感じる人々の自由と権利は尊重します.</VME_Structure_Agnosticism.description>
+  <VME_Structure_Agnosticism.generalRules.rulesStrings.0>memeAdjective-&gt;疑い深い</VME_Structure_Agnosticism.generalRules.rulesStrings.0>
+  <VME_Structure_Agnosticism.generalRules.rulesStrings.1>memeAdjective-&gt;無神論の</VME_Structure_Agnosticism.generalRules.rulesStrings.1>
+  <VME_Structure_Agnosticism.generalRules.rulesStrings.2>memeAdjective-&gt;無宗教の</VME_Structure_Agnosticism.generalRules.rulesStrings.2>
+  <VME_Structure_Agnosticism.generalRules.rulesStrings.3>memeAdjective-&gt;非宗教的な</VME_Structure_Agnosticism.generalRules.rulesStrings.3>
+  <VME_Structure_Agnosticism.generalRules.rulesStrings.4>memeAdjective-&gt;不信心な</VME_Structure_Agnosticism.generalRules.rulesStrings.4>
+  <VME_Structure_Agnosticism.generalRules.rulesStrings.5>memeAdjective-&gt;世俗的な</VME_Structure_Agnosticism.generalRules.rulesStrings.5>
+  <VME_Structure_Agnosticism.generalRules.rulesStrings.6>memeLeaderNoun-&gt;リーダー</VME_Structure_Agnosticism.generalRules.rulesStrings.6>
+  <VME_Structure_Agnosticism.generalRules.rulesStrings.7>memeLeaderNoun-&gt;自由思想家</VME_Structure_Agnosticism.generalRules.rulesStrings.7>
+  <VME_Structure_Agnosticism.generalRules.rulesStrings.8>memeLeaderAdjective-&gt;世俗的な</VME_Structure_Agnosticism.generalRules.rulesStrings.8>
+  <VME_Structure_Agnosticism.generalRules.rulesStrings.9>memeLeaderAdjective-&gt;世間的な</VME_Structure_Agnosticism.generalRules.rulesStrings.9>
+  <VME_Structure_Agnosticism.generalRules.rulesStrings.10>memeLeaderAdjective-&gt;冒涜的な</VME_Structure_Agnosticism.generalRules.rulesStrings.10>
+  <VME_Structure_Agnosticism.generalRules.rulesStrings.11>memeMoralist-&gt;カウンセラー</VME_Structure_Agnosticism.generalRules.rulesStrings.11>
+  <VME_Structure_Agnosticism.generalRules.rulesStrings.12>memeMoralist-&gt;倫理学者</VME_Structure_Agnosticism.generalRules.rulesStrings.12>
+  <VME_Structure_Agnosticism.generalRules.rulesStrings.13>memeMoralist-&gt;道楽者</VME_Structure_Agnosticism.generalRules.rulesStrings.13>
+  <VME_Structure_Agnosticism.generalRules.rulesStrings.14>memeMoralist-&gt;哲学者</VME_Structure_Agnosticism.generalRules.rulesStrings.14>
+  <VME_Structure_Agnosticism.generalRules.rulesStrings.15>memeMoralist-&gt;思想家</VME_Structure_Agnosticism.generalRules.rulesStrings.15>
+  <VME_Structure_Agnosticism.generalRules.rulesStrings.16>memeMoralist-&gt;学者</VME_Structure_Agnosticism.generalRules.rulesStrings.16>
+  <VME_Structure_Agnosticism.generalRules.rulesStrings.17>memeMoralist-&gt;詭弁家</VME_Structure_Agnosticism.generalRules.rulesStrings.17>
+
+  <VME_Structure_Agnosticism.symbolPacks.0.adjective>不可知論の</VME_Structure_Agnosticism.symbolPacks.0.adjective>
+  <VME_Structure_Agnosticism.symbolPacks.0.theme>不可知論</VME_Structure_Agnosticism.symbolPacks.0.theme>
+  <VME_Structure_Agnosticism.symbolPacks.0.member>不可知論者</VME_Structure_Agnosticism.symbolPacks.0.member>
+  
+  <VME_Structure_Agnosticism.worshipRoomLabel>討論の広間</VME_Structure_Agnosticism.worshipRoomLabel>
+
+  <VME_Structure_SecularSpirituality.label>スピリチュアリティ</VME_Structure_SecularSpirituality.label>
+  <VME_Structure_SecularSpirituality.description>儀式や祈り,超越的な力を信じることは,ただ単に自分の成長を遅らせるだけです.悟りも,幸せも,目的も,すべては自分の内面にあり,自分が正しいと思うことを通して得られるものなのです.</VME_Structure_SecularSpirituality.description>
+  <VME_Structure_SecularSpirituality.generalRules.rulesStrings.0>memeAdjective-&gt;精神的な</VME_Structure_SecularSpirituality.generalRules.rulesStrings.0>
+  <VME_Structure_SecularSpirituality.generalRules.rulesStrings.1>memeAdjective-&gt;実体のない</VME_Structure_SecularSpirituality.generalRules.rulesStrings.1>
+  <VME_Structure_SecularSpirituality.generalRules.rulesStrings.2>memeAdjective-&gt;霊妙な</VME_Structure_SecularSpirituality.generalRules.rulesStrings.2>
+  <VME_Structure_SecularSpirituality.generalRules.rulesStrings.3>memeAdjective-&gt;超絶的な</VME_Structure_SecularSpirituality.generalRules.rulesStrings.3>
+  <VME_Structure_SecularSpirituality.generalRules.rulesStrings.4>memeLeaderNoun-&gt;神秘主義者</VME_Structure_SecularSpirituality.generalRules.rulesStrings.4>
+  <VME_Structure_SecularSpirituality.generalRules.rulesStrings.5>memeLeaderNoun-&gt;空想家</VME_Structure_SecularSpirituality.generalRules.rulesStrings.5>
+  <VME_Structure_SecularSpirituality.generalRules.rulesStrings.6>memeLeaderAdjective-&gt;神秘的な</VME_Structure_SecularSpirituality.generalRules.rulesStrings.6>
+  <VME_Structure_SecularSpirituality.generalRules.rulesStrings.7>memeLeaderAdjective-&gt;精神的な</VME_Structure_SecularSpirituality.generalRules.rulesStrings.7>
+  <VME_Structure_SecularSpirituality.generalRules.rulesStrings.8>memeLeaderAdjective-&gt;空想的な</VME_Structure_SecularSpirituality.generalRules.rulesStrings.8>
+  <VME_Structure_SecularSpirituality.generalRules.rulesStrings.9>memeMoralist-&gt;ヨガ行者</VME_Structure_SecularSpirituality.generalRules.rulesStrings.9>
+  <VME_Structure_SecularSpirituality.generalRules.rulesStrings.10>memeMoralist-&gt;療法士</VME_Structure_SecularSpirituality.generalRules.rulesStrings.10>
+  <VME_Structure_SecularSpirituality.generalRules.rulesStrings.11>memeMoralist-&gt;瞑想教師</VME_Structure_SecularSpirituality.generalRules.rulesStrings.11>
+  
+  <VME_Structure_SecularSpirituality.symbolPacks.0.adjective>世俗の</VME_Structure_SecularSpirituality.symbolPacks.0.adjective>
+  <VME_Structure_SecularSpirituality.symbolPacks.0.theme>世俗的なスピリチュアリティ</VME_Structure_SecularSpirituality.symbolPacks.0.theme>
+  <VME_Structure_SecularSpirituality.symbolPacks.0.member>スピリチュアルな人</VME_Structure_SecularSpirituality.symbolPacks.0.member>
+
+  <VME_Structure_SecularSpirituality.worshipRoomLabel>瞑想部屋</VME_Structure_SecularSpirituality.worshipRoomLabel>
+
+  <VME_Structure_Shintaoism.label>シンタオの起源</VME_Structure_Shintaoism.label>
+  <VME_Structure_Shintaoism.description>この思想者は古代神道,道教の子孫です.戒律は数千年前のものと大きく異なっているかもしれませんが,象徴するものは今でも似ています.</VME_Structure_Shintaoism.description>
+  <VME_Structure_Shintaoism.generalRules.rulesStrings.0>memeAdjective-&gt;公平な</VME_Structure_Shintaoism.generalRules.rulesStrings.0>
+  <VME_Structure_Shintaoism.generalRules.rulesStrings.1>memeAdjective-&gt;自然の</VME_Structure_Shintaoism.generalRules.rulesStrings.1>
+  <VME_Structure_Shintaoism.generalRules.rulesStrings.2>memeAdjective-&gt;思いやりのある</VME_Structure_Shintaoism.generalRules.rulesStrings.2>
+  <VME_Structure_Shintaoism.generalRules.rulesStrings.3>memeAdjective-&gt;質素な</VME_Structure_Shintaoism.generalRules.rulesStrings.3>
+  <VME_Structure_Shintaoism.generalRules.rulesStrings.4>memeAdjective-&gt;謙虚な</VME_Structure_Shintaoism.generalRules.rulesStrings.4>
+  <VME_Structure_Shintaoism.generalRules.rulesStrings.5>memeLeaderNoun-&gt;タオシン</VME_Structure_Shintaoism.generalRules.rulesStrings.5>
+  <VME_Structure_Shintaoism.generalRules.rulesStrings.6>memeLeaderNoun-&gt;道の達人</VME_Structure_Shintaoism.generalRules.rulesStrings.6>
+  <VME_Structure_Shintaoism.generalRules.rulesStrings.7>memeLeaderAdjective-&gt;霊的</VME_Structure_Shintaoism.generalRules.rulesStrings.7>
+  <VME_Structure_Shintaoism.generalRules.rulesStrings.8>memeLeaderAdjective-&gt;穏やかな</VME_Structure_Shintaoism.generalRules.rulesStrings.8>
+  <VME_Structure_Shintaoism.generalRules.rulesStrings.9>memeMoralist-&gt;神主</VME_Structure_Shintaoism.generalRules.rulesStrings.9>
+  
+  <VME_Structure_Shintaoism.symbolPacks.0.adjective>シンタオの</VME_Structure_Shintaoism.symbolPacks.0.adjective>
+  <VME_Structure_Shintaoism.symbolPacks.0.theme>シンタオ</VME_Structure_Shintaoism.symbolPacks.0.theme>
+  <VME_Structure_Shintaoism.symbolPacks.0.member>シンタオ教徒</VME_Structure_Shintaoism.symbolPacks.0.member>
+  
+  <VME_Structure_Shintaoism.worshipRoomLabel>道観</VME_Structure_Shintaoism.worshipRoomLabel>
+
+  <VME_Structure_Corporate.label>企業の起源</VME_Structure_Corporate.label>
+  <VME_Structure_Corporate.description>私たちは神や王を崇めません.そこにあるものは,財産を求めてやまない飽くなき欲望だけです.共同体は会社のように管理するべきです.</VME_Structure_Corporate.description>
+  <VME_Structure_Corporate.generalRules.rulesStrings.0>memeAdjective-&gt;私的な</VME_Structure_Corporate.generalRules.rulesStrings.0>
+  <VME_Structure_Corporate.generalRules.rulesStrings.1>memeAdjective-&gt;有益な</VME_Structure_Corporate.generalRules.rulesStrings.1>
+  <VME_Structure_Corporate.generalRules.rulesStrings.2>memeAdjective-&gt;搾取する側の</VME_Structure_Corporate.generalRules.rulesStrings.2>
+  <VME_Structure_Corporate.generalRules.rulesStrings.3>memeAdjective-&gt;プロフェッショナルな</VME_Structure_Corporate.generalRules.rulesStrings.3>
+  <VME_Structure_Corporate.generalRules.rulesStrings.4>memeAdjective-&gt;商業的な</VME_Structure_Corporate.generalRules.rulesStrings.4>
+  <VME_Structure_Corporate.generalRules.rulesStrings.5>memeAdjective-&gt;儲かる</VME_Structure_Corporate.generalRules.rulesStrings.5>
+  <VME_Structure_Corporate.generalRules.rulesStrings.6>memeLeaderNoun-&gt;CEO</VME_Structure_Corporate.generalRules.rulesStrings.6>
+  <VME_Structure_Corporate.generalRules.rulesStrings.7>memeLeaderNoun-&gt;社長</VME_Structure_Corporate.generalRules.rulesStrings.7>
+  <VME_Structure_Corporate.generalRules.rulesStrings.8>memeLeaderNoun-&gt;支配人</VME_Structure_Corporate.generalRules.rulesStrings.8>
+  <VME_Structure_Corporate.generalRules.rulesStrings.9>memeLeaderAdjective-&gt;無情な</VME_Structure_Corporate.generalRules.rulesStrings.9>
+  <VME_Structure_Corporate.generalRules.rulesStrings.10>memeLeaderAdjective-&gt;有能な</VME_Structure_Corporate.generalRules.rulesStrings.10>
+  <VME_Structure_Corporate.generalRules.rulesStrings.11>memeLeaderAdjective-&gt;精神にあふれた</VME_Structure_Corporate.generalRules.rulesStrings.11>
+  <VME_Structure_Corporate.generalRules.rulesStrings.12>memeMoralist-&gt;管理人</VME_Structure_Corporate.generalRules.rulesStrings.12>
+  <VME_Structure_Corporate.generalRules.rulesStrings.13>memeMoralist-&gt;役員</VME_Structure_Corporate.generalRules.rulesStrings.13>
+  <VME_Structure_Corporate.generalRules.rulesStrings.14>memeMoralist-&gt;マネージャー</VME_Structure_Corporate.generalRules.rulesStrings.14>
+  
+  <VME_Structure_Corporate.symbolPacks.0.adjective>企業の</VME_Structure_Corporate.symbolPacks.0.adjective>
+  <VME_Structure_Corporate.symbolPacks.0.theme>企業</VME_Structure_Corporate.symbolPacks.0.theme>
+  <VME_Structure_Corporate.symbolPacks.0.member>社員</VME_Structure_Corporate.symbolPacks.0.member>
+  
+  <VME_Structure_Corporate.worshipRoomLabel>オフィス</VME_Structure_Corporate.worshipRoomLabel>
+
+
+</LanguageData>

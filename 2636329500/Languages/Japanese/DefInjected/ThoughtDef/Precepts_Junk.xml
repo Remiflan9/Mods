@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Junk_Beautiful.stages.0.label>近くにガラクタがない</VME_Junk_Beautiful.stages.0.label>
+  <VME_Junk_Beautiful.stages.0.description>しばらくガラクタを見ていない.</VME_Junk_Beautiful.stages.0.description>
+  <VME_Junk_Beautiful.stages.1.label>ガラクタが少ない(近くに1個)</VME_Junk_Beautiful.stages.1.label>
+  <VME_Junk_Beautiful.stages.1.description>この辺は空っぽだ.ガラクタを見つけられなくて寂しい.</VME_Junk_Beautiful.stages.1.description>
+  <VME_Junk_Beautiful.stages.2.label>ガラクタが少ない(近くに2個)</VME_Junk_Beautiful.stages.2.label>
+  <VME_Junk_Beautiful.stages.2.description>少なからず古代文明のレリックがある.</VME_Junk_Beautiful.stages.2.description>
+  <VME_Junk_Beautiful.stages.3.label>ガラクタが少ない(近くに3個)</VME_Junk_Beautiful.stages.3.label>
+  <VME_Junk_Beautiful.stages.3.description>もっと古代のガラクタを集めなければ.</VME_Junk_Beautiful.stages.3.description>
+  <VME_Junk_Beautiful.stages.4.label>ガラクタが少ない(近くに4個)</VME_Junk_Beautiful.stages.4.label>
+  <VME_Junk_Beautiful.stages.4.description>古代のガラクタがまだ少ない.</VME_Junk_Beautiful.stages.4.description>
+  <VME_Junk_Beautiful.stages.5.label>ガラクタが少ない(近くに5個)</VME_Junk_Beautiful.stages.5.label>
+  <VME_Junk_Beautiful.stages.5.description>せめてあと何個かは集めておきたい.古代文明のテクノロジーからは多くのことを学ぶことができる.</VME_Junk_Beautiful.stages.5.description>
+  <VME_Junk_Beautiful.stages.6.label>ガラクタが少しある</VME_Junk_Beautiful.stages.6.label>
+  <VME_Junk_Beautiful.stages.6.description>最近よくガラクタを見る.</VME_Junk_Beautiful.stages.6.description>
+  <VME_Junk_Beautiful.stages.7.label>ガラクタがある</VME_Junk_Beautiful.stages.7.label>
+  <VME_Junk_Beautiful.stages.7.description>最近よくガラクタを見る.</VME_Junk_Beautiful.stages.7.description>
+  <VME_Junk_Beautiful.stages.8.label>素晴らしいガラクタ</VME_Junk_Beautiful.stages.8.label>
+  <VME_Junk_Beautiful.stages.8.description>私はガラクタに囲まれている.</VME_Junk_Beautiful.stages.8.description>
+  <VME_Junk_Beautiful.stages.9.label>美しいガラクタ</VME_Junk_Beautiful.stages.9.label>
+  <VME_Junk_Beautiful.stages.9.description>私はガラクタに囲まれて暮らしている.これらは古代文明が遺したテクノロジーの証であり素晴らしいものだ.</VME_Junk_Beautiful.stages.9.description>
+
+  <VME_Junk_Preferred.stages.0.label>近くにガラクタがない</VME_Junk_Preferred.stages.0.label>
+  <VME_Junk_Preferred.stages.0.description>しばらくガラクタを見ていない.</VME_Junk_Preferred.stages.0.description>
+  <VME_Junk_Preferred.stages.1.label>ガラクタが少ない(近くに1個)</VME_Junk_Preferred.stages.1.label>
+  <VME_Junk_Preferred.stages.1.description>この辺は空っぽだ.ガラクタを見つけられなくて寂しい.</VME_Junk_Preferred.stages.1.description>
+  <VME_Junk_Preferred.stages.2.label>ガラクタが少ない(近くに2個)</VME_Junk_Preferred.stages.2.label>
+  <VME_Junk_Preferred.stages.2.description>少なからず古代文明のレリックがある</VME_Junk_Preferred.stages.2.description>
+  <VME_Junk_Preferred.stages.3.label>ガラクタが少ない(近くに3個)</VME_Junk_Preferred.stages.3.label>
+  <VME_Junk_Preferred.stages.3.description>もっと古代のガラクタを集めなければ.</VME_Junk_Preferred.stages.3.description>
+  <VME_Junk_Preferred.stages.4.label>ガラクタが少ない(近くに4個)</VME_Junk_Preferred.stages.4.label>
+  <VME_Junk_Preferred.stages.4.description>古代のガラクタがまだ少ない.</VME_Junk_Preferred.stages.4.description>
+  <VME_Junk_Preferred.stages.5.label>ガラクタが少ない(近くに5個)</VME_Junk_Preferred.stages.5.label>
+  <VME_Junk_Preferred.stages.5.description>せめてあと何個かは集めておきたい.古代文明のテクノロジーからは多くのことを学ぶことができる.</VME_Junk_Preferred.stages.5.description>
+  <VME_Junk_Preferred.stages.6.label>ガラクタが少しある</VME_Junk_Preferred.stages.6.label>
+  <VME_Junk_Preferred.stages.6.description>最近よくガラクタを見る.</VME_Junk_Preferred.stages.6.description>
+  <VME_Junk_Preferred.stages.7.label>ガラクタがある</VME_Junk_Preferred.stages.7.label>
+  <VME_Junk_Preferred.stages.7.description>最近よくガラクタを見る.</VME_Junk_Preferred.stages.7.description>
+  <VME_Junk_Preferred.stages.8.label>素晴らしいガラクタ</VME_Junk_Preferred.stages.8.label>
+  <VME_Junk_Preferred.stages.8.description>私はガラクタに囲まれている.</VME_Junk_Preferred.stages.8.description>
+  <VME_Junk_Preferred.stages.9.label>美しいガラクタ</VME_Junk_Preferred.stages.9.label>
+  <VME_Junk_Preferred.stages.9.description>私はガラクタに囲まれて暮らしている.これらは古代文明が遺したテクノロジーの証であり素晴らしいものだ.</VME_Junk_Preferred.stages.9.description>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Mechanoids_Exalted.stages.0.label>メカノイドを破壊した</VME_Mechanoids_Exalted.stages.0.label>
+  <VME_Mechanoids_Exalted.stages.0.description>私はメカノイドを破壊してしまった.この冒涜行為は神々を怒らせるだろう.</VME_Mechanoids_Exalted.stages.0.description>
+
+  <VME_Mechanoids_Despised.stages.0.label>メカノイドを破壊した</VME_Mechanoids_Despised.stages.0.label>
+  <VME_Mechanoids_Despised.stages.0.description>私はメカノイドを破壊した.これぞ勝利だ!</VME_Mechanoids_Despised.stages.0.description>
+
+
+</LanguageData>

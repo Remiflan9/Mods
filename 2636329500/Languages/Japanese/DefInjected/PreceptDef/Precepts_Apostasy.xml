@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Apostasy_Accepted.label>容認</VME_Apostasy_Accepted.label>
+  <VME_Apostasy_Accepted.description>私たちは権威に縛られながら今の思想を信仰している.自分のやり方を変える機会があるなら,後先考えずに行動するべきだ.</VME_Apostasy_Accepted.description>
+
+  <Apostasy_Despicable.label>軽蔑</Apostasy_Despicable.label>
+  <Apostasy_Despicable.description>異なる思想を他人に押し付けるのは卑劣な行為だ.もし誰かが他の人の思想について知りたいと思ったら,自然にそれを求めればいい.</Apostasy_Despicable.description>
+  <Apostasy_Despicable.comps.0.description>思想を変更</Apostasy_Despicable.comps.0.description>
+
+
+</LanguageData>

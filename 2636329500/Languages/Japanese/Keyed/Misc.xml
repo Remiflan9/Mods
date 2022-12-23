@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Ideoligions -->
+  <VME_Automation>機械の効率:思想により増加</VME_Automation>
+  <VME_AutomationDecreased>機械の効率:思想により減少</VME_AutomationDecreased>
+  <VME_AutomationManual>工芸速度:思想により低下</VME_AutomationManual>
+  <VME_MeditationSpotExtra>瞑想:思想により増強</VME_MeditationSpotExtra>
+  <VME_ExtraJoyGain>娯楽:思想により増強</VME_ExtraJoyGain>
+  <VME_ExtraPatissierCooking>パティシエの役割</VME_ExtraPatissierCooking>
+  <VME_ExtraCertaintyLoss>エルドリッチの堕落欲求が低下</VME_ExtraCertaintyLoss>
+  <VME_NullCertaintyLoss>エルドリッチの堕落欲求</VME_NullCertaintyLoss>
+  <VME_PawnMustBeSuicidal>{0}は切腹の欲求がありません.</VME_PawnMustBeSuicidal>
+  <VME_PawnMustBeBestMelee>{0}はコロニーで最も格闘スキルが高い必要があります.</VME_PawnMustBeBestMelee>
+  <VME_RitualTargetDivineTheStarsInfo>夜間に天井のない儀式スポットが必要です. 屋根のないマスが25以上あることが条件です.</VME_RitualTargetDivineTheStarsInfo>
+  <VME_WickerManInfo>ウィッカーマンを作る.</VME_WickerManInfo>
+  <VME_CantStartWickerManRitual>ウィッカーマンの儀式を始めるには囚人が必要です.</VME_CantStartWickerManRitual>
+  <VME_MessageRitualRoleMustBeSlave>参加者は奴隷である必要があります.</VME_MessageRitualRoleMustBeSlave>
+  <VME_NeedsAdults>主催者と参加者が成人である必要があります.</VME_NeedsAdults>
+
+  <VME_AbilityDisabledNoWickerMan>到達可能なウィッカーマンがありません.</VME_AbilityDisabledNoWickerMan>
+  <VME_AbilityNeedsATurret>タレットやメカノイドを対象にする必要があります.</VME_AbilityNeedsATurret>
+  <VME_AbilityNeedsInsect>野生の昆虫,または敵対した昆虫を対象にする必要があります.</VME_AbilityNeedsInsect>
+  <VME_AbilityNeedsRoof>空いた岩天井の下に設置する必要があります.</VME_AbilityNeedsRoof>
+  <VME_AbilityNeedsSpotEmpty>空いた場所に設置する必要があります.</VME_AbilityNeedsSpotEmpty>
+  <VME_AbilityNeedsMeal>食品を対象にする必要があります.</VME_AbilityNeedsMeal>
+  <VME_AbilityCaravanWillArrive>トレーダーキャラバンがあなたのコロニーに約1日後に到着します.</VME_AbilityCaravanWillArrive>
+  <VME_AbilityAlreadyADessert>対象は既にデザートです.実行にはデザート以外の食品が条件です.</VME_AbilityAlreadyADessert>
+  <VME_AbilityNeedsAColonist>自由に歩き回れる入植者を対象にする必要があります.</VME_AbilityNeedsAColonist>
+  <VME_AbilityNeedsCorpse>新鮮な人間の死体を対象にする必要があります.</VME_AbilityNeedsCorpse>
+
+  <VME_DeconstructBuildingLabel>撤去</VME_DeconstructBuildingLabel>
+  <VME_DeconstructBuildingDesc>マップ上に散らばったガラクタを撤去して自由に再設置することができます.キャラバンで持ち運びも可能なため,ガラクタ集めの旅もできます.</VME_DeconstructBuildingDesc>
+  <VME_CancelDeconstructBuildingLabel>撤去中止</VME_CancelDeconstructBuildingLabel>
+  <VME_CancelDeconstructBuildingDesc>撤去中止</VME_CancelDeconstructBuildingDesc>
+  <VME_BreakCorruption>我慢の限界:コズミックホラー</VME_BreakCorruption>
+  <VME_NeedsWater>通行可能な水の上に設置する必要があります.</VME_NeedsWater>
+  <VME_NeedsDistance>10タイル離して設置する必要があります.</VME_NeedsDistance>
+  <VME_SmallFishTrapDescriptionInspect>この檻が捕獲できる小型の魚</VME_SmallFishTrapDescriptionInspect>
+  <VME_SmallFishCaughtIn>次の小型の魚が釣れるまで</VME_SmallFishCaughtIn>
+  <VME_MediumFishTrapDescriptionInspect>この檻が捕獲できる中型の魚:</VME_MediumFishTrapDescriptionInspect>
+  <VME_MediumFishCaughtIn>次の中型の魚が釣れるまで</VME_MediumFishCaughtIn>
+  <VME_LargeFishTrapDescriptionInspect>この網が捕獲できる大型の魚:</VME_LargeFishTrapDescriptionInspect>
+  <VME_LargeFishCaughtIn>次の大型の魚が釣れるまで</VME_LargeFishCaughtIn>
+  <VME_UsesLeftUntilItBreaks>崩壊するまで: {0}</VME_UsesLeftUntilItBreaks>
+  <VME_PawnMustBeAnAdult>この儀式は成人だけが参加できます.</VME_PawnMustBeAnAdult>
+  <VME_Maintenance>虫の巣 耐久度: {0}%</VME_Maintenance>
+  <VME_MaintenanceNeeded>メンテナンスが必要です.0％になると巣が破壊されます.</VME_MaintenanceNeeded>
+  <VME_NotTheQueen>クイーンは鼻で笑った: "違う,そうじゃない."</VME_NotTheQueen>
+  <VME_NoValidPartySpot>有効なパーティスポット,または主催者が不在です.</VME_NoValidPartySpot>
+  <VME_CantStartRitualNoConvertee>儀式を始めるためには健康な囚人が必要です.</VME_CantStartRitualNoConvertee>
+  <VME_ViolentOutcome>{0}は私たちの信念を拒否したため,その命を絶ちました.</VME_ViolentOutcome>
+  <VME_NonViolentOutcome>{0}は私たちの信念を受け入れ,やむを得ず改宗しました.</VME_NonViolentOutcome>
+  <VME_RitualNeedsNightOrDarkness>儀式を始めるためにはマップ上の光量が50％以下の夜間が条件です.（日食はカウントされません）.</VME_RitualNeedsNightOrDarkness>
+  <VME_RitualNeedsClearWeather>儀式を始めるためには夜間の晴れた日に行う必要があります.</VME_RitualNeedsClearWeather>
+  <VME_BonfireDyingIn>大かがり火の強度:{0}%</VME_BonfireDyingIn>
+  <VEM_HighCorruption>堕落上昇 リスク</VEM_HighCorruption>
+  <VEM_HighCorruptionDesc>これらの入植者は"堕落"が高すぎます（90％以上）. "堕落"が100％になると心情が低下し,精神崩壊のリスクが高くなります.\n\n{0}</VEM_HighCorruptionDesc>
+  <VEM_LowCorruption>堕落低下 リスク</VEM_LowCorruption>
+  <VEM_LowCorruptionDesc>これらの入植者は"堕落"が低すぎます（10％以下）. "堕落"が0％になると,他の思想に簡単に流されてしまいます."堕落"を維持するために専用のオベリスクを建てるか,呪文詠唱の儀式を行って10％上昇させてください :\n\n{0}</VEM_LowCorruptionDesc>
+
+  <VME_MessageJunkChunkDrop>古代の宇宙船の残骸が近くに落ちました.撤去して持ち運ぶことができます.\n\nこのイベントは"ガラクタ愛好家"の思想を持つ入植者が居た場合に発生します.</VME_MessageJunkChunkDrop>
+  <VME_MessageRitualRoleMustBeCapableOfSocial>会話が可能な入植者である必要があります</VME_MessageRitualRoleMustBeCapableOfSocial>
+  <VME_NeedsExaltedPriesthood>この儀式は「神聖なモラルガイド」のミームが必要です</VME_NeedsExaltedPriesthood>
+
+
+  <!-- Mod options -->
+
+  <VME_Reset>リセット</VME_Reset>
+  <VME_Meme>ミーム最大値</VME_Meme>
+  <VME_Ritual>儀式最大値</VME_Ritual>
+  <VME_Styles>スタイル最大値</VME_Styles>
+  <VME_Relics>レリック最大値</VME_Relics>
+  <VME_Buildings>建築物最大値</VME_Buildings>
+  <VME_MemeAmount>ミームの最大許容値（デフォルトは4)</VME_MemeAmount>
+  <VME_MemeAmountTooltip>許可されるミームの最大数です. これはプレイヤーの思想にのみ適用されます.</VME_MemeAmountTooltip>
+  <VME_RitualAmount>儀式の最大許容値（デフォルトは6）（ゲームの再起動が必要）.</VME_RitualAmount>
+  <VME_RitualAmountTooltip>ミームに関係のない基本的な儀式の最大数です. 例外もあります.（ゲームの再起動が必要）ミームによって強制される儀式はこの上限にカウントされません.</VME_RitualAmountTooltip>
+  <VME_StylesAmount>スタイルの最大許容値（デフォルトは3）（ゲームの再起動が必要）.</VME_StylesAmount>
+  <VME_StylesAmountTooltip>スタイルの最大数です. これにより多くのスタイルを追加することができます（ゲームの再起動が必要）.</VME_StylesAmountTooltip>
+  <VME_RelicsAmount>レリックの最大許容値(デフォルトは3)</VME_RelicsAmount>
+  <VME_RelicsAmountTooltip>レリックの最大数です.</VME_RelicsAmountTooltip>
+  <VME_BuildingsAmount>建築物の最大許容値（デフォルトは2)</VME_BuildingsAmount>
+  <VME_BuildingsAmountTooltip>思想に関連する建築物の最大数です. これには祭壇やピクトグラムなどが含まれます.ミームで追加される建造物はこれに含まれません.</VME_BuildingsAmountTooltip>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_WickerManBurningBehaviour.roles.0.label>尋問者</VME_WickerManBurningBehaviour.roles.0.label>
+  <VME_WickerManBurningBehaviour.roles.1.label>囚人</VME_WickerManBurningBehaviour.roles.1.label>
+
+  <VME_WickerManBurningBehaviour.roles.0.missingDesc>囚人</VME_WickerManBurningBehaviour.roles.0.missingDesc>
+
+
+  <VME_WickerManBurningBehaviour.spectatorFilter.description>観衆は,ウィッカーマンが燃えるところを見届ける必要があります.</VME_WickerManBurningBehaviour.spectatorFilter.description>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Insectoids_Exalted.stages.0.label>虫を殺した</VME_Insectoids_Exalted.stages.0.label>
+  <VME_Insectoids_Exalted.stages.0.description>虫を殺してしまったことは私の心の汚点だ.</VME_Insectoids_Exalted.stages.0.description>
+
+  <VME_Insectoids_Despised.stages.0.label>虫を殺した</VME_Insectoids_Despised.stages.0.label>
+  <VME_Insectoids_Despised.stages.0.description>虫を殺した.私の勝利だ!</VME_Insectoids_Despised.stages.0.description>
+
+
+</LanguageData>

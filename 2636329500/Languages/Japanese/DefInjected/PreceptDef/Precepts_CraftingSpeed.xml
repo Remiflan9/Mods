@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_CraftingSpeed_Slower.label>遅い</VME_CraftingSpeed_Slower.label>
+  <VME_CraftingSpeed_Slower.description>腕利きの職人は決して急いではならない.作品の質が落ちないようするために.</VME_CraftingSpeed_Slower.description>
+
+  <VME_CraftingSpeed_SlowerForManual.label>遅い(非電力)</VME_CraftingSpeed_SlowerForManual.label>
+  <VME_CraftingSpeed_SlowerForManual.description>機械に頼らない手作業は効率が悪くなる.貴重な時間を浪費してはいけない.\n\n&lt;color=#E5E54C&gt;統計:&lt;/color&gt;\n - 電気を使わない作業台の速度：-25%.</VME_CraftingSpeed_SlowerForManual.description>
+
+
+</LanguageData>

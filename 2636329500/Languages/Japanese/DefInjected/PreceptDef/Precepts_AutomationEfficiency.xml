@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_AutomationEfficiency_Increased.label>増加</VME_AutomationEfficiency_Increased.label>
+  <VME_AutomationEfficiency_Increased.description>シンプルな弓の木工細工から壮大な工場まで,クラフトマスターは効率的な制作方法を熟知している.\n\n&lt;color=#E5E54C&gt;統計:&lt;/color&gt;\n - 電動作業台の速度: +50%.\n - VFE-Mの工場の速度: +25%.</VME_AutomationEfficiency_Increased.description>
+
+  <VME_AutomationEfficiency_Decreased.label>減少</VME_AutomationEfficiency_Decreased.label>
+  <VME_AutomationEfficiency_Decreased.description>先進的な機械や自動化された工場は,職人の仕事の精巧さを損なうため,敬遠するべきだ.\n\n&lt;color=#E5E54C&gt;統計:&lt;/color&gt;\n - 電動作業台の速度: -50%.\n - VFE-Mの工場の速度: -25%.</VME_AutomationEfficiency_Decreased.description>
+
+
+</LanguageData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_SmallFishingTrap.label>魚捕り罠(小型)</VME_SmallFishingTrap.label>
+  <VME_SmallFishingTrap.description>木材で作られた原始的な檻です.一度入ってきた魚は捕らえられて逃げることはできません.流れや魚の動きによって破壊されてしまうため,交換が必要になります.\n\nこれは小型の罠なので,小型サイズの魚しか釣れません.</VME_SmallFishingTrap.description>
+  <VME_SmallFishingTrap_Blueprint.label>魚捕り罠(小型)(設計)</VME_SmallFishingTrap_Blueprint.label>
+  <VME_SmallFishingTrap_Blueprint_Install.label>魚捕り罠(小型)(設計)</VME_SmallFishingTrap_Blueprint_Install.label>
+  <VME_SmallFishingTrap_Frame.label>魚捕り罠(小型)(施工)</VME_SmallFishingTrap_Frame.label>
+  <VME_SmallFishingTrap_Frame.description>木材で作られた原始的な檻です.一度入ってきた魚は捕らえられて逃げることはできません.流れや魚の動きによって破壊されてしまうため,交換が必要になります.\n\nこれは小型の罠なので,小型サイズの魚しか釣れません.</VME_SmallFishingTrap_Frame.description>
+
+  <VME_MediumFishingTrap.label>魚捕り罠(中型)</VME_MediumFishingTrap.label>
+  <VME_MediumFishingTrap.description>木材で作られた魚を捕獲するための原始的な罠です.一度入ってきた魚は捕らえられて逃げることはできません.流れや魚の動きによって破壊されてしまうため,交換が必要になります.\n\nこれは中型の罠なので,中型サイズの魚しか釣れません.</VME_MediumFishingTrap.description>
+  <VME_MediumFishingTrap_Blueprint.label>魚捕り罠(中型)(設計)</VME_MediumFishingTrap_Blueprint.label>
+  <VME_MediumFishingTrap_Blueprint_Install.label>魚捕り罠(中型)(設計)</VME_MediumFishingTrap_Blueprint_Install.label>
+  <VME_MediumFishingTrap_Frame.label>魚捕り罠(中型)(施工)</VME_MediumFishingTrap_Frame.label>
+  <VME_MediumFishingTrap_Frame.description>木材で作られた魚を捕獲するための原始的な罠です.一度入ってきた魚は捕らえられて逃げることはできません.流れや魚の動きによって破壊されてしまうため,交換が必要になります.\n\nこれは中型の罠なので,中型サイズの魚しか釣れません.</VME_MediumFishingTrap_Frame.description>
+
+  <VME_LargeFishingTrap.label>魚捕り網(大型)</VME_LargeFishingTrap.label>
+  <VME_LargeFishingTrap.description>木の棒と網で作られた魚を捕獲するための原始的な罠です.一度入ってきた魚は捕らえられて逃げることはできません.流れや魚の動きによって破壊されてしまうため,交換が必要になります.\n\nこれは大型の罠なので,大型サイズの魚しか釣れません.</VME_LargeFishingTrap.description>
+  <VME_LargeFishingTrap_Blueprint.label>魚捕り網(大型)(設計)</VME_LargeFishingTrap_Blueprint.label>
+  <VME_LargeFishingTrap_Blueprint_Install.label>魚捕り網(大型)(設計)</VME_LargeFishingTrap_Blueprint_Install.label>
+  <VME_LargeFishingTrap_Frame.label>魚捕り網(大型)(施工)</VME_LargeFishingTrap_Frame.label>
+  <VME_LargeFishingTrap_Frame.description>木の棒と網で作られた魚を捕獲するための原始的な罠です.一度入ってきた魚は捕らえられて逃げることはできません.流れや魚の動きによって破壊されてしまうため,交換が必要になります.\n\nこれは大型の罠なので,大型サイズの魚しか釣れません.</VME_LargeFishingTrap_Frame.description>
+
+
+</LanguageData>

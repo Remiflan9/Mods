@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_LeaderConversionRitual.label>改宗の儀式(リーダー)</VME_LeaderConversionRitual.label>
+  <VME_LeaderConversionRitual.description>あなたの思想に従うよう説得してください.上手く行けば彼らの思想に疑問を抱かせ改宗させることができるかもしれません.裏目に出た場合,彼らは自らの思想に確信を持つでしょう.\n\nこの儀式を特定の場所で開始するには,儀式の場か適した祭壇/イデオグラムが必要です.</VME_LeaderConversionRitual.description>
+
+  <VME_LeaderConvert.label>改宗(リーダー)</VME_LeaderConvert.label>
+  <VME_LeaderConvert.description>対象を説得者の思想に改宗させようとします.これによって対象の信念に対する確信を揺さぶります.低下する度合いは話者の交渉スキルに依存します.</VME_LeaderConvert.description>
+
+  <VME_LeaderPreachHealth.label>健康の教え(リーダー)</VME_LeaderPreachHealth.label>
+  <VME_LeaderPreachHealth.description>堅い思想を背景に怪我や病気の人に道徳的な力を説きます.対象者の傷の治癒速度と免疫力が高まります.</VME_LeaderPreachHealth.description>
+
+  <VME_LeaderReassure.label>安堵(リーダー)</VME_LeaderReassure.label>
+  <VME_LeaderReassure.description>対象の思想に対する確信を高めます.確信を取り戻せるかは話者の交渉スキルに依存します.</VME_LeaderReassure.description>
+
+  <VME_LeaderCounsel.label>助言(リーダー)</VME_LeaderCounsel.label>
+  <VME_LeaderCounsel.description>悲しい記憶の影響が消えるように助言を与えます.成功率は話者の交渉スキルと対象との交友関係に依存します.</VME_LeaderCounsel.description>
+
+
+</LanguageData>

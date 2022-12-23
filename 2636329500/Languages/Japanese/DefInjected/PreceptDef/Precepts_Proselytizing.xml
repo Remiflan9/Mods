@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_Proselytizing_Forceful.label>強引</VME_Proselytizing_Forceful.label>
+  <VME_Proselytizing_Forceful.description>その人が誤りを認めないというなら,私たちの信念を示すために暴力に頼ることもやぶさかではない.それが信条の義務なのだから.</VME_Proselytizing_Forceful.description>
+
+  <VME_Proselytizing_Never.label>禁止</VME_Proselytizing_Never.label>
+  <VME_Proselytizing_Never.description>誰もが自分の真実を持っているので,他人の信念や権利を尊重すべきだ.\n\n&lt;color=#E5E54C&gt;ゲーム上の効果:&lt;/color&gt;\n - モラルガイドの改宗の儀式と改宗能力を無効にします.</VME_Proselytizing_Never.description>
+
+
+</LanguageData>

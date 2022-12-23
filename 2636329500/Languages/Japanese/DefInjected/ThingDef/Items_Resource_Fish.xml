@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Fish -->
+
+  <VCEF_CrayfishItem.label>ザリガニ</VCEF_CrayfishItem.label>
+  <VCEF_CrayfishItem.description>生のザリガニです.ザリガニは小型のイセエビに似た淡水産の甲殻類です.淡水が流れている小川に生息する種と,沼や溝,水田などに生息する種がいます.\n\nこの獲物は漁業のミームによるパッシブ能力「名人の漁獲」により漁獲量が多く,同サイズの他の魚よりも2倍の栄養を摂取できます.</VCEF_CrayfishItem.description>
+
+  <VCEF_ButterFishItem.label>バターフィッシュ</VCEF_ButterFishItem.label>
+  <VCEF_ButterFishItem.description>生のバターフィッシュです.大西洋のバターフィッシュは,非常に薄くて深い体が特徴で,カレイの縁側に似ています.油分が多いことからバターのような名前がついています.\n\nこの獲物は漁業のミームによるパッシブ能力「名人の漁獲」により漁獲量が多く,同サイズの他の魚よりも2倍の栄養を摂取できます.</VCEF_ButterFishItem.description>
+
+  <VCEF_FreshwaterStingrayItem.label>淡水エイ</VCEF_FreshwaterStingrayItem.label>
+  <VCEF_FreshwaterStingrayItem.description>生の淡水エイです.海水ではなく淡水に生息する唯一のエイです.おとなしい性格ですが,太古の地球では,アマゾンの他の生物よりも年間に人間を傷つける数の方が多かったと言われています.\n\nこの獲物は漁業のミームによるパッシブ能力「名人の漁獲」により漁獲量が多く,同サイズの他の魚よりも2倍の栄養を摂取できます.</VCEF_FreshwaterStingrayItem.description>
+
+  <VCEF_FlyingFishItem.label>トビウオ</VCEF_FlyingFishItem.label>
+  <VCEF_FlyingFishItem.description>生のトビウオです.トビウオは,鳥のように空を飛ぶことはできませんが,翼のような長いヒレを使って水面から力強く飛び出すことができ,水面からかなりの距離を滑空することができます.\n\nこの獲物は漁業のミームによるパッシブ能力「名人の漁獲」により漁獲量が多く,同サイズの他の魚よりも2倍の栄養を摂取できます.</VCEF_FlyingFishItem.description>
+
+  <VCEF_ArapaimaItem.label>アラパイマ</VCEF_ArapaimaItem.label>
+  <VCEF_ArapaimaItem.description>生のアラパイマです.太古の地球では,世界最大級の淡水魚であり,体長は3mにも達していたとされています.そして,当時の重要な食用魚でした.\n\nこの獲物は漁業のミームによるパッシブ能力「名人の漁獲」により漁獲量が多く,同サイズの他の魚よりも2倍の栄養を摂取できます.</VCEF_ArapaimaItem.description>
+
+  <VCEF_ShortfinMakoSharkItem.label>アオザメ</VCEF_ShortfinMakoSharkItem.label>
+  <VCEF_ShortfinMakoSharkItem.description>生のアオザメです.外洋に生息する大型の捕食性のサメで,最も速いサメと言われています.驚異的な跳躍力で知られており,狩りの際には水面から飛び降りることもあります..\n\nこの獲物は漁業のミームによるパッシブ能力「名人の漁獲」により漁獲量が多く,同サイズの他の魚よりも2倍の栄養を摂取できます.</VCEF_ShortfinMakoSharkItem.description>
+
+
+</LanguageData>

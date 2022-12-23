@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Darklight_NormalPreferred.label>普通のライトが良い</VME_Darklight_NormalPreferred.label>
+  <VME_Darklight_NormalPreferred.description>ダークライトは光という奇跡を自然に反した貧相なものにしてしまうので避けるべきだ.</VME_Darklight_NormalPreferred.description>
+
+  <VME_DarknessCombat_Despised.label>軽蔑</VME_DarknessCombat_Despised.label>
+  <VME_DarknessCombat_Despised.description>闇の中での戦闘は戦いにくいだけではなく,常に流血をしてはならない危険があり,敵の命を奪う前に自分の目を覗き込まれないようにする必要があるため避けるべきだ.</VME_DarknessCombat_Despised.description>
+
+
+</LanguageData>

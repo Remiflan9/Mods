@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_TaintedApparel_DontCare.label>気にしない</VME_TaintedApparel_DontCare.label>
+  <VME_TaintedApparel_DontCare.description>死んだ人の血や汚れがついている衣服を着ても,まったく躊躇することはない.</VME_TaintedApparel_DontCare.description>
+
+  <VME_TaintedApparel_Disapproved.label>反対</VME_TaintedApparel_Disapproved.label>
+  <VME_TaintedApparel_Disapproved.description>死んだ人の服を着るのは嫌なことだ.</VME_TaintedApparel_Disapproved.description>
+
+  <VME_TaintedApparel_Abhorrent.label>嫌悪</VME_TaintedApparel_Abhorrent.label>
+  <VME_TaintedApparel_Abhorrent.description>死んだ人が使っていた服を着ることほどこの世で嫌なことはない.</VME_TaintedApparel_Abhorrent.description>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_LeaderConversionBehavior.roles.0.label>話者</VME_LeaderConversionBehavior.roles.0.label>
+  <VME_LeaderConversionBehavior.roles.1.label>被改宗者</VME_LeaderConversionBehavior.roles.1.label>
+
+  <VME_LeaderConversionBehavior.spectatorGerund>聴衆</VME_LeaderConversionBehavior.spectatorGerund>
+  <VME_LeaderConversionBehavior.spectatorsLabel>聴衆</VME_LeaderConversionBehavior.spectatorsLabel>
+
+
+</LanguageData>

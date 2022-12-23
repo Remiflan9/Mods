@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Firefighting_Abhorrent.stages.0.label>消火した</VME_Firefighting_Abhorrent.stages.0.label>
+  <VME_Firefighting_Abhorrent.stages.0.description>私は火を消さなければならなかった.何という冒涜行為だ.</VME_Firefighting_Abhorrent.stages.0.description>
+
+  <VME_Firefighting_Preferred.stages.0.label>消火した</VME_Firefighting_Preferred.stages.0.label>
+  <VME_Firefighting_Preferred.stages.0.description>私は火を消した.なんとも爽快な気分になった.</VME_Firefighting_Preferred.stages.0.description>
+
+
+</LanguageData>

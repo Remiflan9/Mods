@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ranching animal mass per capita -->
+
+  <VME_Ranching_Disliked.stages.0.label>ペンマーカーがない</VME_Ranching_Disliked.stages.0.label>
+  <VME_Ranching_Disliked.stages.0.description>ここに投獄されている動物はいない.これが本来の姿だ.</VME_Ranching_Disliked.stages.0.description>
+  <VME_Ranching_Disliked.stages.1.label>ペンマーカーがある</VME_Ranching_Disliked.stages.1.label>
+  <VME_Ranching_Disliked.stages.1.description>私たちのコロニーにペンマーカーがある.動物は私たちの奴隷ではないし,監禁されるべきではない.あまりにも残酷すぎる.</VME_Ranching_Disliked.stages.1.description>
+  <VME_Ranching_Disliked.stages.2.label>ペンマーカーがある</VME_Ranching_Disliked.stages.2.label>
+  <VME_Ranching_Disliked.stages.2.description>私たちのコロニーにペンマーカーがある.動物は私たちの奴隷ではないし,監禁されるべきではない.あまりにも残酷すぎる.</VME_Ranching_Disliked.stages.2.description>
+  <VME_Ranching_Disliked.stages.3.label>畜産工場</VME_Ranching_Disliked.stages.3.label>
+  <VME_Ranching_Disliked.stages.3.description>私たちのコロニーにはあまりにも多くの檻があり,殺処分のために飼育されている哀れな動物たちが窮屈な環境に置かれている.もうウンザリだ!</VME_Ranching_Disliked.stages.3.description>
+
+  <VME_Ranching_Disliked_AttackedAnimal.stages.0.label>動物を攻撃した</VME_Ranching_Disliked_AttackedAnimal.stages.0.label>
+  <VME_Ranching_Disliked_AttackedAnimal.stages.0.description>私は動物を攻撃しなければならなかった.彼らにも自由に生きる権利があるというのに.</VME_Ranching_Disliked_AttackedAnimal.stages.0.description>
+
+  <VME_Ranching_Disliked_SowedPlant.stages.0.label>農作物の種を植えた</VME_Ranching_Disliked_SowedPlant.stages.0.label>
+  <VME_Ranching_Disliked_SowedPlant.stages.0.description>私は人間が摂るべき真の食材を植えた.驚くべきことに,残酷さや虐待から解放された真の食べ物なのだ.</VME_Ranching_Disliked_SowedPlant.stages.0.description>
+
+
+</LanguageData>

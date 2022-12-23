@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Mood_DictatedByStars.stages.0.label>星と調和した</VME_Mood_DictatedByStars.stages.0.label>
+  <VME_Mood_DictatedByStars.stages.0.description>芸術的な星たちが私たちを微笑んでいる.彼らの慈悲深さは他に類を見ない.</VME_Mood_DictatedByStars.stages.0.description>
+  <VME_Mood_DictatedByStars.stages.1.label>完璧な星々</VME_Mood_DictatedByStars.stages.1.label>
+  <VME_Mood_DictatedByStars.stages.1.description>星たちは幸運と成功の物語を示していた.</VME_Mood_DictatedByStars.stages.1.description>
+  <VME_Mood_DictatedByStars.stages.2.label>素晴らしい星々</VME_Mood_DictatedByStars.stages.2.label>
+  <VME_Mood_DictatedByStars.stages.2.description>星たちは私たちに心を落ち着かせるように告げていた.</VME_Mood_DictatedByStars.stages.2.description>
+  <VME_Mood_DictatedByStars.stages.3.label>良い星々</VME_Mood_DictatedByStars.stages.3.label>
+  <VME_Mood_DictatedByStars.stages.3.description>星たちは今も好調であることを私たちに示してくれた.</VME_Mood_DictatedByStars.stages.3.description>
+  <VME_Mood_DictatedByStars.stages.4.label>無関心な星々</VME_Mood_DictatedByStars.stages.4.label>
+  <VME_Mood_DictatedByStars.stages.4.description>星たちは戯言や矛盾をささやき続け,私たちの運命は不明瞭だった.</VME_Mood_DictatedByStars.stages.4.description>
+  <VME_Mood_DictatedByStars.stages.5.label>悪い星々</VME_Mood_DictatedByStars.stages.5.label>
+  <VME_Mood_DictatedByStars.stages.5.description>夜空の星たちは不吉な兆候を示していた.</VME_Mood_DictatedByStars.stages.5.description>
+  <VME_Mood_DictatedByStars.stages.6.label>沈黙の星々</VME_Mood_DictatedByStars.stages.6.label>
+  <VME_Mood_DictatedByStars.stages.6.description>星の海はいつもより曇っていて,星たちは身を隠してしまい,私たちの運命を告げてはくれなかった</VME_Mood_DictatedByStars.stages.6.description>
+  <VME_Mood_DictatedByStars.stages.7.label>不吉な星々</VME_Mood_DictatedByStars.stages.7.label>
+  <VME_Mood_DictatedByStars.stages.7.description>私たちが星たちからのご加護を受けていないことを示すものだった.</VME_Mood_DictatedByStars.stages.7.description>
+  <VME_Mood_DictatedByStars.stages.8.label>反抗的な星々</VME_Mood_DictatedByStars.stages.8.label>
+  <VME_Mood_DictatedByStars.stages.8.description>星たちが私に向かって一直線に並び,それはまるで私たちの死期が近いことを示すようなものだった.私たちはまもなく,ただの塵になるのだろうか.</VME_Mood_DictatedByStars.stages.8.description>
+
+  <VME_Mood_Shared.stages.0.label>喜びの共感</VME_Mood_Shared.stages.0.label>
+  <VME_Mood_Shared.stages.0.description>皆と同じように私もそう思う.</VME_Mood_Shared.stages.0.description>
+  <VME_Mood_Shared.stages.1.label>悲しみの共感</VME_Mood_Shared.stages.1.label>
+  <VME_Mood_Shared.stages.1.description>皆と同じように私もそう思う.</VME_Mood_Shared.stages.1.description>
+
+  <VME_Mood_LowExpectations.stages.0.label>憂鬱</VME_Mood_LowExpectations.stages.0.label>
+  <VME_Mood_LowExpectations.stages.0.description>ただなんとなく機嫌が悪い.この惑星は敵ばかりだ.</VME_Mood_LowExpectations.stages.0.description>
+
+  <VME_Mood_HighExpectations.stages.0.label>機嫌が良い</VME_Mood_HighExpectations.stages.0.label>
+  <VME_Mood_HighExpectations.stages.0.description>ただなんとなく機嫌が良い.この惑星は素晴らしいところだ.</VME_Mood_HighExpectations.stages.0.description>
+
+
+</LanguageData>

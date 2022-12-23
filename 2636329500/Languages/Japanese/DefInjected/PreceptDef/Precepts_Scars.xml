@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Scars_Honorable.label>尊重</VME_Scars_Honorable.label>
+  <VME_Scars_Honorable.description>傷は名誉と強さの印であり,傷を負ってもなお戦い続けることは素晴らしい行為に他ならない.</VME_Scars_Honorable.description>
+
+  <VME_Scars_Disgusting.label>気持ち悪い</VME_Scars_Disgusting.label>
+  <VME_Scars_Disgusting.description>傷跡のついた体は嫌だ.</VME_Scars_Disgusting.description>
+
+  <VME_Scars_Honorable.comps.0.thoughtStageDescriptions.0>軽い傷跡</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.0>
+
+  <VME_Scars_Honorable.comps.0.thoughtStageDescriptions.1>傷跡</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.1>
+
+  <VME_Scars_Honorable.comps.0.thoughtStageDescriptions.2>重い傷跡</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.2>
+
+  <VME_Scars_Honorable.comps.0.thoughtStageDescriptions.3>とても激しい傷跡</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.3>
+
+  <VME_Scars_Honorable.comps.0.thoughtStageDescriptions.4>無数の戦歴の傷跡</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.4>
+
+  <VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.0>軽い傷跡</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.0>
+
+  <VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.1>傷跡</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.1>
+
+  <VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.2>重い傷跡</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.2>
+
+  <VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.3>とても激しい傷跡</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.3>
+
+  <VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.4>無数の戦歴の傷跡</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.4>
+
+
+</LanguageData>

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <!-- Foot -->
+
+  <VME_FleshcraftedFoot.label>継ぎ接ぎの足</VME_FleshcraftedFoot.label>
+  <VME_FleshcraftedFoot.description>死体から加工して作られた生物学的な人間の足です.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_FleshcraftedFoot.description>
+  
+  <!-- Arm -->
+
+  <VME_FleshcraftedArm.label>継ぎ接ぎの腕</VME_FleshcraftedArm.label>
+  <VME_FleshcraftedArm.description>死体から加工して作られた生物学的な人間の腕です.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_FleshcraftedArm.description>
+
+
+  <!-- Hand -->
+
+  <VME_FleshcraftedHand.label>継ぎ接ぎの手</VME_FleshcraftedHand.label>
+  <VME_FleshcraftedHand.description>死体から加工して作られた生物学的な人間の手です.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_FleshcraftedHand.description>
+
+
+  <!-- Finger -->
+
+  <VME_FleshcraftedFinger.label>継ぎ接ぎの指</VME_FleshcraftedFinger.label>
+  <VME_FleshcraftedFinger.description>死体から加工して作られた生物学的な人間の指です.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_FleshcraftedFinger.description>
+
+
+  <!-- Toe -->
+
+  <VME_FleshcraftedToe.label>継ぎ接ぎの足趾</VME_FleshcraftedToe.label>
+  <VME_FleshcraftedToe.description>死体から加工して作られた生物学的な人間の足趾です.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_FleshcraftedToe.description>
+
+
+  <!-- Leg -->
+
+  <VME_FleshcraftedLeg.label>継ぎ接ぎの脚</VME_FleshcraftedLeg.label>
+  <VME_FleshcraftedLeg.description>死体から加工して作られた生物学的な人間の脚です.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_FleshcraftedLeg.description>
+
+
+  <!-- Heart -->
+
+  <VME_FleshcraftedHeart.label>継ぎ接ぎの心臓</VME_FleshcraftedHeart.label>
+  <VME_FleshcraftedHeart.description>死体から加工して作られた生物学的な人間の心臓です. バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_FleshcraftedHeart.description>
+
+
+  <!-- Lung -->
+
+  <VME_FleshcraftedLung.label>継ぎ接ぎの肺</VME_FleshcraftedLung.label>
+  <VME_FleshcraftedLung.description>死体から加工して作られた生物学的な人間の肺です.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_FleshcraftedLung.description>
+
+
+  <!-- Kidney -->
+
+  <VME_FleshcraftedKidney.label>継ぎ接ぎの腎臓</VME_FleshcraftedKidney.label>
+  <VME_FleshcraftedKidney.description>死体から加工して作られた生物学的な人間の腎臓です.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_FleshcraftedKidney.description>
+
+
+  <!-- Liver -->
+
+  <VME_FleshcraftedLiver.label>継ぎ接ぎの肝臓</VME_FleshcraftedLiver.label>
+  <VME_FleshcraftedLiver.description>死体から加工して作られた生物学的な人間の肝臓です.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_FleshcraftedLiver.description>
+
+
+  <!-- Eye -->
+
+  <VME_FleshcraftedEye.label>継ぎ接ぎの眼</VME_FleshcraftedEye.label>
+  <VME_FleshcraftedEye.description>死体から加工して作られた生物学的な人間の眼です.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_FleshcraftedEye.description>
+
+
+  <!-- Ear -->
+
+  <VME_FleshcraftedEar.label>継ぎ接ぎの耳</VME_FleshcraftedEar.label>
+  <VME_FleshcraftedEar.description>死体から加工して作られた生物学的な人間の耳です.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_FleshcraftedEar.description>
+
+
+  <!-- Nose -->
+
+  <VME_FleshcraftedNose.label>継ぎ接ぎの鼻</VME_FleshcraftedNose.label>
+  <VME_FleshcraftedNose.description>死体から加工して作られた生物学的な人間の鼻です.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_FleshcraftedNose.description>
+
+
+  <!-- Jaw -->
+
+  <VME_FleshcraftedJaw.label>継ぎ接ぎの顎</VME_FleshcraftedJaw.label>
+  <VME_FleshcraftedJaw.description>死体から加工して作られた生物学的な人間の顎です.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_FleshcraftedJaw.description>
+
+
+  <!-- Stomach -->
+
+  <VME_FleshcraftedStomach.label>継ぎ接ぎの胃</VME_FleshcraftedStomach.label>
+  <VME_FleshcraftedStomach.description>死体から加工して作られた生物学的な人間の胃です.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_FleshcraftedStomach.description>
+
+
+  <!-- Tongue -->
+
+  <VME_FleshcraftedTongue.label>継ぎ接ぎの舌</VME_FleshcraftedTongue.label>
+  <VME_FleshcraftedTongue.description>死体から加工して作られた生物学的な人間の舌です.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_FleshcraftedTongue.description>
+
+
+  <!-- Spine -->
+
+  <VME_FleshcraftedSpine.label>継ぎ接ぎの脊椎</VME_FleshcraftedSpine.label>
+  <VME_FleshcraftedSpine.description>死体から加工して作られた生物学的な人間の脊椎です.バイオクラフティングの思想を持つ入植者には安全に移植できますが,思想を持たない入植者は拒絶反応による感染症を引き起こします.</VME_FleshcraftedSpine.description>
+
+
+</LanguageData>

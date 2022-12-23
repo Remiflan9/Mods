@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Expectations_High.label>高い</VME_Expectations_High.label>
+  <VME_Expectations_High.description>快適な暮らしは大切だ.気分転換で休憩したり,褒美があるかもしれない.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - コロニー内全員の期待の値が1増えます.</VME_Expectations_High.description>
+
+  <VME_Expectations_Low.label>低い</VME_Expectations_Low.label>
+  <VME_Expectations_Low.description>この惑星は人を寄せ付けない醜い場所だ,快適な生活を期待してはいけない,\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - コロニー内全員の期待の値が1減ります.</VME_Expectations_Low.description>
+
+
+</LanguageData>

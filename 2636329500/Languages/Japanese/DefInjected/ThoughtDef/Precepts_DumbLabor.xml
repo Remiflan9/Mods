@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_DumbLabor_Exalted.stages.0.label>雑用の仕事をした</VME_DumbLabor_Exalted.stages.0.label>
+  <VME_DumbLabor_Exalted.stages.0.description>私は労働者階級の素晴らしいお手本だ.</VME_DumbLabor_Exalted.stages.0.description>
+
+  <VME_DumbLabor_Liked.stages.0.label>雑用の仕事をした</VME_DumbLabor_Liked.stages.0.label>
+  <VME_DumbLabor_Liked.stages.0.description>汗をかいたけど誠実な仕事だった</VME_DumbLabor_Liked.stages.0.description>
+
+  <VME_DumbLabor_Disliked.stages.0.label>雑用の仕事をした</VME_DumbLabor_Disliked.stages.0.label>
+  <VME_DumbLabor_Disliked.stages.0.description>私は雑用をしなければならなかった.面倒くさかった.</VME_DumbLabor_Disliked.stages.0.description>
+
+  <VME_DumbLabor_Horrible.stages.0.label>雑用の仕事をした</VME_DumbLabor_Horrible.stages.0.label>
+  <VME_DumbLabor_Horrible.stages.0.description>私は雑用を強要された.こんなの全く望んでいない.なんておぞましいことか.</VME_DumbLabor_Horrible.stages.0.description>
+
+
+</LanguageData>

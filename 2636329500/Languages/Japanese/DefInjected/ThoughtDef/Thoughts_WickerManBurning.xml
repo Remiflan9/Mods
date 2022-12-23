@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_TerribleWickerManBurning.stages.0.label>酷い火祭り</VME_TerribleWickerManBurning.stages.0.label>
+  <VME_TerribleWickerManBurning.stages.0.description>儀式している時に中から腐ったベーコンのような臭いがした.そして不可解なことに,囚人は「ダメだ! 蜂はダメだ!」と叫び続けていた.あれはいったい何だったのだろう?</VME_TerribleWickerManBurning.stages.0.description>
+
+  <VME_LacklusterWickerManBurning.stages.0.label>どんよりとした火祭り</VME_LacklusterWickerManBurning.stages.0.label>
+  <VME_LacklusterWickerManBurning.stages.0.description>囚人はあまりにも呆気なく燃え尽きてしまい,炎上してもあまり気分が高揚しなかった.</VME_LacklusterWickerManBurning.stages.0.description>
+
+  <VME_GoodWickerManBurning.stages.0.label>良い火祭り</VME_GoodWickerManBurning.stages.0.label>
+  <VME_GoodWickerManBurning.stages.0.description>囚人の苦悩に満ちた叫び声は,長く私たちの心に響き,また一つの魂が炎に包まれていった.</VME_GoodWickerManBurning.stages.0.description>
+
+  <VME_GloriousWickerManBurning.stages.0.label>輝かしい火祭り</VME_GloriousWickerManBurning.stages.0.label>
+  <VME_GloriousWickerManBurning.stages.0.description>囚人の暴れっぷりや,聖なる炎に魂が焼き尽くされていく恐怖の叫び声を私たちは忘れないだろう.</VME_GloriousWickerManBurning.stages.0.description>
+
+
+</LanguageData>

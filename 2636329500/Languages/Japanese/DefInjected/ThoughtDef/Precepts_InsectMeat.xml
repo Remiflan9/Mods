@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts -->
+
+  <VME_AteInsectMeat_Sacrilegious.stages.0.label>虫の肉を食べた</VME_AteInsectMeat_Sacrilegious.stages.0.label>
+  <VME_AteInsectMeat_Sacrilegious.stages.0.description>虫の肉を食べた.これは神への冒涜だ.どうしてこんなことを?</VME_AteInsectMeat_Sacrilegious.stages.0.description>
+
+  <VME_AteInsectMeatAsIngredient_Sacrilegious.stages.0.label>調理された虫を食べた</VME_AteInsectMeatAsIngredient_Sacrilegious.stages.0.label>
+  <VME_AteInsectMeatAsIngredient_Sacrilegious.stages.0.description>虫の肉が入った食事を食べた.これは神への冒涜だ.どうしてこんなことを?</VME_AteInsectMeatAsIngredient_Sacrilegious.stages.0.description>
+
+
+</LanguageData>

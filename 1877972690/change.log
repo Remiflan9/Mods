@@ -1,0 +1,105 @@
+﻿1.0.30
+- tightened up a xml patch for MendAndRecycle to not interfere with other mods that unfortunately use exactly the same object names;
+
+1.0.29
+- fixed a problem due to which corpses of animals belonged to enemy or your faction wouldn't show butcher and cremate designations;
+
+1.0.28
+- 1.4. Will it break?
+
+1.0.27+
+- japanese translation by Djur13;
+
+1.0.27
+- fixed a bug due to which pawns wouldn't pick the closest station to work on a designated item;
+- addressed an issue due to which pawns would get stuck trying to work on a designation that's not valid anymore;
+
+1.0.26
+- a patch broke the mod, made a quick fix;
+
+1.0.25
+- whooptiedoo 1.3;
+
+1.0.24
+- from now on, if you use BetterLoading, you have to mind your mod list order on your own;
+
+1.0.23
+- yet another change to how gizmos are updating. Now it wouldn't update when buildings are destroyed or added unless the game is reloaded! I just can't quite nail it, aren't I? Added special events when selection of items is changed. Now gizmos update each time selected items are changed, and get FIXED after that, so there should be no persistent lag any more, maybe a tiny hick up when new object is selected;
+
+1.0.22
+- added a bug in previous update: only one designation would be checked at all times. Fixed it. I hope that wasn't a reason, why previous update had a positive impact on lag :|;
+
+1.0.21
+- did some work reducing lag for heavy moded games. Not much, but it's something;
+
+1.0.20
+- added new "default" designation icon;
+- fixed a bug due to which designation buttons wouldn't update if you pick same items, but of different mat;
+- made it possible for a mod to utilize WorkTab mod priorities.
+
+1.0.19
+- made a fix that should solve an issue that probably caused some compatibility issues;
+
+1.0.18+
+- added SmeltApparel to the list of vanilla actions;
+- changed hotkey for "Burn" action to match "Destroy" to make them interchangeable;
+
+1.0.18
+- made new icons for all vanilla designations;
+- added hotkeys for almost all vanilla designations;
+- now when you designate an item, all other designations are removed from it;
+
+1.0.17
+- changed chunk icons from mining to deconstruction. Someday I'll make proper ones. I want to believe;
+
+1.0.16
+- fixed designation button still displayed after pressing it, therefore fixed an error caused by  multiple designation of the same item;
+- added a workaround for BetterLoading;
+
+1.0.15
+- little compatibility improvement suggested by jptrrs (for Human Resources mod);
+
+1.0.14
+- updated for 1.2;
+
+1.0.13
+- made changes that should remove slowdown when selecting a lot of items at the same time. Not effective if you select a lot of items of different types though. That's a sacrifice that must be done, I guess;
+
+1.0.12
+- added options to hide designations when they're not usable;
+
+1.0.11
+- together with Samboy figured out an issue behind incompatibility with BetterLoading. Should be working now.
+
+1.0.10
+- updated how icons are drawn. Now buttons don't get disfigured by wrong scaling, icons get a picture of currently existing building on the map (or no icon if there is no building). I wish I could do something about designation markers;
+- fixed designations getting removed the same moment a pawn decides to do anything with a designated item. Bug was added with Rimword 1.1 update;
+
+1.0.9
+- officially added Harmony dependency;
+
+1.0.8
+- accidentally fixed mechanics that I was making for Mend & Recycle, and other mods with that kind of special jobs, but didn't finish. So it works now, I guess?
+- fixed a problem, due to which designation wouldn't be removed after job is done;
+
+1.0.7
+- updated for RW 1.1;
+
+1.0.6
+- added some paranoid checks for better mod compatibility;
+
+1.0.5
+- fixed an issue that caused an error when MicroDesignations, Hospitality and Medical Supplements are used together;
+
+1.0.4
+- added extra reservation check to avoid "no job" error;
+
+1.0.2
+- dramatically reduced, how much calculations must be done to check if designation is available for exact item, significantly reducing possible lag in games with massive amount of content adding mods;
+
+1.0.1
+- fixed filtering issue that allowed rotting corpses to be butchered;
+- fixed filtering issue that disallowed cremation of animal corpses.
+
+1.0.0
+- happy release day!

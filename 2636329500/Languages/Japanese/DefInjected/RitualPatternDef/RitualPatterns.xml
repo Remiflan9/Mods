@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+　<VME_IncantationPattern.ritualExplanation>詠唱の儀式を行うと,参加者の”堕落"が10％増加します.ただし"堕落"が100％に達すると,エルドリッチのまじないによって精神崩壊するリスクが高まります.</VME_IncantationPattern.ritualExplanation>
+
+　<VME_SlaveEmancipationPattern.ritualExplanation>奴隷解放の儀式を行うと,参加した全ての奴隷が解放されます.儀式の質が高ければ,奴隷たちがコロニーに加入する確率も高くなります.</VME_SlaveEmancipationPattern.ritualExplanation>
+
+　<VME_LeaderConversionPattern.ritualExplanation>成功した場合,対象者の信仰度が低下するか,もしくはすぐに改宗します.ただし裏目に出れば,自身の思想への信仰度が増します.</VME_LeaderConversionPattern.ritualExplanation>
+
+
+　<VME_LeadershipChallengeRitual.ritualExpectedDesc>{IDEO}のメンバーの中に現在のリーダーよりも優れた格闘スキルを持った入植者が居ます.{MEMBERS}は最強のリーダーを決めるために{RITUAL_labelDef}が行われることを待望しています.</VME_LeadershipChallengeRitual.ritualExpectedDesc>
+
+　<VME_CeremonialSuicideRitual.ritualExpectedDesc>{IDEO}のメンバーが敵との名誉を賭けた戦闘で2回敗北したため,{MEMBERS}はコロニーの不名誉を清めるために{RITUAL_labelDef}が行われることを待望しています.</VME_CeremonialSuicideRitual.ritualExpectedDesc>
+
+</LanguageData>

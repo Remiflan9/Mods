@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Death_DontCare.label>気にしない</VME_Death_DontCare.label>
+  <VME_Death_DontCare.description>人の死は避けられない運命だ.味方を失っても,敵を倒しても,それは考えてはいけない.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - コロニーの入植者が死亡したときに心情の効果が得られなくなります.</VME_Death_DontCare.description>
+
+  <VME_Death_Normal.label>普通</VME_Death_Normal.label>
+  <VME_Death_Normal.description>人の死は仕方ないことだ.人生でよくある出来事の一つにすぎない.</VME_Death_Normal.description>
+
+  <VME_Death_Troubling.label>不安</VME_Death_Troubling.label>
+  <VME_Death_Troubling.description>人の死は避けられないが,私たちはできるだけそのことに囚われず,その現実を思い起こさないようにしたい.</VME_Death_Troubling.description>
+
+
+</LanguageData>

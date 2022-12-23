@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Defeat_Dishonorable.stages.0.label>戦闘に敗れた</VME_Defeat_Dishonorable.stages.0.label>
+  <VME_Defeat_Dishonorable.stages.0.description>私は戦闘に敗れた.このことで,私に大きな不名誉をもたらした..</VME_Defeat_Dishonorable.stages.0.description>
+
+  <VME_SecondDefeat_Dishonorable.stages.0.label>戦闘に2度も敗れた</VME_SecondDefeat_Dishonorable.stages.0.label>
+  <VME_SecondDefeat_Dishonorable.stages.0.description>私はまたしても戦闘で敗れた.私の不名誉は計り知れない.</VME_SecondDefeat_Dishonorable.stages.0.description>
+
+
+</LanguageData>

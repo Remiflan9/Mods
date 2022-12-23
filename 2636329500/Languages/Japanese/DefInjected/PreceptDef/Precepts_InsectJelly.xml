@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_InsectJellyEaten_Neutral_Classic.label>中立</VME_InsectJellyEaten_Neutral_Classic.label>
+  <VME_InsectJellyEaten_Neutral_Classic.description>その起源には疑問はあるものの,インセクトゼリーは滑らかでリッチで栄養価が高い食材だ.</VME_InsectJellyEaten_Neutral_Classic.description>
+
+  <VME_InsectJellyEaten_Loved_Classic.label>大好き</VME_InsectJellyEaten_Loved_Classic.label>
+  <VME_InsectJellyEaten_Loved_Classic.description>インセクトゼリーは,完璧な生物からの贈り物である神のアンブロシアだ.</VME_InsectJellyEaten_Loved_Classic.description>
+
+
+</LanguageData>

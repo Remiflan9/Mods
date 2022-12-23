@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts -->
+
+  <VME_Slavery_Forbidden_SlavesInColony.stages.0.label>解放されてない奴隷がいる</VME_Slavery_Forbidden_SlavesInColony.stages.0.label>
+  <VME_Slavery_Forbidden_SlavesInColony.stages.0.description>コロニーには奴隷がいる.彼らを一刻も早く解放しなければならない.</VME_Slavery_Forbidden_SlavesInColony.stages.0.description>
+
+  <VME_Slavery_Forbidden_HasBeenASlave.stages.0.label>奴隷制の苦しみ</VME_Slavery_Forbidden_HasBeenASlave.stages.0.label>
+
+
+</LanguageData>

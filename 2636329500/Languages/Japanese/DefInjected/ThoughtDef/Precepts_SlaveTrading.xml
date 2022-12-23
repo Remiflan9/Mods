@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts -->
+
+  <VME_SoldSlave_Know_Forbidden.stages.0.label>奴隷を売った</VME_SoldSlave_Know_Forbidden.stages.0.label>
+
+  <VME_SoldSlave_Know_Forbidden_Mood.stages.0.label>奴隷を売った!</VME_SoldSlave_Know_Forbidden_Mood.stages.0.label>
+  <VME_SoldSlave_Know_Forbidden_Mood.stages.0.description>奴隷貿易という忌まわしい行為に参加してしまった.これは酷い辱めだ.</VME_SoldSlave_Know_Forbidden_Mood.stages.0.description>
+
+  <VME_BoughtSlave_Know_Forbidden_Mood.stages.0.label>奴隷を買った!</VME_BoughtSlave_Know_Forbidden_Mood.stages.0.label>
+  <VME_BoughtSlave_Know_Forbidden_Mood.stages.0.description>悪の奴隷商人から奴隷を救った!</VME_BoughtSlave_Know_Forbidden_Mood.stages.0.description>
+
+
+</LanguageData>

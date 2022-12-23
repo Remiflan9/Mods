@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Alcohol_Demanded.label>要求</VME_Alcohol_Demanded.label>
+  <VME_Alcohol_Demanded.description>スピリッツ,酒,ソース,何でもいい,私たちはアルコールを望んでいる.少なくとも,たまに飲むことは推奨されるべきで,禁酒など考えてはならない.</VME_Alcohol_Demanded.description>
+
+  <VME_Alcohol_Desired.label>望ましい</VME_Alcohol_Desired.label>
+  <VME_Alcohol_Desired.description>お酒はほどほどに飲めば楽しいものだ.</VME_Alcohol_Desired.description>
+
+  <VME_Alcohol_MildAbstinence.label>軽度の禁酒</VME_Alcohol_MildAbstinence.label>
+  <VME_Alcohol_MildAbstinence.description>アルコールは少量であれば問題はないが,できるだけ控えるべきだ.</VME_Alcohol_MildAbstinence.description>
+
+
+  <VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.0>酒が足りない</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.0>
+  <VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.1>酒を望む</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.1>
+  <VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.2>酒が飲みたい</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.2>
+  <VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.3>酒が飲みたい</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.3>
+  <VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.4>酒が飲みたい</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.4>
+
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.0>酒がない</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.0>
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.1>酒がない</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.1>
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.2>酒が欲しい</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.2>
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.3>酒に飢えた</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.3>
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.4>酒を懇願</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.4>
+
+  <VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.0>酒を飲んだ</VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.0>
+  <VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.1>禁酒した</VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.1>
+
+</LanguageData>

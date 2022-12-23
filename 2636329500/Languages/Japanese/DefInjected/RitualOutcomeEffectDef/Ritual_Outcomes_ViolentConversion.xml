@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_ViolentConversionRitualOutcome.description>脅迫的な強制改宗は,50％の確率で参加者を完全に自分の思想に改宗させますが,失敗すれば対象は処刑されます.儀式の質に応じて参加者は{MOODDAYS}日間, {MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</VME_ViolentConversionRitualOutcome.description>
+  <VME_ViolentConversionRitualOutcome.outcomeChances.0.label>ぎこちない</VME_ViolentConversionRitualOutcome.outcomeChances.0.label>
+  <VME_ViolentConversionRitualOutcome.outcomeChances.0.description>{0}はぎこちないものでした.スピーチは長引き,なにも実らない会話になってしまい,主張も曖昧で説得力に欠けていました.</VME_ViolentConversionRitualOutcome.outcomeChances.0.description>
+  <VME_ViolentConversionRitualOutcome.outcomeChances.1.label>満足</VME_ViolentConversionRitualOutcome.outcomeChances.1.label>
+  <VME_ViolentConversionRitualOutcome.outcomeChances.1.description>{0}は満足のいくものでした.スピーチは心を揺さぶられ,楽しく聞くことができました.</VME_ViolentConversionRitualOutcome.outcomeChances.1.description>
+  <VME_ViolentConversionRitualOutcome.outcomeChances.2.label>壮観</VME_ViolentConversionRitualOutcome.outcomeChances.2.label>
+  <VME_ViolentConversionRitualOutcome.outcomeChances.2.description>{0}は素晴らしいものでした!きっと,私たちの信念は他の誰よりも優先されるでしょう.</VME_ViolentConversionRitualOutcome.outcomeChances.2.description>
+
+<VME_ViolentConversionRitualOutcome.comps.0.label>参加者数</VME_ViolentConversionRitualOutcome.comps.0.label>
+
+<VME_ViolentConversionRitualOutcome.comps.1.label>{PAWN_labelShort}の社会的影響</VME_ViolentConversionRitualOutcome.comps.1.label>
+
+<VME_ViolentConversionRitualOutcome.comps.2.label>祭壇かイデオグラムで開始</VME_ViolentConversionRitualOutcome.comps.2.label>
+
+
+</LanguageData>

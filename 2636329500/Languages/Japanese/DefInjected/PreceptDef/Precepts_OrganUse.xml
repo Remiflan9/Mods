@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Issue -->
+
+  <VME_OrganUse_PostMortem.label>死体解剖</VME_OrganUse_PostMortem.label>
+  <VME_OrganUse_PostMortem.description>死んだ後でも臓器を無駄にしてはいけない.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - バイオクラフターは,新鮮な人間の死体を解体して,肉や器官などを加工した継ぎ接ぎの臓器を得ることができます.</VME_OrganUse_PostMortem.description>
+
+
+</LanguageData>

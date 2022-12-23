@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_AncientSystemRack.label>古代のシステムラック</VME_AncientSystemRack.label>
+  <VME_AncientSystemRack.description>識別不能なデバイスが埋め込まれた古代のラックユニットです.貴重な部品が失われている為,他の部分も役に立ちません.</VME_AncientSystemRack.description>
+
+  <VME_AncientEquipmentBlocks.label>古代の部品の塊</VME_AncientEquipmentBlocks.label>
+  <VME_AncientEquipmentBlocks.description>機能さえ不明な古代の部品の塊です.貴重な部品が失われている為,他の部分も役に立ちません.</VME_AncientEquipmentBlocks.description>
+
+  <VME_AncientMachine.label>古代の機械</VME_AncientMachine.label>
+  <VME_AncientMachine.description>未知の機器で満たされた古代の機械ケースです.貴重な部品が失われている為,他の部分も役に立ちません.</VME_AncientMachine.description>
+
+  <VME_AncientStorageCylinder.label>古代の貯蔵シリンダー</VME_AncientStorageCylinder.label>
+  <VME_AncientStorageCylinder.description>かつてはある種の液体を満たしていたと思われるシリンダーです.貴重な部品が失われている為,他の部分も役に立ちません.</VME_AncientStorageCylinder.description>
+
+  <VME_AncientLamp.label>古代のランプ</VME_AncientLamp.label>
+  <VME_AncientLamp.description>古代の自己発電式ランプです.内部電源は消耗しきってますが,まだぼんやりと光を放っています.</VME_AncientLamp.description>
+
+  <VME_AncientBed.label>古代のベッド</VME_AncientBed.label>
+  <VME_AncientBed.description>錆びたフレームに古くて腐ったマットレスが載せられたものです.老朽化して修繕はできませんが,不快ながらも寝ることはできます.</VME_AncientBed.description>
+
+  <VME_AncientDisplayBank.label>古代のディスプレイ</VME_AncientDisplayBank.label>
+  <VME_AncientDisplayBank.description>古代のコンピュータインターフェイスです.貴重な部品が失われている為,他の部分も役に立ちません.</VME_AncientDisplayBank.description>
+
+  <VME_AncientLockerBank.label>古代のロッカー</VME_AncientLockerBank.label>
+  <VME_AncientLockerBank.description>古代の錆びたロッカーです.全ての扉がこじ開けられ役に立つものは残っていません.</VME_AncientLockerBank.description>
+
+  <VME_AncientCrate.label>古代の容器</VME_AncientCrate.label>
+  <VME_AncientCrate.description>壊れた古代の容器です.貴重品はなく何の役にも立ちません.</VME_AncientCrate.description>
+
+  <VME_AncientMilitaryCrate.label>古代の軍用容器</VME_AncientMilitaryCrate.label>
+  <VME_AncientMilitaryCrate.description>古代の軍用と思われる容器です.大昔から壊れており,かつてそこに含まれていた貴重品は略奪されました.</VME_AncientMilitaryCrate.description>
+
+  <VME_AncientSpacerCrate.label>古代の円柱型容器</VME_AncientSpacerCrate.label>
+  <VME_AncientSpacerCrate.description>古代の壊れた容器です.かつて含まれていた貴重品はずっと昔に取られました.</VME_AncientSpacerCrate.description>
+
+  <VME_AncientBarrel.label>古代の樽</VME_AncientBarrel.label>
+  <VME_AncientBarrel.description>かつてはある種の廃棄物が入れられていたであろう壊れた樽です.今となってはヘドロと乾いた汚物がへばりついてるだけです.</VME_AncientBarrel.description>
+
+  <VME_AncientGenerator.label>古代のジェネレータ</VME_AncientGenerator.label>
+  <VME_AncientGenerator.description>古代の発電機です.使える部品は長い間に壊されたり奪われされたりしており,他の部分は錆びて役に立たなくなっています.</VME_AncientGenerator.description>
+
+  <VME_AncientOperatingTable.label>古代の手術台</VME_AncientOperatingTable.label>
+  <VME_AncientOperatingTable.description>かつて外科手術に使用された台です.とっくの昔に役に立たなくなっています.</VME_AncientOperatingTable.description>
+
+
+</LanguageData>

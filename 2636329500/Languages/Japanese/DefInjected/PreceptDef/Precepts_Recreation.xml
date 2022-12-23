@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Recreation_Loved.label>大好き</VME_Recreation_Loved.label>
+  <VME_Recreation_Loved.description>楽しいことや遊戯は単なるオマケではない.娯楽のすべての瞬間を楽しみ,自分と友人のために最高のものにするべきだ.\n\n&lt;color=#E5E54C&gt;統計:&lt;/color&gt;\n - 娯楽をしている時,入植者は50％の速度で娯楽欲求を得ることができます.\n - パーティー後にコロニーが獲得する心情バフが50％増加します.</VME_Recreation_Loved.description>
+
+  <VME_Recreation_Normal.label>普通</VME_Recreation_Normal.label>
+  <VME_Recreation_Normal.description>娯楽は人生でよくある出来事の一つだ.</VME_Recreation_Normal.description>
+
+  <VME_Recreation_Disapproved.label>反対</VME_Recreation_Disapproved.label>
+  <VME_Recreation_Disapproved.description>娯楽は時間の無駄だ.\n\n&lt;color=#E5E54C&gt;統計:&lt;/color&gt;\n - 入植者は娯楽をした後に,半日のあいだ心情が-5されます.</VME_Recreation_Disapproved.description>
+
+
+</LanguageData>

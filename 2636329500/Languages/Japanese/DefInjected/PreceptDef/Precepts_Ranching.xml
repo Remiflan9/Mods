@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Ranching_Disliked.label>嫌い</VME_Ranching_Disliked.label>
+  <VME_Ranching_Disliked.description>動物を飼育してその肉や資源を消費することは,非常に不道徳であり,絶対に避けるべきだ.自分たちで野菜や果物を育てることは,より崇高なことだ.</VME_Ranching_Disliked.description>
+
+  <VME_Ranching_Nomadic.label>遊牧民</VME_Ranching_Nomadic.label>
+  <VME_Ranching_Nomadic.description>遊牧民は,信頼できる馬がいなければ何もできない.重荷を背負った動物との絆を深めれば,世界を旅することが孤独ではなくなるだろう.</VME_Ranching_Nomadic.description>
+
+  <VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.0>ペンマーカーが無い</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.0>
+
+  <VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.1>ペンマーカーがある</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.1>
+
+  <VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.2>ペンマーカーがある</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.2>
+
+  <VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.3>畜産工場</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.3>
+
+
+</LanguageData>

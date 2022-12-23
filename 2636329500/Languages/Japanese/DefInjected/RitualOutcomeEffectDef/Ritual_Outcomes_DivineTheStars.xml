@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_DivineStarsRitualOutcome.description>参加者は,儀式の質に関係なく,完全にランダムな結果を得ることができます.</VME_DivineStarsRitualOutcome.description>
+  <VME_DivineStarsRitualOutcome.outcomeChances.0.label>奇想天外</VME_DivineStarsRitualOutcome.outcomeChances.0.label>
+  <VME_DivineStarsRitualOutcome.outcomeChances.0.description>私たちの運命は星々によって明らかにされました.</VME_DivineStarsRitualOutcome.outcomeChances.0.description>
+  <VME_DivineStarsRitualOutcome.outcomeChances.1.label>奇想天外</VME_DivineStarsRitualOutcome.outcomeChances.1.label>
+  <VME_DivineStarsRitualOutcome.outcomeChances.1.description>私たちの運命は星々によって明らかにされました.</VME_DivineStarsRitualOutcome.outcomeChances.1.description>
+
+  <VME_DivineStarsRitualOutcome.comps.0.label>{PAWN_labelShort}の社会的影響</VME_DivineStarsRitualOutcome.comps.0.label>
+
+  <VME_DivineStarsRitualOutcome.comps.1.label>参加者数</VME_DivineStarsRitualOutcome.comps.1.label>
+
+</LanguageData>

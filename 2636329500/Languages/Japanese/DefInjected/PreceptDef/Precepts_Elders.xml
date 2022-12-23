@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Elders_Despised.label>軽蔑</VME_Elders_Despised.label>
+  <VME_Elders_Despised.description>ここは老人ホームか?邪魔しないでよ,化石!</VME_Elders_Despised.description>
+
+  <VME_Elders_Respected.label>尊重</VME_Elders_Respected.label>
+  <VME_Elders_Respected.description>真の知恵は歳を重ねてこそ得られるものであり,多くの経験を重ねてきた者は崇められるべきだ.</VME_Elders_Respected.description>
+
+  <VME_Elders_Holy.label>神聖</VME_Elders_Holy.label>
+  <VME_Elders_Holy.description>年長者は尊敬すべき存在であり,決して重労働を押し付けてはならない.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - 65歳以上の入植者は雑用をしません.</VME_Elders_Holy.description>
+
+  <VME_Elders_Despised.comps.0.thoughtStageDescriptions.0>老人</VME_Elders_Despised.comps.0.thoughtStageDescriptions.0>
+
+  <VME_Elders_Despised.comps.0.thoughtStageDescriptions.1>若者</VME_Elders_Despised.comps.0.thoughtStageDescriptions.1>
+
+  <VME_Elders_Respected.comps.0.thoughtStageDescriptions.0>年長者</VME_Elders_Respected.comps.0.thoughtStageDescriptions.0>
+
+  <VME_Elders_Holy.comps.0.thoughtStageDescriptions.0>年長者</VME_Elders_Holy.comps.0.thoughtStageDescriptions.0>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Violence_Honorable.label>尊重</VME_Violence_Honorable.label>
+  <VME_Violence_Honorable.description>罪のない人を傷つけることは,この惑星で名誉を得るために必要なことだ.それは私たちの強さと決意を証明する.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - 入植者は敵対していない人間を攻撃すると心情ボーナスを獲得します.</VME_Violence_Honorable.description>
+
+  <VME_Violence_Acceptable.label>容認</VME_Violence_Acceptable.label>
+  <VME_Violence_Acceptable.description>暴力は一つの事実にすぎない.</VME_Violence_Acceptable.description>
+
+  <VME_Violence_Disapproved.label>反対</VME_Violence_Disapproved.label>
+  <VME_Violence_Disapproved.description>無実の人を傷つけることはできる限り避けるべきだ.無害な人を攻撃するのは不道徳な行為だ.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - 入植者は敵対していない人間を攻撃すると心情ペナルティを受けます.</VME_Violence_Disapproved.description>
+
+  <VME_Violence_Abhorrent.label>嫌悪</VME_Violence_Abhorrent.label>
+  <VME_Violence_Abhorrent.description>血を流したり,骨を折ったりすることは野蛮であり,忌み嫌うべき行為だ.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - 入植者は敵対していない人間を攻撃すると心情ペナルティを受けます.\n - 全てのメンタルブレイクは暴力を扱わないものになります.\n - 徴兵されたすべての入植者は攻撃している敵が逃げ始めると徴兵状態が解除されます.</VME_Violence_Abhorrent.description>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts -->
+
+  <VME_AteInsectJellyDirect.stages.0.label>インセクトゼリーを食べた</VME_AteInsectJellyDirect.stages.0.label>
+  <VME_AteInsectJellyDirect.stages.0.description>インセクトゼリーを食べた.悪くない味だった.</VME_AteInsectJellyDirect.stages.0.description>
+
+  <VME_AteInsectJellyDirect_Loved.stages.0.label>インセクトゼリーを食べた</VME_AteInsectJellyDirect_Loved.stages.0.label>
+  <VME_AteInsectJellyDirect_Loved.stages.0.description>インセクトゼリーは,完璧な生物からの贈り物で,神聖なアンブローシアのようだ.</VME_AteInsectJellyDirect_Loved.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_OrgyRitualOutcome.description>参加者全員が心情ボーナスを得ることができますが,質の悪い乱交パーティーだった場合のマイナス効果は通常よりも厳しいものになります.儀式の質に応じて参加者は{MOODDAYS}日間, {MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.\nなお,参加者はすべて成人でなければなりません.モラルガイドが成人ではない場合,儀式は無効された状態で表示されます.</VME_OrgyRitualOutcome.description>
+  <VME_OrgyRitualOutcome.outcomeChances.0.label>グロい</VME_OrgyRitualOutcome.outcomeChances.0.label>
+  <VME_OrgyRitualOutcome.outcomeChances.0.description>{0}はグロテスクだった!乱交パーティーといえば,魅力的な人たちを想像しがちですが,これは...正反対でした.頭の中から映像が消えるのに時間がかかりそうです.</VME_OrgyRitualOutcome.outcomeChances.0.description>
+  <VME_OrgyRitualOutcome.outcomeChances.1.label>気まずい</VME_OrgyRitualOutcome.outcomeChances.1.label>
+  <VME_OrgyRitualOutcome.outcomeChances.1.description>{0}は気まずかった.みんな何をしていいかわからず挙動不審になり,みすぼらしい裸姿で虚しくぎゅうぎゅう詰めになっていました.入植者たちはとてもがっかりしています.</VME_OrgyRitualOutcome.outcomeChances.1.description>
+  <VME_OrgyRitualOutcome.outcomeChances.2.label>セクシー</VME_OrgyRitualOutcome.outcomeChances.2.label>
+  <VME_OrgyRitualOutcome.outcomeChances.2.description>{0}はセクシーでした!私たちは深い情熱を一緒になって表現することで,お互いに自分を捧げました.</VME_OrgyRitualOutcome.outcomeChances.2.description>
+  <VME_OrgyRitualOutcome.outcomeChances.3.label>ウフフアハハ</VME_OrgyRitualOutcome.outcomeChances.3.label>
+  <VME_OrgyRitualOutcome.outcomeChances.3.description>{0}は爽快でした!私たちは皆,紳士の仮面を被りつつも,そのスケベな体をさらけ出し,お互いぶつけ合いました.今までにないエクスタシーが波打ち,興奮を隠しきれずに今でも体が震えています.</VME_OrgyRitualOutcome.outcomeChances.3.description>
+  <VME_OrgyRitualOutcome.comps.0.label>乱交パーティー主催者</VME_OrgyRitualOutcome.comps.0.label>
+  <VME_OrgyRitualOutcome.comps.1.label>部屋の印象</VME_OrgyRitualOutcome.comps.1.label>
+  <VME_OrgyRitualOutcome.comps.2.label>{PAWN_labelShort}の社会的影響</VME_OrgyRitualOutcome.comps.2.label>
+  <VME_OrgyRitualOutcome.comps.3.label>参加者数</VME_OrgyRitualOutcome.comps.3.label>
+
+
+</LanguageData>

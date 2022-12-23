@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_LeadershipChallengeRitualBehaviour.roles.0.label>話者</VME_LeadershipChallengeRitualBehaviour.roles.0.label>
+
+
+  <VME_LeadershipChallengeRitualBehaviour.roles.1.label>決闘者</VME_LeadershipChallengeRitualBehaviour.roles.1.label>
+  <VME_LeadershipChallengeRitualBehaviour.roles.1.categoryLabel>決闘者</VME_LeadershipChallengeRitualBehaviour.roles.1.categoryLabel>
+
+  <VME_LeadershipChallengeRitualBehaviour.roles.1.missingDesc>現在のリーダー</VME_LeadershipChallengeRitualBehaviour.roles.1.missingDesc>
+
+  <VME_LeadershipChallengeRitualBehaviour.roles.2.label>決闘者</VME_LeadershipChallengeRitualBehaviour.roles.2.label>
+  <VME_LeadershipChallengeRitualBehaviour.roles.2.categoryLabel>決闘者</VME_LeadershipChallengeRitualBehaviour.roles.2.categoryLabel>
+
+  <VME_LeadershipChallengeRitualBehaviour.roles.2.missingDesc>格闘スキルが最も高い入植者</VME_LeadershipChallengeRitualBehaviour.roles.2.missingDesc>
+
+  <VME_LeadershipChallengeRitualBehaviour.spectatorGerund>参加する</VME_LeadershipChallengeRitualBehaviour.spectatorGerund>
+  <VME_LeadershipChallengeRitualBehaviour.spectatorsLabel>参加者</VME_LeadershipChallengeRitualBehaviour.spectatorsLabel>
+
+</LanguageData>

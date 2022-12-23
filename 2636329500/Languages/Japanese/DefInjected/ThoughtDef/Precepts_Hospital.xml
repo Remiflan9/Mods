@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Hospital_Required.stages.0.label>医務室がない</VME_Hospital_Required.stages.0.label>
+  <VME_Hospital_Required.stages.0.description>人々を治療するための部屋がない.専用の医務室を作らなくては.</VME_Hospital_Required.stages.0.description>
+  <VME_Hospital_Required.stages.1.label>汚い医務室</VME_Hospital_Required.stages.1.label>
+  <VME_Hospital_Required.stages.1.description>医務室はあるけど汚れている.私たちは家畜ではない!</VME_Hospital_Required.stages.1.description>
+  <VME_Hospital_Required.stages.2.label>小さな医務室</VME_Hospital_Required.stages.2.label>
+  <VME_Hospital_Required.stages.2.description>私たちは小さな医務室を所有している.</VME_Hospital_Required.stages.2.description>
+  <VME_Hospital_Required.stages.3.label>広々とした医務室</VME_Hospital_Required.stages.3.label>
+  <VME_Hospital_Required.stages.3.description>私たちは広々とした医務室を所有している.</VME_Hospital_Required.stages.3.description>
+  <VME_Hospital_Required.stages.4.label>巨大な医務室</VME_Hospital_Required.stages.4.label>
+  <VME_Hospital_Required.stages.4.description>私たちは強大な医務室を保有している!</VME_Hospital_Required.stages.4.description>
+
+
+</LanguageData>

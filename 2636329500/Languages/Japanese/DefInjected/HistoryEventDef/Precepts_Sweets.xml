@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Issues -->
+
+  <VME_AteSimpleDessert.label>簡単なデザートを食べた</VME_AteSimpleDessert.label>
+  <VME_AteFineDessert.label>手の込んだデザートを食べた</VME_AteFineDessert.label>
+  <VME_AteLavishDessert.label>豪華なデザートを食べた</VME_AteLavishDessert.label>
+  <VME_AteGourmetDessert.label>至高のデザートを食べた</VME_AteGourmetDessert.label>
+  <VME_AteChocolateSweetTeeth.label>チョコレートを食べた</VME_AteChocolateSweetTeeth.label>
+
+
+</LanguageData>

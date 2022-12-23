@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_TaoistSlab_Medium.label>シンタオの床板 (中型)</VME_TaoistSlab_Medium.label>
+  <VME_TaoistSlab_Medium.description>シンタオのイメージを刻んだ床を装飾する石版です.</VME_TaoistSlab_Medium.description>
+
+  <VME_TaoistSlab_Broad.label>シンタオの床板 (幅広)</VME_TaoistSlab_Broad.label>
+  <VME_TaoistSlab_Broad.description>シンタオのイメージを刻んだ床を装飾する石版です.</VME_TaoistSlab_Broad.description>
+
+  <VME_EsotericismSlab_Medium.label>秘教の床板 (中型)</VME_EsotericismSlab_Medium.label>
+  <VME_EsotericismSlab_Medium.description>秘教のイメージを刻んだ床を装飾する石版です.</VME_EsotericismSlab_Medium.description>
+
+  <VME_EsotericismSlab_Broad.label>秘教の床板 (幅広)</VME_EsotericismSlab_Broad.label>
+  <VME_EsotericismSlab_Broad.description>秘教のイメージを刻んだ床を装飾する石版です.</VME_EsotericismSlab_Broad.description>
+
+  <VME_EldritchSlab_Medium.label>エルドリッチの床板  (中型)</VME_EldritchSlab_Medium.label>
+  <VME_EldritchSlab_Medium.description>秘教のイメージを刻んだ床を装飾する石版です.</VME_EldritchSlab_Medium.description>
+
+  <VME_EldritchSlab_Broad.label>エルドリッチの床板  (幅広)</VME_EldritchSlab_Broad.label>
+  <VME_EldritchSlab_Broad.description>秘教のイメージを刻んだ床を装飾する石版です.</VME_EldritchSlab_Broad.description>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Corporate -->
+
+  <VME_Floor_CorporateFineStoneTiles.label>企業の華麗な石材タイル</VME_Floor_CorporateFineStoneTiles.label>
+
+
+  <!-- Shintao -->
+
+  <VME_Floor_ShintaoFineStoneTiles.label>シンタオの華麗な石材タイル</VME_Floor_ShintaoFineStoneTiles.label>
+  <VME_Floor_ShintaoCarpet.label>シンタオの絨毯</VME_Floor_ShintaoCarpet.label>
+  <VME_Floor_ShintaoCarpetFine.label>シンタオの華麗な絨毯</VME_Floor_ShintaoCarpetFine.label>
+
+
+</LanguageData>

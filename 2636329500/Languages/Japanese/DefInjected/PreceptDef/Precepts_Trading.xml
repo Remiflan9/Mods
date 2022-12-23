@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Trading_Required.label>必須</VME_Trading_Required.label>
+  <VME_Trading_Required.description>私たちは商売人だ.売れない期間が長ければストレスが溜まり,高額な利益が出ればまさに幸福感に包まれる.</VME_Trading_Required.description>
+
+  <VME_Trading_Required.comps.0.thoughtStageDescriptions.0>取引した</VME_Trading_Required.comps.0.thoughtStageDescriptions.0>
+  <VME_Trading_Required.comps.0.thoughtStageDescriptions.1>最近取引してない</VME_Trading_Required.comps.0.thoughtStageDescriptions.1>
+
+
+
+</LanguageData>

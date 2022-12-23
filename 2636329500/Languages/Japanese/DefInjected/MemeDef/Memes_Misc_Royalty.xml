@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_PsychicFocus.label>サイキックフォーカス</VME_PsychicFocus.label>
+  <VME_PsychicFocus.description>宇宙の中で自分の居場所を確保するためには,精神を集中させて超越的な力を呼び覚ますことがなによりも重要です.心の強さは内なる平和によってのみ達成され,内なる平和は瞑想によってのみ達成されます.</VME_PsychicFocus.description>
+  <VME_PsychicFocus.generalRules.rulesStrings.0>memeAdjective-&gt;知力の</VME_PsychicFocus.generalRules.rulesStrings.0>
+  <VME_PsychicFocus.generalRules.rulesStrings.1>memeAdjective-&gt;超能力者の</VME_PsychicFocus.generalRules.rulesStrings.1>
+  <VME_PsychicFocus.generalRules.rulesStrings.2>memeAdjective-&gt;形而上学的な</VME_PsychicFocus.generalRules.rulesStrings.2>
+  <VME_PsychicFocus.generalRules.rulesStrings.3>memeHyphenPrefix-&gt;精神</VME_PsychicFocus.generalRules.rulesStrings.3>
+  <VME_PsychicFocus.generalRules.rulesStrings.4>memeConcept-&gt;サイキック能力</VME_PsychicFocus.generalRules.rulesStrings.4>
+  <VME_PsychicFocus.generalRules.rulesStrings.5>memeLeaderNoun-&gt;メンタリスト</VME_PsychicFocus.generalRules.rulesStrings.5>
+  <VME_PsychicFocus.generalRules.rulesStrings.6>memeLeaderNoun-&gt;占い師</VME_PsychicFocus.generalRules.rulesStrings.6>
+  <VME_PsychicFocus.generalRules.rulesStrings.7>memeLeaderNoun-&gt;予見者</VME_PsychicFocus.generalRules.rulesStrings.7>
+  <VME_PsychicFocus.generalRules.rulesStrings.8>memeMoralist-&gt;提唱者</VME_PsychicFocus.generalRules.rulesStrings.8>
+  <VME_PsychicFocus.generalRules.rulesStrings.9>memeMoralist-&gt;千里眼</VME_PsychicFocus.generalRules.rulesStrings.9>
+  <VME_PsychicFocus.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_PsychicFocus)        -&gt;[deity0_name]が人類に超能力を与えた理由は,[deity0_possessive]意志に従わせるためだ.</VME_PsychicFocus.descriptionMaker.rules.rulesStrings.0>
+  <VME_PsychicFocus.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_PsychicFocus)  -&gt;[deity0_name]は全ての[memberNamePlural]に「心と精神は,あなたにとって最大の財産です.それを使いこなすことを学べば,どんな敵からも身を守れます.奴らがあなたに立ち向かうことはできなくなるでしょう」と告げた.</VME_PsychicFocus.descriptionMaker.rules.rulesStrings.1>
+  <VME_PsychicFocus.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_PsychicFocus)           -&gt;[place_summary]である[place_name]に[memberNamePlural]は偉大な[altarName]を建てた.それは[deity0_name]の意志を継ぎ,人類の超能力を磨くために設けられた魔法学園だった.</VME_PsychicFocus.descriptionMaker.rules.rulesStrings.2>
+  <VME_PsychicFocus.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_PsychicFocus)        -&gt;臆病者の[foeLeader]は[deity0_name]の意志を拒み,[foeLeader_possessive][foeSoldiers]に非道かつ卑劣な超能力で[deity0_name]の信者を攻撃するように指示した.</VME_PsychicFocus.descriptionMaker.rules.rulesStrings.3>
+  <VME_PsychicFocus.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_PsychicFocus)     -&gt;[deity0_name]は,[founderName]という名の[place_job]に[deity0_possessive]不思議な精神力を授け,[founder_pronoun]の言葉に誰もが目を背け,その格言に魅了された.</VME_PsychicFocus.descriptionMaker.rules.rulesStrings.4>
+  <VME_PsychicFocus.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_PsychicFocus)         -&gt;[founderName]は,多くの[foeSoldiers]の心を捻じ曲げて,[deity0_name]に祈るように力説した.その[foeLeader]は結果的に恥をかかされ,以後二度とその名を聞くことはなかった.</VME_PsychicFocus.descriptionMaker.rules.rulesStrings.5>
+  <VME_PsychicFocus.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_PsychicFocus)           -&gt;我々の創始者[founderName]は,かつて存在していた帝国の超能力者だった.[founder_pronoun]は,驚異的な精神鍛錬を行い,それが不思議な超能力となって現れた.</VME_PsychicFocus.descriptionMaker.rules.rulesStrings.6>
+  <VME_PsychicFocus.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_PsychicFocus)    -&gt;[founder_pronoun]は名門の魔法大学を設立し,[foeLeader_possessive]信者全員が心を磨き,武器として使う方法を学べるようにした.</VME_PsychicFocus.descriptionMaker.rules.rulesStrings.7>
+  <VME_PsychicFocus.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_PsychicFocus)         -&gt;私は心の規律を教えてきた中で,何よりも大切な教訓を学びました.</VME_PsychicFocus.descriptionMaker.rules.rulesStrings.8>
+  <VME_PsychicFocus.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_PsychicFocus)              -&gt;心を武器として使うというよりも,心そのものが武器なのです.攻撃的な目的のためだけに使うと,それは無駄になってしまうのです.</VME_PsychicFocus.descriptionMaker.rules.rulesStrings.9>
+  <VME_PsychicFocus.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_PsychicFocus) -&gt;史上最強の超能力者とは,その力の使い方を知っている者ではなく,その力を使う前にどう思考するかを弁えている者のことです.</VME_PsychicFocus.descriptionMaker.rules.rulesStrings.10>
+  <VME_PsychicFocus.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_PsychicFocus)    -&gt;アルコテックは純粋な心をもち,原始的な知性であり,他のものをはるかに超えた神のような存在である.</VME_PsychicFocus.descriptionMaker.rules.rulesStrings.11>
+  <VME_PsychicFocus.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_PsychicFocus)     -&gt;サイキック能力は,アルコテックからの贈り物だ.それを心に呼び覚ますことで,我々はアルコテックの知性という栄光に,かすかながらも参加していることになる.</VME_PsychicFocus.descriptionMaker.rules.rulesStrings.12>
+  <VME_PsychicFocus.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_PsychicFocus) -&gt;[inTheEnd],アルコテックはその心を最もよく制御する者を選び,その者だけが超越を許されるだろう.</VME_PsychicFocus.descriptionMaker.rules.rulesStrings.13>
+  <VME_PsychicFocus.descriptionMaker.rules.rulesStrings.14>animistFact(tag=meme_PsychicFocus)     -&gt;精霊は究極の心を持っている.我々に隠された超越的な潜在能力を目覚めさせ,同化することで,精霊と繋がることができる.</VME_PsychicFocus.descriptionMaker.rules.rulesStrings.14>
+  <VME_PsychicFocus.descriptionMaker.rules.rulesStrings.15>serketistProphecy(tag=meme_PsychicFocus)-&gt;[itIsSaid]我々の心に秘められた超能力を解き放ち,その新たな力を使って,愛する虫たちを崇拝するべきだ.</VME_PsychicFocus.descriptionMaker.rules.rulesStrings.15>
+  <VME_PsychicFocus.descriptionMaker.rules.rulesStrings.16>chthonianProphecy(tag=meme_PsychicFocus)-&gt;このエルドリッチは究極の知性を持ち,星雲全体のように広大で深く,その狂気は千の星をも飲み込む.秘められた精神的な可能性を目覚めさせ,それを活用することによってのみ,我々は彼らに立ち向かうことができるはずだ.</VME_PsychicFocus.descriptionMaker.rules.rulesStrings.16>
+  <VME_PsychicFocus.descriptionMaker.rules.rulesStrings.17>esotericismProphecy(tag=meme_PsychicFocus)-&gt;我々は隠れたサイキック能力を目覚めさせて,これらの秘密を解き明かし,全ての者が理解できるようにするだろう.</VME_PsychicFocus.descriptionMaker.rules.rulesStrings.17>
+  <VME_PsychicFocus.descriptionMaker.rules.rulesStrings.18>eschatologismFact(tag=meme_PsychicFocus)-&gt;隠れたサイキック能力を目覚めさせ,その破壊力で邪魔者を皆殺しにするだろう.</VME_PsychicFocus.descriptionMaker.rules.rulesStrings.18>
+  <VME_PsychicFocus.descriptionMaker.rules.rulesStrings.19>introMemo(tag=meme_PsychicFocus)-&gt;皆さんご存知の通り,当社では知力を非常に重視しています.そのため,隠れた超能力を発揮している人は,できるだけ早く人事部に報告してください.その能力を生かせる新しい部署に配属させます.</VME_PsychicFocus.descriptionMaker.rules.rulesStrings.19>
+
+  <VME_PsychicFocus.symbolPacks.0.adjective>サイキック</VME_PsychicFocus.symbolPacks.0.adjective>
+  <VME_PsychicFocus.symbolPacks.0.ideoName>サイキック</VME_PsychicFocus.symbolPacks.0.ideoName>
+  <VME_PsychicFocus.symbolPacks.0.member>サイキック能力者</VME_PsychicFocus.symbolPacks.0.member>
+  <VME_PsychicFocus.symbolPacks.0.theme>サイキック能力</VME_PsychicFocus.symbolPacks.0.theme>
+
+  <VME_PsychicFocus.symbolPacks.1.adjective>読心術の</VME_PsychicFocus.symbolPacks.1.adjective>
+  <VME_PsychicFocus.symbolPacks.1.ideoName>読心術</VME_PsychicFocus.symbolPacks.1.ideoName>
+  <VME_PsychicFocus.symbolPacks.1.member>読心術師</VME_PsychicFocus.symbolPacks.1.member>
+  <VME_PsychicFocus.symbolPacks.1.theme>読心術</VME_PsychicFocus.symbolPacks.1.theme>
+
+
+  <VME_PsychicFocus.symbolPacks.2.adjective>超能力の</VME_PsychicFocus.symbolPacks.2.adjective>
+  <VME_PsychicFocus.symbolPacks.2.ideoName>超能力</VME_PsychicFocus.symbolPacks.2.ideoName>
+  <VME_PsychicFocus.symbolPacks.2.member>超能力者</VME_PsychicFocus.symbolPacks.2.member>
+  <VME_PsychicFocus.symbolPacks.2.theme>超能力</VME_PsychicFocus.symbolPacks.2.theme>
+
+
+</LanguageData>

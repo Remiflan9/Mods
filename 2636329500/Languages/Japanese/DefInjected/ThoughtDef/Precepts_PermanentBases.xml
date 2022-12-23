@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_PermanentBases_Despised.stages.0.label>放浪癖 (初期)</VME_PermanentBases_Despised.stages.0.label>
+  <VME_PermanentBases_Despised.stages.0.description>私たちはここに長く居すぎている.そろそろ旅がしたい.</VME_PermanentBases_Despised.stages.0.description>
+  <VME_PermanentBases_Despised.stages.1.label>放浪癖 (軽度)</VME_PermanentBases_Despised.stages.1.label>
+  <VME_PermanentBases_Despised.stages.1.description>私たちはここに長く居すぎている.そろそろ旅がしたい.</VME_PermanentBases_Despised.stages.1.description>
+  <VME_PermanentBases_Despised.stages.2.label>放浪癖 (軽度)</VME_PermanentBases_Despised.stages.2.label>
+  <VME_PermanentBases_Despised.stages.2.description>私たちはここに長く居すぎている..そろそろ旅がしたい..</VME_PermanentBases_Despised.stages.2.description>
+  <VME_PermanentBases_Despised.stages.3.label>放浪癖 (中度)</VME_PermanentBases_Despised.stages.3.label>
+  <VME_PermanentBases_Despised.stages.3.description>このコロニーはもはや陳腐に感じる.同じ場所に留まらず放浪すべきだ.</VME_PermanentBases_Despised.stages.3.description>
+  <VME_PermanentBases_Despised.stages.4.label>放浪癖 (中度)</VME_PermanentBases_Despised.stages.4.label>
+  <VME_PermanentBases_Despised.stages.4.description>このコロニーはもはや陳腐に感じる.同じ場所に留まらず放浪すべきだ.</VME_PermanentBases_Despised.stages.4.description>
+  <VME_PermanentBases_Despised.stages.5.label>放浪癖 (重度)</VME_PermanentBases_Despised.stages.5.label>
+  <VME_PermanentBases_Despised.stages.5.description>もうたくさんだ!そろそろ荷物をまとめて旅に出よう.</VME_PermanentBases_Despised.stages.5.description>
+  <VME_PermanentBases_Despised.stages.6.label>放浪癖 (重度)</VME_PermanentBases_Despised.stages.6.label>
+  <VME_PermanentBases_Despised.stages.6.description>もうたくさんだ!そろそろ荷物をまとめて旅に出よう.</VME_PermanentBases_Despised.stages.6.description>
+  <VME_PermanentBases_Despised.stages.7.label>放浪癖 (極度)</VME_PermanentBases_Despised.stages.7.label>
+  <VME_PermanentBases_Despised.stages.7.description>もうここにいるのは耐えられない!</VME_PermanentBases_Despised.stages.7.description>
+
+  <VME_PermanentBases_Desired.stages.0.label>壮大な都市</VME_PermanentBases_Desired.stages.0.label>
+  <VME_PermanentBases_Desired.stages.0.description>私たちのコロニーは壮大だ.人類が成し遂げることのできる素晴らしい例だ.</VME_PermanentBases_Desired.stages.0.description>
+  <VME_PermanentBases_Desired.stages.1.label>多数の美しい建物</VME_PermanentBases_Desired.stages.1.label>
+  <VME_PermanentBases_Desired.stages.1.description>美しい建物がたくさんある!</VME_PermanentBases_Desired.stages.1.description>
+  <VME_PermanentBases_Desired.stages.2.label>多数の美しい建物</VME_PermanentBases_Desired.stages.2.label>
+  <VME_PermanentBases_Desired.stages.2.description>美しい建物がたくさんある!</VME_PermanentBases_Desired.stages.2.description>
+  <VME_PermanentBases_Desired.stages.3.label>発展途上の都市</VME_PermanentBases_Desired.stages.3.label>
+  <VME_PermanentBases_Desired.stages.3.description>私たちのコロニーは成長している!</VME_PermanentBases_Desired.stages.3.description>
+  <VME_PermanentBases_Desired.stages.4.label>建物が足りない</VME_PermanentBases_Desired.stages.4.label>
+  <VME_PermanentBases_Desired.stages.4.description>近くに十分な建物がない.とても空っぽに感じる.</VME_PermanentBases_Desired.stages.4.description>
+
+
+</LanguageData>

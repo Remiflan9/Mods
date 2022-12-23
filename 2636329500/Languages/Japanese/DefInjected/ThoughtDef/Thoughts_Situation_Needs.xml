@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_NeedAnonymity.stages.0.label>匿名性を失った</VME_NeedAnonymity.stages.0.label>
+  <VME_NeedAnonymity.stages.0.description>彼らに全て知られている.私は開いた本のように全てを読まれ,完全に無防備だ.</VME_NeedAnonymity.stages.0.description>
+  <VME_NeedAnonymity.stages.1.label>匿名性の危機</VME_NeedAnonymity.stages.1.label>
+  <VME_NeedAnonymity.stages.1.description>私のアイデンティティは深く傷つけられ,自分が注目されていることをとても恥じている.</VME_NeedAnonymity.stages.1.description>
+  <VME_NeedAnonymity.stages.2.label>匿名性の心配</VME_NeedAnonymity.stages.2.label>
+  <VME_NeedAnonymity.stages.2.description>このままではいけない,この行動を続けていたらバレてしまう.</VME_NeedAnonymity.stages.2.description>
+  <VME_NeedAnonymity.stages.3.label>完全な匿名者</VME_NeedAnonymity.stages.3.label>
+  <VME_NeedAnonymity.stages.3.description>私はとても安心している.私の名前も顔も知られていなはず.</VME_NeedAnonymity.stages.3.description>
+
+
+</LanguageData>

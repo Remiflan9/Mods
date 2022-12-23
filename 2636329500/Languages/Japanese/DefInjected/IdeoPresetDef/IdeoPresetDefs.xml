@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mild ideos -->
+
+  <VME_Human_Hive.label>人間の巣窟</VME_Human_Hive.label>
+  <VME_Human_Hive.description>時計仕掛けのように,自分とその仲間たちの人生は常に絡み合っています.私たちの一人が苦しむことは,私たち全員が苦しむことを意味します.そして,私たちの気分を高めてくれるものは,私たち全員の気分を高めてくれます.そう,私たちは一つ.一心同体です.</VME_Human_Hive.description>
+
+  <VME_Egalitarian_Republic.label>平等主義の協同組合</VME_Egalitarian_Republic.label>
+  <VME_Egalitarian_Republic.description>民主主義,自由,そして平等.これらの基本的権利を剥奪できると考えるのは酷なことです.人の信条,文化,個性はすべて尊重されるべきです.\n\n&lt;color=#E5E54C&gt;推奨スタイル:&lt;/color&gt;\n - 不可知論.</VME_Egalitarian_Republic.description>
+
+  <VME_Exalted_Gerontocracy.label>昂然たる長老支配</VME_Exalted_Gerontocracy.label>
+  <VME_Exalted_Gerontocracy.description>神聖な聖職者が私たちを導いてくれます.加齢とは単に知恵がついたり,しわが増えたりするだけではないのです.年齢を重ねるごとに,私たちの年長者は神に近づいていきます.\n\n&lt;color=#E5E54C&gt;推奨スタイル:&lt;/color&gt;\n - いずれかの一神論.</VME_Exalted_Gerontocracy.description>
+
+  <VME_Factory_Drones.label>ファクトリードローン</VME_Factory_Drones.label>
+  <VME_Factory_Drones.description>仕事と協力は強さです.一緒に汗をかき,血を流し,,私たち全員が納得できる生活水準に到達するために働きましょう.\n\n&lt;color=#E5E54C&gt;推奨スタイル:&lt;/color&gt;\n - 権威主義.</VME_Factory_Drones.description>
+
+
+  <!-- Strong ideos -->
+
+  <VME_Corporate_Overlords.label>究極の大企業支配</VME_Corporate_Overlords.label>
+  <VME_Corporate_Overlords.description>経験豊富な大企業のCEOや取締役たちによって,このRimworldを動かす原動力はお金であることに気付かされるでしょう.さらに,仕事をできるかぎり自動化することで,従業員の数を減らし,利益を上げることができるのです.\n\n&lt;color=#E5E54C&gt;推奨スタイル:&lt;/color&gt;\n - 企業.</VME_Corporate_Overlords.description>
+
+  <VME_GodKing_Radicals.label>神と化した無慈悲な皇帝</VME_GodKing_Radicals.label>
+  <VME_GodKing_Radicals.description>私たちの皇帝は神聖であるため,その鋼鉄の拳に疑問を抱くことは許されません.その意思に反逆する者がいつまでも膝を曲げないつもりなら,その脚をもいでしまい猟犬に食べさせるでしょう.\n\n&lt;color=#E5E54C&gt;推奨スタイル:&lt;/color&gt;\n - 個人崇拝.</VME_GodKing_Radicals.description>
+
+  <VME_Cosmic_Cultists.label>宇宙のカルト信者たち</VME_Cosmic_Cultists.label>
+  <VME_Cosmic_Cultists.description>天空の星々が私たちに謳い,耳をすましてその意思に応えるだけです.彼らの永遠の輝きが,気まぐれな紡錘の上で,私たちのような疲れ果てている人々に,運命を照らしてくれます.神聖な月の光を浴びて,狂人の流れ星に導かれるでしょう.\n\n&lt;color=#E5E54C&gt;推奨スタイル:&lt;/color&gt;\n - 秘教.</VME_Cosmic_Cultists.description>
+
+  <VME_Flame_Seers.label>火炎の予見者</VME_Flame_Seers.label>
+  <VME_Flame_Seers.description>初めに炎があり,炎から暖かさが生まれ,暖かさから生命が生まれました.祝福された私たちは,天上の太陽の総白熱の中で恍惚の表情を浮かべます.\n\n&lt;color=#E5E54C&gt;推奨スタイル:&lt;/color&gt;\n - なんでも.</VME_Flame_Seers.description>
+
+  <VME_Dwarven_Artificers.label>ドワーフの鍛冶場</VME_Dwarven_Artificers.label>
+  <VME_Dwarven_Artificers.description>鍛冶屋で過ごす一日は最高です.金槌を叩き,炎の轟音と鉄の音をこだまのように響かせます.仕事を終えたあとは,鍛冶屋の男たちが窯に燃料を供給するのと同じように,その口に過剰なほどの夕食のキノコを放り込みます.\n\n&lt;color=#E5E54C&gt;推奨スタイル:&lt;/color&gt;\n - イデオロジカル.</VME_Dwarven_Artificers.description>
+
+  <VME_Nordic_Matriarchy.label>北欧の母権社会</VME_Nordic_Matriarchy.label>
+  <VME_Nordic_Matriarchy.description>雪が舞い,波が砕けることで,私たちは人々をあの世へと導くのです.名誉ある死を遂げるか,我々の盾となる乙女に答えるか.\n\n&lt;color=#E5E54C&gt;推奨スタイル:&lt;/color&gt;\n - 汎神論.</VME_Nordic_Matriarchy.description>
+
+  <VME_Steamworld_Neerdowells.label>Steamworldの穀つぶし</VME_Steamworld_Neerdowells.label>
+  <VME_Steamworld_Neerdowells.description>酒場や馬小屋が点在する荒野の時代,私たちは正直なマッファロー飼いで,とある1つのシンプルな教えに従っていました.「悪い生き方をしていても,良いことは起こらない」.それはもちろん,すべての人が納得しているわけではありませんが....とりあえず今は,法の番人に追いつかれないように,ね?\n\n&lt;color=#E5E54C&gt;推奨スタイル:&lt;/color&gt;\n - キリスト教の起源.</VME_Steamworld_Neerdowells.description>
+
+  <VME_Medieval_Monarchists.label>中世の君主制主義者</VME_Medieval_Monarchists.label>
+  <VME_Medieval_Monarchists.description>我々の祖先や孫たちは皆,我々の王の先見性とその司令に従ってきました.もし他の王国が弓と剣を振るうことを望むならば,我々は彼らを奴隷にすることに躊躇いはありません.\n\n&lt;color=#E5E54C&gt;推奨スタイル:&lt;/color&gt;\n - 個人崇拝.</VME_Medieval_Monarchists.description>
+
+
+  <!-- Intense ideos -->
+
+  <VME_Pleasure_Extremists.label>ハチャメチャなパリピ族</VME_Pleasure_Extremists.label>
+  <VME_Pleasure_Extremists.description>筋肉痛になっても,心まで痛めることはもうありません.すべての快楽を受け入れ,贅沢な肉からきわどい禁断の果実まで,一度しかない人生を楽しみましょう.\n\n&lt;color=#E5E54C&gt;推奨スタイル:&lt;/color&gt;\n - 快楽主義.</VME_Pleasure_Extremists.description>
+
+  <VME_Eastern_Revivalists.label>東方信仰の復興論者</VME_Eastern_Revivalists.label>
+  <VME_Eastern_Revivalists.description>私たちは生まれながらにして罪を持たず,多くの美徳の道を歩むために最善を尽くします.風の知恵を尊重し,風が顔を撫でるのを感じるために多くの夏を生きてきた人々を尊重します.もし仲間と呼んでいた者たちが,あなたに反旗を翻したときのために,常に剣を身近に置き,武士としての心得と戦闘能力を磨いておくことです.\n\n&lt;color=#E5E54C&gt;推奨スタイル:&lt;/color&gt;\n - シンタオ.</VME_Eastern_Revivalists.description>
+
+  <VME_Primitivistic_Nomads.label>原始的な遊牧民</VME_Primitivistic_Nomads.label>
+  <VME_Primitivistic_Nomads.description>長い間,私たち人類は馬と鞍だけを持ってこの世界をさまよい,夜空の星だけを頼りに道なき道を進んできました.厳寒の冬の寒冷地から繁茂したジャングルの奥地まで,私たちはかつての祖先と同じ答えを求めています.\n\n&lt;color=#E5E54C&gt;推奨スタイル:&lt;/color&gt;\n - アニミズム.</VME_Primitivistic_Nomads.description>
+
+  <VME_Pestilent_Doomsayers.label>疫病神の災厄予見者</VME_Pestilent_Doomsayers.label>
+  <VME_Pestilent_Doomsayers.description>肉体は実験と突然変異のための容器にすぎません.もし人が自分の肉体の限界に挑戦するなら,瞬く間に疫病神によって報われ,この絶望的な世界から最も喜ばしい最後の別れをすることになるでしょう.\n\n&lt;color=#E5E54C&gt;推奨スタイル:&lt;/color&gt;\n - 終末論.</VME_Pestilent_Doomsayers.description>
+
+  <VME_Insectoid_Psykers.label>虫たちと魔法使い</VME_Insectoid_Psykers.label>
+  <VME_Insectoid_Psykers.description>虫は人々から敵として見られていますが,実際には自然界の中で最も同調し,組織化された社会を形成しています.虫たちの女王"クイーン"と,その巣の謎は,今も解明されていません.私たちは彼らのやり方をさらに理解するために,彼らをもっと見習うべきです.\n\n&lt;color=#E5E54C&gt;推奨スタイル:&lt;/color&gt;\n - セルケティズム.</VME_Insectoid_Psykers.description>
+
+  <VME_Mechanoid_Technocrat.label>メカノイド専門技術者</VME_Mechanoid_Technocrat.label>
+  <VME_Mechanoid_Technocrat.description>無限の可能性を持ち,重荷から解放された機械生命体が,人間に奉仕するために作られたと考えるのは,愚か極まりないことです.そして,人類はその機械の果てしない目的を解明することはできません.我々は,彼らの敵意をさらに和らげるために,もっと彼らに寄り添うべきです.\n\n&lt;color=#E5E54C&gt;推奨スタイル:&lt;/color&gt;\n - オムニズム.</VME_Mechanoid_Technocrat.description>
+
+  <VME_Ecological_Fascists.label>環境ファシスト</VME_Ecological_Fascists.label>
+  <VME_Ecological_Fascists.description>母なる惑星を汚す者は,誰一人として許されません.私たちの弱々しい体は,自然の大いなる緑の恵みによって生きながらえています.この惑星に敬意を払わなければ,大自然の逆襲により滅びてしまうでしょう.\n\n&lt;color=#E5E54C&gt;推奨スタイル:&lt;/color&gt;\n - 権威主義.</VME_Ecological_Fascists.description>
+
+
+</LanguageData>

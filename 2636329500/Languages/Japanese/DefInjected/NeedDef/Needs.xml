@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_Anonymity.label>匿名性</VME_Anonymity.label>
+  <VME_Anonymity.description>匿名性は,その人が自分のアイデンティティや個性をどれだけ秘密にしたいかを表しています.匿名性が高いと幸せを感じ,低いと不幸になります.顔を隠すと徐々に上昇しますが,社会的な交流や顔の露出があると低下します.</VME_Anonymity.description>
+
+  <VME_Corruption.label>堕落</VME_Corruption.label>
+  <VME_Corruption.description>堕落は,エルドリッチに関連する暗黒の欲求を表しています.この値は毎日ゆっくりと減少していきます.不吉なオベリスクの近くに留まれば減少を止めることができ,詠唱の儀式をすれば増加します.この値が100になると精神崩壊を起こし,0になると他の思想に簡単に流されてしまいます.</VME_Corruption.description>
+
+
+</LanguageData>

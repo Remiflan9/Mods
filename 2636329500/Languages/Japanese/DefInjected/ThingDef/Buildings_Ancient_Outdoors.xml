@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_AncientSpaceJunk.label>古代の宇宙船の残骸</VME_AncientSpaceJunk.label>
+  <VME_AncientSpaceJunk.description>軌道上から落ちてきた宇宙ゴミの塊です.これは古代宇宙戦争の遺物かもしれません.</VME_AncientSpaceJunk.description>
+
+
+  <VME_AncientShoppingCart.label>古代のショッピングカート</VME_AncientShoppingCart.label>
+  <VME_AncientShoppingCart.description>錆びついた古代のショッピングカートです.なぜこんな所にたどり着いたのかは謎ですが,おそらく長く悲しい物語があるのでしょう.</VME_AncientShoppingCart.description>
+
+  <VME_AncientPostbox.label>古代のポスト</VME_AncientPostbox.label>
+  <VME_AncientPostbox.description>壊されて劣化して役に立たなくなった古代の郵便ポストです.何らかの理由でずっと前にここに放置されたようです.</VME_AncientPostbox.description>
+
+  <VME_AncientVendingMachine.label>古代の自動販売機</VME_AncientVendingMachine.label>
+  <VME_AncientVendingMachine.description>古代の自動販売機です.はるか昔に破壊され,何世代にも渡る略奪者がありとあらゆる有用な部品を奪ってきました.なぜここにあるのかは謎です.</VME_AncientVendingMachine.description>
+
+  <VME_AncientAirConditioner.label>古代のエアコン</VME_AncientAirConditioner.label>
+  <VME_AncientAirConditioner.description>古代のエアコンです.内部ははるか昔に破壊され,それ以外の略奪されなかった部分は錆びついています.</VME_AncientAirConditioner.description>
+
+  <VME_AncientKitchenSink.label>古代のキッチンシンク</VME_AncientKitchenSink.label>
+  <VME_AncientKitchenSink.description>非金属の繊維シートを組み合わせて作られた古代の流し台です.ひどく劣化していてどうやっても使いようがありません.\n\nどうしてこんな所にあるのか,おそらく気の遠くなるような話なのでしょう.</VME_AncientKitchenSink.description>
+
+  <VME_AncientStove.label>古代のストーブ</VME_AncientStove.label>
+  <VME_AncientStove.description>古代のストーブです.砕けて錆びついており全く役に立ちません.\n\nなぜここにあるのかは謎です.</VME_AncientStove.description>
+
+  <VME_AncientOven.label>古代のオーブン</VME_AncientOven.label>
+  <VME_AncientOven.description>古代のオーブンです.潰れて錆びており,今ではまったく役に立たなくなっています.\n\nどうやってここにたどり着いたのかはわかりません.</VME_AncientOven.description>
+
+  <VME_AncientATM.label>古代のATM</VME_AncientATM.label>
+  <VME_AncientATM.description>古代のATMです.砕けて錆びてしまい,今ではまったく役に立たなくなっています.\n\nどうやってここにたどり着いたのかはわかりません.</VME_AncientATM.description>
+
+  <VME_AncientWashingMachine.label>古代の洗濯機</VME_AncientWashingMachine.label>
+  <VME_AncientWashingMachine.description>布地を洗うために使用される古代の装置です.潰れて錆びていて,今ではまったく役に立ちません.\n\nどうやってここにたどり着いたのかはわかりません.</VME_AncientWashingMachine.description>
+
+  <VME_AncientHydrant.label>古代の消火栓</VME_AncientHydrant.label>
+  <VME_AncientHydrant.description>古代の消火栓です.錆びがひどく,今ではまったく役に立ちません.\n\nどうやってここにたどり着いたのかはわかりません.</VME_AncientHydrant.description>
+
+  <VME_AncientMicrowave.label>古代の電子レンジ</VME_AncientMicrowave.label>
+  <VME_AncientMicrowave.description>食品を加熱するための古代の装置です.砕けて錆びてしまい,今ではまったく役に立たなくなっています.\n\nどうやってここにたどり着いたのかはわかりません.</VME_AncientMicrowave.description>
+
+  <VME_AncientToilet.label>古代のトイレ</VME_AncientToilet.label>
+  <VME_AncientToilet.description>古代のトイレです.ずっと昔に破壊され,今では完全に役に立ちません.\n\nどうやってここにたどり着いたのかはわかりません.</VME_AncientToilet.description>
+
+  <VME_AncientRefrigerator.label>古代の冷蔵庫</VME_AncientRefrigerator.label>
+  <VME_AncientRefrigerator.description>古代の冷蔵庫です.ずっと前に有用な部品は失われました.</VME_AncientRefrigerator.description>
+
+  <VME_AncientSmallCrate.label>古代の小型容器</VME_AncientSmallCrate.label>
+  <VME_AncientSmallCrate.description>はるか昔に放棄された小さな空き箱です.錆びだらけで保管には適しません.</VME_AncientSmallCrate.description>
+
+  <VME_AncientLongCrate.label>古代の長方形容器</VME_AncientLongCrate.label>
+  <VME_AncientLongCrate.description>はるか昔に放棄された長くて空の容器です.錆だらけで何も入れられそうにありません.</VME_AncientLongCrate.description>
+
+  <VME_AncientLargeCrate.label>古代の大型容器</VME_AncientLargeCrate.label>
+  <VME_AncientLargeCrate.description>はるか昔に放棄された大型容器です.錆だらけで何も入れられそうにありません.</VME_AncientLargeCrate.description>
+
+  <VME_AncientWheel.label>古代の車輪</VME_AncientWheel.label>
+  <VME_AncientWheel.description>何からの古代の車両の車輪です.ゴムは劣化し,金属は錆びてねじまがっています.</VME_AncientWheel.description>
+
+  <VME_AncientGiantWheel.label>古代の巨大車輪</VME_AncientGiantWheel.label>
+  <VME_AncientGiantWheel.description>何年も前に大型車から外れた巨大な車輪です.ゴムは崩れ,金属は錆びてねじ曲がっています.</VME_AncientGiantWheel.description>
+
+  <VME_AncientRustedCar.label>古代の車</VME_AncientRustedCar.label>
+  <VME_AncientRustedCar.description>古代の壊れた車です.長い年月の間に略奪され,残りは全て錆びついています.</VME_AncientRustedCar.description>
+
+  <VME_AncientRustedTruck.label>古代のトラック</VME_AncientRustedTruck.label>
+  <VME_AncientRustedTruck.description>古代の壊れたトラックです.有用な部品は全て錆びたか,ずっと昔に略奪されました.</VME_AncientRustedTruck.description>
+
+  <VME_AncientRustedJeep.label>古代の兵員輸送車</VME_AncientRustedJeep.label>
+  <VME_AncientRustedJeep.description>古代の兵員輸送車です.長い年月の間に略奪され,残りは全て錆びついています.</VME_AncientRustedJeep.description>
+
+  <VME_AncientRustedCarFrame.label>古代の車のフレーム</VME_AncientRustedCarFrame.label>
+  <VME_AncientRustedCarFrame.description>古代の錆びた車のフレームです.外装は長い年月の間に錆びてなくなりました.</VME_AncientRustedCarFrame.description>
+
+  <VME_AncientWarwalkerTorso.label>古代のウォーウォーカーの胴体</VME_AncientWarwalkerTorso.label>
+  <VME_AncientWarwalkerTorso.description>はるか昔に脱落した中型ウォーウォーカーの胴体部分です.有用なコンポーネントはとっくに略奪されました.</VME_AncientWarwalkerTorso.description>
+
+  <VME_AncientRustedDropship.label>古代のドロップシップエンジン</VME_AncientRustedDropship.label>
+  <VME_AncientRustedDropship.description>古代のドロップシップエンジンです.恐らく軍隊の空母から外れたのでしょう.その繊細な内部は錆びて役に立たなくなり,貴重な部品はずっと昔に略奪されました.</VME_AncientRustedDropship.description>
+
+  <VME_AncientWarwalkerClaw.label>古代のウォーウォーカーの爪</VME_AncientWarwalkerClaw.label>
+  <VME_AncientWarwalkerClaw.description>古代の中級ウォーウォーカーの攻撃用爪です.白兵戦でプラスチールの装甲を引き裂くことに特化した兵器です.有用なコンポーネントはとっくに略奪されました.</VME_AncientWarwalkerClaw.description>
+
+  <VME_AncientWarwalkerLeg.label>古代のウォーウォーカーの脚部</VME_AncientWarwalkerLeg.label>
+  <VME_AncientWarwalkerLeg.description>はるか昔に脱落した中型ウォーウォーカーの脚部です.略奪者によってきれいに奪いつくされ,価値のあるコンポーネントは残っていません.</VME_AncientWarwalkerLeg.description>
+
+  <VME_AncientMiniWarwalkerRemains.label>古代のウォースプリンターの残骸</VME_AncientMiniWarwalkerRemains.label>
+  <VME_AncientMiniWarwalkerRemains.description>古代の下級ウォースプリンターの残骸です.破壊された時点で残っていた部品もすでに略奪され尽くしています.</VME_AncientMiniWarwalkerRemains.description>
+
+  <VME_AncientWarspiderRemains.label>古代のウォースパイダーの残骸</VME_AncientWarspiderRemains.label>
+  <VME_AncientWarspiderRemains.description>破壊された古代の中級ウォースパイダーの残骸です.長い間に何度も略奪され,価値ある物は残っていません.</VME_AncientWarspiderRemains.description>
+
+  <VME_AncientPipelineSection.label>古代のパイプラインの部品</VME_AncientPipelineSection.label>
+  <VME_AncientPipelineSection.description>古代のパイプラインの一部です.かつては長距離に渡って貴重な液体を運んでいました.今は略奪され壊されきっています.</VME_AncientPipelineSection.description>
+
+  <VME_AncientWarwalkerFoot.label>古代のウォーウォーカーの足部</VME_AncientWarwalkerFoot.label>
+  <VME_AncientWarwalkerFoot.description>古代のウォーウォーカーの巨大な脚です.何らかの重火器によって本体から脱落したようです.貴重なコンポーネントは奪いつくされるか,劣化しきっています.</VME_AncientWarwalkerFoot.description>
+
+  <VME_AncientTank.label>古代の廃棄された戦車</VME_AncientTank.label>
+  <VME_AncientTank.description>何らかの重火器によって破壊された古代の戦車です.貴重なコンポーネントは奪いつくされるか,破壊されています.</VME_AncientTank.description>
+
+  <VME_AncientAPC.label>古代の破壊されたAPC</VME_AncientAPC.label>
+  <VME_AncientAPC.description>ある種の重火器によって破壊された,古代の装甲部隊運搬船の残骸です.全ての有用なコンポーネントはずっと昔に略奪されたか,劣化しました.</VME_AncientAPC.description>
+
+  <VME_AncientWarwalkerShell.label>古代のウォーウォーカーの外殻</VME_AncientWarwalkerShell.label>
+  <VME_AncientWarwalkerShell.description>ウォーウォーカーの外殻の主要部分です.何らかの巨大な重火器によって引き裂かれたようです.貴重なコンポーネントは奪いつくされるか,劣化しきっています.</VME_AncientWarwalkerShell.description>
+
+  <VME_AncientJetEngine.label>古代のジェットエンジン</VME_AncientJetEngine.label>
+  <VME_AncientJetEngine.description>おそらく大型飛行機から切り離された古代のジェットエンジンです.繊細な内部構造は錆びついており,貴重な部品は長い間に略奪されました.</VME_AncientJetEngine.description>
+
+  <VME_AncientDropshipEngine.label>古代のドロップシップエンジン</VME_AncientDropshipEngine.label>
+  <VME_AncientDropshipEngine.description>古代のドロップシップエンジンです.恐らく軍隊の空母から外れたのでしょう.その繊細な内部は錆びて役に立たなくなり,貴重な部品はずっと昔に略奪されました.</VME_AncientDropshipEngine.description>
+
+  <VME_AncientPodCar.label>古代のポッドカー</VME_AncientPodCar.label>
+  <VME_AncientPodCar.description>かつては自動飛行すらできた古代のポッドカーです.貴重な部品は奪いつくされ,残りは劣化しきっています.</VME_AncientPodCar.description>
+
+  <VME_AncientTankTrap.label>古代の対戦車障害</VME_AncientTankTrap.label>
+  <VME_AncientTankTrap.description>戦車を阻止するための障害物です.長い時を経て崩れきっています.</VME_AncientTankTrap.description>
+
+  <VME_AncientLargeRustedEngineBlock.label>古代のマルコエンジンブロック</VME_AncientLargeRustedEngineBlock.label>
+  <VME_AncientLargeRustedEngineBlock.description>巨大な車両,あるいは発電機に用いられていた大型のエンジン部品です.錆びついており,有用な部品もありません.どうやってもこれは修理できないでしょう.</VME_AncientLargeRustedEngineBlock.description>
+
+
+  <!-- Misc -->
+
+  <VME_AncientFence.label>古代のフェンス</VME_AncientFence.label>
+  <VME_AncientFence.description>鉄筋とコンクリートパネルを組み合わせた古代のフェンスです.</VME_AncientFence.description>
+
+  <VME_AncientRazorWire.label>古代の鉄条網</VME_AncientRazorWire.label>
+  <VME_AncientRazorWire.description>古代の鉄条網です.長い年月の間に劣化しており,もはや危険ではありません.</VME_AncientRazorWire.description>
+
+  <VME_AncientPipes.label>古代のパイプ</VME_AncientPipes.label>
+  <VME_AncientPipes.description>錆びた古いパイプの束です.これらがどのようにしてここにたどり着いたのかはわかりません.</VME_AncientPipes.description>
+
+  <VME_AncientMegaCannonTripod.label>古代のメガキャノンの砲架</VME_AncientMegaCannonTripod.label>
+  <VME_AncientMegaCannonTripod.description>かつてある種の大砲を保持していた砲架です.壊れて何年も経過しており,有用なコンポーネントもとっくに略奪されました.</VME_AncientMegaCannonTripod.description>
+
+  <VME_AncientMegaCannonBarrel.label>古代のメガキャノンの砲身</VME_AncientMegaCannonBarrel.label>
+  <VME_AncientMegaCannonBarrel.description>大砲ないし対艦砲の長砲身です.新造されたときは恐ろしく強力な兵器だったでしょう.しかし今は修理すら不可能で,有用なコンポーネントもとっくに略奪されました.</VME_AncientMegaCannonBarrel.description>
+
+  <VME_AncientContainer.label>古代のコンテナ</VME_AncientContainer.label>
+  <VME_AncientContainer.description>古代の貨物輸送車両に付属していた大きなコンテナです.長い期間をかけて略奪され,劣化して役に立たなくなっています.</VME_AncientContainer.description>
+
+  <VME_AncientMechanoidShell.label>古代のメカノイドの外殻</VME_AncientMechanoidShell.label>
+  <VME_AncientMechanoidShell.description>破壊されたメカノイドの外殻です.年月によって外殻は劣化し,有用なコンポーネントも壊れています.</VME_AncientMechanoidShell.description>
+
+  <VME_AncientCentipedeShell.label>古代のムカデの外殻</VME_AncientCentipedeShell.label>
+  <VME_AncientCentipedeShell.description>砕かれたムカデの外殻です.何年もの間劣化していて,有用なコンポーネントは全てボロボロになっています.</VME_AncientCentipedeShell.description>
+
+  <VME_AncientMechDropBeacon.label>古代のメカノイドのビーコン</VME_AncientMechDropBeacon.label>
+  <VME_AncientMechDropBeacon.description>壊れたドロップビーコンの外殻です.有用なコンポーネントは失われており,外殻も年月によって劣化しています.</VME_AncientMechDropBeacon.description>
+
+  <VME_AncientSecurityTurret.label>古代の警備タレット</VME_AncientSecurityTurret.label>
+  <VME_AncientSecurityTurret.description>古代の壊れた警備タレットです.有用な部品は全て奪われたか破壊されました.</VME_AncientSecurityTurret.description>
+
+  <VME_AncientRustedEngineBlock.label>古代のエンジン部品</VME_AncientRustedEngineBlock.label>
+  <VME_AncientRustedEngineBlock.description>錆びた古代のエンジン部品です.どう修理しても直しようがありません.</VME_AncientRustedEngineBlock.description>
+
+  <VME_AncientShipBeacon.label>古代の誘導ビーコン</VME_AncientShipBeacon.label>
+  <VME_AncientShipBeacon.description>古代の壊れた誘導ビーコンです.有用なコンポーネントは長い間に全て略奪されました.</VME_AncientShipBeacon.description>
+
+
+</LanguageData>

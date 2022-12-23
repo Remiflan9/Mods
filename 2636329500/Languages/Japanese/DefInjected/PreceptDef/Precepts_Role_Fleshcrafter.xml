@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_IdeoRole_Fleshcrafter.label>バイオクラフター</VME_IdeoRole_Fleshcrafter.label>
+  <VME_IdeoRole_Fleshcrafter.description>新鮮な死体から臓器を生産できる解剖のスペシャリストです.臓器の損傷や変質が激しいため,一度にランダムで3個までしか収穫できません.残った部分は人肉として利用できます.</VME_IdeoRole_Fleshcrafter.description>
+
+
+</LanguageData>

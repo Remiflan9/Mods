@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Fire_Desired.stages.0.label>近くに炎がない</VME_Fire_Desired.stages.0.label>
+  <VME_Fire_Desired.stages.0.description>私はしばらく火を見ていない.</VME_Fire_Desired.stages.0.description>
+  <VME_Fire_Desired.stages.1.label>炎が少ない</VME_Fire_Desired.stages.1.label>
+  <VME_Fire_Desired.stages.1.description>炎が見えないのは寂しい.</VME_Fire_Desired.stages.1.description>
+  <VME_Fire_Desired.stages.2.label>小さな炎を見た</VME_Fire_Desired.stages.2.label>
+  <VME_Fire_Desired.stages.2.description>最近,小さな火を見た.</VME_Fire_Desired.stages.2.description>
+  <VME_Fire_Desired.stages.3.label>炎を見た</VME_Fire_Desired.stages.3.label>
+  <VME_Fire_Desired.stages.3.description>最近,燃える炎を見た.</VME_Fire_Desired.stages.3.description>
+  <VME_Fire_Desired.stages.4.label>素晴らしい炎を見た</VME_Fire_Desired.stages.4.label>
+  <VME_Fire_Desired.stages.4.description>私は炎に包まれている.</VME_Fire_Desired.stages.4.description>
+  <VME_Fire_Desired.stages.5.label>美しい炎を見た</VME_Fire_Desired.stages.5.label>
+  <VME_Fire_Desired.stages.5.description>私の周りにはたくさんの美しい炎に囲まれている.</VME_Fire_Desired.stages.5.description>
+
+  <VME_Fire_Despised.stages.0.label>近くに炎がない</VME_Fire_Despised.stages.0.label>
+  <VME_Fire_Despised.stages.0.description>近くに火の気はなくてホッとする.</VME_Fire_Despised.stages.0.description>
+  <VME_Fire_Despised.stages.1.label>少し炎を見た</VME_Fire_Despised.stages.1.label>
+  <VME_Fire_Despised.stages.1.description>あの火を見ると不安になる.</VME_Fire_Despised.stages.1.description>
+  <VME_Fire_Despised.stages.2.label>小さな炎を見た</VME_Fire_Despised.stages.2.label>
+  <VME_Fire_Despised.stages.2.description>最近,小さな火を見た.鎮火してほしい.</VME_Fire_Despised.stages.2.description>
+  <VME_Fire_Despised.stages.3.label>炎を見た</VME_Fire_Despised.stages.3.label>
+  <VME_Fire_Despised.stages.3.description>私は最近,燃える炎を見た.居心地が悪い.</VME_Fire_Despised.stages.3.description>
+  <VME_Fire_Despised.stages.4.label>燃え盛る炎を見た</VME_Fire_Despised.stages.4.label>
+  <VME_Fire_Despised.stages.4.description>炎に包まれている.これは恐ろしいことだ.</VME_Fire_Despised.stages.4.description>
+  <VME_Fire_Despised.stages.5.label>大炎上</VME_Fire_Despised.stages.5.label>
+  <VME_Fire_Despised.stages.5.description>ああああ!ぜんぶ燃えている!</VME_Fire_Despised.stages.5.description>
+
+
+</LanguageData>

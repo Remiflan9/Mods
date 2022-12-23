@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Junk_Beautiful.label>必須</VME_Junk_Beautiful.label>
+  <VME_Junk_Beautiful.description>古代のガラクタは息を呑むほどの芸術であり,美しいため,先人たちの名残として常に保存すべきだ.そして,古代文明の遺産に囲まれて暮らすことは素晴らしいことだ.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - 古代のガラクタは,必要に応じて撤去して再度設置することができます.\n - コロニーは半径10タイル内の古代のジャンクの数に応じて,心情ペナルティまたはボーナスを獲得します.</VME_Junk_Beautiful.description>
+
+
+  <VME_Junk_Preferred.label>優先</VME_Junk_Preferred.label>
+  <VME_Junk_Preferred.description>古代のガラクタは,私たちの祖先の苦難を思い起こさせ,星々の間での人類による永遠なる闘争の象徴となるものだ.それらの捨てられた古代の技術を研究することで,私たちは多くのことを学ぶことができる.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - 古代のガラクタは,必要に応じて撤去して再度設置することができます.\n - コロニーは半径10タイル内の古代のジャンクの数に応じて,心情ペナルティまたはボーナスを獲得します.</VME_Junk_Preferred.description>
+
+
+
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.0>近くにガラクタがない</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.0>
+
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.1>ガラクタが少ない(近くに1個)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.1>
+
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.2>ガラクタが少ない(近くに2個)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.2>
+
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.3>ガラクタが少ない(近くに3個)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.3>
+
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.4>ガラクタが少ない(近くに4個)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.4>
+
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.5>ガラクタが少ない(近くに5個)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.5>
+
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.6>ガラクタが少しある</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.6>
+
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.7>ガラクタがある</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.7>
+
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.8>素晴らしいガラクタ</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.8>
+
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.9>美しいガラクタ</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.9>
+
+
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.0>近くにガラクタがない</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.0>
+
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.1>ガラクタが少ない(近くに1個)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.1>
+
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.2>ガラクタが少ない(近くに2個)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.2>
+
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.3>ガラクタが少ない(近くに3個)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.3>
+
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.4>ガラクタが少ない(近くに4個)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.4>
+
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.5>ガラクタが少ない(近くに5個)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.5>
+
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.6>ガラクタが少しある</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.6>
+
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.7>ガラクタがある</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.7>
+
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.8>素晴らしいガラクタ</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.8>
+
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.9>美しいガラクタ</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.9>
+
+
+</LanguageData>

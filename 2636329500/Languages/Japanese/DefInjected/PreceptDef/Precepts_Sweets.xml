@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Sweets_Craved.label>必要</VME_Sweets_Craved.label>
+  <VME_Sweets_Craved.description>デザートを我慢してはならない.甘いお菓子を少なくとも2～3日に1回は食べるべきだ.</VME_Sweets_Craved.description>
+
+  <VME_Sweets_Impartial.label>無関心</VME_Sweets_Impartial.label>
+  <VME_Sweets_Impartial.description>スイーツはそんなにいいものではなく,いつも残してしまうものだ.</VME_Sweets_Impartial.description>
+
+
+</LanguageData>

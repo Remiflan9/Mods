@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_DumbLabor_Exalted.label>高貴</VME_DumbLabor_Exalted.label>
+  <VME_DumbLabor_Exalted.description>痛んだ体には敬意を払うべきだ.苦労して働いた日ほど,やりがいのあるものはない.</VME_DumbLabor_Exalted.description>
+
+  <VME_DumbLabor_Liked.label>好む</VME_DumbLabor_Liked.label>
+  <VME_DumbLabor_Liked.description>肉体労働は健康にも良い.</VME_DumbLabor_Liked.description>
+
+  <VME_DumbLabor_Indifferent.label>普通</VME_DumbLabor_Indifferent.label>
+  <VME_DumbLabor_Indifferent.description>くだらない仕事も時には必要だ.</VME_DumbLabor_Indifferent.description>
+
+  <VME_DumbLabor_Disliked.label>嫌い</VME_DumbLabor_Disliked.label>
+  <VME_DumbLabor_Disliked.description>掃除や運搬の作業は,ものすごく疲れるのでやりたくないが,それでも必要なことだ.</VME_DumbLabor_Disliked.description>
+
+  <VME_DumbLabor_Horrible.label>ぞっとする</VME_DumbLabor_Horrible.label>
+  <VME_DumbLabor_Horrible.description>私たちは,自分の体に負担をかけて,健康を損ねたり,疲労を感じるべきではない.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - リーダーとモラルガイドは雑用ができなくなります.</VME_DumbLabor_Horrible.description>
+
+
+</LanguageData>

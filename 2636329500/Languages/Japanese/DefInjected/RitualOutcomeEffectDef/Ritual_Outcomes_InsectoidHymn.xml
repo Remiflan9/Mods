@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_InsectoidHymnRitualOutcome.description>儀式の質に応じて参加者は{MOODDAYS}日間, {MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.</VME_InsectoidHymnRitualOutcome.description>
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.0.label>つまらない</VME_InsectoidHymnRitualOutcome.outcomeChances.0.label>
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.0.description>{0}はとてつもなくつまらないものでした.その辺にいる小さな虫の鳴き声を聴いてたほうがマシです.\n\nこの儀式は退屈だったため,昆虫調教師の能力「巣を作る」のクールダウンに影響しません.</VME_InsectoidHymnRitualOutcome.outcomeChances.0.description>
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.1.label>ぎこちない</VME_InsectoidHymnRitualOutcome.outcomeChances.1.label>
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.1.description>{0}はぎこちないものでした.スピーチは反復的で,私たちが敬愛する虫たちの神秘性を確信させるものではありませんでした.\n\nこの儀式は退屈だったため,昆虫調教師の能力「巣を作る」のクールダウンに影響しません.</VME_InsectoidHymnRitualOutcome.outcomeChances.1.description>
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.2.label>興奮した</VME_InsectoidHymnRitualOutcome.outcomeChances.2.label>
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.2.description>{0}は非常に盛り上がりました.詠唱者は感動的な技術を示し,賛美歌は我々の生活様式の美徳を適切に称賛していました.\n\nこの儀式により昆虫調教師の能力「巣を作る」のクールダウンが更新されました.</VME_InsectoidHymnRitualOutcome.outcomeChances.2.description>
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.3.label>魅力的な</VME_InsectoidHymnRitualOutcome.outcomeChances.3.label>
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.3.description>うっとりするような{0}でした.賛美歌の魅惑的な歌詞が,体中を這う無数の虫の足のように,今でも耳に残っています.\n\nこの儀式により昆虫調教師の能力「巣を作る」のクールダウンが更新されました.</VME_InsectoidHymnRitualOutcome.outcomeChances.3.description>
+
+  <VME_InsectoidHymnRitualOutcome.comps.0.label>詠唱者</VME_InsectoidHymnRitualOutcome.comps.0.label>
+
+  <VME_InsectoidHymnRitualOutcome.comps.1.label>参加者数</VME_InsectoidHymnRitualOutcome.comps.1.label>
+
+  <VME_InsectoidHymnRitualOutcome.comps.2.label>部屋の印象</VME_InsectoidHymnRitualOutcome.comps.2.label>
+
+</LanguageData>

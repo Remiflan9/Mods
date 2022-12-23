@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Firefighting_Abhorrent.label>嫌悪</VME_Firefighting_Abhorrent.label>
+  <VME_Firefighting_Abhorrent.description>聖なる炎を消すことは言葉にならないほど罪深い行為だ.</VME_Firefighting_Abhorrent.description>
+
+  <VME_Firefighting_Preferred.label>優先</VME_Firefighting_Preferred.label>
+  <VME_Firefighting_Preferred.description>危険な火を消すのは爽快だ.</VME_Firefighting_Preferred.description>
+
+
+</LanguageData>
