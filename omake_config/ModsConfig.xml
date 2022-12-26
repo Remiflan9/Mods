@@ -42,7 +42,9 @@
     <li>vanillaexpanded.vbrewecandt</li>
     <li>vanillaexpanded.vwec</li>
     <li>vanillaexpanded.basegeneration</li>
+    <li>vanillaexpanded.vbookse</li>
     <li>vanillaexpanded.vpsycastse</li>
+    <li>vanillaexpanded.vmemese</li>
     <li>oskarpotocki.vanillaexpanded.ideologypatches</li>
     <li>oskarpotocki.vanillaexpanded.royaltypatches</li>
     <li>proxyer.jpt.veframework</li>
@@ -54,14 +56,13 @@
     <li>proxyer.jpt.vfemedicaljp</li>
     <li>proxyer.jpt.vfespacerjp</li>
     <li>lucifel.vevpe.jpt</li>
-    <li>akarthus.thecosmicodyssey.victoriavaliant</li>
+    <li>syrchalis.scarremoval</li>
     <li>hobtook.mortaraccuracy</li>
     <li>petetimessix.simplesidearms</li>
     <li>proxyer.jpt.simplesidearmsjp</li>
     <li>dubwise.dubsbadhygiene</li>
     <li>proxyer.jpt.dubsbadhygienejp</li>
-    <li>orion.hospitality</li>
-    <li>proxyer.jpt.hospitalityjp</li>
+    <li>akarthus.thecosmicodyssey.victoriavaliant</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>

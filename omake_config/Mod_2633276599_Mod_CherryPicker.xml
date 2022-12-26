@@ -162,6 +162,21 @@
 			<li>ThingDef/Psytrainer_VPE_Shrineshield</li>
 			<li>ThingDef/Psytrainer_VPE_EssenceTransfer</li>
 			<li>ThingDef/Psytrainer_VPE_SummonPack</li>
+			<li>ThingDef/VWE_FlashGrenade</li>
+			<li>RecipeDef/Make_VWE_FlashGrenade</li>
+			<li>ResearchProjectDef/VFE_Res_Sprinkler</li>
+			<li>ThingDef/VAE_Apparel_TribalPoncho</li>
+			<li>ThingDef/VAE_Apparel_TribalKilt</li>
+			<li>ThingDef/VAE_Apparel_PeltCoat</li>
+			<li>RecipeDef/Make_VAE_Apparel_TribalPoncho</li>
+			<li>RecipeDef/Make_VAE_Apparel_TribalKilt</li>
+			<li>RecipeDef/Make_VAE_Apparel_PeltCoat</li>
+			<li>ThingDef/VBE_TypewritersTable</li>
+			<li>ThingDef/VBE_Blueprint</li>
+			<li>ThingDef/VBE_Map</li>
+			<li>ThingDef/VBE_Newspaper</li>
+			<li>RecipeDef/Make_VBE_Newspaper</li>
+			<li>ResearchProjectDef/VBE_Printing</li>
 		</keys>
 	</ModSettings>
 </SettingsBlock>
