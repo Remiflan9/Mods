@@ -57,6 +57,7 @@
 			<li>proxyer.jpt.vfemedicaljp</li>
 			<li>proxyer.jpt.vfespacerjp</li>
 			<li>lucifel.vevpe.jpt</li>
+			<li>syrchalis.scarremoval</li>
 			<li>hobtook.mortaraccuracy</li>
 			<li>petetimessix.simplesidearms</li>
 			<li>proxyer.jpt.simplesidearmsjp</li>
@@ -69,6 +70,7 @@
 			<li>0</li>
 			<li>1149640</li>
 			<li>1392840</li>
+			<li>0</li>
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
@@ -181,6 +183,7 @@
 			<li>VFE - Medical Module 日本語翻訳追加</li>
 			<li>VFE - Spacer Module 日本語翻訳追加</li>
 			<li>Vanilla Psycasts Expanded 日本語翻訳</li>
+			<li>[SYR] Scar Removal Plus</li>
 			<li>Mortar Accuracy</li>
 			<li>Simple sidearms</li>
 			<li>Simple sidearms 日本語翻訳追加</li>
@@ -245,6 +248,7 @@
 			<li>proxyer.jpt.vfemedicaljp</li>
 			<li>proxyer.jpt.vfespacerjp</li>
 			<li>lucifel.vevpe.jpt</li>
+			<li>syrchalis.scarremoval</li>
 			<li>hobtook.mortaraccuracy</li>
 			<li>petetimessix.simplesidearms</li>
 			<li>proxyer.jpt.simplesidearmsjp</li>
@@ -307,6 +311,7 @@
 			<li>VFE - Medical Module 日本語翻訳追加</li>
 			<li>VFE - Spacer Module 日本語翻訳追加</li>
 			<li>Vanilla Psycasts Expanded 日本語翻訳</li>
+			<li>[SYR] Scar Removal Plus</li>
 			<li>Mortar Accuracy</li>
 			<li>Simple sidearms</li>
 			<li>Simple sidearms 日本語翻訳追加</li>
