@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<ThingDef ParentName="ResourceBase">
+		<defName>ERN_CarbuncleGem</defName>
+		<label>carbuncle gem</label>
+		<description>A shining red gem from the skull of a carbuncle.</description>
+		<graphicData>
+			<texPath>Items/ERN_Carbuncle/CarbuncleGem</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<resourceReadoutPriority>Middle</resourceReadoutPriority>
+		<soundInteract>Metal_Drop</soundInteract>
+		<soundDrop>Metal_Drop</soundDrop>
+		<stackLimit>1</stackLimit>
+		<useHitPoints>true</useHitPoints>
+		<statBases>
+			<MarketValue>500</MarketValue>
+			<MaxHitPoints>100</MaxHitPoints>
+			<Mass>2</Mass>
+			<Flammability>0.2</Flammability>
+		</statBases>
+		<thingCategories>
+			<li>Items</li>
+		</thingCategories>
+		<drawGUIOverlay>false</drawGUIOverlay>
+		<tradeability>Sellable</tradeability>
+		<tradeTags>
+			<li>ExoticMisc</li>
+		</tradeTags>
+	</ThingDef>
+
+</Defs>

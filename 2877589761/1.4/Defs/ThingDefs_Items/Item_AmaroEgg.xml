@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+  <!--=====================================================================-->
+  <!--=============================== Eggs ================================-->
+  <!--=====================================================================-->
+
+  <!-- amaro -->  
+
+
+  <ThingDef ParentName="EggFertBase">
+    <defName>EggAmaroFertilized</defName>
+    <label>amaro egg (fert.)</label>
+    <description>A fertilized amaro egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/AmaroEgg</texPath>
+	  <graphicClass>Graphic_StackCount</graphicClass>
+    <drawSize>0.6</drawSize>
+	  </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>15</hatcherDaystoHatch>
+        <hatcherPawn>ERN_Amaro</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  
+  </Defs>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<ThingDef ParentName="AnimalThingBase">
+		<defName>ERN_BigCarbuncle</defName>
+		<label>grand carbuncle</label>
+		<description>On worlds that carbuncle have colonized thoroughly, occasionally individuals will grow to a prodigious size, large enough to be ridden like horses.  What causes this is as mysterious as the origin of the species itself, but should a colony find such a rare specimen it is considered an omen of great fortune - not just because of superstition of luck-granting powers, or the rarity of the creature itself, but also just because who wouldn't want to ride around on such an adorable creature?</description>
+		<statBases>
+			<MoveSpeed>5.0</MoveSpeed>
+			<ComfyTemperatureMin>-35</ComfyTemperatureMin>
+			<MarketValue>500</MarketValue>
+			<CaravanRidingSpeedFactor>2.1</CaravanRidingSpeedFactor>
+		</statBases>
+		<tools>
+			<li>
+				<label>left claw</label>
+				<capacities>
+					<li>Scratch</li>
+				</capacities>
+				<power>12</power>
+				<cooldownTime>2</cooldownTime>
+				<linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+				<surpriseAttack>
+					<extraMeleeDamages>
+						<li>
+							<def>Stun</def>
+							<amount>14</amount>
+						</li>
+					</extraMeleeDamages>
+				</surpriseAttack>
+			</li>
+			<li>
+				<label>right claw</label>
+				<capacities>
+					<li>Scratch</li>
+				</capacities>
+				<power>12</power>
+				<cooldownTime>2</cooldownTime>
+				<linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+				<surpriseAttack>
+					<extraMeleeDamages>
+						<li>
+							<def>Stun</def>
+							<amount>14</amount>
+						</li>
+					</extraMeleeDamages>
+				</surpriseAttack>
+			</li>
+			<li>
+				<capacities>
+					<li>Bite</li>
+				</capacities>
+				<power>14</power>
+				<cooldownTime>2</cooldownTime>
+				<linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+				<chanceFactor>0.9</chanceFactor>
+				<surpriseAttack>
+					<extraMeleeDamages>
+						<li>
+							<def>Stun</def>
+							<amount>14</amount>
+						</li>
+					</extraMeleeDamages>
+				</surpriseAttack>
+			</li>
+			<li>
+				<label>head</label>
+				<capacities>
+					<li>Blunt</li>
+				</capacities>
+				<power>8</power>
+				<cooldownTime>2</cooldownTime>
+				<linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+				<ensureLinkedBodyPartsGroupAlwaysUsable>true</ensureLinkedBodyPartsGroupAlwaysUsable>
+				<chanceFactor>0.2</chanceFactor>
+			</li>
+		</tools>
+		<race>
+			<body>QuadrupedAnimalWithPawsAndTail</body>
+			<petness>0.1</petness>
+			<baseBodySize>1.0</baseBodySize>
+			<baseHungerRate>0.12</baseHungerRate>
+			<baseHealthScale>1.8</baseHealthScale>
+			<foodType>OmnivoreRoughAnimal</foodType>
+			<leatherDef>Fur_Carbuncle</leatherDef>
+			<trainability>Advanced</trainability>
+			<wildness>0.10</wildness>
+			<packAnimal>true</packAnimal>
+			<nuzzleMtbHours>12</nuzzleMtbHours>
+			<nameOnTameChance>1</nameOnTameChance>
+			<gestationPeriodDays>20</gestationPeriodDays>
+			<manhunterOnDamageChance>0.05</manhunterOnDamageChance>
+			<manhunterOnTameFailChance>0.02</manhunterOnTameFailChance>
+			<litterSizeCurve>
+				<points>
+					<li>(0.5, 0)</li>
+					<li>(1, 1)</li>
+					<li>(2, 1)</li>
+					<li>(3, 0.2)</li>
+					<li>(4, 0.1)</li>
+					<li>(4.5, 0)</li>
+				</points>
+			</litterSizeCurve>
+			<lifeExpectancy>20</lifeExpectancy>
+			<lifeStageAges>
+				<li>
+					<def>AnimalBaby</def>
+					<minAge>0</minAge>
+				</li>
+				<li>
+					<def>AnimalJuvenile</def>
+					<minAge>0.1</minAge>
+				</li>
+				<li>
+					<def>AnimalAdult</def>
+					<minAge>0.3</minAge>
+					<soundWounded>Pawn_Rodent_Wounded</soundWounded>
+					<soundDeath>Pawn_Rodent_Death</soundDeath>
+					<soundCall>Pawn_Rodent_Call</soundCall>
+					<soundAngry>Pawn_Rodent_Angry</soundAngry>
+				</li>
+			</lifeStageAges>
+			<soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+			<soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+			<soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+		</race>
+		<butcherProducts>
+			<ERN_CarbuncleGem>1</ERN_CarbuncleGem>
+		</butcherProducts>
+		<tradeTags>
+			<li>AnimalExotic</li>
+		</tradeTags>
+	</ThingDef>
+
+	<PawnKindDef ParentName="AnimalKindBase">
+		<defName>ERN_BigCarbuncle</defName>
+		<label>grand carbuncle</label>
+		<labelPlural>grand carbuncles</labelPlural>
+		<race>ERN_BigCarbuncle</race>
+		<combatPower>120</combatPower>
+		<ecoSystemWeight>0.2</ecoSystemWeight>
+		<alternateGraphicChance>0.8</alternateGraphicChance>
+		<alternateGraphics>
+			<li>
+				<texPath>Pawns/Animals/ERN_BigCarbuncle/CarbuncleBlack</texPath>
+			</li>
+			<li>
+				<texPath>Pawns/Animals/ERN_BigCarbuncle/CarbuncleGreen</texPath>
+			</li>
+			<li>
+				<texPath>Pawns/Animals/ERN_BigCarbuncle/CarbuncleRed</texPath>
+			</li>
+			<li>
+				<texPath>Pawns/Animals/ERN_BigCarbuncle/CarbuncleWhite</texPath>
+			</li>
+			<li>
+				<texPath>Pawns/Animals/ERN_BigCarbuncle/CarbuncleYellow</texPath>
+			</li>
+			<li>
+				<texPath>Pawns/Animals/ERN_BigCarbuncle/CarbunclePink</texPath>
+			</li>
+		</alternateGraphics>
+		<lifeStages>
+			<li>
+				<label>carbuncle kit</label>
+				<labelPlural>carbuncle kit</labelPlural>
+				<bodyGraphicData>
+					<texPath>Pawns/Animals/ERN_BigCarbuncle/CarbuncleBlue</texPath>
+					<drawSize>1.5</drawSize>
+					<shadowData>
+						<volume>(0.2, 0.2, 0.2)</volume>
+						<offset>(0,0,-0.2)</offset>
+					</shadowData>
+				</bodyGraphicData>
+				<dessicatedBodyGraphicData>
+					<texPath>Pawns/Animals/ERN_BigCarbuncle/Dessicated_Carbuncle</texPath>
+					<drawSize>1.5</drawSize>
+				</dessicatedBodyGraphicData>
+			</li>
+			<li>
+				<bodyGraphicData>
+					<texPath>Pawns/Animals/ERN_BigCarbuncle/CarbuncleBlue</texPath>
+					<drawSize>2.0</drawSize>
+					<shadowData>
+						<volume>(0.3, 0.3, 0.3)</volume>
+						<offset>(0,0,-0.3)</offset>
+					</shadowData>
+				</bodyGraphicData>
+				<dessicatedBodyGraphicData>
+					<texPath>Pawns/Animals/ERN_BigCarbuncle/Dessicated_Carbuncle</texPath>
+					<drawSize>2.0</drawSize>
+				</dessicatedBodyGraphicData>
+			</li>
+			<li>
+				<bodyGraphicData>
+					<texPath>Pawns/Animals/ERN_BigCarbuncle/CarbuncleBlue</texPath>
+					<drawSize>2.7</drawSize>
+					<shadowData>
+						<volume>(0.4, 0.4, 0.4)</volume>
+						<offset>(0,0,-0.2)</offset>
+					</shadowData>
+				</bodyGraphicData>
+				<dessicatedBodyGraphicData>
+					<texPath>Pawns/Animals/ERN_BigCarbuncle/Dessicated_Carbuncle</texPath>
+					<drawSize>2.7</drawSize>
+				</dessicatedBodyGraphicData>
+			</li>
+		</lifeStages>
+	</PawnKindDef>
+
+</Defs>

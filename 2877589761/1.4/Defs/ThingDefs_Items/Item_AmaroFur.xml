@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+  <!--========== Amaro leather ============-->
+
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_Amaro</defName>
+    <label>amaro skin</label>
+    <description>The tanned skin of an amaro. Amaro skin is reasonably tough, and has good insulation.</description>
+    <graphicData>
+      <color>(98,95,88)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>5.0</MarketValue>
+      <StuffPower_Armor_Sharp>0.9</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>0.35</StuffPower_Armor_Blunt>
+      <StuffPower_Insulation_Cold>25</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>18</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>(98,95,88)</color>
+      <commonality>0.015</commonality>
+    </stuffProps>
+  </ThingDef>
+
+  
+  </Defs>

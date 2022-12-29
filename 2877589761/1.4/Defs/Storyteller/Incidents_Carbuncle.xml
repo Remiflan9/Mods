@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+	
+	<IncidentDef>
+		<defName>ERN_BigCarbuncleJoins</defName>
+		<label>forlorn carbuncle</label>
+		<category>Misc</category>
+		<targetTags>
+		  <li>Map_PlayerHome</li>
+		</targetTags>
+		<workerClass>FFAnimals.IncidentWorker_BigCarbuncleJoins</workerClass>
+		<baseChance>0.3</baseChance>
+		<minRefireDays>13</minRefireDays>
+	  </IncidentDef>
+
+</Defs>

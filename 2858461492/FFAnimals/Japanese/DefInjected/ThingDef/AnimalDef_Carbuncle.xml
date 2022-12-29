@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ERN_Carbuncle.label>carbuncle</ERN_Carbuncle.label>
+  <ERN_Carbuncle.description>No one is quite sure of the origin of the carbuncle - some posit they are a naturally-occurring species on some distant rimworld that glitterworlders took a fancy to and spread throughout the universe, others say they are an amalgamation of various species of Old Terra, designer-made to be adorable pets to the high classes that have since become naturalized on many worlds.  And yet others deep into their cups of ambrosia would tell you they're born from gemstones as the result of 'magic' - an experiment of a bored psycaster with a lot of coin and free time on their hands.  All backstories have the same result - an adorable, intelligent furry quadruped who makes a great companion on lonely rimworlds.</ERN_Carbuncle.description>
+  <ERN_Carbuncle.tools.0.label>left claw</ERN_Carbuncle.tools.0.label>
+  <ERN_Carbuncle.tools.1.label>right claw</ERN_Carbuncle.tools.1.label>
+  <ERN_Carbuncle.tools.3.label>head</ERN_Carbuncle.tools.3.label>
+
+
+</LanguageData>

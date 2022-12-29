@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ERN_BigCarbuncle.label>大型カーバンクル</ERN_BigCarbuncle.label>
+  <ERN_BigCarbuncle.description>カーバンクルが本格的に住み着いた世界では,時折,馬のように乗れるほど巨大に成長する個体が現れることがあります. その原因は,この種の起源と同じくらい謎に包まれているのですが,あるコロニーでそのような珍しい個体を発見した場合,それは幸運の前兆と考えられています.幸運をもたらすという迷信や,この生物自体の希少性だけでなく,こんな愛らしい生き物に乗ってみたいと思わない人がいるのでしょうか？</ERN_BigCarbuncle.description>
+  <ERN_BigCarbuncle.tools.0.label>左爪</ERN_BigCarbuncle.tools.0.label>
+  <ERN_BigCarbuncle.tools.1.label>右爪</ERN_BigCarbuncle.tools.1.label>
+  <ERN_BigCarbuncle.tools.3.label>頭部</ERN_BigCarbuncle.tools.3.label>
+
+
+</LanguageData>

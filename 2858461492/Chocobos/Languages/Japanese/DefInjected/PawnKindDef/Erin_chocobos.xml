@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ERN_Chocobo.label>チョコボ</ERN_Chocobo.label>
+  <ERN_Chocobo.labelPlural>チョコボ</ERN_Chocobo.labelPlural>
+  <ERN_Chocobo.labelMale>チョコボ</ERN_Chocobo.labelMale>
+  <ERN_Chocobo.labelMalePlural>チョコボ</ERN_Chocobo.labelMalePlural>
+  <ERN_Chocobo.labelFemale>チョコボ</ERN_Chocobo.labelFemale>
+  <ERN_Chocobo.labelFemalePlural>チョコボ</ERN_Chocobo.labelFemalePlural>
+  <ERN_Chocobo.lifeStages.0.label>チョコボ</ERN_Chocobo.lifeStages.0.label>
+  <ERN_Chocobo.lifeStages.0.labelPlural>チョコボ</ERN_Chocobo.lifeStages.0.labelPlural>
+  <ERN_Chocobo.lifeStages.0.labelMale>チョコボ</ERN_Chocobo.lifeStages.0.labelMale>
+  <ERN_Chocobo.lifeStages.0.labelMalePlural>チョコボ</ERN_Chocobo.lifeStages.0.labelMalePlural>
+  <ERN_Chocobo.lifeStages.0.labelFemale>チョコボ</ERN_Chocobo.lifeStages.0.labelFemale>
+  <ERN_Chocobo.lifeStages.0.labelFemalePlural>チョコボ</ERN_Chocobo.lifeStages.0.labelFemalePlural>
+  <ERN_Chocobo.lifeStages.1.label>チョコボ</ERN_Chocobo.lifeStages.1.label>
+  <ERN_Chocobo.lifeStages.1.labelPlural>チョコボ</ERN_Chocobo.lifeStages.1.labelPlural>
+  <ERN_Chocobo.lifeStages.1.labelMale>チョコボ</ERN_Chocobo.lifeStages.1.labelMale>
+  <ERN_Chocobo.lifeStages.1.labelMalePlural>チョコボ</ERN_Chocobo.lifeStages.1.labelMalePlural>
+  <ERN_Chocobo.lifeStages.1.labelFemale>チョコボ</ERN_Chocobo.lifeStages.1.labelFemale>
+  <ERN_Chocobo.lifeStages.1.labelFemalePlural>チョコボ</ERN_Chocobo.lifeStages.1.labelFemalePlural>
+  <ERN_Chocobo.lifeStages.2.label>チョコボ</ERN_Chocobo.lifeStages.2.label>
+  <ERN_Chocobo.lifeStages.2.labelPlural>チョコボ</ERN_Chocobo.lifeStages.2.labelPlural>
+  <ERN_Chocobo.lifeStages.2.labelMale>チョコボ</ERN_Chocobo.lifeStages.2.labelMale>
+  <ERN_Chocobo.lifeStages.2.labelMalePlural>チョコボ</ERN_Chocobo.lifeStages.2.labelMalePlural>
+  <ERN_Chocobo.lifeStages.2.labelFemale>チョコボ</ERN_Chocobo.lifeStages.2.labelFemale>
+  <ERN_Chocobo.lifeStages.2.labelFemalePlural>チョコボ</ERN_Chocobo.lifeStages.2.labelFemalePlural>
+
+
+</LanguageData>

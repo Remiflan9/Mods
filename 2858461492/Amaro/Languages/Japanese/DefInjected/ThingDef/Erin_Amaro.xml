@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ERN_Amaro.label>アマロ</ERN_Amaro.label>
+  <ERN_Amaro.description>Glitterworldで行われた遺伝子操作と品種改良により,驚異的な知能を持つようになった羽毛爬虫類の覚醒種です.この種は人間と同等の寿命を持ち,出生率も低いため,生涯にわたる良き相棒となるでしょう.噂によると,長い間人間のそばにいたものは言葉を話すようになりますが,そのような生物は金持ちや恥知らずどもの娯楽として連れ去られてしまいます.アマロの野生の群れは植物が生い茂る温暖な場所で見つけることができ,彼らの知性は高く戦術的な思考を持っているため,近寄るときには注意が必要です.</ERN_Amaro.description>
+  <ERN_Amaro.tools.0.label>爪</ERN_Amaro.tools.0.label>
+  <ERN_Amaro.tools.1.label>頭部</ERN_Amaro.tools.1.label>
+  <ERN_Amaro.race.meatLabel>アマロの肉</ERN_Amaro.race.meatLabel>
+
+
+</LanguageData>

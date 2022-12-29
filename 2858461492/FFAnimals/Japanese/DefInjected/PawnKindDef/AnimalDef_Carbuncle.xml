@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ERN_Carbuncle.label>carbuncle</ERN_Carbuncle.label>
+  <ERN_Carbuncle.labelPlural>carbuncles</ERN_Carbuncle.labelPlural>
+  <ERN_Carbuncle.labelMale>male carbuncle</ERN_Carbuncle.labelMale>
+  <ERN_Carbuncle.labelMalePlural>male carbuncles</ERN_Carbuncle.labelMalePlural>
+  <ERN_Carbuncle.labelFemale>female carbuncle</ERN_Carbuncle.labelFemale>
+  <ERN_Carbuncle.labelFemalePlural>female carbuncles</ERN_Carbuncle.labelFemalePlural>
+  <ERN_Carbuncle.lifeStages.0.label>carbuncle kit</ERN_Carbuncle.lifeStages.0.label>
+  <ERN_Carbuncle.lifeStages.0.labelPlural>carbuncle kits</ERN_Carbuncle.lifeStages.0.labelPlural>
+  <ERN_Carbuncle.lifeStages.0.labelMale>male carbuncle kit</ERN_Carbuncle.lifeStages.0.labelMale>
+  <ERN_Carbuncle.lifeStages.0.labelMalePlural>male carbuncle kits</ERN_Carbuncle.lifeStages.0.labelMalePlural>
+  <ERN_Carbuncle.lifeStages.0.labelFemale>female carbuncle kit</ERN_Carbuncle.lifeStages.0.labelFemale>
+  <ERN_Carbuncle.lifeStages.0.labelFemalePlural>female carbuncle kits</ERN_Carbuncle.lifeStages.0.labelFemalePlural>
+  <ERN_Carbuncle.lifeStages.1.label>carbuncle</ERN_Carbuncle.lifeStages.1.label>
+  <ERN_Carbuncle.lifeStages.1.labelPlural>carbuncles</ERN_Carbuncle.lifeStages.1.labelPlural>
+  <ERN_Carbuncle.lifeStages.1.labelMale>male carbuncle</ERN_Carbuncle.lifeStages.1.labelMale>
+  <ERN_Carbuncle.lifeStages.1.labelMalePlural>male carbuncles</ERN_Carbuncle.lifeStages.1.labelMalePlural>
+  <ERN_Carbuncle.lifeStages.1.labelFemale>female carbuncle</ERN_Carbuncle.lifeStages.1.labelFemale>
+  <ERN_Carbuncle.lifeStages.1.labelFemalePlural>female carbuncles</ERN_Carbuncle.lifeStages.1.labelFemalePlural>
+  <ERN_Carbuncle.lifeStages.2.label>carbuncle</ERN_Carbuncle.lifeStages.2.label>
+  <ERN_Carbuncle.lifeStages.2.labelPlural>carbuncles</ERN_Carbuncle.lifeStages.2.labelPlural>
+  <ERN_Carbuncle.lifeStages.2.labelMale>male carbuncle</ERN_Carbuncle.lifeStages.2.labelMale>
+  <ERN_Carbuncle.lifeStages.2.labelMalePlural>male carbuncles</ERN_Carbuncle.lifeStages.2.labelMalePlural>
+  <ERN_Carbuncle.lifeStages.2.labelFemale>female carbuncle</ERN_Carbuncle.lifeStages.2.labelFemale>
+  <ERN_Carbuncle.lifeStages.2.labelFemalePlural>female carbuncles</ERN_Carbuncle.lifeStages.2.labelFemalePlural>
+
+
+</LanguageData>

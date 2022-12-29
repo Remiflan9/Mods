@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Giddy-up! Battle Mounts</li>
+		</mods>
+
+		<match Class="PatchOperationSequence">
+			<operations>
+
+				<li Class="PatchOperationAddModExtension">
+					<xpath>/Defs/ThingDef[defName = "ERN_Chocobo"]</xpath>
+					<value>
+						<li Class="GiddyUpCore.CustomStatsPatch">
+							<!--Speed factor. -->
+							<speedModifier>1.4</speedModifier>
+							<!--Armor factor. -->
+							<armorModifier>1</armorModifier>
+							<!--Setting useMetalArmor to true, makes the animal's skin have the metal bounce of effect when hit when used as mount -->
+							<useMetalArmor>false</useMetalArmor>
+						</li>
+						<li Class="GiddyUpCore.DrawingOffsetPatch">
+							<eastOffsetCSV>0.2,0,0</eastOffsetCSV>
+							<westOffsetCSV>-0.2,0,0</westOffsetCSV>
+							<northOffsetCSV>0,0,0</northOffsetCSV>
+							<southOffsetCSV>0,0,-0.3</southOffsetCSV>
+						</li>	
+					</value>
+				</li>
+
+				<!--<li Class="PatchOperationAdd">
+					<xpath>/Defs/ThingDef[defName = "ERN_Chocobo"]/comps</xpath> 
+					<value>
+						<li Class="GiddyUpCore.CompProperties_Overlay">
+							<overlayFront> 
+								<graphicDataDefault>
+									<texPath>Things/Pawn/Animal/ERN_Chocobo/chocobo_overlay_south</texPath>
+									<graphicClass>Graphic_Single</graphicClass>
+									<shaderType>MetaOverlay</shaderType>
+									<drawSize>2</drawSize>
+									<drawRotated>false</drawRotated>
+								</graphicDataDefault>
+			
+								<offsetDefault>(0,0,0,0)</offsetDefault>
+							</overlayFront>
+
+
+						</li>
+					</value>
+				</li>-->
+
+			</operations>			
+		</match>
+
+	</Operation>
+
+</Patch>

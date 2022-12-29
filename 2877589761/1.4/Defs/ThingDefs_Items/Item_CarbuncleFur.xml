@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+  <!--========== Amaro leather ============-->
+
+  <ThingDef ParentName="LeatherBase">
+    <defName>Fur_Carbuncle</defName>
+    <label>carbuncle fur</label>
+    <description>Sheets of carbuncle fur. It's delicate, but luxurious and shimmering.</description>
+    <graphicData>
+      <color>(89,177,193)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+      <StuffPower_Armor_Sharp>0.67</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>0.14</StuffPower_Armor_Blunt>
+      <StuffPower_Insulation_Cold>38</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>5</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>(89,177,193)</color>
+      <commonality>0.015</commonality>
+      <statFactors>
+        <Beauty>2.8</Beauty>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+
+  
+  </Defs>

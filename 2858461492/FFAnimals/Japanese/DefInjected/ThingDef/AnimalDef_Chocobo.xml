@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ERN_Chocobo.label>chocobo</ERN_Chocobo.label>
+  <ERN_Chocobo.description>A bio-engineered species of flightless bird renowned for their varied, colourful plumage. Domesticated by tribals and outlanders alike for their speed, and used as mounts for both war and trade, they also make for wonderful pets. Whilst known for their loyalty and overly protective nature, feral herds of Chocobos persist across the rimworlds. Those who would wish to tame them should be aware of the kicks their powerful legs can deliver.</ERN_Chocobo.description>
+  <ERN_Chocobo.tools.0.label>claws</ERN_Chocobo.tools.0.label>
+  <ERN_Chocobo.tools.1.label>beak</ERN_Chocobo.tools.1.label>
+  <ERN_Chocobo.tools.2.label>head</ERN_Chocobo.tools.2.label>
+
+
+</LanguageData>

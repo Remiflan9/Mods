@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<ThingDef ParentName="BigBirdThingBase">
+		<defName>ERN_Chocobo</defName>
+		<label>chocobo</label>
+		<description>A bio-engineered species of flightless bird renowned for their varied, colourful plumage. Domesticated by tribals and outlanders alike for their speed, and used as mounts for both war and trade, they also make for wonderful pets. Whilst known for their loyalty and overly protective nature, feral herds of Chocobos persist across the rimworlds. Those who would wish to tame them should be aware of the kicks their powerful legs can deliver.</description>
+		<statBases>
+		  <MoveSpeed>6.0</MoveSpeed>
+		  <MarketValue>250</MarketValue>
+		  <ComfyTemperatureMin>-25</ComfyTemperatureMin>
+		  <ComfyTemperatureMax>50</ComfyTemperatureMax>
+		  <FilthRate>3</FilthRate>
+		  <CaravanRidingSpeedFactor>3.2</CaravanRidingSpeedFactor>
+		  <MeatAmount>95</MeatAmount>
+		</statBases>
+		<race>
+		  <herdAnimal>true</herdAnimal>
+		  <baseBodySize>1.0</baseBodySize>
+		  <baseHealthScale>1.0</baseHealthScale>
+		  <baseHungerRate>0.42</baseHungerRate>
+		  <foodType>VegetarianRoughAnimal</foodType>
+		  <wildness>0.60</wildness>
+		  <nuzzleMtbHours>12</nuzzleMtbHours>
+		  <mateMtbHours>8</mateMtbHours>
+		  <lifeExpectancy>30</lifeExpectancy>
+		  <packAnimal>true</packAnimal>
+		  <useMeatFrom>Chicken</useMeatFrom>
+		  <trainability>Intermediate</trainability>
+		  <manhunterOnTameFailChance>0.10</manhunterOnTameFailChance>
+		  <manhunterOnDamageChance>0.40</manhunterOnDamageChance>
+		  <lifeStageAges>
+			<li>
+			  <def>AnimalBabyTiny</def>
+			  <minAge>0</minAge>
+			  <soundWounded>Pawn_Chick_Call</soundWounded>
+			  <soundDeath>Pawn_Chick_Call</soundDeath>
+			  <soundCall>Pawn_Chick_Call</soundCall>
+			  <soundAngry>Pawn_Chick_Call</soundAngry>
+			</li>
+			<li>
+			  <def>AnimalJuvenile</def>
+			  <minAge>0.1</minAge>
+			</li>
+			<li>
+			  <def>AnimalAdult</def>
+			  <minAge>0.2222</minAge>
+			  <soundWounded>Pawn_Chocobo_Wounded</soundWounded>
+          <soundDeath>Pawn_Chocobo_Death</soundDeath>
+          <soundCall>Pawn_Chocobo_Call</soundCall>
+          <soundAngry>Pawn_Chocobo_Angry</soundAngry>
+			</li>
+		  </lifeStageAges>
+		  <wildBiomes>
+			<BorealForest>0.8</BorealForest>
+			<TemperateForest>0.8</TemperateForest>
+			<AridShrubland>0.8</AridShrubland>
+		</wildBiomes>
+		</race>
+		<comps>
+		  <li Class="CompProperties_EggLayer">
+			<eggFertilizedDef>EggChocoboFertilized</eggFertilizedDef>
+			<eggFertilizationCountMax>1</eggFertilizationCountMax>
+			<eggLayIntervalDays>5.0</eggLayIntervalDays>
+			<eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+			<eggCountRange>1</eggCountRange>
+		  </li>
+		</comps>
+		<tools>
+		  <li>
+			<label>claws</label>
+			<capacities>
+			  <li>Scratch</li>
+			</capacities>
+			<power>11</power>
+			<cooldownTime>1.5</cooldownTime>
+			<linkedBodyPartsGroup>Feet</linkedBodyPartsGroup>
+			<surpriseAttack>
+			  <extraMeleeDamages>
+				<li>
+				  <def>Stun</def>
+				  <amount>14</amount>
+				</li>
+			  </extraMeleeDamages>
+			</surpriseAttack>
+		  </li>
+		  <li>
+			<label>beak</label>
+			<capacities>
+			  <li>Bite</li>
+			</capacities>
+			<power>11</power>
+			<cooldownTime>2</cooldownTime>
+			<linkedBodyPartsGroup>Beak</linkedBodyPartsGroup>
+			<surpriseAttack>
+			  <extraMeleeDamages>
+				<li>
+				  <def>Stun</def>
+				  <amount>14</amount>
+				</li>
+			  </extraMeleeDamages>
+			</surpriseAttack>
+		  </li>
+		  <li>
+			<label>head</label>
+			<capacities>
+			  <li>Blunt</li>
+			</capacities>
+			<power>6</power>
+			<cooldownTime>2</cooldownTime>
+			<linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+			<ensureLinkedBodyPartsGroupAlwaysUsable>true</ensureLinkedBodyPartsGroupAlwaysUsable>
+			<chanceFactor>0.2</chanceFactor>
+		  </li>
+		</tools>
+		<tradeTags>
+		  <li>AnimalUncommon</li>
+		  <li>AnimalExotic</li>
+		</tradeTags>
+	  </ThingDef>
+	
+	  <PawnKindDef ParentName="BigBirdKindBase">
+		<defName>ERN_Chocobo</defName>
+		<label>chocobo</label>
+		<labelPlural>chocobos</labelPlural>
+		<race>ERN_Chocobo</race>
+		<combatPower>85</combatPower>
+		<ecoSystemWeight>1.1</ecoSystemWeight>
+		<wildGroupSize>2~4</wildGroupSize>
+		<alternateGraphicChance>0.98</alternateGraphicChance>
+			<alternateGraphics>
+				<li><color>(228,223,208)</color></li> <!-- Snow White -->
+				<li><color>(137,135,132)</color></li> <!-- Goobbue Grey -->
+				<li><color>(172,168,162)</color></li> <!-- Ash Grey -->
+				<li><color>(101,101,101)</color></li> <!-- Slate Grey -->
+				<li><color>(72,71,66)</color></li> <!-- Charcoal Grey -->
+				<li><color>(43,41,35)</color></li> <!-- Soot Black -->
+				<li><color>(230,159,150)</color></li> <!-- Rose Pink -->
+				<li><color>(131,105,105)</color></li> <!-- Lilac Purple -->
+				<li><color>(91,23,41)</color></li> <!-- Rolanberry Red -->
+				<li><color>(120,26,26)</color></li> <!-- Dalamud Red -->
+				<li><color>(98,34,7)</color></li> <!-- Rust Red -->
+				<li><color>(69,21,17)</color></li> <!-- Wine Red -->
+				<li><color>(204,108,94)</color></li> <!-- Coral Pink -->
+				<li><color>(145,59,48)</color></li> <!-- Blood Red  -->
+				<li><color>(228,170,138)</color></li> <!-- Salmon Pink  -->
+				<li><color>(183,92,45)</color></li> <!-- Sunset Orange -->
+				<li><color>(125,57,6)</color></li> <!-- Mesa Red -->
+				<li><color>(106,75,55)</color></li> <!-- Bark Brown -->
+				<li><color>(110,61,36)</color></li> <!-- Chocolate Brown -->
+				<li><color>(79,45,31)</color></li> <!-- Russet Brown -->
+				<li><color>(48,33,27)</color></li> <!-- Kobold Brown -->
+				<li><color>(201,145,86)</color></li> <!-- Cork Brown -->
+				<li><color>(153,110,63)</color></li> <!-- Qiqirn Brown -->
+				<li><color>(123,92,45)</color></li> <!-- Opo-opo Brown -->
+				<li><color>(162,135,92)</color></li> <!-- Aldgoat Brown -->
+				<li><color>(197,116,36)</color></li> <!-- Pumpkin Orange  -->
+				<li><color>(142,88,27)</color></li> <!-- Acorn Brown -->
+				<li><color>(100,66,22)</color></li> <!-- Orchard Brown -->
+				<li><color>(61,41,13)</color></li> <!-- Chestnut Brown -->
+				<li><color>(185,164,137)</color></li> <!-- Gobbiebag Brown -->
+				<li><color>(146,129,108)</color></li> <!-- Shale Brown -->
+				<li><color>(97,82,69)</color></li> <!-- Mole Brown -->
+				<li><color>(63,51,41)</color></li> <!-- Loam Brown -->
+				<li><color>(235,211,160)</color></li> <!-- Bone White -->
+				<li><color>(183,163,112)</color></li> <!-- Ul Brown -->
+				<li><color>(219,180,87)</color></li> <!-- Desert Yellow - Default Yellow -->
+				<li><color>(250,198,43)</color></li> <!-- Honey Yellow  -->
+				<li><color>(228,158,52)</color></li> <!-- Millioncorn Yellow  -->
+				<li><color>(188,136,4)</color></li> <!-- Coeurl Yellow  -->
+				<li><color>(242,215,112)</color></li> <!-- Cream Yellow  -->
+				<li><color>(165,132,48)</color></li> <!-- Halatali Yellow  -->
+				<li><color>(64,51,17)</color></li> <!-- Raisin Brown -->
+				<li><color>(88,82,48)</color></li> <!-- Mud Green -->
+				<li><color>(187,187,138)</color></li> <!-- Sylph Green -->
+				<li><color>(171,176,84)</color></li> <!-- Lime Green -->
+				<li><color>(112,115,38)</color></li> <!-- Moss Green -->
+				<li><color>(139,156,99)</color></li> <!-- Meadow Green -->
+				<li><color>(75,82,50)</color></li> <!-- Olive Green -->
+				<li><color>(50,54,33)</color></li> <!-- Marsh Green -->
+				<li><color>(149,174,92)</color></li> <!-- Apple Green -->
+				<li><color>(101,130,65)</color></li> <!-- Cactuar Green -->
+				<li><color>(40,75,38)</color></li> <!-- Hunter Green -->
+				<li><color>(64,99,57)</color></li> <!-- Ochu Green -->
+				<li><color>(95,117,88)</color></li> <!-- Adamantoise Green -->
+				<li><color>(59,77,60)</color></li> <!-- Nophica Green -->
+				<li><color>(30,42,33)</color></li> <!-- Deepwood Green -->
+				<li><color>(150,189,185)</color></li> <!-- Celeste Green -->
+				<li><color>(67,114,144)</color></li> <!-- Turquoise Green -->
+				<li><color>(31,70,70)</color></li> <!-- Morbol Green -->
+				<li><color>(178,196,206)</color></li> <!-- Ice Blue -->
+				<li><color>(131,176,210)</color></li> <!-- Sky Blue -->
+				<li><color>(100,129,160)</color></li> <!-- Seafog Blue -->
+				<li><color>(59,104,134)</color></li> <!-- Peacock Blue -->
+				<li><color>(28,61,84)</color></li> <!-- Rhotano Blue -->
+				<li><color>(142,155,172)</color></li> <!-- Corpse Blue -->
+				<li><color>(79,87,102)</color></li> <!-- Ceruleum Blue -->
+				<li><color>(47,56,81)</color></li> <!-- Woad Blue -->
+				<li><color>(26,31,39)</color></li> <!-- Ink Blue -->
+				<li><color>(91,127,192)</color></li> <!-- Raptor Blue -->
+				<li><color>(47,88,137)</color></li> <!-- Othard Blue -->
+				<li><color>(35,65,114)</color></li> <!-- Storm Blue -->
+				<li><color>(17,41,68)</color></li> <!-- Void Blue -->
+				<li><color>(39,48,103)</color></li> <!-- Royal Blue -->
+				<li><color>(24,25,55)</color></li> <!-- Midnight Blue -->
+				<li><color>(55,55,71)</color></li> <!-- Shadow Blue -->
+				<li><color>(49,45,87)</color></li> <!-- Abyssal Blue -->
+				<li><color>(135,127,174)</color></li> <!-- Lavender Purple -->
+				<li><color>(81,69,96)</color></li> <!-- Gloom Purple -->
+				<li><color>(50,44,59)</color></li> <!-- Currant Purple -->
+				<li><color>(183,158,188)</color></li> <!-- Iris Purple -->
+				<li><color>(59,42,61)</color></li> <!-- Grape Purple -->
+				<li><color>(254,206,245)</color></li> <!-- Lotus Pink -->
+				<li><color>(220,155,202)</color></li> <!-- Colibri Pink -->
+				<li><color>(121,82,106)</color></li> <!-- Plum Purple -->
+				<li><color>(102,48,78)</color></li> <!-- Regal Purple -->
+			</alternateGraphics>
+		<lifeStages>
+		  <li>
+			<bodyGraphicData>
+			  <texPath>Things/Pawn/Animal/ERN_Chocobo/chocobochick</texPath>
+			  <drawSize>0.8</drawSize>
+			</bodyGraphicData>
+			<dessicatedBodyGraphicData>
+			  <texPath>Things/Pawn/Animal/ERN_Chocobo/Dessicated_chocobochick</texPath>
+			  <drawSize>0.8</drawSize>
+			</dessicatedBodyGraphicData>
+		  </li>
+		  <li>
+			<bodyGraphicData>
+			  <texPath>Things/Pawn/Animal/ERN_Chocobo/chocobo</texPath>
+			  <drawSize>1.0</drawSize>
+			  <shaderType>CutoutComplex</shaderType>
+			  <shadowData>
+				<volume>(0.3, 0.3, 0.3)</volume>
+				<offset>(0,0,-0.3)</offset>
+			  </shadowData>
+			</bodyGraphicData>
+			<dessicatedBodyGraphicData>
+			  <texPath>Things/Pawn/Animal/ERN_Chocobo/Dessicated_chocobo</texPath>
+			  <drawSize>1.0</drawSize>
+			</dessicatedBodyGraphicData>
+		  </li>
+		  <li>
+			<bodyGraphicData>
+			  <texPath>Things/Pawn/Animal/ERN_Chocobo/chocobo</texPath>
+			  <drawSize>2.0</drawSize>
+			  <shaderType>CutoutComplex</shaderType>
+			  <shadowData>
+				<volume>(0.4, 0.4, 0.4)</volume>
+				<offset>(0,0,-0.2)</offset>
+			  </shadowData>
+			</bodyGraphicData>
+			<dessicatedBodyGraphicData>
+			  <texPath>Things/Pawn/Animal/ERN_Chocobo/Dessicated_chocobo</texPath>
+			  <drawSize>2.0</drawSize>
+			</dessicatedBodyGraphicData>
+		  </li>
+		</lifeStages>
+	  </PawnKindDef>
+	
+	
+</Defs>

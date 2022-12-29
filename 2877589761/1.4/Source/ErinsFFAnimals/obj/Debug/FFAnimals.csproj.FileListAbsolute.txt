@@ -1,0 +1,8 @@
+C:\RWModCategories\Erin-1.4\ErinsFinalFantasyAnimals\1.4\Source\ErinsFFAnimals\obj\Debug\FFAnimals.csproj.AssemblyReference.cache
+C:\RWModCategories\Erin-1.4\ErinsFinalFantasyAnimals\1.4\Source\ErinsFFAnimals\obj\Debug\FFAnimals.csproj.CoreCompileInputs.cache
+C:\RWModCategories\Erin-1.4\ErinsFinalFantasyAnimals\1.4\Assemblies\FFAnimals.dll
+C:\RWModCategories\Erin-1.4\ErinsFinalFantasyAnimals\1.4\Source\ErinsFFAnimals\obj\Debug\FFAnimals.dll
+C:\RWModCategories\Erin\ErinsFinalFantasyAnimals\1.4\Assemblies\FFAnimals.dll
+C:\RWModCategories\Erin\ErinsFinalFantasyAnimals\1.4\Source\ErinsFFAnimals\obj\Debug\FFAnimals.csproj.AssemblyReference.cache
+C:\RWModCategories\Erin\ErinsFinalFantasyAnimals\1.4\Source\ErinsFFAnimals\obj\Debug\FFAnimals.csproj.CoreCompileInputs.cache
+C:\RWModCategories\Erin\ErinsFinalFantasyAnimals\1.4\Source\ErinsFFAnimals\obj\Debug\FFAnimals.dll

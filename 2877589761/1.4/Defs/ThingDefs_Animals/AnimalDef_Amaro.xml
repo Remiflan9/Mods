@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<ThingDef ParentName="BigBirdThingBase">
+		<defName>ERN_Amaro</defName>
+		<label>amaro</label>
+		<description>An awakened species of feathered reptiles made incredibly intelligent through glitterworld genetic engineering and selective breeding. With a lifespan comparable to humans and slow birth rate, they make for a singular lifelong riding companion. Rumours state that those that have been in the presence of humans for long periods learn how to speak, but those are followed by such creatures being whisked away for entertainment of the rich and shameless. Wild, feral herds of Amaro can be found in temperate locations lush with vegetation and care should be taken on approach as their intellect gives them high tactical awareness.</description>
+		<statBases>
+		  <MoveSpeed>4.6</MoveSpeed>
+		  <MarketValue>550</MarketValue>
+		  <ComfyTemperatureMin>-45</ComfyTemperatureMin>
+		  <ComfyTemperatureMax>50</ComfyTemperatureMax>
+		  <FilthRate>3</FilthRate>
+		  <CaravanRidingSpeedFactor>6.4</CaravanRidingSpeedFactor>
+		  <MeatAmount>120</MeatAmount>
+		</statBases>
+		<race>
+		  <herdAnimal>true</herdAnimal>
+		  <baseBodySize>1.25</baseBodySize>
+		  <baseHealthScale>1.0</baseHealthScale>
+		  <baseHungerRate>0.42</baseHungerRate>
+		  <foodType>VegetarianRoughAnimal</foodType>
+		  <leatherDef>Leather_Amaro</leatherDef>
+		  <meatLabel>amaro meat</meatLabel>
+		  <wildness>0.45</wildness>
+		  <nuzzleMtbHours>24</nuzzleMtbHours>
+		  <mateMtbHours>8</mateMtbHours>
+		  <lifeExpectancy>60</lifeExpectancy>
+		  <packAnimal>true</packAnimal>
+		  <trainability>Advanced</trainability>
+		  <manhunterOnTameFailChance>0.02</manhunterOnTameFailChance>
+		  <manhunterOnDamageChance>0.30</manhunterOnDamageChance>
+		  <lifeStageAges>
+			<li>
+			  <def>AnimalBabyTiny</def>
+			  <minAge>0</minAge>
+			</li>
+			<li>
+			  <def>AnimalJuvenile</def>
+			  <minAge>0.3</minAge>
+			</li>
+			<li>
+			  <def>AnimalAdult</def>
+			  <minAge>0.8</minAge>
+          <soundCall>Pawn_Thrumbo_Call</soundCall>
+          <soundAngry>Pawn_Thrumbo_Angry</soundAngry>
+          <soundWounded>Pawn_Thrumbo_Pain</soundWounded>
+          <soundDeath>Pawn_Thrumbo_Death</soundDeath>
+			</li>
+		  </lifeStageAges>
+		<soundMeleeHitPawn>Pawn_Melee_BigBash_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
+		  <wildBiomes>
+			<BorealForest>0.1</BorealForest>
+			<TemperateForest>0.1</TemperateForest>
+			<AridShrubland>0.08</AridShrubland>
+			<Tundra>0.08</Tundra>
+			<TropicalRainforest>0.1</TropicalRainforest>
+			<Desert>0.1</Desert>
+		</wildBiomes>
+		</race>
+		<comps>
+		  <li Class="CompProperties_EggLayer">
+			<eggFertilizedDef>EggAmaroFertilized</eggFertilizedDef>
+			<eggFertilizationCountMax>1</eggFertilizationCountMax>
+			<eggLayIntervalDays>10.0</eggLayIntervalDays>
+			<eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+			<eggCountRange>1</eggCountRange>
+		  </li>
+		</comps>
+		<tools>
+		  <li>
+			<label>claws</label>
+			<capacities>
+			  <li>Scratch</li>
+			</capacities>
+			<power>12</power>
+			<cooldownTime>1.5</cooldownTime>
+			<linkedBodyPartsGroup>Feet</linkedBodyPartsGroup>
+			<surpriseAttack>
+			  <extraMeleeDamages>
+				<li>
+				  <def>Stun</def>
+				  <amount>12</amount>
+				</li>
+			  </extraMeleeDamages>
+			</surpriseAttack>
+		  </li>
+		  <li>
+			<label>head</label>
+			<capacities>
+			  <li>Blunt</li>
+			</capacities>
+			<power>8</power>
+			<cooldownTime>2</cooldownTime>
+			<linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+			<ensureLinkedBodyPartsGroupAlwaysUsable>true</ensureLinkedBodyPartsGroupAlwaysUsable>
+			<chanceFactor>0.2</chanceFactor>
+		  </li>
+		</tools>
+		<tradeTags>
+		  <li>AnimalUncommon</li>
+		  <li>AnimalExotic</li>
+		</tradeTags>
+	  </ThingDef>
+	
+	  <PawnKindDef ParentName="BigBirdKindBase">
+		<defName>ERN_Amaro</defName>
+		<label>amaro</label>
+		<labelPlural>amaro</labelPlural>
+		<race>ERN_Amaro</race>
+		<combatPower>95</combatPower>
+		<ecoSystemWeight>1.2</ecoSystemWeight>
+		<wildGroupSize>1~2</wildGroupSize>
+		<alternateGraphicChance>1</alternateGraphicChance>
+			<alternateGraphics>
+				<li><color>(98,95,88)</color></li> <!-- Main -->
+				<li><color>(119,116,107)</color></li> <!-- A -->
+				<li><color>(62,61,56)</color></li> <!-- B -->
+			</alternateGraphics>
+		<lifeStages>
+		  <li>
+			<bodyGraphicData>
+			  <texPath>Things/Pawn/Animal/ERN_Amaro/AmaroChick</texPath>
+			  <drawSize>1.6</drawSize>
+			</bodyGraphicData>
+			<dessicatedBodyGraphicData>
+			  <texPath>Things/Pawn/Animal/ERN_Amaro/Dessicated_AmaroChick</texPath>
+			  <drawSize>1.6</drawSize>
+			</dessicatedBodyGraphicData>
+		  </li>
+		  <li>
+			<bodyGraphicData>
+			  <texPath>Things/Pawn/Animal/ERN_Amaro/Amaro</texPath>
+			  <drawSize>1.5</drawSize>
+			  <shaderType>CutoutComplex</shaderType>
+			  <shadowData>
+				<volume>(0.3, 0.3, 0.3)</volume>
+				<offset>(0,0,-0.3)</offset>
+			  </shadowData>
+			</bodyGraphicData>
+			<dessicatedBodyGraphicData>
+			  <texPath>Things/Pawn/Animal/ERN_Amaro/Dessicated_Amaro</texPath>
+			  <drawSize>1.5</drawSize>
+			</dessicatedBodyGraphicData>
+		  </li>
+		  <li>
+			<bodyGraphicData>
+			  <texPath>Things/Pawn/Animal/ERN_Amaro/Amaro</texPath>
+			  <drawSize>2.7</drawSize>
+			  <shaderType>CutoutComplex</shaderType>
+			  <shadowData>
+				<volume>(0.4, 0.4, 0.4)</volume>
+				<offset>(0,0,-0.2)</offset>
+			  </shadowData>
+			</bodyGraphicData>
+			<dessicatedBodyGraphicData>
+			  <texPath>Things/Pawn/Animal/ERN_Amaro/Dessicated_Amaro</texPath>
+			  <drawSize>2.7</drawSize>
+			</dessicatedBodyGraphicData>
+		  </li>
+		</lifeStages>
+	  </PawnKindDef>
+	
+	
+</Defs>

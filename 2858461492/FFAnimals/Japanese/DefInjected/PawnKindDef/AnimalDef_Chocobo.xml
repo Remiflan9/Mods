@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ERN_Chocobo.label>chocobo</ERN_Chocobo.label>
+  <ERN_Chocobo.labelPlural>chocobos</ERN_Chocobo.labelPlural>
+  <ERN_Chocobo.labelMale>male chocobo</ERN_Chocobo.labelMale>
+  <ERN_Chocobo.labelMalePlural>male chocobos</ERN_Chocobo.labelMalePlural>
+  <ERN_Chocobo.labelFemale>female chocobo</ERN_Chocobo.labelFemale>
+  <ERN_Chocobo.labelFemalePlural>female chocobos</ERN_Chocobo.labelFemalePlural>
+  <ERN_Chocobo.lifeStages.0.label>chocobo</ERN_Chocobo.lifeStages.0.label>
+  <ERN_Chocobo.lifeStages.0.labelPlural>chocobos</ERN_Chocobo.lifeStages.0.labelPlural>
+  <ERN_Chocobo.lifeStages.0.labelMale>male chocobo</ERN_Chocobo.lifeStages.0.labelMale>
+  <ERN_Chocobo.lifeStages.0.labelMalePlural>male chocobos</ERN_Chocobo.lifeStages.0.labelMalePlural>
+  <ERN_Chocobo.lifeStages.0.labelFemale>female chocobo</ERN_Chocobo.lifeStages.0.labelFemale>
+  <ERN_Chocobo.lifeStages.0.labelFemalePlural>female chocobos</ERN_Chocobo.lifeStages.0.labelFemalePlural>
+  <ERN_Chocobo.lifeStages.1.label>chocobo</ERN_Chocobo.lifeStages.1.label>
+  <ERN_Chocobo.lifeStages.1.labelPlural>chocobos</ERN_Chocobo.lifeStages.1.labelPlural>
+  <ERN_Chocobo.lifeStages.1.labelMale>male chocobo</ERN_Chocobo.lifeStages.1.labelMale>
+  <ERN_Chocobo.lifeStages.1.labelMalePlural>male chocobos</ERN_Chocobo.lifeStages.1.labelMalePlural>
+  <ERN_Chocobo.lifeStages.1.labelFemale>female chocobo</ERN_Chocobo.lifeStages.1.labelFemale>
+  <ERN_Chocobo.lifeStages.1.labelFemalePlural>female chocobos</ERN_Chocobo.lifeStages.1.labelFemalePlural>
+  <ERN_Chocobo.lifeStages.2.label>chocobo</ERN_Chocobo.lifeStages.2.label>
+  <ERN_Chocobo.lifeStages.2.labelPlural>chocobos</ERN_Chocobo.lifeStages.2.labelPlural>
+  <ERN_Chocobo.lifeStages.2.labelMale>male chocobo</ERN_Chocobo.lifeStages.2.labelMale>
+  <ERN_Chocobo.lifeStages.2.labelMalePlural>male chocobos</ERN_Chocobo.lifeStages.2.labelMalePlural>
+  <ERN_Chocobo.lifeStages.2.labelFemale>female chocobo</ERN_Chocobo.lifeStages.2.labelFemale>
+  <ERN_Chocobo.lifeStages.2.labelFemalePlural>female chocobos</ERN_Chocobo.lifeStages.2.labelFemalePlural>
+
+
+</LanguageData>

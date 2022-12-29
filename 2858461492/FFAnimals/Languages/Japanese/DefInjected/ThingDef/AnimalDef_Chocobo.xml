@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ERN_Chocobo.label>チョコボ</ERN_Chocobo.label>
+  <ERN_Chocobo.description>バイオテクノロジーによって生み出された飛べない鳥で,色とりどりの羽を持つことで知られています.その速さから部族や外界人に飼われていて,戦争や貿易のための乗り物として使用されるほか,素晴らしいペットとしても愛されています.その高い忠誠心と過保護な性格で知られるチョコボの群れは,Rimworld各地に生息しています.彼らを手懐けようとする者は,その強力な脚力による蹴りに注意しなければならないでしょう.</ERN_Chocobo.description>
+  <ERN_Chocobo.tools.0.label>爪</ERN_Chocobo.tools.0.label>
+  <ERN_Chocobo.tools.1.label>嘴</ERN_Chocobo.tools.1.label>
+  <ERN_Chocobo.tools.2.label>頭部</ERN_Chocobo.tools.2.label>
+
+
+</LanguageData>

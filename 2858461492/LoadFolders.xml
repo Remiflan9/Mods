@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+	<v1.3>
+		<li IfModActive="Erin.Chocobos">Chocobos</li>
+		<li IfModActive="Erin.Amaro">Amaro</li>
+		<li IfModActive="Erin.Carbuncles">Carbuncles</li>
+		<li IfModActive="Neronix17.VPE.CarbuncleConjurer">VPECarbuncles</li>
+	</v1.3>
+	<v1.4>
+		<li IfModActive="Erin.FFAnimals">FFAnimals</li>
+	</v1.4>
+</loadFolders>
