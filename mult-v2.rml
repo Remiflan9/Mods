@@ -205,7 +205,6 @@
 		<ids>
 			<li>brrainz.harmony</li>
 			<li>ludeon.rimworld</li>
-			<li>bs.performance</li>
 			<li>ludeon.rimworld.royalty</li>
 			<li>ludeon.rimworld.ideology</li>
 			<li>ludeon.rimworld.biotech</li>
@@ -271,7 +270,6 @@
 		<names>
 			<li>Harmony</li>
 			<li>Core</li>
-			<li>Performance Fish</li>
 			<li>Royalty</li>
 			<li>Ideology</li>
 			<li>Biotech</li>
