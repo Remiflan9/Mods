@@ -2,10 +2,6 @@
 <SettingsBlock>
 	<ModSettings Class="CherryPicker.ModSettings_CherryPicker">
 		<keys>
-			<li>ResearchProjectDef/Saunas</li>
-			<li>ThingDef/DBHSaunaSeating</li>
-			<li>ThingDef/DBHSaunaHeaterElec</li>
-			<li>ThingDef/DBHSaunaHeaterLog</li>
 			<li>ThingDef/TrapSpike</li>
 			<li>ThingDef/VFES_Turret_Decoy</li>
 			<li>ThingDef/VAEA_Apparel_MiniTurretPack</li>
@@ -171,12 +167,7 @@
 			<li>RecipeDef/Make_VAE_Apparel_TribalPoncho</li>
 			<li>RecipeDef/Make_VAE_Apparel_TribalKilt</li>
 			<li>RecipeDef/Make_VAE_Apparel_PeltCoat</li>
-			<li>ThingDef/VBE_TypewritersTable</li>
-			<li>ThingDef/VBE_Blueprint</li>
-			<li>ThingDef/VBE_Map</li>
-			<li>ThingDef/VBE_Newspaper</li>
-			<li>RecipeDef/Make_VBE_Newspaper</li>
-			<li>ResearchProjectDef/VBE_Printing</li>
+			<li>ThingDef/YR_Red_wood</li>
 		</keys>
 	</ModSettings>
 </SettingsBlock>

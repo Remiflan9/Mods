@@ -6,25 +6,8 @@
 		<OptimalMelee>False</OptimalMelee>
 		<CQCAutoSwitch>False</CQCAutoSwitch>
 		<RangedCombatAutoSwitch>False</RangedCombatAutoSwitch>
-		<RangedCombatAutoSwitchMaxWarmup>0.75</RangedCombatAutoSwitchMaxWarmup>
-		<SpeedSelectionBiasMelee>1</SpeedSelectionBiasMelee>
-		<SpeedSelectionBiasRanged>1.10000002</SpeedSelectionBiasRanged>
 		<LimitModeAmount>Slots</LimitModeAmount>
-		<LimitModeSingle_AbsoluteMass>1.89999998</LimitModeSingle_AbsoluteMass>
-		<LimitModeSingle_RelativeMass>0.25</LimitModeSingle_RelativeMass>
-		<LimitModeAmount_AbsoluteMass>10</LimitModeAmount_AbsoluteMass>
-		<LimitModeAmount_RelativeMass>0.5</LimitModeAmount_RelativeMass>
 		<LimitModeAmount_Slots>3</LimitModeAmount_Slots>
-		<LimitModeSingleMelee_AbsoluteMass>1.89999998</LimitModeSingleMelee_AbsoluteMass>
-		<LimitModeSingleMelee_RelativeMass>0.25</LimitModeSingleMelee_RelativeMass>
-		<LimitModeAmountMelee_AbsoluteMass>10</LimitModeAmountMelee_AbsoluteMass>
-		<LimitModeAmountMelee_RelativeMass>0.5</LimitModeAmountMelee_RelativeMass>
-		<LimitModeSingleRanged_AbsoluteMass>2.54999995</LimitModeSingleRanged_AbsoluteMass>
-		<LimitModeSingleRanged_RelativeMass>0.25</LimitModeSingleRanged_RelativeMass>
-		<LimitModeAmountRanged_AbsoluteMass>10</LimitModeAmountRanged_AbsoluteMass>
-		<LimitModeAmountRanged_RelativeMass>0.5</LimitModeAmountRanged_RelativeMass>
-		<LimitModeAmountTotal_AbsoluteMass>10</LimitModeAmountTotal_AbsoluteMass>
-		<LimitModeAmountTotal_RelativeMass>0.5</LimitModeAmountTotal_RelativeMass>
 		<LimitModeSingle_Selection_defNames>
 			<li>VWE_MeleeWeapon_Shovel</li>
 			<li>MeleeWeapon_Gladius</li>
@@ -111,9 +94,6 @@
 		<LimitModeSingleMelee_Selection />
 		<LimitModeSingleRanged_Selection />
 		<SidearmSpawnChance>0</SidearmSpawnChance>
-		<SidearmSpawnChanceDropoff>0.25</SidearmSpawnChanceDropoff>
-		<SidearmBudgetMultiplier>0.5</SidearmBudgetMultiplier>
-		<SidearmBudgetDropoff>0.25</SidearmBudgetDropoff>
 		<FumbleMode>Never</FumbleMode>
 		<ReEquipOutOfCombat>False</ReEquipOutOfCombat>
 		<ReEquipBest>False</ReEquipBest>

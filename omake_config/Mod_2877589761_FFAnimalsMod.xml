@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="FFAnimals.FFAnimalsSettings">
+		<animalToggles>
+			<keys>
+				<li>ERN_Amaro</li>
+				<li>ERN_BigCarbuncle</li>
+				<li>ERN_Carbuncle</li>
+				<li>ERN_Chocobo</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+			</values>
+		</animalToggles>
+		<animalTraining>
+			<keys>
+				<li>ERN_Amaro</li>
+				<li>ERN_BigCarbuncle</li>
+				<li>ERN_Carbuncle</li>
+				<li>ERN_Chocobo</li>
+			</keys>
+			<values>
+				<li>Advanced</li>
+				<li>Advanced</li>
+				<li>Advanced</li>
+				<li>Intermediate</li>
+			</values>
+		</animalTraining>
+	</ModSettings>
+</SettingsBlock>
