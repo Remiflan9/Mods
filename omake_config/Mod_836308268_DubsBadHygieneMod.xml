@@ -28,7 +28,7 @@
 		<GuestsGetBladder>True</GuestsGetBladder>
 		<GuestsGetHygiene>True</GuestsGetHygiene>
 		<AnimalsGetBladder>False</AnimalsGetBladder>
-		<PetsGetThirst>True</PetsGetThirst>
+		<PetsGetThirst>False</PetsGetThirst>
 		<PetsGetBladder>False</PetsGetBladder>
 		<ThirstNeed>True</ThirstNeed>
 		<LiteMode>False</LiteMode>
