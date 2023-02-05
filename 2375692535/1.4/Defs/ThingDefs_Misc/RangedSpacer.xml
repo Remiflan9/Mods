@@ -114,10 +114,11 @@
 		<finalTickFrameRate>2</finalTickFrameRate>
 		<tickDamageRate>5</tickDamageRate>
 		<dealsDamageOnce>true</dealsDamageOnce>
+		<disableVanillaDamageMethod>true</disableVanillaDamageMethod>
 		<stopWhenHit>false</stopWhenHit>
 		<stopWhenHitAt>
-			<li>MineableSteel</li>
 			<li>CollapsedRocks</li>
+			<li>MineableSteel</li>
 			<li>MineableSilver</li>
 			<li>MineableGold</li>
 			<li>MineableUranium</li>
@@ -250,6 +251,7 @@
 		<finalTickFrameRate>2</finalTickFrameRate>
 		<tickDamageRate>5</tickDamageRate>
 		<dealsDamageOnce>true</dealsDamageOnce>
+		<disableVanillaDamageMethod>true</disableVanillaDamageMethod>
 		<stopWhenHit>false</stopWhenHit>
 		<stopWhenHitAt>
 			<li>MineableSteel</li>
@@ -396,6 +398,7 @@
 		<tickFrameRate>2</tickFrameRate>
 		<finalTickFrameRate>2</finalTickFrameRate>
 		<tickDamageRate>5</tickDamageRate>
+		<disableVanillaDamageMethod>true</disableVanillaDamageMethod>
 		<dealsDamageOnce>true</dealsDamageOnce>
 		<stopWhenHit>false</stopWhenHit>
 		<stopWhenHitAt>
