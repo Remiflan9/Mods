@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: dissembling TargetA. -->
+  <VFEM_Disassemble.reportString>TargetA を解体中</VFEM_Disassemble.reportString>
+
+  <!-- EN: refueling TargetA. -->
+  <VFEM_RefuelSilo.reportString>TargetA を補給中</VFEM_RefuelSilo.reportString>
+
+  <!-- EN: entering indoctrination pod. -->
+  <VFEM_EnterIndoctrinationPod.reportString>洗脳ポッドに入っている</VFEM_EnterIndoctrinationPod.reportString>
+
+</LanguageData>

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: autocleaner -->
+  <VFE_Mechanoids_Autocleaner.label>自動化クリーナー</VFE_Mechanoids_Autocleaner.label>
+  <!-- EN: A medium speed, simple-minded, wheeled drone with large scrubbers and an intricate vacuum chamber system. When used in tandem the aforementioned tools result in a drone capable of quickly cleaning up a range of messes, be they wet or dry. Waste collected during cleaning is incinerated within shortly after while the drone is charging. -->
+  <VFE_Mechanoids_Autocleaner.description>大型洗浄機と複雑な真空吸引システムを備え,普通の移動速度をした単純な車輪式ドローンです.前述の搭載された道具を組み合わせて使えば,濡れていても乾いていても,さまざまな汚れを素早く掃除することが可能です.清掃中に集められたゴミは,ドローンの充電中に即座に焼却されます.</VFE_Mechanoids_Autocleaner.description>
+  <!-- EN: head -->
+  <VFE_Mechanoids_Autocleaner.tools.head.label>頭部</VFE_Mechanoids_Autocleaner.tools.head.label>
+
+  <!-- EN: autohauler -->
+  <VFE_Mechanoids_Autohauler.label>自動化キャリア</VFE_Mechanoids_Autohauler.label>
+  <!-- EN: A treaded, simple-minded drone capable of lifting many times its weight with a hydraulic claw, while slow to move it is quite energy efficient compared to most drones. -->
+  <VFE_Mechanoids_Autohauler.description>油圧式のツメで自分の何倍もの重量を持ち上げることが可能な移動式の単純なドローンですが,動きが遅いために,ほとんどのドローンに比べて電力消費効率が非常に高性能です.</VFE_Mechanoids_Autohauler.description>
+  <!-- EN: head -->
+  <VFE_Mechanoids_Autohauler.tools.head.label>頭部</VFE_Mechanoids_Autohauler.tools.head.label>
+
+  <!-- EN: autominer -->
+  <VFE_Mechanoids_Autominer.label>自動化マイナー</VFE_Mechanoids_Autominer.label>
+  <!-- EN: A fortified, four-wheeled machine with an oversized drill arm and a series of shovel units. This unit moves fast and is able to swiftly cut through rock and stone alike, however its battery life leaves something to be desired. Mined material is not hauled. -->
+  <VFE_Mechanoids_Autominer.description>特大のドリルアームと一連のショベルユニットを備えて,強化された四輪式の自動化ドローンです.このユニットは現場まで素早く移動して,岩の塊や鉱石を素早く切出すことが可能ですが,バッテリー容量にはまだ改良の余地があります.採掘された資源を運搬する機能はありません.</VFE_Mechanoids_Autominer.description>
+  <!-- EN: head -->
+  <VFE_Mechanoids_Autominer.tools.head.label>頭部</VFE_Mechanoids_Autominer.tools.head.label>
+
+  <!-- EN: combat mechanoid -->
+  <VFE_Mechanoids_Combat.label>機械化パトローラー</VFE_Mechanoids_Combat.label>
+  <!-- EN: A simple minded ranged combat drone slightly smaller than a normal human. Patrols designated areas analyzing for nearby threats and will autonomously engage them. -->
+  <VFE_Mechanoids_Combat.description>普通の人間よりもわずかに小さい大きさで,単純な判断しかできない射撃戦闘用ドローンです.周辺の脅威を分析するゾーンを指定して,その場所をパトロールを行い,自律的に対処します.</VFE_Mechanoids_Combat.description>
+  <!-- EN: head -->
+  <VFE_Mechanoids_Combat.tools.head.label>頭部</VFE_Mechanoids_Combat.tools.head.label>
+
+  <!-- EN: riot mechanoid -->
+  <VFE_Mechanoids_Riot.label>機械化ガード</VFE_Mechanoids_Riot.label>
+  <!-- EN: A simple minded melee combat drone slightly smaller than a normal human. Patrols designated areas analyzing for nearby threats and will autonomously engage them. -->
+  <VFE_Mechanoids_Riot.description>普通の人間よりもわずかに小さい大きさで,単純な判断しかできない対人鎮圧用戦闘ドローンです.周辺の脅威を分析するゾーンを指定して,その場所をパトロールを行い,自律的に対処します.</VFE_Mechanoids_Riot.description>
+  <!-- EN: blade -->
+  <VFE_Mechanoids_Riot.tools.blade.label>刃</VFE_Mechanoids_Riot.tools.blade.label>
+  <!-- EN: shield -->
+  <VFE_Mechanoids_Riot.tools.shield.label>盾</VFE_Mechanoids_Riot.tools.shield.label>
+
+  <!-- EN: mobile turret -->
+  <VFE_Mechanoids_Turret.label>自走式タレット</VFE_Mechanoids_Turret.label>
+  <!-- EN: A simple treaded platform with a spot for a turret to be sturdily installed upon it, allowing for mobile firepower without risk. -->
+  <VFE_Mechanoids_Turret.description>タレットをしっかりと設置できる台座を備えたシンプルな自走式の戦闘用ドローンで,火力が必要な場所に自律移動して火力を増強することが可能になります.</VFE_Mechanoids_Turret.description>
+  <!-- EN: head -->
+  <VFE_Mechanoids_Turret.tools.head.label>頭部</VFE_Mechanoids_Turret.tools.head.label>
+
+  <!-- EN: autostrider -->
+  <VFE_Mechanoids_Autostrider.label>自動化ストライダー</VFE_Mechanoids_Autostrider.label>
+  <!-- EN: This drone-like buildable mechanoid is slow, but has a large carrying capacity and very efficient mechanisms, making it perfect as a partner on long caravan trips. Can also be ridden by pawns to increase travel speed. Design includes a High Capacity Internal Fission Battery that can be recharged at a Dock to stay powered over long distances. -->
+  <VFE_Mechanoids_Autostrider.description>このドローンのような組み立て式のメカノイドは,移動は低速ですが,大きな運搬能力と非常に効率的なメカニズムを備えているため,長距離のキャラバンに運搬役として連れて行くのに最適です.ポーンを乗せた状態で走行すること可能で,ワールドマップでの移動速度が上昇します.設計的には,充電装置で再充電できる大容量の内部核分裂バッテリーが含まれており,長距離の旅行中でも電力を供給し続けることができます.</VFE_Mechanoids_Autostrider.description>
+  <!-- EN: head -->
+  <VFE_Mechanoids_Autostrider.tools.head.label>頭部</VFE_Mechanoids_Autostrider.tools.head.label>
+
+  <!-- EN: auto-medic -->
+  <VFE_Mechanoids_AutoMedic.label>自動化メディック</VFE_Mechanoids_AutoMedic.label>
+  <!-- EN: A sturdy semi-autonomous drone slightly taller than an average human. This drone comes standard with a set of diagnostic and medical apparatuses as well an advanced focal deck, capable of on-the-fly scanning and microscopic level analysis. This drone is capable of healing wounds and tending sick equal to that of an amateur level, provided that medicine is provided. -->
+  <VFE_Mechanoids_AutoMedic.description>平均的な人間よりもわずかに身長が高く,頑丈な半自律型ドローンです.このドローンには,診断能力と医療機器セット,条件を変えた複数スキャンと顕微鏡レベルの分析が可能な高度な病巣検査デッキが標準装備されています.このドローンは,適切な医薬品があれば,素人並みの医療スキルで負傷や病気を治療する事が可能です.</VFE_Mechanoids_AutoMedic.description>
+  <!-- EN: head -->
+  <VFE_Mechanoids_AutoMedic.tools.head.label>頭部</VFE_Mechanoids_AutoMedic.tools.head.label>
+
+  <!-- EN: autobuilder -->
+  <!-- <VFE_Mechanoids_Autobuilder.label>自動ビルダー</VFE_Mechanoids_Autobuilder.label> -->
+  <!-- EN: A sturdy semi-autonomous drone slightly taller than an average human. A wide corneal auspex and a set of simple tools allow this drone to do things such as swiftly assemble furniture or erect walls at an amateur skill level. -->
+  <!--<VFE_Mechanoids_Autobuilder.description>平均的な人間の身長よりやや高い,頑丈な半自律型ドローンです.広い視野を持つ走査機と簡単な道具を使い,家具を素早く組み立てたり,壁を建設したりすることが素人な建設スキルレベルで可能です.</VFE_Mechanoids_Autobuilder.description> -->
+  <!-- EN: head -->
+  <!--<VFE_Mechanoids_Autobuilder.tools.head.label>頭部</VFE_Mechanoids_Autobuilder.tools.head.label> -->
+
+  <!-- EN: raider mechanoid -->
+  <VFE_Mechanoids_Raider.label>機械化レイダー</VFE_Mechanoids_Raider.label>
+  <!-- EN: A simple minded ranged combat drone roughly the size of a normal human. Whilst it’s incapable of patrolling the local area in search for hostiles, it can travel far distances and raid enemy outposts alongside colonists. -->
+  <VFE_Mechanoids_Raider.description>普通の人間とほぼ同じ大きさをした,単純な処理頭脳を持つ遠隔戦闘用ドローンです.敵を探索するために周辺をパトロールすることはできませんが,遠くまで移動して,入植者と共に敵の前哨基地を襲撃することが可能です.</VFE_Mechanoids_Raider.description>
+  <!-- EN: head -->
+  <VFE_Mechanoids_Raider.tools.head.label>頭部</VFE_Mechanoids_Raider.tools.head.label>
+
+  <!-- EN: pyro mechanoid -->
+  <VFE_Mechanoids_Pyro.label>機械化パイロ</VFE_Mechanoids_Pyro.label>
+  <!-- EN: A simple minded close range demolition drone smaller than a normal human. Patrols designated areas analyzing for nearby threats and will autonomously engage them using a flamethrower. -->
+  <VFE_Mechanoids_Pyro.description>普通の人間よりも小さく,単純な処理頭脳を持つ近距離破壊ドローンです.指定されたゾーンをパトロールして,付近の脅威を解析し,敵対目標を見つけると小型火炎放射器を使って自律的に攻撃します.</VFE_Mechanoids_Pyro.description>
+  <!-- EN: head -->
+  <VFE_Mechanoids_Pyro.tools.head.label>頭部</VFE_Mechanoids_Pyro.tools.head.label>
+
+  <!-- EN: autobroadcaster -->
+  <VFE_Mechanoids_Autobroadcaster.label>自動化スピーカー</VFE_Mechanoids_Autobroadcaster.label>
+  <!-- EN: A medium speed, simple-minded, wheeled drone that patrols designated areas and provides nearby colonists with either a passive form of recreation through quiet and relaxing music, upbeat inspirational music or loud propaganda that increases certainty of anyone that hears it. -->
+  <VFE_Mechanoids_Autobroadcaster.description>平均的な移動速度の車輪付きで,単純な処理頭脳を持つドローンです.指定されたゾーンをパトロールして,静かで落ち着く音楽や,明るい刺激的な音楽や聞く人の信仰度を高める大音量のプロパガンダ音楽など,近くの入植者が受け取ることができる娯楽を提供できます.</VFE_Mechanoids_Autobroadcaster.description>
+  <!-- EN: head -->
+  <VFE_Mechanoids_Autobroadcaster.tools.head.label>頭部</VFE_Mechanoids_Autobroadcaster.tools.head.label>
+
+</LanguageData>

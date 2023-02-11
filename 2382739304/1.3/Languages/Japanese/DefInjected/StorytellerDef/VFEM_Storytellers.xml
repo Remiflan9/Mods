@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Igor Invader -->
+  <VFEMech-IgorInvader.label>侵略者イゴール</VFEMech-IgorInvader.label>
+  <!-- EN: Igor Invader holds no regard for boring stories about thriving colonies. The only story worth telling is the one of combat. He will send raids every two or three days, rewarding players for dealing with them swiftly, and punishing player for any losses. This storyteller doubles all damage types, but also warns you about upcoming raids 12 hours before they happen. -->
+  <VFEMech-IgorInvader.description>侵略者イゴールは,繁栄しているコロニーという退屈な話は気にもしません.唯一彼にとって価値のある話は戦闘の話だけです.2,3日ごとに1度は攻撃を行い,迅速に対応したプレイヤ―には褒美を与え,負けたプレイヤーには罰を与えます.このストーリーテラーは,すべてのダメージタイプを2倍に増加しますが,それと同時に,襲撃が発生する12時間前に襲撃について警告を行います.</VFEMech-IgorInvader.description>
+
+</LanguageData>

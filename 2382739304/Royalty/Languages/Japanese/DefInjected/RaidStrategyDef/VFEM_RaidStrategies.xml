@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Mechanoid ship -->
+  <VFEM_StrategyMechShipArrival.letterLabelEnemy>メカノイド船(包囲)</VFEM_StrategyMechShipArrival.letterLabelEnemy>
+  <!-- EN: Mechanoids that landed with it will attack immediately. The ship will lay covering fire and begin the siege as soon as possible. -->
+  <VFEM_StrategyMechShipArrival.arrivalTextEnemy>メカノイド船が着陸したと同時にメカノイドはすぐに攻撃を開始します.船は制圧射撃を行ってから,素早く包囲を開始します. </VFEM_StrategyMechShipArrival.arrivalTextEnemy>
+
+</LanguageData>

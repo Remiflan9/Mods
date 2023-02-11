@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_Mechanoids_CCBase.label>自動化 サプレッサー 充電装置</VFE_Mechanoids_CCBase.label>
+  <VFE_Mechanoids_CCBase.description>自動化サプレッサーの組立と充電を行う装置です.</VFE_Mechanoids_CCBase.description>
+  <Blueprint_VFE_Mechanoids_CCBase.label>自動化サプレッサー充電装置 (設計)</Blueprint_VFE_Mechanoids_CCBase.label>
+  <Blueprint_Install_VFE_Mechanoids_CCBase.label>自動化サプレッサー充電装置 (移動先)</Blueprint_Install_VFE_Mechanoids_CCBase.label>
+  <Frame_VFE_Mechanoids_CCBase.label>自動化サプレッサー充電装置 (施工)</Frame_VFE_Mechanoids_CCBase.label>
+  <Frame_VFE_Mechanoids_CCBase.description>自動化サプレッサーの組立と充電を行う装置です.</Frame_VFE_Mechanoids_CCBase.description>
+
+  <VFE_Mechanoids_BoxerBase.label>自動化 ボクサー 充電装置</VFE_Mechanoids_BoxerBase.label>
+  <VFE_Mechanoids_BoxerBase.description>自動化ボクサーの組立と充電を行う装置です.</VFE_Mechanoids_BoxerBase.description>
+  <Blueprint_VFE_Mechanoids_BoxerBase.label>自動化ボクサー充電装置 (設計)</Blueprint_VFE_Mechanoids_BoxerBase.label>
+  <Blueprint_Install_VFE_Mechanoids_BoxerBase.label>自動化ボクサー充電装置 (移動先)</Blueprint_Install_VFE_Mechanoids_BoxerBase.label>
+  <Frame_VFE_Mechanoids_BoxerBase.label>自動化ボクサー充電装置 (施工)</Frame_VFE_Mechanoids_BoxerBase.label>
+  <Frame_VFE_Mechanoids_BoxerBase.description>自動化ボクサーの組立と充電を行う装置です.</Frame_VFE_Mechanoids_BoxerBase.description>
+
+</LanguageData>

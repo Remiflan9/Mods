@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: faster movement bonus -->
+  <VFE_FasterMovement.label>高速移動効果</VFE_FasterMovement.label>
+  <!-- EN: faster movement bonus -->
+  <VFE_FasterMovement.description>高速移動ボーナス効果です</VFE_FasterMovement.description>
+
+</LanguageData>

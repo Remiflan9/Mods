@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: carpenter -->
+  <VFE_Mech_Carpenter.label>機械化ワーカー</VFE_Mech_Carpenter.label>
+
+  <!-- EN: centipede -->
+  <VFE_Mech_Centipede.label>機械化ムカデ</VFE_Mech_Centipede.label>
+
+  <!-- EN: inquisitor -->
+  <VFE_Mech_Inquisitor.label>機械化フレイマー</VFE_Mech_Inquisitor.label>
+
+  <!-- EN: knight -->
+  <VFE_Mech_Knight.label>機械化ナイト</VFE_Mech_Knight.label>
+
+  <!-- EN: lancer -->
+  <VFE_Mech_Lancer.label>機械化ランス</VFE_Mech_Lancer.label>
+
+  <!-- EN: pikeman -->
+  <VFE_Mech_Pikeman.label>機械化パイク</VFE_Mech_Pikeman.label>
+
+  <!-- EN: scyther -->
+  <VFE_Mech_Scyther.label>機械化カマキリ</VFE_Mech_Scyther.label>
+  <!-- EN: pikemen -->
+  <VFE_Mech_Pikeman.labelPlural>機械化パイク</VFE_Mech_Pikeman.labelPlural>
+
+  <!-- EN: termite -->
+  <VFE_Mech_Termite.label>機械化シロアリ</VFE_Mech_Termite.label>
+  <!-- EN: termite -->
+  <VFE_Mech_Termite.labelPlural>機械化シロアリ</VFE_Mech_Termite.labelPlural>
+
+</LanguageData>

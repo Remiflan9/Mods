@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: climate adjuster -->
+  <VFE_ClimateAdjuster.label>気候調整器</VFE_ClimateAdjuster.label>
+  <!-- EN: climate adjuster -->
+  <VFE_ClimateAdjuster.description>気候調整器</VFE_ClimateAdjuster.description>
+  <!-- EN: a front of cold air will cool the area around [map_definite] for [gameConditionDuration_duration], harming crops and any person or animal without adequate protection -->
+  <VFE_ClimateAdjuster.descriptionFuture>寒波は[gameConditionDuration_duration]のために[map_definite]周辺地域を冷気で覆い,適切な保護の無い場所にいる人や動物や作物を傷つけます.</VFE_ClimateAdjuster.descriptionFuture>
+  <!-- EN: The cold snap is over. -->
+  <VFE_ClimateAdjuster.endMessage>寒波は過ぎ去った.</VFE_ClimateAdjuster.endMessage>
+  <!-- EN: climate adjuster -->
+  <VFE_ClimateAdjuster.letterText>気候調整器</VFE_ClimateAdjuster.letterText>
+
+  <!-- EN: EMI dynamo -->
+  <VFE_EMIDynamo.label>EMI発電装置</VFE_EMIDynamo.label>
+  <!-- EN: EMI dynamo -->
+  <VFE_EMIDynamo.description>EMI発電装置により影響がこの地域を覆っています.電磁気障害が,ほとんどの電気設備を働きを妨げます.</VFE_EMIDynamo.description>
+  <!-- EN: EMI dynamo -->
+  <VFE_EMIDynamo.descriptionFuture>EMI発電装置による電磁場妨害(EMI:Electro-Magnetic-Interference)の影響が,この周辺地域を襲い,電気設備が使用できなくなります.</VFE_EMIDynamo.descriptionFuture>
+  <!-- EN: EMI dynamo -->
+  <VFE_EMIDynamo.endMessage>EMI発電装置の影響は終わろうとしている.</VFE_EMIDynamo.endMessage>
+  <!-- EN: EMI dynamo -->
+  <VFE_EMIDynamo.letterText>EMI発電装置が動作しています.影響を受けた電気設備が使えなくなります.</VFE_EMIDynamo.letterText>
+
+</LanguageData>

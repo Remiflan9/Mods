@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: carpenter -->
+  <VFE_AncientMech_AncientCarpenter.label>機械化ワーカー</VFE_AncientMech_AncientCarpenter.label>
+  <!-- EN: A lurching, quadrupedal utility mechanoid with thick armor meant to absorb enemy fire while rapidly dissembling enemy fortifications using simple sledges and drills. Infantry present during the mechanoid wars were known to assemble decoy pillboxes or barricades as the carpenter mechanoids could not distinguish between them and structures being actively used. -->
+  <VFE_AncientMech_AncientCarpenter.description>この分厚い装甲で覆われた,四足歩行で足の遅い万能機械化生命体は,敵からの攻撃を引き受けるのと同時に,シンプルな大ハンマーやドリルを使って敵の要塞を素早く解体するように設計されていのます.メカノイド戦争を生き延びた退役軍人は,機械化ワーカーが囮と本当に使われている建築物を区別できなかったので,対策として囮の建築物やバリケードを建設する戦術が有効な事を知っていました.</VFE_AncientMech_AncientCarpenter.description>
+  <!-- EN: front left leg -->
+  <VFE_AncientMech_AncientCarpenter.tools.front_left_leg.label>左前脚</VFE_AncientMech_AncientCarpenter.tools.front_left_leg.label>
+  <!-- EN: front right leg -->
+  <VFE_AncientMech_AncientCarpenter.tools.front_right_leg.label>右前脚</VFE_AncientMech_AncientCarpenter.tools.front_right_leg.label>
+  <!-- EN: head -->
+  <VFE_AncientMech_AncientCarpenter.tools.head.label>頭部</VFE_AncientMech_AncientCarpenter.tools.head.label>
+
+</LanguageData>

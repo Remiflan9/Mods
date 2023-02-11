@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Combat Mechanoid gun -->
+
+  <VFE_Bullet_Beanbag_Round.label>ビーンバッグ弾</VFE_Bullet_Beanbag_Round.label>
+
+  <VFE_Gun_CCMechanoidGun.label>装着式袋弾発射器</VFE_Gun_CCMechanoidGun.label>
+  <VFE_Gun_CCMechanoidGun.description>装着式袋弾発射器です.大変非致死的で,命中時に敵をよろめかせます.稀に手足を吹き飛ばすことがあります.</VFE_Gun_CCMechanoidGun.description>
+  <VFE_Gun_CCMechanoidGun.tools.stock.label>ストック</VFE_Gun_CCMechanoidGun.tools.stock.label>
+  <VFE_Gun_CCMechanoidGun.tools.barrel.label>銃身</VFE_Gun_CCMechanoidGun.tools.barrel.label>
+  <VFE_Gun_CCMechanoidGun.verbs.Verb_Shoot.label>装着式袋弾発射器</VFE_Gun_CCMechanoidGun.verbs.Verb_Shoot.label>
+
+  <InvisibleHand.label>第三の手</InvisibleHand.label>
+  <InvisibleHand.description>自動化ボクサーに取り付けられた指のない手でまるで切り株のようです.</InvisibleHand.description>
+  <InvisibleHand.tools.third_hand.label>第三の手</InvisibleHand.tools.third_hand.label>
+
+</LanguageData>

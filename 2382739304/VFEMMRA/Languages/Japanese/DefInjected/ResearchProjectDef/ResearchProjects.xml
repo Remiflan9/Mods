@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <REMA_MechanoidFactory.label>メカノイド リアセンブラ</REMA_MechanoidFactory.label>
+  <REMA_MechanoidFactory.description>メカノイドクラスターに存在するメカアセンブラを基礎として,倒したメカノイドを自動的に再生して戦えるメカノイドを組み立てる装置である,メカノイドリアセンブラを研究します.</REMA_MechanoidFactory.description>
+
+  <REMA_AdvancedMechanoidFactory.label>先進メカノイド リアセンブラ</REMA_AdvancedMechanoidFactory.label>
+  <REMA_AdvancedMechanoidFactory.description>改良されたメカノイドリアセンブラを研究します.これにより,より高度なメカノイドの進化タイプを組み立て可能な場合があります.</REMA_AdvancedMechanoidFactory.description>
+
+</LanguageData>

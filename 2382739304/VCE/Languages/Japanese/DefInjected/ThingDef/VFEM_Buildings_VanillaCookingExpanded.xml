@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cannery -->
+
+  <VFEM_ProvisionsPackagingFactory_Cannery.label>缶詰工場</VFEM_ProvisionsPackagingFactory_Cannery.label>
+  <VFEM_ProvisionsPackagingFactory_Cannery.description>中規模な工場モジュールで,生の食材を袋詰めして密封して,それらを真空パックすることで,保存期間を半永久的に伸ばすことができます.作成時に材料にスチールを追加する必要がありません.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;食料包装工場（P.P.F.）チェーンの一部です.</VFEM_ProvisionsPackagingFactory_Cannery.description>
+  <Blueprint_VFEM_ProvisionsPackagingFactory_Cannery.label>缶詰工場 (設計)</Blueprint_VFEM_ProvisionsPackagingFactory_Cannery.label>
+  <Blueprint_Install_VFEM_ProvisionsPackagingFactory_Cannery.label>缶詰工場 (移動先)</Blueprint_Install_VFEM_ProvisionsPackagingFactory_Cannery.label>
+  <Frame_VFEM_ProvisionsPackagingFactory_Cannery.label>缶詰工場 (施工)</Frame_VFEM_ProvisionsPackagingFactory_Cannery.label>
+  <Frame_VFEM_ProvisionsPackagingFactory_Cannery.description>中規模な工場モジュールで,生の食材を袋詰めして密封して,それらを真空パックすることで,保存期間を半永久的に伸ばすことができます.作成時に材料にスチールを追加する必要がありません.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;食料包装工場（P.P.F.）チェーンの一部です.</Frame_VFEM_ProvisionsPackagingFactory_Cannery.description>
+
+
+  <!-- Industrial Cheese Press -->
+
+  <VFEM_IndustrialCheesePress.label>産業用 チーズ プレス機</VFEM_IndustrialCheesePress.label>
+  <VFEM_IndustrialCheesePress.description>凝固したカード(チーズの元)が形成され始めるまでミルクを急速に加熱して,その後自動的に濾してから一度に複数のチーズの型に押し込むことができるタンクです.付属のホッパーには,チーズホイール(チーズの塊)を製造するのに十分なミルクを入れることが可能で,完成したチーズは自動的に分割されます.高品質のチーズは,自然な熟成方法より時間短縮して強制的に熟成することが可能です.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt; 産業用チーズプレス機は自動化チェーンの一部ではなく,独立した建築物です.</VFEM_IndustrialCheesePress.description>
+  <Blueprint_VFEM_IndustrialCheesePress.label>産業用チーズプレス機 (設計)</Blueprint_VFEM_IndustrialCheesePress.label>
+  <Blueprint_Install_VFEM_IndustrialCheesePress.label>産業用チーズプレス機 (移動先)</Blueprint_Install_VFEM_IndustrialCheesePress.label>
+  <Frame_VFEM_IndustrialCheesePress.label>産業用チーズプレス機 (施工)</Frame_VFEM_IndustrialCheesePress.label>
+  <Frame_VFEM_IndustrialCheesePress.description>凝固したカード(チーズの元)が形成され始めるまでミルクを急速に加熱して,その後自動的に濾してから一度に複数のチーズの型に押し込むことができるタンクです.付属のホッパーには,チーズホイール(チーズの塊)を製造するのに十分なミルクを入れることが可能で,完成したチーズは自動的に分割されます.高品質のチーズは,自然な熟成方法より時間短縮して強制的に熟成することが可能です.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt; 産業用チーズプレス機は自動化チェーンの一部ではなく,独立した建築物です.</Frame_VFEM_IndustrialCheesePress.description>
+
+
+  <!-- Industrial Soup Vat -->
+
+  <VFEM_IndustrialSoupVat.label>産業用 スープタンク</VFEM_IndustrialSoupVat.label>
+  <VFEM_IndustrialSoupVat.description>上に向いて回転する撹拌ブレードが複数取り付けられた非常に大きなタンクです.付属のホッパーには,色々な新鮮な食材を入れることができます.その後,材料は上部から吸い込まれ,スライスされて,様々なスープにじっくりと煮込まれます.完成したスープは,仕分け処理工程を必要とせずに,反対側に取り付けられたホッパーに分配されます.入出力の両方が一括して行われ,従来の手作業による調理よりもはるかに少ない管理で済みます.\n\nグルメ向けのスープは明確に工業的に大量生産されていません.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;産業用スープタンクは自動化チェーンの一部ではなく,独立した建築物です.</VFEM_IndustrialSoupVat.description>
+  <Blueprint_VFEM_IndustrialSoupVat.label>産業用スープタンク (設計)</Blueprint_VFEM_IndustrialSoupVat.label>
+  <Blueprint_Install_VFEM_IndustrialSoupVat.label>産業用スープタンク (移動先)</Blueprint_Install_VFEM_IndustrialSoupVat.label>
+  <Frame_VFEM_IndustrialSoupVat.label>産業用スープタンク (施工)</Frame_VFEM_IndustrialSoupVat.label>
+  <Frame_VFEM_IndustrialSoupVat.description>上に向いて回転する撹拌ブレードが複数取り付けられた非常に大きなタンクです.付属のホッパーには,色々な新鮮な食材を入れることができます.その後,材料は上部から吸い込まれ,スライスされて,様々なスープにじっくりと煮込まれます.完成したスープは,仕分け処理工程を必要とせずに,反対側に取り付けられたホッパーに分配されます.入出力の両方が一括して行われ,従来の手作業による調理よりもはるかに少ない管理で済みます.\n\nグルメ向けのスープは明確に工業的に大量生産されていません.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;産業用スープタンクは自動化チェーンの一部ではなく,独立した建築物です.</Frame_VFEM_IndustrialSoupVat.description>
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Aquaponics Basin -->
+
+  <VFEM_AquaponicsBasin.label>養殖用水槽</VFEM_AquaponicsBasin.label>
+  <VFEM_AquaponicsBasin.description>植物由来の材料を緑藻のようなペースト状に加工して,容器の中で養殖する魚に継続して食べさせることができる深層水で満たされた養殖水槽です.養殖魚に最適な水質条件と水温を保っているので,非常に短時間で成熟し繁殖します.成魚になった魚は,時々付属の出力ホッパーに並べられます.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt; The Aquaponics basinは自動化チェーンの一部ではなく,独立した建築物です.</VFEM_AquaponicsBasin.description>
+  <Blueprint_VFEM_AquaponicsBasin.label>養殖用水槽 (設計)</Blueprint_VFEM_AquaponicsBasin.label>
+  <Blueprint_Install_VFEM_AquaponicsBasin.label>養殖用水槽 (移動先)</Blueprint_Install_VFEM_AquaponicsBasin.label>
+  <Frame_VFEM_AquaponicsBasin.label>養殖用水槽 (施工)</Frame_VFEM_AquaponicsBasin.label>
+  <Frame_VFEM_AquaponicsBasin.description>植物由来の材料を緑藻のようなペースト状に加工して,容器の中で養殖する魚に継続して食べさせることができる深層水で満たされた養殖水槽です.養殖魚に最適な水質条件と水温を保っているので,非常に短時間で成熟し繁殖します.成魚になった魚は,時々付属の出力ホッパーに並べられます.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt; The Aquaponics basinは自動化チェーンの一部ではなく,独立した建築物です.</Frame_VFEM_AquaponicsBasin.description>
+
+  <!-- Fish Trapper -->
+
+  <VFE_FishTrapper.label>魚誘引機</VFE_FishTrapper.label>
+  <VFE_FishTrapper.description>水面下に設置された網を使って魚を誘き寄せて捕獲できる大型の浮揚機械です.魚を直ちに窒息した後,回収されて加工用に分配されます.</VFE_FishTrapper.description>
+  <Blueprint_VFE_FishTrapper.label>魚誘引機 (設計)</Blueprint_VFE_FishTrapper.label>
+  <Frame_VFE_FishTrapper.label>魚誘引機 (施工)</Frame_VFE_FishTrapper.label>
+  <Frame_VFE_FishTrapper.description>水面下に設置された網を使って魚を誘き寄せて捕獲できる大型の浮揚機械です.魚を直ちに窒息した後,回収されて加工用に分配されます.</Frame_VFE_FishTrapper.description>
+
+</LanguageData>

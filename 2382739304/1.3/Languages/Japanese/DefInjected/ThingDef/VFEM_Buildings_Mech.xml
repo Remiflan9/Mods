@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Engines -->
+
+  <!-- EN: Mechanoid ship engines -->
+  <VFE_MechanoidEngines.label>メカノイド船エンジン</VFE_MechanoidEngines.label>
+  <!-- EN: A set of Johnson Tanaka engines of a mechanoid vessel. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_MechanoidEngines.description>メカノイド船に取り付けられたジョンソン-タナカドライブの2基セットです.破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常は,もっと大きな船体用のパーツです.</VFE_MechanoidEngines.description>
+
+
+  <!-- Small Engines -->
+
+  <!-- EN: Small mechanoid ship engines -->
+  <VFE_MechanoidEnginesSmall.label>メカノイド船小型エンジン</VFE_MechanoidEnginesSmall.label>
+  <!-- EN: A set of small Johnson Tanaka engines of a mechanoid vessel. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_MechanoidEnginesSmall.description>メカノイド船に取り付けられた小型ジョンソン-タナカドライブの2基セットです.破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_MechanoidEnginesSmall.description>
+
+
+  <!-- Heavy Beam -->
+
+  <!-- EN: heavy structural beam -->
+  <VFE_MechanoidBeamHeavy.label>メカノイド船体骨格</VFE_MechanoidBeamHeavy.label>
+  <!-- EN: A structural beam around which a ship is constructed. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_MechanoidBeamHeavy.description>船体を構成する重装甲の骨格材です.破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_MechanoidBeamHeavy.description>
+
+
+  <!-- Light Beam -->
+
+  <!-- EN: light structural beam -->
+  <VFE_MechanoidBeamLight.label>メカノイド船体軽骨格</VFE_MechanoidBeamLight.label>
+  <!-- EN: A structural beam around which a ship is constructed. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_MechanoidBeamLight.description>船体を構成する軽量の骨格材です.破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_MechanoidBeamLight.description>
+
+
+  <!-- Uplink Module -->
+
+  <!-- EN: uplink module -->
+  <!-- <VFE_MechanoidUplink.label>軌道通信モジュール</VFE_MechanoidUplink.label> -->
+  <!-- EN: An uplink module, directly connected to the mechanoid swarm. It is responsible for obtaining order updates from war programmers in orbit. It greatly enhances mechanoid capabilities in range, but destroying it will sever the connection with the fleet, greatly harming the mechanoid forces.  It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <!-- <VFE_MechanoidUplink.description>軌道上のメカノイド集合体に直接接続されたアップリンクモジュールです.メカノイド船は,軌道上に居る戦争プログラマーから更新された命令を取得する重要な責務があります.これは,効果範囲内のメカノイドたちの能力を大幅に向上させますが,破壊できれば,軌道上艦隊との接続が切断されて,メカノイド軍の戦闘能力が大幅に低下します.破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_MechanoidUplink.description> -->
+
+  <!-- EN: reactor -->
+  <VFE_MechanoidReactor.label>反応炉</VFE_MechanoidReactor.label>
+  <!-- EN: A mechanoid power generation unit. The gigantic vanometric power core will run forever, extracting energy from quantum foam fluctuations. Despite the huge power output, effort has been made to stabilise it. If enough damage is dealt to the plasteel shell surrounding the core, a huge explosion will wipe out the local area. This element is usually a part of a much larger ship. -->
+  <VFE_MechanoidReactor.description>メカノイド船の発電装置です.この巨大なワノメトリック発電炉は半永久的にエネルギーを生み出し続け,量子泡のゆらぎから電力を取り出します.巨大な出力にもかかわらず,安定させる努力がなされています.もし炉心を囲むプラスチール製格納容器に破壊するのに十分なダメージが与えられた場合,巨大な爆発により周辺領域を吹き飛ばすでしょう.この構成部品は通常もっと大きな船体用のパーツです.</VFE_MechanoidReactor.description>
+
+
+  <!-- Terraformer -->
+
+  <!-- EN: terraformer -->
+  <VFE_MechanoidTerraformer.label>惑星改造装置</VFE_MechanoidTerraformer.label>
+  <!-- EN: An ultratech device of mass destruction, mechanoid terraformer harvests available oxygen and extracts toxic fumes in its place. Poison leaking into the ground around it slowly turns the planet into a barren wasteland. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_MechanoidTerraformer.description>超高性能の大量破壊装置であるメカノイド惑星改造装置は,惑星大気中から利用可能な酸素を回収し,代わりに有毒ガスを排出します.装置の周囲に毒ガスが流れ込むと,ゆっくりと惑星は不毛の荒れ地に改造されます.破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_MechanoidTerraformer.description>
+
+
+  <!-- Heavy Machinery -->
+
+  <!-- EN: heavy machinery -->
+  <VFE_HeavyMachinery.label>機械集合装置</VFE_HeavyMachinery.label>
+  <!-- EN: A number of complex machinery, motors, support systems and other mysterious apparatus hidden underneath a thick layer of plasteel. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_HeavyMachinery.description>プラスチール積層構造の下に隠された数多くの複雑な機械で,モーターや支援システムやその他謎の装置です.破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_HeavyMachinery.description>
+
+
+  <!-- Cargo Container -->
+
+  <!-- EN: cargo container -->
+  <VFE_CargoContainer.label>貨物コンテナ</VFE_CargoContainer.label>
+  <!-- EN: A cargo module containing various raw resources often used by mechanoid swarms to fix existing units or construct new ones. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_CargoContainer.description>既存のメカノイドユニットを修理したり,新しいメカノイドユニットを製造するためにメカノイド集合体がよく使用する様々な原材料を収納した貨物モジュールです.破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_CargoContainer.description>
+
+
+  <!-- Climate Adjuster -->
+
+  <!-- EN: climate adjuster -->
+  <!-- <VFE_ClimateAdjuster.label>気候調整機</VFE_ClimateAdjuster.label> -->
+  <!-- EN: An ultratech ship-mounted device for controlling climate. Using chemicals and exotic fields to manipulate the atmosphere, it shifts the temperature in this region of the world. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <!-- <VFE_ClimateAdjuster.description>メカノイド船に搭載された超高性能な気象制御装置です.化学薬品や特殊なフィールドを使って大気操作を行い,この地域の気温を変化させます.破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_ClimateAdjuster.description> -->
+
+
+  <!-- EMI Dynamo -->
+
+  <!-- EN: EMI dynamo -->
+  <!-- <VFE_EMIDynamo.label>EMI発電装置</VFE_EMIDynamo.label> -->
+  <!-- EN: A massive, ship-mounted electromagnetic interference generator. It interferes with or shuts down electrical devices in nearby regions. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <!-- <VFE_EMIDynamo.description>メカノイド船に搭載された巨大な電磁干渉発電装置です.周辺の電気設備に干渉して,電力を遮断したりします.破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_EMIDynamo.description> -->
+
+
+  <!-- Psychic Suppressor -->
+
+  <!-- EN: psychic suppressor -->
+  <!-- <VFE_PsychicSuppressor.label>サイコサプレッサー装置</VFE_PsychicSuppressor.label> -->
+  <!-- EN: A ship-mounted archotech device that generates a massive psychic suppression field tuned to a particular gender. People of that gender have their psychic activity suppressed, reducing their consciousness. The effect is modulated by an individual's psychic sensitivity. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <!-- <VFE_PsychicSuppressor.description>特定の性別にだけ対象絞って調整された巨大な精神抑制フィールドを生成するメカノイド船に搭載されたアルコテック装置です.対象となった性別の人々は精神活動が抑制されて,意識が低下します.その効果は個人の精神的感受性によって変動します.破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_PsychicSuppressor.description> -->
+
+
+  <!-- Psychic Droner -->
+
+  <!-- EN: psychic droner -->
+  <!-- <VFE_PsychicDroner.label>サイコドローン装置</VFE_PsychicDroner.label> -->
+  <!-- EN: A ship-mounted archotech device transmitting the thoughts of a mad superintelligence. It generates a massive psychic drone tuned to one gender and affecting a whole region of the planet. People of that gender will be disturbed by the effect, reducing their mood and possibly driving them insane. The effect is modulated by an individual's psychic sensitivity. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <!-- <VFE_PsychicDroner.description>狂ったコンピュータコアの思考を放射するメカノイド船に搭載されたアルコテック装置です.それは片方の性別に合わせて調整され,惑星の全地域に影響を与える巨大なサイコドローンを発生します.対象となった性別の人々は,その影響で動揺し,気分が落ち込み,精神崩壊する可能性があります.その効果は個人の精神的感受性によって変動します.破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_PsychicDroner.description> -->
+
+
+  <!-- Charge blaster cannon -->
+
+  <!-- EN: charge blaster cannon -->
+  <VFE_Turret_ChargeBlasterCannon.label>チャージブラスター砲</VFE_Turret_ChargeBlasterCannon.label>
+  <!-- EN: A ship-mounted charge blaster point defense cannon. It is capable of laying suppressive fire over medium distance. This element is usually a part of a much larger ship. -->
+  <VFE_Turret_ChargeBlasterCannon.description>メカノイド船に搭載された迎撃用チャージブラスター砲です.地上では中距離射程で制圧射撃を行うことが可能です.この構成部品は通常もっと大きな船体用のパーツです.</VFE_Turret_ChargeBlasterCannon.description>
+
+  <!-- EN: charge blaster -->
+  <VFE_Gun_ChargeBlasterCannon.label>チャージブラスター</VFE_Gun_ChargeBlasterCannon.label>
+  <!-- EN: A mechanoid-tech charge blaster. -->
+  <VFE_Gun_ChargeBlasterCannon.description>メカノイドのチャージブラスターです.</VFE_Gun_ChargeBlasterCannon.description>
+  <!-- EN: charge blaster -->
+  <VFE_Gun_ChargeBlasterCannon.verbs.Verb_Shoot.label>チャージブラスター弾</VFE_Gun_ChargeBlasterCannon.verbs.Verb_Shoot.label>
+
+
+  <!-- Charge lance cannon -->
+
+  <!-- EN: charge lance cannon -->
+  <VFE_Turret_ChargeLanceCannon.label>チャージランス砲</VFE_Turret_ChargeLanceCannon.label>
+  <!-- EN: A ship-mounted charge lance cannon. It fires a supercharged railgun projectile over a long distance. This element is usually a part of a much larger ship. -->
+  <VFE_Turret_ChargeLanceCannon.description>メカノイド船に搭載されたチャージランス砲です.これは,長距離射程の超荷電式レールガンで槍状の物体を高速度で射出します.この構成部品は通常もっと大きな船体用のパーツです.</VFE_Turret_ChargeLanceCannon.description>
+
+  <!-- EN: charge lance -->
+  <VFE_Gun_ChargeLanceCannon.label>チャージランス</VFE_Gun_ChargeLanceCannon.label>
+  <!-- EN: A mechanoid-tech charge lance. -->
+  <VFE_Gun_ChargeLanceCannon.description>メカノイド製のチャージランスです.</VFE_Gun_ChargeLanceCannon.description>
+  <!-- EN: charge lance -->
+  <VFE_Gun_ChargeLanceCannon.verbs.Verb_Shoot.label>チャージランス弾</VFE_Gun_ChargeLanceCannon.verbs.Verb_Shoot.label>
+
+
+  <!-- Trooper Storage -->
+
+  <!-- EN: trooper storage -->
+  <VFE_TrooperStorage.label>兵員輸送コンテナ</VFE_TrooperStorage.label>
+  <!-- EN: A small-sized trooper transport bay, potentially filled with combat-ready mechanoids. It seems to be dormant at the moment, but any kind of damage done to the structure will most likely deploy defensive units. This element is usually a part of a much larger ship. -->
+  <VFE_TrooperStorage.description>戦闘準備の整ったメカノイドたちが満載されているかもしれない小型兵員輸送コンテナです.現時点では休眠中のようですが,コンテナに何らかのダメージを与えると,防御活動でユニットが活性化する可能性が高くなります.この構成部品は通常もっと大きな船体用のパーツです.</VFE_TrooperStorage.description>
+
+
+  <!-- Hull Repair Module -->
+
+  <!-- EN: hull repair module -->
+  <VFE_HullRepairModule.label>船体修理モジュール</VFE_HullRepairModule.label>
+  <!-- EN: A nanite container module capable of reinforcing the damaged hull of the ship. Unless destroyed, this module will constantly regenerate any damage done to other ship modules. This element is usually a part of a much larger ship. -->
+  <VFE_HullRepairModule.description>損害を受けた船体を補強することができるナナイト製コンテナモジュールです.完全に破壊されない限り,このモジュールは他の船体モジュールに与えられダメージを常に再生して回復します.この構成部品は通常もっと大きな船体用のパーツです.</VFE_HullRepairModule.description>
+
+
+  <!-- Mechanoid Barrier -->
+
+  <!-- EN: mechanoid barrier -->
+  <VFE_MechanoidBarrier.label>メカノイド船体防壁</VFE_MechanoidBarrier.label>
+  <!-- EN: A block of nearly impenetrable plasteel shield, usually used within the ship hull to protect the most vital apparatus. This element is usually a part of a much larger ship. -->
+  <VFE_MechanoidBarrier.description>ほとんど破壊する事ができないプラスチール積層構造防壁です.通常は,船体内で最も重要な装置を保護するために使用されます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_MechanoidBarrier.description>
+
+
+  <!-- Ship-mounted bullet shield -->
+
+  <!-- EN: ship-mounted low shield -->
+  <!-- <VFE_BulletShield.label>対射撃シールド(船搭載)</VFE_BulletShield.label> -->
+  <!-- EN: A shielding device which projects a momentum repulsor field. Shots can go out, but not in. This one is tuned to low angles, so it will block ground-level projectiles like bullets. The unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. This element is usually a part of a much larger ship. -->
+  <!-- <VFE_BulletShield.description>慣性遮断フィールドを投影する防御装置.内側からは射撃できますが,外側からの攻撃は受け付けません.\n\nローアングルに調整されているため,銃弾のような地表面レベルで飛来する投射物を防ぎます.\n\nEMP攻撃によって一時的に無効化できます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_BulletShield.description> -->
+
+
+  <!-- Ship-mounted mortar shield -->
+
+  <!-- EN: ship-mounted high shield -->
+  <!-- <VFE_MortarShield.label>対迫撃砲シールド(船搭載)</VFE_MortarShield.label> -->
+  <!-- EN: A shielding device which projects a momentum repulsor field. Shots can go out, but not in. This one is tuned to high angles, so it will block mortar rounds. The unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. This element is usually a part of a much larger ship. -->
+  <!-- <VFE_MortarShield.description>この構成部品は通常もっと大きな船体用のパーツです.</VFE_MortarShield.description> -->
+
+
+  <!-- Auto-mortar cannon -->
+
+  <!-- EN: auto-mortar cannon -->
+  <VFE_Turret_AutoMortarCannon.label>自動化迫撃砲</VFE_Turret_AutoMortarCannon.label>
+  <!-- EN: A large, ship-mounted artillery piece, auto-mortar is capable of firing explosive shells over a long distance. This element is usually a part of a much larger ship. -->
+  <VFE_Turret_AutoMortarCannon.description>大型メカノイド船搭載砲である自動化迫撃砲は,長距離射程を持ち爆発する迫撃砲弾を発射することが可能です.この構成部品は通常もっと大きな船体用のパーツです.</VFE_Turret_AutoMortarCannon.description>
+
+  <!-- EN: auto mortar cannon -->
+  <VFE_Gun_AutoMortarCannon.label>自動化迫撃砲</VFE_Gun_AutoMortarCannon.label>
+  <!-- EN: A mechanoid-tech automatic mortar. -->
+  <VFE_Gun_AutoMortarCannon.description>メカノイド製の自動化迫撃砲です.</VFE_Gun_AutoMortarCannon.description>
+  <!-- EN: auto mortar cannon -->
+  <VFE_Gun_AutoMortarCannon.verbs.Verb_Shoot.label>自動化迫撃砲</VFE_Gun_AutoMortarCannon.verbs.Verb_Shoot.label>
+
+
+  <!-- Inferno Launcher Artillery -->
+
+  <!-- EN: inferno launcher artillery -->
+  <VFE_Turret_InfernoLauncherArtillery.label>火炎放射砲</VFE_Turret_InfernoLauncherArtillery.label>
+  <!-- EN: A massive, triple barreled inferno launcher, usually mounted on spaceships to deal devastating damage to any organic matter onboard hostile crafts. This element is usually a part of a much larger ship. -->
+  <VFE_Turret_InfernoLauncherArtillery.description>3本の銃身を持つ巨大な火炎放射器で,通常は宇宙船に搭載されて,敵機に「搭載」された有機体ユニットに壊滅的なダメージを与えます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_Turret_InfernoLauncherArtillery.description>
+
+  <!-- EN: inferno artillery -->
+  <VFE_Gun_InfernoArtillery.label>火炎放射砲</VFE_Gun_InfernoArtillery.label>
+  <!-- EN: A mechanoid-tech inferno artillery. -->
+  <VFE_Gun_InfernoArtillery.description>メカノイド製の火炎放射砲です.</VFE_Gun_InfernoArtillery.description>
+  <!-- EN: inferno artillery -->
+  <VFE_Gun_InfernoArtillery.verbs.Verb_Shoot.label>火炎放射砲</VFE_Gun_InfernoArtillery.verbs.Verb_Shoot.label>
+
+
+  <!-- Inferno artillery shot -->
+
+  <!-- EN: inferno artillery shell -->
+  <VFE_Bullet_InfernoArtillery.label>火炎砲焼夷弾</VFE_Bullet_InfernoArtillery.label>
+
+
+  <!-- Charge Railgun -->
+
+  <!-- EN: charge railgun -->
+  <VFE_Turret_ChargeRailgun.label>チャージレールガン</VFE_Turret_ChargeRailgun.label>
+  <!-- EN: A large ship mounted railgun, often used to punch holes in hostile capital ships. This cannon has incredible range and fires charged explosive rounds, allowing it to deal devastating losses before the enemy even gets in range. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_Turret_ChargeRailgun.description>大型メカノイド船に搭載されたレールガンです.敵対艦隊主力艦を穴だらけにするためによく使われます.この大砲は信じられないほど長い射程を持ち,炸裂弾を発射して,船が敵の有効射程に入る前に壊滅的な打撃を与えることができます.破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_Turret_ChargeRailgun.description>
+
+  <!-- EN: charge railgun -->
+  <VFE_Gun_ChargeRailgun.label>チャージレールガン</VFE_Gun_ChargeRailgun.label>
+  <!-- EN: A powerful, mechanoid-tech charge railgun. -->
+  <VFE_Gun_ChargeRailgun.description>メカノイド製のチャージレールガンです.</VFE_Gun_ChargeRailgun.description>
+  <!-- EN: charge railgun -->
+  <VFE_Gun_ChargeRailgun.verbs.Verb_Shoot.label>チャージレールガン</VFE_Gun_ChargeRailgun.verbs.Verb_Shoot.label>
+
+  <!-- EN: charge railgun shot -->
+  <VFE_Bullet_ChargeRailgun.label>チャージレイルガン弾体</VFE_Bullet_ChargeRailgun.label>
+
+
+  <!-- Orbital Bombardment Uplink -->
+
+  <!-- EN: orbital bombardment uplink -->
+  <VFE_Turret_OrbitalBombardmentUplink.label>軌道爆撃通信器</VFE_Turret_OrbitalBombardmentUplink.label>
+  <!-- EN: An uplink module connected to a local orbital strike satellite. It will light up any enemies in range for the orbital bombardment, however long realignment period makes it inefficient for longer encounters. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_Turret_OrbitalBombardmentUplink.description>破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_Turret_OrbitalBombardmentUplink.description>
+
+  <!-- EN: orbital bombardment targeter -->
+  <VFE_Gun_OrbitalBombardmentTargeter.label>軌道爆撃照準器</VFE_Gun_OrbitalBombardmentTargeter.label>
+  <!-- EN: An antenna capable of summoning an orbital bombardment. -->
+  <VFE_Gun_OrbitalBombardmentTargeter.description>メカノイド船に軌道爆撃を要請できるアンテナです.</VFE_Gun_OrbitalBombardmentTargeter.description>
+  <!-- EN: orbital bombardment targeter -->
+  <VFE_Gun_OrbitalBombardmentTargeter.verbs.Verb_Bombardment.label>軌道爆撃照準器</VFE_Gun_OrbitalBombardmentTargeter.verbs.Verb_Bombardment.label>
+
+
+  <!-- Assembly Pod -->
+
+  <!-- EN: mechanoid assembly pod -->
+  <VFE_AssemblyPod.label>メカノイド組立ポッド</VFE_AssemblyPod.label>
+  <!-- EN: A spaceship module containing a mechanoid factory. It is capable of transforming raw resources directly into different types of mechanoids, and it creates them continuously until destroyed. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_AssemblyPod.description>メカノイド工場を含む宇宙船モジュールです.これは原材料となる資源を直接別々のメカノイドに変換することが可能で,破壊されるまでメカノイドユニットを連続して製造し続けます.破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_AssemblyPod.description>
+
+
+  <!-- Mechanoid Foundry -->
+
+  <!-- EN: mechanoid foundry -->
+  <VFE_AssemblyFoundry.label>メカノイド製造工場</VFE_AssemblyFoundry.label>
+  <!-- EN: A spaceship module containing a large scale mechanoid foundry. It is capable of generating large squads of mechanoids at great speed, but it is incapable of constructing larger, more complex variants. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_AssemblyFoundry.description>大規模なメカノイド製造工場を搭載した宇宙船モジュールです.これは一般的なメカノイドの大部隊を非常に速く製造することが可能ですが,より大型で複雑な機械化ユニットを製造することはできません.破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_AssemblyFoundry.description>
+
+
+  <!-- Cargo Hold -->
+
+  <!-- EN: cargo hold -->
+  <VFE_CargoHold.label>貨物庫モジュール</VFE_CargoHold.label>
+  <!-- EN: A ship-based cargo module containing a vast amount of raw materials for the mechanoid ship to function properly. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_CargoHold.description>メカノイド船が適切に機能するための大量の原材料や資源を格納する船舶用の貨物モジュールです.破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_CargoHold.description>
+
+  <!-- EN: mechanoid landing beacon -->
+  <VFE_MechLandingBeacon.label>メカノイド着陸誘導ビーコン</VFE_MechLandingBeacon.label>
+  <!-- EN: This advanced, spacer tech beacon serves as a guide for a surface-bound mechanoid ship. -->
+  <VFE_MechLandingBeacon.description>この先進的な宇宙世紀技術のビーコンは,惑星上結合型メカノイド船の着陸誘導ビーコンとして機能します.</VFE_MechLandingBeacon.description>
+
+</LanguageData>

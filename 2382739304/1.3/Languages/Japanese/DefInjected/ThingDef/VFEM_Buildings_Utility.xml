@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: mechanite LF reinforcer -->
+  <VFE_MechaniteLFReinforcer.label>メカナイト 低周波 強化器</VFE_MechaniteLFReinforcer.label>
+  <!-- EN: A very limited range device that infuses the walls in front of it with mechanites to influence its properties. Tuned to low frequencies, the mechanites alter the composition of the wall’s material so that anyone striking it with a melee weapon feels like they’re hitting liquid cornstarch. Ineffective against higher frequencies such as explosions or ranged weapons. -->
+  <VFE_MechaniteLFReinforcer.description>非常に限定された効果範囲を持つデバイスで,その特別な対象に影響を与えるために設置された前にある壁にメカナイトを注入します.低周波数に調整されているため,メカナイトは壁の素材組成を変化させて,近接武器で壁を攻撃する人物は,ぬかに釘を打ち付けてるように感じます.爆発や射撃武器などの高周波数攻撃に対しては無効です.</VFE_MechaniteLFReinforcer.description>
+  <Blueprint_VFE_MechaniteLFReinforcer.label>メカナイト低周波強化器 (設計)</Blueprint_VFE_MechaniteLFReinforcer.label>
+  <Frame_VFE_MechaniteLFReinforcer.label>メカナイト低周波強化器 (施工)</Frame_VFE_MechaniteLFReinforcer.label>
+  <Frame_VFE_MechaniteLFReinforcer.description>非常に限定された効果範囲を持つデバイスで,その特別な対象に影響を与えるために設置された前にある壁にメカナイトを注入します.低周波数に調整されているため,メカナイトは壁の素材組成を変化させて,近接武器で壁を攻撃する人物は,ぬかに釘を打ち付けてるように感じます.爆発や射撃武器などの高周波数攻撃に対しては無効です.</Frame_VFE_MechaniteLFReinforcer.description>
+
+  <!-- EN: indoctrination pod -->
+  <VFE_IndoctrinationPod.label>洗脳ポッド</VFE_IndoctrinationPod.label>
+  <!-- EN: A toned-down version of a machine that’s seen frequent use on urbworlds, this device is used to make its occupant more compliant with their captors. As long as the process isn’t interrupted, it has a guaranteed success rate with some minor side-effects caused by interrupted REM sleep cycles. -->
+  <VFE_IndoctrinationPod.description>UrbWorldsで頻繁に使用されている洗脳装置の弱体化したもので,この装置は先住部族民を奴隷捕獲者に従順にするために使用されました.この洗脳プロセスは中断されない限り,確実に成功するのは保証されていますが,もしレム睡眠サイクルが中断された場合軽度な副作用があります.</VFE_IndoctrinationPod.description>
+  <!-- EN: indoctrination pod -->
+  <Blueprint_VFE_IndoctrinationPod.label>洗脳ポッド (設計)</Blueprint_VFE_IndoctrinationPod.label>
+  <Frame_VFE_IndoctrinationPod.label>洗脳ポッド (施工)</Frame_VFE_IndoctrinationPod.label>
+  <Frame_VFE_IndoctrinationPod.description>UrbWorldsで頻繁に使用されている洗脳装置の弱体化したもので,この装置は先住部族民を奴隷捕獲者に従順にするために使用されました.この洗脳プロセスは中断されない限り,確実に成功するのは保証されていますが,もしレム睡眠サイクルが中断された場合軽度な副作用があります.</Frame_VFE_IndoctrinationPod.description>
+
+  <!-- EN: mechanoid construction lamp -->
+  <VFE_MechanoidConstructionLamp.label>メカノイド 建設灯</VFE_MechanoidConstructionLamp.label>
+  <!-- EN: A sturdy utilitarian metal pillar that doubles as a powerful lamp, meant to illuminate otherwise dark factories and support expansive roofing. -->
+  <VFE_MechanoidConstructionLamp.description>頑丈で実用的な金属製の柱で,強力なランプとしても機能して,暗い工場内を照らしたり,広大な範囲の屋根を支えたりできます.</VFE_MechanoidConstructionLamp.description>
+  <!-- EN: mechanoid construction lamp -->
+  <Blueprint_VFE_MechanoidConstructionLamp.label>メカノイド建設灯 (設計)</Blueprint_VFE_MechanoidConstructionLamp.label>
+  <Frame_VFE_MechanoidConstructionLamp.label>メカノイド建設灯 (施工)</Frame_VFE_MechanoidConstructionLamp.label>
+  <Frame_VFE_MechanoidConstructionLamp.description>頑丈で実用的な金属製の柱で,強力なランプとしても機能して,暗い工場内を照らしたり,広大な範囲の屋根を支えたりできます.</Frame_VFE_MechanoidConstructionLamp.description>
+
+  <!-- EN: liquid freezer -->
+  <VFE_MechanoidLiquidFreezer.label>液体冷蔵庫</VFE_MechanoidLiquidFreezer.label>
+  <!-- EN: A waist-high chest freezer filled with a thin layer of chemically altered neutroamine that seems to remain stagnate at an incredibly low temperature. Requires no power and will prevent any food within from rotting. -->
+  <VFE_MechanoidLiquidFreezer.description>腰ほどの高さな冷凍庫の中は,化学変化したニュートロアミンの薄い層に包まれており,信じられないほど低温で凍り付いているように見えます.電気が不要で,中の食品が腐ることを防ぐことができます.</VFE_MechanoidLiquidFreezer.description>
+  <!-- EN: liquid freezer -->
+  <Blueprint_VFE_MechanoidLiquidFreezer.label>液体冷蔵庫 (設計)</Blueprint_VFE_MechanoidLiquidFreezer.label>
+  <Frame_VFE_MechanoidLiquidFreezer.label>液体冷蔵庫 (施工)</Frame_VFE_MechanoidLiquidFreezer.label>
+  <Frame_VFE_MechanoidLiquidFreezer.description>腰ほどの高さな冷凍庫の中は,化学変化したニュートロアミンの薄い層に包まれており,信じられないほど低温で凍り付いているように見えます.電気が不要で,中の食品が腐ることを防ぐことができます.</Frame_VFE_MechanoidLiquidFreezer.description>
+
+  <!-- EN: blight auto repeller -->
+  <VFE_BlightAutoRepeller.label>疫病 自動修復器</VFE_BlightAutoRepeller.label>
+  <!-- EN: A mechanoid inspired machine that sends out a unique high frequency of waves tuned to the characteristics of blight. This prevents any blight from spawning at plants that are inside the range of the blight auto repeller. -->
+  <VFE_BlightAutoRepeller.description>疫病を引き起こす細菌の特性に合わせた独自の高周波を発振するメカノイドに触発された機械です.これにより,疫病自動修復器の範囲内にある作物では,疫病が全く発生しなくなります.</VFE_BlightAutoRepeller.description>
+  <!-- EN: blight auto repeller -->
+  <Blueprint_VFE_BlightAutoRepeller.label>疫病自動修復器 (設計)</Blueprint_VFE_BlightAutoRepeller.label>
+  <Frame_VFE_BlightAutoRepeller.label>疫病自動修復器 (施工)</Frame_VFE_BlightAutoRepeller.label>
+  <Frame_VFE_BlightAutoRepeller.description>疫病を引き起こす細菌の特性に合わせた独自の高周波を発振するメカノイドに触発された機械です.これにより,疫病自動修復器の範囲内にある作物では,疫病が全く発生しなくなります.</Frame_VFE_BlightAutoRepeller.description>
+
+</LanguageData>

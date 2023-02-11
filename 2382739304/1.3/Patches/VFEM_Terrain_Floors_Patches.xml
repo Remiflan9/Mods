@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!-- Replace Factory Floor img change to Factory Path -->
+
+	<Operation Class="PatchOperationFindMod">
+		<success>Always</success>
+		<mods>
+			<li>Vanilla Factions Expanded - Mechanoids</li>
+			<li>2329011599</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/TerrainDef[defName="VFE_FactoryFloor"]/texturePath</xpath>
+					<value>
+						<texturePath>Terrain/Surfaces/FactoryFloor</texturePath>
+					</value>
+				</li>
+			</operations>
+		</match>
+		<nomatch Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+				<li Class="PatchOperationTest">
+					<xpath>/Defs/TerrainDef[defName="VFE_FactoryFloor"]</xpath>
+				</li>
+			</operations>
+		</nomatch>
+	</Operation>
+
+	<Operation Class="PatchOperationFindMod">
+		<success>Always</success>
+		<mods>
+			<li>Vanilla Factions Expanded - Mechanoids</li>
+			<li>2329011599</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/TerrainDef[defName="VFE_FactoryPath"]/texturePath</xpath>
+					<value>
+						<texturePath>Terrain/Surfaces/FactoryPath</texturePath>
+					</value>
+				</li>
+			</operations>
+		</match>
+		<nomatch Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+				<li Class="PatchOperationTest">
+					<xpath>/Defs/TerrainDef[defName="VFE_FactoryPath"]</xpath>
+				</li>
+			</operations>
+		</nomatch>
+	</Operation>
+
+</Patch>

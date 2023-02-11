@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: mechanoid swarm -->
+  <VFE_Mechanoid.label>メカノイド集合体</VFE_Mechanoid.label>
+  <!-- EN: A large, orbit-bound swarm of mechanoid terraforming ships and combat vessels. Controlled remotely by human commanders in one of the core worlds, in the center of this mechanoid swarm lies a lair, where countless machines are constructed and deconstructed continuously to serve the greater cause.\n\nThey are not concerned with human rights and don't perceive inhabitants of this rimworld as anything but apes that need to be terminated for the terraforming project to continue.\n\nThis mechanoid swarm cannot be allied with. -->
+  <VFE_Mechanoid.description>メカノイドの惑星改造船と戦闘艦で構成された軌道艦隊の大集団です.このメカノイド集合体の中心では,コアワールドの1つから人間の司令官が遠隔操作しており,無数の機械が製造と解体され続けて,より大きな目的に貢献しています.\n\n彼らは人類の権利に対して興味を持っておらず,このリムワールドの住人を,惑星改造計画を継続するために駆除が必要な類人猿以外の何物でもないとしか考えていません.\n\nこのメカノイド集合体とは同盟できません.</VFE_Mechanoid.description>
+  <!-- EN: mechanoid -->
+  <VFE_Mechanoid.pawnSingular>メカノイド</VFE_Mechanoid.pawnSingular>
+  <!-- EN: mechanoids -->
+  <VFE_Mechanoid.pawnsPlural>メカノイド</VFE_Mechanoid.pawnsPlural>
+
+</LanguageData>

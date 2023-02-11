@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <REMA_MechAssembler.label>メカノイド リアセンブラ</REMA_MechAssembler.label>
+  <REMA_MechAssembler.description>大型メカノイド地下工場です.機能停止したメカノイドを自動的に分解して,回収された資源から定期的に新しいメカノイドを組み立て,地表に運び出します.\n\n組立てられたメカノイドは工場の所有者を守りますが,直接操作することはできません.\n\n1体のユニット生産には60時間(2.5日)かかり,一つの工場で再組み立てできるメカノイドの数に制限はありません.\n\n再組み立てされるモデルは,見た所ランダムに選択されているようです.</REMA_MechAssembler.description>
+  <Blueprint_REMA_MechAssembler.label>メカノイド リアセンブラ (設計)</Blueprint_REMA_MechAssembler.label>
+  <Frame_REMA_MechAssembler.label>メカノイド リアセンブラ (施工)</Frame_REMA_MechAssembler.label>
+  <Frame_REMA_MechAssembler.description>大型メカノイド地下工場です.機能停止したメカノイドを自動的に分解して,回収された資源から定期的に新しいメカノイドを組み立て,地表に運び出します.\n\n組立てられたメカノイドは工場の所有者を守りますが,直接操作することはできません.\n\n1体のユニット生産には60時間(2.5日)かかり,一つの工場で再組み立てできるメカノイドの数に制限はありません.\n\n再組み立てされるモデルは,見た所ランダムに選択されているようです.</Frame_REMA_MechAssembler.description>
+
+  <REMA_AdvancedMechAssembler.label>先進 メカノイド リアセンブラ</REMA_AdvancedMechAssembler.label>
+  <REMA_AdvancedMechAssembler.description>大型メカノイド地下工場です.機能停止したメカノイドを自動的に分解して,回収された資源から定期的に新しいメカノイドを組み立て,地表に運び出します.\n\n組立てられたメカノイドは工場の所有者を守りますが,直接操作することはできません.\n\nこの改良されたメカノイドリアセンブラは,よりピカピカなメカノイドを生産して,時には進化モデルを生成します.\n\n1体の生産にかかる日数は2日で,通常のメカノイドアセンブラより早いですが,上級メカノイドの生産には,必要電力と生産コストが若干増えるという代償が伴います.</REMA_AdvancedMechAssembler.description>
+  <Blueprint_REMA_AdvancedMechAssembler.label>先進メカノイド リアセンブラ (設計)</Blueprint_REMA_AdvancedMechAssembler.label>
+  <Frame_REMA_AdvancedMechAssembler.label>先進メカノイド リアセンブラ (施工)</Frame_REMA_AdvancedMechAssembler.label>
+  <Frame_REMA_AdvancedMechAssembler.description>大型メカノイド地下工場です.機能停止したメカノイドを自動的に分解して,回収された資源から定期的に新しいメカノイドを組み立て,地表に運び出します.\n\n組立てられたメカノイドは工場の所有者を守りますが,直接操作することはできません.\n\nこの改良されたメカノイドリアセンブラは,よりピカピカなメカノイドを生産して,時には進化モデルを生成します.\n\n1体の生産にかかる日数は2日で,通常のメカノイドアセンブラより早いですが,上級メカノイドの生産には,必要電力と生産コストが若干増えるという代償が伴います.</Frame_REMA_AdvancedMechAssembler.description>
+
+</LanguageData>

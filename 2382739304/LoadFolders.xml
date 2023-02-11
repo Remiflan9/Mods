@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+  <v1.2>
+    <li IfModActive="Ludeon.RimWorld.Royalty">Royalty</li>
+    <!-- Vanilla Cooking Expanded -->
+    <li IfModActive="VanillaExpanded.VCookE">VCE</li>
+    <!-- Vanilla Fishing Expanded -->
+    <li IfModActive="VanillaExpanded.VCEF">VCEF</li>
+    <!-- Vanilla Brewing Expanded -->
+    <li IfModActive="VanillaExpanded.VBrewECandT">VBECAT</li>
+    <!-- Vanilla Factions Expanded - Vikings -->
+    <li IfModActive="OskarPotocki.VFE.Vikings">VFEVK</li>
+    <!-- VFE - Mechanoids : Drones -->
+    <li IfModActive="seos.vfe.mechanoids.drones">VFEMechDrones</li>
+    <!-- VFE - Mechanoids : Tab -->
+    <li IfModActive="seos.vfe.mechanoids.tab">VFEMTab</li>
+    <!-- VFE - Mechanoids : Prison control droid -->
+    <li IfModActive="nowano.vfem.prisonControlDroid">VFEMPcd</li>
+    <!-- VFE - Mechanoids : Craftable Mechanoid Components -->
+    <li IfModActive="lc.cmcalt, cz.cmcalt">CMC</li>
+    <!-- Copy -->
+    <li IfModActive="VanillaExpanded.VCookE_copy">VCE</li>
+    <li IfModActive="VanillaExpanded.VCEF_copy">VCEF</li>
+    <li IfModActive="VanillaExpanded.VBrewECandT_copy">VBECAT</li>
+    <li IfModActive="OskarPotocki.VFE.Vikings_copy">VFEVK</li>
+    <li IfModActive="seos.vfe.mechanoids.drones_copy">VFEMechDrones</li>
+    <li IfModActive="seos.vfe.mechanoids.tab_copy">VFEMTab</li>
+    <li IfModActive="nowano.vfem.prisonControlDroid_copy">VFEMPcd</li>
+    <li IfModActive="lc.cmcalt_copy, cz.cmcalt_copy">CMC</li>
+    <li>1.2</li>
+  </v1.2>
+  <v1.3>
+    <li IfModActive="Ludeon.RimWorld.Royalty">Royalty</li>
+    <!-- Vanilla Cooking Expanded -->
+    <li IfModActive="VanillaExpanded.VCookE">VCE</li>
+    <!-- Vanilla Fishing Expanded -->
+    <li IfModActive="VanillaExpanded.VCEF">VCEF</li>
+    <!-- Vanilla Brewing Expanded -->
+    <li IfModActive="VanillaExpanded.VBrewECandT">VBECAT</li>
+    <!-- Vanilla Factions Expanded - Vikings -->
+    <li IfModActive="OskarPotocki.VFE.Vikings">VFEVK</li>
+    <!-- VFE - Mechanoids : Drones -->
+    <li IfModActive="seos.vfe.mechanoids.drones">VFEMechDrones</li>
+    <!-- VFE - Mechanoids : Tab -->
+    <li IfModActive="seos.vfe.mechanoids.tab">VFEMTab</li>
+    <!-- VFE - Mechanoids : Prison control droid -->
+    <li IfModActive="nowano.vfem.prisonControlDroid">VFEMPcd</li>
+    <!-- Vanilla Factions Expanded - Mechanoids - Mechanoid Re-Assembler -->
+    <li IfModActive="MrKociak.ReverseEngineeredMechAssembler">VFEMMRA</li>
+    <!-- VFE - Mechanoids : Craftable Mechanoid Components -->
+    <li IfModActive="lc.cmcalt, cz.cmcalt">CMC</li>
+    <!-- Copy -->
+    <li IfModActive="VanillaExpanded.VCookE_copy">VCE</li>
+    <li IfModActive="VanillaExpanded.VCEF_copy">VCEF</li>
+    <li IfModActive="VanillaExpanded.VBrewECandT_copy">VBECAT</li>
+    <li IfModActive="OskarPotocki.VFE.Vikings_copy">VFEVK</li>
+    <li IfModActive="seos.vfe.mechanoids.drones_copy">VFEMechDrones</li>
+    <li IfModActive="seos.vfe.mechanoids.tab_copy">VFEMTab</li>
+    <li IfModActive="nowano.vfem.prisonControlDroid_copy">VFEMPcd</li>
+    <li IfModActive="MrKociak.ReverseEngineeredMechAssembler_copy">VFEMMRA</li>
+    <li IfModActive="lc.cmcalt_copy, cz.cmcalt_copy">CMC</li>
+    <li>1.3</li>
+  </v1.3>
+  <v1.4>
+    <li IfModActive="Ludeon.RimWorld.Royalty">Royalty</li>
+    <!-- Vanilla Cooking Expanded -->
+    <li IfModActive="VanillaExpanded.VCookE">VCE</li>
+    <!-- Vanilla Fishing Expanded -->
+    <li IfModActive="VanillaExpanded.VCEF">VCEF</li>
+    <!-- Vanilla Brewing Expanded -->
+    <li IfModActive="VanillaExpanded.VBrewECandT">VBECAT</li>
+    <!-- Vanilla Factions Expanded - Vikings -->
+    <li IfModActive="OskarPotocki.VFE.Vikings">VFEVK</li>
+    <!-- VFE - Mechanoids : Drones -->
+    <li IfModActive="seos.vfe.mechanoids.drones">VFEMechDrones</li>
+    <!-- VFE - Mechanoids : Tab -->
+    <li IfModActive="seos.vfe.mechanoids.tab">VFEMTab</li>
+    <!-- VFE - Mechanoids : Prison control droid -->
+    <!-- <li IfModActive="nowano.vfem.prisonControlDroid">VFEMPcd</li> -->
+    <!-- Vanilla Factions Expanded - Mechanoids - Mechanoid Re-Assembler -->
+    <!-- <li IfModActive="MrKociak.ReverseEngineeredMechAssembler">VFEMMRA</li> -->
+    <!-- VFE - Mechanoids : Craftable Mechanoid Components -->
+    <li IfModActive="lc.cmcalt, cz.cmcalt, lc.cmcalt_steam, cz.cmcalt_steam">CMC</li>
+    <!-- Copy -->
+    <li IfModActive="VanillaExpanded.VCookE_copy">VCE</li>
+    <li IfModActive="VanillaExpanded.VCEF_copy">VCEF</li>
+    <li IfModActive="VanillaExpanded.VBrewECandT_copy">VBECAT</li>
+    <li IfModActive="OskarPotocki.VFE.Vikings_copy">VFEVK</li>
+    <li IfModActive="seos.vfe.mechanoids.drones_copy">VFEMechDrones</li>
+    <li IfModActive="seos.vfe.mechanoids.tab_copy">VFEMTab</li>
+    <!-- <li IfModActive="nowano.vfem.prisonControlDroid_copy">VFEMPcd</li>
+    <li IfModActive="MrKociak.ReverseEngineeredMechAssembler_copy">VFEMMRA</li> -->
+    <li IfModActive="lc.cmcalt_copy, cz.cmcalt_copy">CMC</li>
+    <li IfModActive="OskarPotocki.VFE.Mechanoid, OskarPotocki.VFE.Mechanoid_steam, OskarPotocki.VFE.Mechanoid_copy">1.3</li>
+  </v1.4>
+</loadFolders>

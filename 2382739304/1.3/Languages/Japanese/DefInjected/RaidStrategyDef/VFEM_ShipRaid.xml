@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Mechanoid ship -->
+  <VFEM_StrategyMechShipArrival.letterLabelEnemy>メカノイド船(包囲)</VFEM_StrategyMechShipArrival.letterLabelEnemy>
+  <!-- EN: Mechanoids that landed with it will attack immediately. The ship will lay covering fire and begin the siege as soon as possible. -->
+  <VFEM_StrategyMechShipArrival.arrivalTextEnemy>メカノイド船が着陸したと同時にメカノイドはすぐに攻撃を開始します.船は制圧射撃を行ってから,素早く包囲を開始します. </VFEM_StrategyMechShipArrival.arrivalTextEnemy>
+
+  <!-- Anti Translations Missing erroer
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.24>VFEM_Destroyer1, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.24>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.25>VFEM_Destroyer2, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.25>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.26>VFEM_Destroyer3, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.26>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.27>VFEM_Destroyer4, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.27>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.28>VFEM_Destroyer5, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.28>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.29>VFEM_Destroyer6, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.29>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.30>VFEM_Destroyer7, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.30>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.31>VFEM_Destroyer8, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.31>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.32>VFEM_Destroyer9, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.32>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.33>VFEM_Destroyer10, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.33>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.34>VFEM_Destroyer11, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.34>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.35>VFEM_Destroyer12, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.35>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.36>VFEM_DestroyerDLC1, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.36>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.37>VFEM_DestroyerDLC2, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.37>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.38>VFEM_DestroyerDLC3, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.38>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.39>VFEM_DestroyerDLC4, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.39>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.40>VFEM_DestroyerDLC5, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.40>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.41>VFEM_DestroyerDLC6, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.41>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.42>VFEM_DestroyerDLC7, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.42>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.43>VFEM_DestroyerDLC8, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.43>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.44>VFEM_DestroyerDLC9, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.44>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.45>VFEM_DestroyerDLC10, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.45>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.46>VFEM_DestroyerDLC11, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.46>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.47>VFEM_DestroyerDLC12, 0.7</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.47>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.48>VFEM_Cruiser1, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.48>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.49>VFEM_Cruiser2, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.49>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.50>VFEM_Cruiser3, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.50>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.51>VFEM_Cruiser4, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.51>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.52>VFEM_Cruiser5, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.52>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.53>VFEM_Cruiser6, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.53>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.54>VFEM_Cruiser7, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.54>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.55>VFEM_Cruiser8, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.55>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.56>VFEM_Cruiser9, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.56>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.57>VFEM_Cruiser10, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.57>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.58>VFEM_Cruiser11, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.58>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.59>VFEM_Cruiser12, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.59>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.60>VFEM_CruiserDLC1, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.60>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.61>VFEM_CruiserDLC2, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.61>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.62>VFEM_CruiserDLC3, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.62>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.63>VFEM_CruiserDLC4, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.63>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.64>VFEM_CruiserDLC5, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.64>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.65>VFEM_CruiserDLC6, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.65>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.66>VFEM_CruiserDLC7, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.66>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.67>VFEM_CruiserDLC8, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.67>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.68>VFEM_CruiserDLC9, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.68>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.69>VFEM_CruiserDLC10, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.69>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.70>VFEM_CruiserDLC11, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.70>
+  <VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.71>VFEM_CruiserDLC12, 0.5</VFEM_StrategyMechShipArrival.modExtensions.0.weightedStruct.71> -->
+
+</LanguageData>

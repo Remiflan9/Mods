@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: faster movement bonus -->
+  <VFE_FasterMovement.label>高速移動効果</VFE_FasterMovement.label>
+  <!-- EN: faster movement bonus -->
+  <VFE_FasterMovement.description>高速移動ボーナス効果です</VFE_FasterMovement.description>
+
+  <!-- EN: major brainwash -->
+  <VFE_BrainWashedNotFully.label>洗脳障害(重症)</VFE_BrainWashedNotFully.label>
+  <!-- EN: I got ejected abruptly in the middle of a conversion. I don't feel too great. -->
+  <VFE_BrainWashedNotFully.description>思想転換中,急に排出されてしまった.あまりいい気分ではありません.</VFE_BrainWashedNotFully.description>
+
+  <!-- EN: minor brainwash -->
+  <VFE_BrainWashedFully.label>洗脳障害(軽症)</VFE_BrainWashedFully.label>
+  <!-- EN: My new beliefs are amazing, but the sudden conversion takes some time getting used to. -->
+  <VFE_BrainWashedFully.description>この新しい思想は大変素晴らしいものですが,突然の転換に慣れるまで時間がかるでしょう.</VFE_BrainWashedFully.description>
+
+</LanguageData>

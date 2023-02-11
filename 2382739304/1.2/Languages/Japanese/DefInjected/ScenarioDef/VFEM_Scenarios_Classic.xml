@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: The Lone Scrapper -->
+  <VFE_TheLoneScavenger.label>孤独な解体屋</VFE_TheLoneScavenger.label>
+  <!-- EN: During your travels across the surface looking for pieces of scrap metal to sell in one of the outlander settlements, you stumble across an unbelievable sight: an abandoned, fully automated factory. Your scrapper senses urge you to break it apart and salvage what you can, but your inner entrepreneur desires to hear the machines sing once again.\n\nNote: Since your starting character will lack some skills, this is a difficult scenario in the early game. -->
+  <VFE_TheLoneScavenger.description>異国人の居住区で売る鉄くずを探して地上を旅していると,信じられない光景に出くわしました:完全に自動化された工場です.解体屋としての感覚では,機械を直ちにバラバラに分解して売れるものを回収する事を勧めますが,あなたの中に居た起業家魂は,この機械たちが再び稼働する音色を聞きたがっています.\n\n注意：開始するキャラクターがスキル不足のため,これはゲーム最初が難しいシナリオです.</VFE_TheLoneScavenger.description>
+  <!-- EN: During your travels across the surface looking for pieces of scrap metal to sell in one of the outlander settlements, you stumble across an unbelievable sight: an abandoned, fully automated factory. Your scrapper senses urge you to break it apart and salvage what you can, but your inner entrepreneur desires to hear the machines sing once again.\n\nNote: Since your starting character will lack some skills, this is a difficult scenario in the early game. -->
+  <VFE_TheLoneScavenger.scenario.description>異国人の居住区で売る鉄くずを探して地上を旅していると,信じられない光景に出くわしました:完全に自動化された工場です.解体屋としての感覚では,機械を直ちにバラバラに分解して売れるものを回収する事を勧めますが,あなたの中に居た起業家魂は,この機械たちが再び稼働する音色を聞きたがっています.\n\n注意：開始するキャラクターがスキル不足のため,これはゲーム最初が難しいシナリオです.</VFE_TheLoneScavenger.scenario.description>
+  <!-- EN: The Lone Scrapper -->
+  <VFE_TheLoneScavenger.scenario.name>孤独な解体屋</VFE_TheLoneScavenger.scenario.name>
+  <!-- EN: An abandoned factory -->
+  <VFE_TheLoneScavenger.scenario.parts.VFEC_AddStartingStructure.structureLabel>廃工場</VFE_TheLoneScavenger.scenario.parts.VFEC_AddStartingStructure.structureLabel>
+  <!-- EN: Living from payday to payday, gathering valuable scrap around the planet and selling it to the highest bidder - usually junkyard owners, you never expected to come across something as valuable as a fully automated factory, utilising latest urbworld mechanoid tech.\n\nNow the choice is yours - will you disassemble it to not tempt so many raiders troubling these lands? Or will you bring the factory back to its former glory?\n -->
+  <VFE_TheLoneScavenger.scenario.parts.GameStartDialog.text>給料日から次の給料日までカツカツの生活して,地上にある貴重なスクラップをかき集め最高入札者（通常は廃品解体場の所有者）に販売する生活をしていました.これまでurbworldの最新メカノイド技術を利用して,完全に自動化された工場ほど価値のあるものに出くわしたことはありません.</VFE_TheLoneScavenger.scenario.parts.GameStartDialog.text>
+  <!-- EN: A lone scrapper with a difficult choice. Difficult. -->
+  <VFE_TheLoneScavenger.scenario.summary>難しい選択をした孤独な解体屋.難しいシナリオ.</VFE_TheLoneScavenger.scenario.summary>
+
+</LanguageData>

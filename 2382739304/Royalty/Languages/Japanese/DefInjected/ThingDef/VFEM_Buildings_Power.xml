@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: conduit pylon -->
+  <VFE_ConduitPylon.label>電力線 パイロン</VFE_ConduitPylon.label>
+  <!-- EN: A small device that connects to power networks via conduit to extend the range at which electronics can connect to said conduits. Proper implementation can triple the range at which electric current can be utilized. -->
+  <VFE_ConduitPylon.description>電力線を通して電力ネットワークに接続して,電気機器が電力線に接続可能な範囲を拡張する小型装置です.適切に実装する事で,電気を利用できる範囲を現在の3倍にすることができます.</VFE_ConduitPylon.description>
+  <Blueprint_VFE_ConduitPylon.label>電力線パイロン (設計)</Blueprint_VFE_ConduitPylon.label>
+  <Blueprint_Install_VFE_ConduitPylon.label>電力線パイロン (移動先)</Blueprint_Install_VFE_ConduitPylon.label>
+  <Frame_VFE_ConduitPylon.label>電力線パイロン (施工)</Frame_VFE_ConduitPylon.label>
+  <Frame_VFE_ConduitPylon.description>電力線を通して電力ネットワークに接続して,電気機器が電力線に接続可能な範囲を拡張する小型装置です.適切に実装する事で,電気を利用できる範囲を現在の3倍にすることができます.</Frame_VFE_ConduitPylon.description>
+
+</LanguageData>

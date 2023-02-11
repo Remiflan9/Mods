@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: mechanite under armor -->
+  <VFE_MechaniteUnderArmor.label>メカナイト防弾シャツ</VFE_MechaniteUnderArmor.label>
+  <!-- EN: A perplexingly thin but durable nanite-infused mesh underarmor. Embedded nanites optimize a users digestive tract, suppressing their hunger. It's theorized that long-forgotten soldiers wore this armor to more easily sustain long-term firefights without the need to eat. -->
+  <VFE_MechaniteUnderArmor.description>驚くほど薄くて耐久性に優れた,メカナイトが埋め込まれたメッシュ状シャツです.埋め込まれたメカナイトは,装着者の消化器官を最適化して,食欲欲求を抑えます.長い間忘れられていた兵士がこのシャツを身に着けていたのは,食事をしなくても長期間の銃撃戦に耐えられるようにするためだったという説があります.</VFE_MechaniteUnderArmor.description>
+
+  <!-- EN: mechanite pants -->
+  <VFE_MechanitePants.label>メカナイトパンツ</VFE_MechanitePants.label>
+  <!-- EN: Perplexingly thin but durable nanite-infused pants. Embedded nanites optimizes the oxygen efficiency in the legs. Long-forgotten soldiers used these to walk long marches at incredible speed. -->
+  <VFE_MechanitePants.description>驚くほど薄くて丈夫なメカナイトが埋め込まれたパンツです.埋め込まれたナノライトが脚の酸素効率を最適化します。長い行進を信じられない速さで歩くために使われました</VFE_MechanitePants.description>
+
+</LanguageData>

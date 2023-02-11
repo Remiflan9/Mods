@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: handheld mini-turret -->
+  <VFE_Gun_CombatMechanoidGun.label>携帯小型タレット銃</VFE_Gun_CombatMechanoidGun.label>
+  <!-- EN: A portable automatic turret gun. It utilises modern assault rifle components within a mechanoid-compatible frame. -->
+  <VFE_Gun_CombatMechanoidGun.description>携帯可能な小型タレット銃です.メカノイドに対応する取り付けフレーム内に最新型の軍用ライフル部品を採用しています.</VFE_Gun_CombatMechanoidGun.description>
+  <!-- EN: stock -->
+  <VFE_Gun_CombatMechanoidGun.tools.stock.label>ストック</VFE_Gun_CombatMechanoidGun.tools.stock.label>
+  <!-- EN: barrel -->
+  <VFE_Gun_CombatMechanoidGun.tools.barrel.label>銃身</VFE_Gun_CombatMechanoidGun.tools.barrel.label>
+  <!-- EN: handheld mini-turret -->
+  <VFE_Gun_CombatMechanoidGun.verbs.Verb_Shoot.label>携帯小型タレット銃</VFE_Gun_CombatMechanoidGun.verbs.Verb_Shoot.label>
+
+  <!-- EN: handheld autocannon turret -->
+  <VFE_Gun_RaiderMechanoidGun.label>オートキャノン携帯タレット</VFE_Gun_RaiderMechanoidGun.label>
+  <!-- EN: A portable version of the autocannon turret gun. Its large-caliber shells do heavy damage over significant ranges. -->
+  <VFE_Gun_RaiderMechanoidGun.description>オートキャノンタレット砲の携帯版です.長射程の大口径砲弾はかなりの範囲に対して大ダメージを与えます.</VFE_Gun_RaiderMechanoidGun.description>
+  <!-- EN: stock -->
+  <VFE_Gun_RaiderMechanoidGun.tools.stock.label>ストック</VFE_Gun_RaiderMechanoidGun.tools.stock.label>
+  <!-- EN: barrel -->
+  <VFE_Gun_RaiderMechanoidGun.tools.barrel.label>銃身</VFE_Gun_RaiderMechanoidGun.tools.barrel.label>
+  <!-- EN: handheld autocannon turret -->
+  <VFE_Gun_RaiderMechanoidGun.verbs.Verb_Shoot.label>オートキャノン携帯タレット</VFE_Gun_RaiderMechanoidGun.verbs.Verb_Shoot.label>
+
+  <!-- EN: small inferno spewer -->
+  <VFE_Gun_InfernoSpewerSmall.label>小型火炎放射器</VFE_Gun_InfernoSpewerSmall.label>
+  <!-- EN: A surprisingly lightweight flamethrower of mechanoid design, while idle the device seems cold as any other, but can immediately heat up to temperatures well above purely human technology. Two undermounted chemfuel tanks allow for an ammo capacity big enough for large plumes of liquid flame. -->
+  <VFE_Gun_InfernoSpewerSmall.description>メカノイドがデザインした驚くほど軽量な小型火炎放射器で,アイドル時には他のどの装置と比較しても冷たく見えますが,人間の技術をはるかに上回る温度まですぐに加熱できます.下に取り付けられた2本の化学燃料タンクは,巨大な火炎放射で消費する可燃燃料を十分に確保できる容量を持っています.</VFE_Gun_InfernoSpewerSmall.description>
+  <!-- EN: barrel -->
+  <VFE_Gun_InfernoSpewerSmall.tools.barrel.label>銃身</VFE_Gun_InfernoSpewerSmall.tools.barrel.label>
+  <!-- EN: small inferno spewer -->
+  <VFE_Gun_InfernoSpewerSmall.verbs.Verb_Shoot.label>小型火炎放射器</VFE_Gun_InfernoSpewerSmall.verbs.Verb_Shoot.label>
+
+</LanguageData>

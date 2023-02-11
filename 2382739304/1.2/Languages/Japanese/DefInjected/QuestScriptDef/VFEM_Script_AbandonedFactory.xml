@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN:
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] based in a nearby abandoned factory have been raiding their caravans. The factory site is controlled by [siteFaction_name]. It can be a great opportunity to obtain factory elements and mechanoid components.\n\n[asker_nameDef] is asking us to eliminate the threat, and cares not about the fate of the old machine pieces. [asker_label] says that [sitePart0_description].</li>
+  -->
+  <VFE_OpportunitySite_AbandonedFactory.questDescriptionRules.rulesStrings>
+    <li>questDescription->クエストの依頼:\n[asker_faction_name][asker_faction_leaderTitle]の[asker_nameFull]から通信が届きました.どうやら,近くの廃工場に拠点を設置した[siteFaction_pawnsPlural]は彼らのキャラバンを襲撃しているようです.その廃工場は[siteFaction_name]の支配下にあります.工場の材料やメカコンポーネントを入手する絶好の機会です.\n\nクエストの目的：\n[asker_nameDef]は,私たちに脅威を排除するように要請しており,そこにある古い機械部品の所有権について気にしません.\n\n予想される脅威について,[asker_label]の報告では\n[sitePart0_description]だそうです.</li>
+  </VFE_OpportunitySite_AbandonedFactory.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->The [abandoned] [factory]</li>
+    <li>questName->[abandoned] [factory]</li>
+    <li>questName->[asker_nameDef] and the [abandoned] [factory]</li>
+    <li>abandoned->Abandoned</li>
+    <li>abandoned->Old</li>
+    <li>abandoned->Decomissioned</li>
+    <li>abandoned->Ruined</li>
+    <li>factory->Factory</li>
+    <li>factory->Production Line</li>
+    <li>factory->Automated Factory</li>
+    <li>factory->Manufacturing site</li>
+  -->
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings>
+    <li>questName->[abandoned]元[factory]</li>
+    <li>questName->[abandoned][factory]</li>
+    <li>questName->[asker_nameDef]と[abandoned][factory]</li>
+    <li>abandoned->放棄された</li>
+    <li>abandoned->古い</li>
+    <li>abandoned->廃止された</li>
+    <li>abandoned->廃墟になった</li>
+    <li>factory->工場</li>
+    <li>factory->生産ライン</li>
+    <li>factory->自動化工場</li>
+    <li>factory->製造現場</li>
+  </VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VFE_OpportunitySite_AbandonedFactory.LetterLabelQuestExpired.slateRef>クエストの期限切れ：[resolvedQuestName]</VFE_OpportunitySite_AbandonedFactory.LetterLabelQuestExpired.slateRef>
+  <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
+  <VFE_OpportunitySite_AbandonedFactory.LetterTextQuestExpired.slateRef>山賊キャンプは準備が整って,移動しました.クエスト[resolvedQuestName]は期限切れです.</VFE_OpportunitySite_AbandonedFactory.LetterTextQuestExpired.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <VFE_OpportunitySite_AbandonedFactory.LetterLabelQuestFailed.slateRef>クエスト失敗：[resolvedQuestName]</VFE_OpportunitySite_AbandonedFactory.LetterLabelQuestFailed.slateRef>
+  <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
+  <VFE_OpportunitySite_AbandonedFactory.LetterTextQuestFailed.slateRef>クエスト終了：[resolvedQuestName]\n発見された後,山賊キャンプは移動しました.</VFE_OpportunitySite_AbandonedFactory.LetterTextQuestFailed.slateRef>
+  <!-- EN: Payment arrived -->
+  <VFE_OpportunitySite_AbandonedFactory.LetterLabelPaymentArrived.slateRef>報酬が届いた</VFE_OpportunitySite_AbandonedFactory.LetterLabelPaymentArrived.slateRef>
+  <!-- EN: You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived. -->
+  <VFE_OpportunitySite_AbandonedFactory.LetterTextPaymentArrived.slateRef>山賊キャンプを討伐しました！\n\n[asker_faction_name]からの報酬が届きました.</VFE_OpportunitySite_AbandonedFactory.LetterTextPaymentArrived.slateRef>
+  <!-- EN: [asker_faction_royalFavorLabel] -->
+  <VFE_OpportunitySite_AbandonedFactory.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFE_OpportunitySite_AbandonedFactory.LetterLabelFavorReceiver.slateRef>
+  <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
+  <VFE_OpportunitySite_AbandonedFactory.LetterTextFavorReceiver.slateRef>これらの入植者たちは,[resolvedQuestName]探索の戦いと勝利に参加しました.[asker_definite]は,このクエスト報酬として[royalFavorReward_amount][asker_faction_royalFavorLabel]を誰が受けとるのか知りたがっています.</VFE_OpportunitySite_AbandonedFactory.LetterTextFavorReceiver.slateRef>
+
+</LanguageData>

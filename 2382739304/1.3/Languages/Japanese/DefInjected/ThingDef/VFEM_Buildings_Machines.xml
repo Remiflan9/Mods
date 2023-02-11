@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: autocleaner charging station -->
+  <VFE_Mechanoids_AutocleanerBase.label>自動化 クリーナー 充電装置</VFE_Mechanoids_AutocleanerBase.label>
+  <!-- EN: A station for assembling and recharging autocleaners. -->
+  <VFE_Mechanoids_AutocleanerBase.description>自動化クリーナーの組立と充電を行う装置です.</VFE_Mechanoids_AutocleanerBase.description>
+  <Blueprint_VFE_Mechanoids_AutocleanerBase.label>自動化クリーナー充電装置 (設計)</Blueprint_VFE_Mechanoids_AutocleanerBase.label>
+  <Blueprint_Install_VFE_Mechanoids_AutocleanerBase.label>自動化クリーナー充電装置 (移動先)</Blueprint_Install_VFE_Mechanoids_AutocleanerBase.label>
+  <Frame_VFE_Mechanoids_AutocleanerBase.label>自動化クリーナー充電装置 (施工)</Frame_VFE_Mechanoids_AutocleanerBase.label>
+  <Frame_VFE_Mechanoids_AutocleanerBase.description>自動化クリーナーの組立と充電を行う装置です.</Frame_VFE_Mechanoids_AutocleanerBase.description>
+
+  <!-- EN: autohauler charging station -->
+  <VFE_Mechanoids_AutohaulerBase.label>自動化 キャリア 充電装置</VFE_Mechanoids_AutohaulerBase.label>
+  <!-- EN: A station for assembling and recharging autohaulers. -->
+  <VFE_Mechanoids_AutohaulerBase.description>自動化キャリアの組立と充電を行う装置です.</VFE_Mechanoids_AutohaulerBase.description>
+  <Blueprint_VFE_Mechanoids_AutohaulerBase.label>自動化キャリア充電装置 (設計)</Blueprint_VFE_Mechanoids_AutohaulerBase.label>
+  <Blueprint_Install_VFE_Mechanoids_AutohaulerBase.label>自動化キャリア充電装置 (移動先)</Blueprint_Install_VFE_Mechanoids_AutohaulerBase.label>
+  <Frame_VFE_Mechanoids_AutohaulerBase.label>自動化キャリア充電装置 (施工)</Frame_VFE_Mechanoids_AutohaulerBase.label>
+  <Frame_VFE_Mechanoids_AutohaulerBase.description>自動化キャリアの組立と充電を行う装置です.</Frame_VFE_Mechanoids_AutohaulerBase.description>
+
+  <!-- EN: autominer charging station -->
+  <VFE_Mechanoids_AutominerBase.label>自動化 マイナー 充電装置</VFE_Mechanoids_AutominerBase.label>
+  <!-- EN: A station for assembling and recharging autominers. -->
+  <VFE_Mechanoids_AutominerBase.description>自動化マイナーの組立と充電を行う装置です.</VFE_Mechanoids_AutominerBase.description>
+  <Blueprint_VFE_Mechanoids_AutominerBase.label>自動化マイナー充電装置 (設計)</Blueprint_VFE_Mechanoids_AutominerBase.label>
+  <Blueprint_Install_VFE_Mechanoids_AutominerBase.label>自動化マイナー充電装置 (移動先)</Blueprint_Install_VFE_Mechanoids_AutominerBase.label>
+  <Frame_VFE_Mechanoids_AutominerBase.label>自動化マイナー充電装置 (施工)</Frame_VFE_Mechanoids_AutominerBase.label>
+  <Frame_VFE_Mechanoids_AutominerBase.description>自動化マイナーの組立と充電を行う装置です.</Frame_VFE_Mechanoids_AutominerBase.description>
+
+  <!-- EN: combat mechanoid charging station -->
+  <VFE_Mechanoids_CombatBase.label>機械化 パトローラー 充電装置</VFE_Mechanoids_CombatBase.label>
+  <!-- EN: A station for assembling and recharging combat mechanoids. -->
+  <VFE_Mechanoids_CombatBase.description>機械化パトローラーの組立と充電を行う装置です.</VFE_Mechanoids_CombatBase.description>
+  <Blueprint_VFE_Mechanoids_CombatBase.label>機械化パトローラー充電装置 (設計)</Blueprint_VFE_Mechanoids_CombatBase.label>
+  <Blueprint_Install_VFE_Mechanoids_CombatBase.label>機械化パトローラー充電装置 (移動先)</Blueprint_Install_VFE_Mechanoids_CombatBase.label>
+  <Frame_VFE_Mechanoids_CombatBase.label>機械化パトローラー充電装置 (施工)</Frame_VFE_Mechanoids_CombatBase.label>
+  <Frame_VFE_Mechanoids_CombatBase.description>機械化パトローラーの組立と充電を行う装置です.</Frame_VFE_Mechanoids_CombatBase.description>
+
+  <!-- EN: riot mechanoid charging station -->
+  <VFE_Mechanoids_RiotBase.label>機械化 ガード 充電装置</VFE_Mechanoids_RiotBase.label>
+  <!-- EN: A station for assembling and recharging riot mechanoids. -->
+  <VFE_Mechanoids_RiotBase.description>機械化ガードの組立と充電を行う装置です.</VFE_Mechanoids_RiotBase.description>
+  <Blueprint_VFE_Mechanoids_RiotBase.label>機械化ガード充電装置 (設計)</Blueprint_VFE_Mechanoids_RiotBase.label>
+  <Blueprint_Install_VFE_Mechanoids_RiotBase.label>機械化ガード充電装置 (移動先)</Blueprint_Install_VFE_Mechanoids_RiotBase.label>
+  <Frame_VFE_Mechanoids_RiotBase.label>機械化ガード充電装置 (施工)</Frame_VFE_Mechanoids_RiotBase.label>
+  <Frame_VFE_Mechanoids_RiotBase.description>機械化ガードの組立と充電を行う装置です.</Frame_VFE_Mechanoids_RiotBase.description>
+
+  <!-- EN: mobile turret charging station -->
+  <VFE_Mechanoids_TurretBase.label>自走式 タレット 充電装置</VFE_Mechanoids_TurretBase.label>
+  <!-- EN: A station for assembling and recharging mobile turrets. -->
+  <VFE_Mechanoids_TurretBase.description>自走式タレットの組立と充電を行う装置です.</VFE_Mechanoids_TurretBase.description>
+  <Blueprint_VFE_Mechanoids_TurretBase.label>自走式タレット充電装置 (設計)</Blueprint_VFE_Mechanoids_TurretBase.label>
+  <Blueprint_Install_VFE_Mechanoids_TurretBase.label>自走式タレット充電装置 (移動先)</Blueprint_Install_VFE_Mechanoids_TurretBase.label>
+  <Frame_VFE_Mechanoids_TurretBase.label>自走式タレット充電装置 (施工)</Frame_VFE_Mechanoids_TurretBase.label>
+  <Frame_VFE_Mechanoids_TurretBase.description>自走式タレットの組立と充電を行う装置です.</Frame_VFE_Mechanoids_TurretBase.description>
+
+  <!-- EN: autosower -->
+  <VFE_Mechanoids_Autosower.label>自動化 播種機</VFE_Mechanoids_Autosower.label>
+  <!-- EN: An extremely large, slow moving trough-like structure mounted on a series of wheels. Undermounted sprinklers and piston-driven dibblers allow rapid planting of a very wide variety of crops. This machine in particular is programmed to move in a pre-defined direction and distance. -->
+  <VFE_Mechanoids_Autosower.description>一連の車輪に取り付けられた,非常に大きくて,動きの遅い四角い箱のような構造物です.下に設置されたスプリンクラーとピストン駆動式の穴掘り器によって,非常に多種多様な作物を迅速に植えることができます.この機械は,あらかじめ決められた方向と距離を動くように特別なプログラムをされています.</VFE_Mechanoids_Autosower.description>
+  <Blueprint_VFE_Mechanoids_Autosower.label>自動化播種機 (設計)</Blueprint_VFE_Mechanoids_Autosower.label>
+  <Frame_VFE_Mechanoids_Autosower.label>自動化播種機 (施工)</Frame_VFE_Mechanoids_Autosower.label>
+  <Frame_VFE_Mechanoids_Autosower.description>一連の車輪に取り付けられた,非常に大きくて,動きの遅い四角い箱のような構造物です.下に設置されたスプリンクラーとピストン駆動式の穴掘り器によって,非常に多種多様な作物を迅速に植えることができます.この機械は,あらかじめ決められた方向と距離を動くように特別なプログラムをされています.</Frame_VFE_Mechanoids_Autosower.description>
+
+  <!-- EN: autoharvester -->
+  <VFE_Mechanoids_Autoharvester.label>自動化 収穫機</VFE_Mechanoids_Autoharvester.label>
+  <!-- EN: An extremely large, slow moving arched structure mounted on a series of wheels. Undermounted trowels and scythes allow swift harvesting of both crops and lumber alike. This machine in particular is programmed to move in a pre-defined direction and distance. -->
+  <VFE_Mechanoids_Autoharvester.description>一連の車輪に取り付けられた,非常に大きくて,動きの遅いアーチ型の構造物です.下に設置されたコテとカマによって,作物と材木の両方を素早く収穫/伐採することが可能です.この機械は,あらかじめ決められた方向と距離を動くように特別にプログラムされています.</VFE_Mechanoids_Autoharvester.description>
+  <Blueprint_VFE_Mechanoids_Autoharvester.label>自動化収穫機 (設計)</Blueprint_VFE_Mechanoids_Autoharvester.label>
+  <Frame_VFE_Mechanoids_Autoharvester.label>自動化収穫機 (施工)</Frame_VFE_Mechanoids_Autoharvester.label>
+  <Frame_VFE_Mechanoids_Autoharvester.description>一連の車輪に取り付けられた,非常に大きくて,動きの遅いアーチ型の構造物です.下に設置されたコテとカマによって,作物と材木の両方を素早く収穫/伐採することが可能です.この機械は,あらかじめ決められた方向と距離を動くように特別にプログラムされています.</Frame_VFE_Mechanoids_Autoharvester.description>
+
+  <!-- EN: autostrider charging station -->
+  <VFE_Mechanoids_AutostriderBase.label>自動化 ストライダー 充電装置</VFE_Mechanoids_AutostriderBase.label>
+  <!-- EN: A station for assembling and recharging autostriders. -->
+  <VFE_Mechanoids_AutostriderBase.description>自動化ストライダーの組立と充電を行う装置です.</VFE_Mechanoids_AutostriderBase.description>
+  <Blueprint_VFE_Mechanoids_AutostriderBase.label>自動化ストライダー充電装置 (設計)</Blueprint_VFE_Mechanoids_AutostriderBase.label>
+  <Blueprint_Install_VFE_Mechanoids_AutostriderBase.label>自動化ストライダー充電装置 (移動先)</Blueprint_Install_VFE_Mechanoids_AutostriderBase.label>
+  <Frame_VFE_Mechanoids_AutostriderBase.label>自動化ストライダー充電装置 (施工)</Frame_VFE_Mechanoids_AutostriderBase.label>
+  <Frame_VFE_Mechanoids_AutostriderBase.description>自動化ストライダーの組立と充電を行う装置です.</Frame_VFE_Mechanoids_AutostriderBase.description>
+
+  <!-- EN: auto-medic charging station -->
+  <VFE_Mechanoids_AutoMedicBase.label>自動化 メディック 充電装置</VFE_Mechanoids_AutoMedicBase.label>
+  <!-- EN: A station for assembling and recharging auto-medics. -->
+  <VFE_Mechanoids_AutoMedicBase.description>自動化メディックの組立と充電を行う装置です.</VFE_Mechanoids_AutoMedicBase.description>
+  <Blueprint_VFE_Mechanoids_AutoMedicBase.label>自動化メディック充電装置 (設計)</Blueprint_VFE_Mechanoids_AutoMedicBase.label>
+  <Blueprint_Install_VFE_Mechanoids_AutoMedicBase.label>自動化メディック充電装置 (移動先)</Blueprint_Install_VFE_Mechanoids_AutoMedicBase.label>
+  <Frame_VFE_Mechanoids_AutoMedicBase.label>自動化メディック充電装置 (施工)</Frame_VFE_Mechanoids_AutoMedicBase.label>
+  <Frame_VFE_Mechanoids_AutoMedicBase.description>自動化メディックの組立と充電を行う装置です.</Frame_VFE_Mechanoids_AutoMedicBase.description>
+
+  <!-- EN: autobuilder charging station -->
+  <!-- <VFE_Mechanoids_AutobuilderBase.label>自動化 ビルダー 充電装置</VFE_Mechanoids_AutobuilderBase.label> -->
+  <!-- EN: A station for assembling and recharging autobuilders. -->
+  <!-- <VFE_Mechanoids_AutobuilderBase.description>自動化ビルダーの組立と充電を行う装置です.</VFE_Mechanoids_AutobuilderBase.description>
+  <Blueprint_VFE_Mechanoids_AutobuilderBase.label>自動化ビルダー充電装置 (設計)</Blueprint_VFE_Mechanoids_AutobuilderBase.label>
+  <Blueprint_Install_VFE_Mechanoids_AutobuilderBase.label>自動化ビルダー充電装置 (移動先)</Blueprint_Install_VFE_Mechanoids_AutobuilderBase.label>
+  <Frame_VFE_Mechanoids_AutobuilderBase.label>自動化ビルダー充電装置 (施工)</Frame_VFE_Mechanoids_AutobuilderBase.label>
+  <Frame_VFE_Mechanoids_AutobuilderBase.description>自動化ビルダーの組立と充電を行う装置です.</Frame_VFE_Mechanoids_AutobuilderBase.description> -->
+
+  <!-- EN: raider mechanoid charging station -->
+  <VFE_Mechanoids_RaiderBase.label>機械化 レイダー 充電装置</VFE_Mechanoids_RaiderBase.label>
+  <!-- EN: A station for assembling and recharging raider mechanoids. -->
+  <VFE_Mechanoids_RaiderBase.description>機械化レイダーの組立と充電を行う装置です.</VFE_Mechanoids_RaiderBase.description>
+  <Blueprint_VFE_Mechanoids_RaiderBase.label>機械化レイダー充電装置 (設計)</Blueprint_VFE_Mechanoids_RaiderBase.label>
+  <Blueprint_Install_VFE_Mechanoids_RaiderBase.label>機械化レイダー充電装置 (移動先)</Blueprint_Install_VFE_Mechanoids_RaiderBase.label>
+  <Frame_VFE_Mechanoids_RaiderBase.label>機械化レイダー充電装置 (施工)</Frame_VFE_Mechanoids_RaiderBase.label>
+  <Frame_VFE_Mechanoids_RaiderBase.description>機械化レイダーの組立と充電を行う装置です.</Frame_VFE_Mechanoids_RaiderBase.description>
+
+  <!-- EN: autobroadcaster charging station -->
+  <VFE_Mechanoids_AutobroadcasterBase.label>自動化 スピーカー 充電装置</VFE_Mechanoids_AutobroadcasterBase.label>
+  <!-- EN: A station for assembling and recharging autobroadcasters. -->
+  <VFE_Mechanoids_AutobroadcasterBase.description>自動化スピーカーの組立と充電を行う装置です.</VFE_Mechanoids_AutobroadcasterBase.description>
+  <Blueprint_VFE_Mechanoids_AutobroadcasterBase.label>自動化スピーカー充電装置 (設計)</Blueprint_VFE_Mechanoids_AutobroadcasterBase.label>
+  <Blueprint_Install_VFE_Mechanoids_AutobroadcasterBase.label>自動化スピーカー充電装置 (移動先)</Blueprint_Install_VFE_Mechanoids_AutobroadcasterBase.label>
+  <Frame_VFE_Mechanoids_AutobroadcasterBase.label>自動化スピーカー充電装置 (施工)</Frame_VFE_Mechanoids_AutobroadcasterBase.label>
+  <Frame_VFE_Mechanoids_AutobroadcasterBase.description>自動化スピーカーの組立と充電を行う装置です.</Frame_VFE_Mechanoids_AutobroadcasterBase.description>
+
+  <!-- EN: pyro mechanoid charging station -->
+  <VFE_Mechanoids_PyroBase.label>機械化パイロ 充電装置</VFE_Mechanoids_PyroBase.label>
+  <!-- EN: A station for assembling and recharging pyro mechanoids. -->
+  <VFE_Mechanoids_PyroBase.description>機械化パイロの組立と充電を行う装置です.</VFE_Mechanoids_PyroBase.description>
+  <Blueprint_VFE_Mechanoids_PyroBase.label>機械化パイロ充電装置 (設計)</Blueprint_VFE_Mechanoids_PyroBase.label>
+  <Blueprint_Install_VFE_Mechanoids_PyroBase.label>機械化パイロ充電装置 (移動先)</Blueprint_Install_VFE_Mechanoids_PyroBase.label>
+  <Frame_VFE_Mechanoids_PyroBase.label>機械化パイロ充電装置 (施工)</Frame_VFE_Mechanoids_PyroBase.label>
+  <Frame_VFE_Mechanoids_PyroBase.description>機械化パイロの組立と充電を行う装置です.</Frame_VFE_Mechanoids_PyroBase.description>
+
+</LanguageData>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Small Fish -->
+  <SmallFish>小型魚</SmallFish>
+  <!-- EN: Medium Fish -->
+  <MediumFish>中型魚</MediumFish>
+  <!-- EN: Large Fish -->
+  <LargeFish>大型魚</LargeFish>
+  <!-- EN: Have the Fish Taunter catch small fish. -->
+  <GizmoDescriptionSmall>Fish Taunterに小型魚を釣らせます.</GizmoDescriptionSmall>
+  <!-- EN: >Have the Fish Taunter catch medium fish. -->
+  <GizmoDescriptionMedium>Fish Taunterに中型魚を釣らせます.</GizmoDescriptionMedium>
+  <!-- EN: Have the Fish Taunter catch large fish. -->
+  <GizmoDescriptionLarge>Fish Taunterに大型魚を釣らせます.</GizmoDescriptionLarge>
+  <!-- EN: Small Fish -->
+  <VFE_FishTrapperGizmoLabelSmall>小型魚</VFE_FishTrapperGizmoLabelSmall>
+  <!-- EN: Medium Fish -->
+  <VFE_FishTrapperGizmoLabelMedium>中型魚</VFE_FishTrapperGizmoLabelMedium>
+  <!-- EN: Large Fish -->
+  <VFE_FishTrapperGizmoLabelLarge>大型魚</VFE_FishTrapperGizmoLabelLarge>
+  <!-- EN: Mode: {0} -->
+  <VFEM.PropagandaMode>モード：{0}</VFEM.PropagandaMode>
+  <!-- EN: Relaxing music -->
+  <VFEM.RelaxingMusic>落ち着く音楽</VFEM.RelaxingMusic>
+  <!-- EN: Inspirational music -->
+  <VFEM.InspirationalMusic>刺激的な音楽</VFEM.InspirationalMusic>
+  <!-- EN: Ideology propaganda -->
+  <VFEM.IdeoPropaganda>思想の宣伝</VFEM.IdeoPropaganda>
+  <!-- EN: Prisoner recruitment -->
+  <VFEM.Recruitment>囚人の勧誘</VFEM.Recruitment>
+
+  <!-- EN: Play relaxing music, making anyone that hears it a bit happier. -->
+  <VFEM.RelaxingMusicDesc>落ち着く音楽を流すと,それを聞いた人は少し幸せな気分になります.</VFEM.RelaxingMusicDesc>
+  <!-- EN: Play inspirational music, motivating pawns to work harder. -->
+  <VFEM.InspirationalMusicDesc>刺激的な音楽を流すと,それを聞いたポーンのやる気を引き出します.</VFEM.InspirationalMusicDesc>
+  <!-- EN: Play propaganda music, increasing the certainty of colonists. -->
+  <VFEM.IdeoPropagandaDesc>プロパガンダ音楽を流して、入植者の信仰度を高める。</VFEM.IdeoPropagandaDesc>
+  <!-- EN: Play music that is liked by prisoners, reducing their resistance. -->
+  <VFEM.RecruitmentDesc>囚人が好む音楽を流すことで,抵抗を減らします.</VFEM.RecruitmentDesc>
+  <!-- EN: Select ideology -->
+  <VFEM.SelectIdeology>思想を選択</VFEM.SelectIdeology>
+  <!-- EN: Select ideology the autobroadcaster should tune its music to. -->
+  <VFEM.SelectIdeologyDesc>自動化スピーカーが流す音楽の対象となる思想を選択します。</VFEM.SelectIdeologyDesc>
+  <!-- EN: Current ideology: {0} -->
+  <VFEM.CurrentIdeology>現在の思想：{0}</VFEM.CurrentIdeology>
+  <!-- EN: Must believe in another ideology -->
+  <VFEM.MustHaveAnotherIdeology>別の思想を信じていることが必要</VFEM.MustHaveAnotherIdeology>
+  <!-- EN: Cannot enter: {0} -->
+  <VFEM.CannotEnter>入力不可能：{0}</VFEM.CannotEnter>
+
+</LanguageData>

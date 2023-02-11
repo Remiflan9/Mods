@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Auto charge blaster -->
+
+  <!-- EN: charge blaster turret -->
+  <VFE_Turret_AutoChargeBlaster.label>チャージ ブラスター タレット</VFE_Turret_AutoChargeBlaster.label>
+  <!-- EN: A burst-fire charge turret capable of concentrating fire on nearby enemy targets at medium ranges. Unarmored targets are unlikely to survive more than a few bursts. -->
+  <VFE_Turret_AutoChargeBlaster.description>接近する敵目標に対して中距離射程での集中砲火が可能な連射チャージタレットです.数回の連射を受けた非装甲目標が生き残れる可能性は低いでしょう.</VFE_Turret_AutoChargeBlaster.description>
+  <!-- EN: Battery level -->
+  <VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.fuelGizmoLabel>充電残量</VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until out of battery -->
+  <VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.fuelLabel>充電残量</VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Out of battery -->
+  <VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.outOfFuelMessage>射撃不可: 充電残量なし</VFE_Turret_AutoChargeBlaster.comps.CompRefuelable.outOfFuelMessage>
+  <Blueprint_VFE_Turret_AutoChargeBlaster.label>チャージブラスタータレット (設計)</Blueprint_VFE_Turret_AutoChargeBlaster.label>
+  <Blueprint_Install_VFE_Turret_AutoChargeBlaster.label>チャージブラスタータレット (移動先)</Blueprint_Install_VFE_Turret_AutoChargeBlaster.label>
+  <Frame_VFE_Turret_AutoChargeBlaster.label>チャージブラスタータレット (施工)</Frame_VFE_Turret_AutoChargeBlaster.label>
+  <Frame_VFE_Turret_AutoChargeBlaster.description>接近する敵目標に対して中距離射程での集中砲火が可能な連射チャージタレットです.数回の連射を受けた非装甲目標が生き残れる可能性は低いでしょう.</Frame_VFE_Turret_AutoChargeBlaster.description>
+
+  <!-- EN: auto charge blaster -->
+  <VFE_Gun_AutoChargeBlaster.label>自動化チャージブラスター砲</VFE_Gun_AutoChargeBlaster.label>
+  <!-- EN: A salvaged mechanoid charge blaster made to be mounted on a turret. -->
+  <VFE_Gun_AutoChargeBlaster.description>タレットに搭載するために回収されて改造されたメカノイド製チャージブラスターです.</VFE_Gun_AutoChargeBlaster.description>
+  <!-- EN: auto charge blaster -->
+  <VFE_Gun_AutoChargeBlaster.verbs.Verb_Shoot.label>自動化チャージブラスター砲</VFE_Gun_AutoChargeBlaster.verbs.Verb_Shoot.label>
+
+
+  <!-- Auto charge lance -->
+
+  <!-- EN: auto charge lance -->
+  <VFE_Gun_AutoChargeLance.label>自動化チャージランス</VFE_Gun_AutoChargeLance.label>
+  <!-- EN: A salvaged mechanoid charge lance made to be mounted on a turret. -->
+  <VFE_Gun_AutoChargeLance.description>タレットに搭載するために回収されて改造されたメカノイド製チャージランスです.</VFE_Gun_AutoChargeLance.description>
+  <!-- EN: auto charge lance -->
+  <VFE_Gun_AutoChargeLance.verbs.Verb_Shoot.label>自動化チャージランス</VFE_Gun_AutoChargeLance.verbs.Verb_Shoot.label>
+
+  <!-- EN: charge lance turret -->
+  <VFE_Turret_AutoChargeLance.label>チャージ ランス タレット</VFE_Turret_AutoChargeLance.label>
+  <!-- EN: A highly accurate, albeit slightly weaker version of the charge lance mounted on a simple-minded turret. Targets in power armor still must be cautious, as a single lucky shot is still more than capable of piercing through plasteel carapace. -->
+  <VFE_Turret_AutoChargeLance.description>簡単ななタレットに搭載されたチャージランスの命中精度はやや低いものの,高い命中精度を維持しています.パワーアーマーを着こんだ相手でも,ラッキーショットの一発でも命中すればプラスチール装甲を貫通することが可能なので,要注意です.</VFE_Turret_AutoChargeLance.description>
+  <!-- EN: Battery level -->
+  <VFE_Turret_AutoChargeLance.comps.CompRefuelable.fuelGizmoLabel>充電残量</VFE_Turret_AutoChargeLance.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until out of battery -->
+  <VFE_Turret_AutoChargeLance.comps.CompRefuelable.fuelLabel>充電残量</VFE_Turret_AutoChargeLance.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Out of battery -->
+  <VFE_Turret_AutoChargeLance.comps.CompRefuelable.outOfFuelMessage>射撃不可: 充電残量なし</VFE_Turret_AutoChargeLance.comps.CompRefuelable.outOfFuelMessage>
+
+
+  <!-- Auto inferno cannon -->
+
+  <!-- EN: inferno cannon turret -->
+  <VFE_Turret_AutoInfernoCannon.label>火炎放射 タレット</VFE_Turret_AutoInfernoCannon.label>
+  <!-- EN: A short range cannon capable of spewing streams of fire. These turrets are usually deployed in short-ranged urban warfare. -->
+  <VFE_Turret_AutoInfernoCannon.description>火炎放射を散布できる短距離射程の火炎放射器です.この種類のタレットは通常,短距離戦が主になる市街戦で配備されます.</VFE_Turret_AutoInfernoCannon.description>
+  <!-- EN: Battery level -->
+  <VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.fuelGizmoLabel>残燃料</VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until out of battery -->
+  <VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.fuelLabel>残燃料</VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Out of battery -->
+  <VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.outOfFuelMessage>射撃不可: 残燃料無し</VFE_Turret_AutoInfernoCannon.comps.CompRefuelable.outOfFuelMessage>
+  <Blueprint_VFE_Turret_AutoInfernoCannon.label>火炎放射タレット (設計)</Blueprint_VFE_Turret_AutoInfernoCannon.label>
+  <Blueprint_Install_VFE_Turret_AutoInfernoCannon.label>火炎放射タレット (移動先)</Blueprint_Install_VFE_Turret_AutoInfernoCannon.label>
+  <Frame_VFE_Turret_AutoInfernoCannon.label>火炎放射タレット (施工)</Frame_VFE_Turret_AutoInfernoCannon.label>
+  <Frame_VFE_Turret_AutoInfernoCannon.description>火炎放射を散布できる短距離射程の火炎放射器です.この種類のタレットは通常,短距離戦が主になる市街戦で配備されます.</Frame_VFE_Turret_AutoInfernoCannon.description>
+
+  <!-- EN: auto inferno cannon -->
+  <VFE_Gun_AutoInfernoCannon.label>自動化火炎放射砲</VFE_Gun_AutoInfernoCannon.label>
+  <!-- EN: A salvaged mechanoid inferno cannon made to be mounted on a turret. -->
+  <VFE_Gun_AutoInfernoCannon.description>タレットに搭載するために回収されて改造されたメカノイド製自動化火炎放射器です.</VFE_Gun_AutoInfernoCannon.description>
+  <!-- EN: auto inferno cannon -->
+  <VFE_Gun_AutoInfernoCannon.verbs.Verb_Shoot.label>自動化火炎放射砲</VFE_Gun_AutoInfernoCannon.verbs.Verb_Shoot.label>
+
+
+  <!-- Mortar -->
+
+  <!-- EN: auto-mortar -->
+  <VFE_Turret_AutoMortar.label>自動化迫撃砲</VFE_Turret_AutoMortar.label>
+  <!-- EN: An automatic mortar and range finder capable of processing simple coordinates and weather conditions to deliver a constant bombardment of pre-loaded mortar rounds. -->
+  <VFE_Turret_AutoMortar.description>単純な座標と気象条件で計算を行い,あらかじめ装填された迫撃砲弾を一定間隔で発射することができる自動化された迫撃砲と距離計です.</VFE_Turret_AutoMortar.description>
+  <!-- EN: Remaining shells -->
+  <VFE_Turret_AutoMortar.comps.CompRefuelable.fuelLabel>残砲弾</VFE_Turret_AutoMortar.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Out of shells -->
+  <VFE_Turret_AutoMortar.comps.CompRefuelable.outOfFuelMessage>射撃不可: 残砲弾無し</VFE_Turret_AutoMortar.comps.CompRefuelable.outOfFuelMessage>
+  <Blueprint_VFE_Turret_AutoMortar.label>自動化迫撃砲 (設計)</Blueprint_VFE_Turret_AutoMortar.label>
+  <Blueprint_Install_VFE_Turret_AutoMortar.label>自動化迫撃砲 (移動先)</Blueprint_Install_VFE_Turret_AutoMortar.label>
+  <Frame_VFE_Turret_AutoMortar.label>自動化迫撃砲 (施工)</Frame_VFE_Turret_AutoMortar.label>
+  <Frame_VFE_Turret_AutoMortar.description>単純な座標と気象条件で計算を行い,あらかじめ装填された迫撃砲弾を一定間隔で発射することができる自動化された迫撃砲と距離計です.</Frame_VFE_Turret_AutoMortar.description>
+
+  <!-- EN: auto-mortar -->
+  <VFE_AutoMortar.label>自動化迫撃砲</VFE_AutoMortar.label>
+  <!-- EN: Automatic mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged. -->
+  <VFE_AutoMortar.description>自動迫撃砲です.壁の上を通り越して砲弾を散布します.非常に命中率が低いですが,長距離射程です.</VFE_AutoMortar.description>
+  <!-- EN: auto-mortar -->
+  <VFE_AutoMortar.verbs.Verb_Shoot.label>自動化迫撃砲</VFE_AutoMortar.verbs.Verb_Shoot.label>
+
+</LanguageData>

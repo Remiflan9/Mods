@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: advanced carpenter -->
+  <VFE_Mech_AdvancedCarpenter.label>先進機械化ワーカー</VFE_Mech_AdvancedCarpenter.label>
+  <!-- EN: An upgraded version of the utility “Carpenter” mechanoid. Set apart from its prior iterations this version of the carpenter mechanoid not only moves faster but also utilizes plasma torches and omnitools to nearly instantly dissemble all risk-posing structures. Compounded with possibly the heaviest armor of all mechanoids this unit needs to be prioritized before reaching the enemy frontline. Finally, should this mechanoid detect that it is about to cease function an EMP shock is emitted that temporarily disables all nearby electronics in a last-ditch effort to break the frontline for its allies. -->
+  <VFE_Mech_AdvancedCarpenter.description>万能型な機械化ワーカーのアップグレード改造体です.以前にも繰り返された改造とは別に,この新型の機械化ワーカーは,より移動が速いだけでなく,プラズマトーチと総合ツールを利用して,ほとんど瞬間的に危険性の高い構造物を全て解体します.このユニットは,敵の防衛線に到達する前に行動させることが必要なので,全種類のメカノイドの中でもおそらく最も硬い装甲を持つメカノイドと組ませる必要があります.破壊される最後の瞬間,このメカノイドは機能停止することを検知すると,自爆によってEMP衝撃波が発生し,周辺にあるすべての電気機器を一時的に無効にして人類の防衛線を崩壊させようと土壇場の悪あがきをします.</VFE_Mech_AdvancedCarpenter.description>
+  <!-- EN: front left leg -->
+  <VFE_Mech_AdvancedCarpenter.tools.front_left_leg.label>左前脚</VFE_Mech_AdvancedCarpenter.tools.front_left_leg.label>
+  <!-- EN: front right leg -->
+  <VFE_Mech_AdvancedCarpenter.tools.front_right_leg.label>右前脚</VFE_Mech_AdvancedCarpenter.tools.front_right_leg.label>
+  <!-- EN: head -->
+  <VFE_Mech_AdvancedCarpenter.tools.head.label>頭部</VFE_Mech_AdvancedCarpenter.tools.head.label>
+
+  <!-- EN: advanced centipede -->
+  <VFE_Mech_AdvancedCentipede.label>先進機械化ムカデ</VFE_Mech_AdvancedCentipede.label>
+  <!-- EN: An even heavier, more armored version of the Centipede mechanoid propelled by hundreds of tiny legs as well. Unlike their more ancient and less advanced relatives this particular unit is much more intelligent and will seek cover before attempting to break lines of defense. -->
+  <VFE_Mech_AdvancedCentipede.description>新造されて大幅にアップグレードされ,より強力な武装と装甲を施されたこの機械化ムカデは,何百本もの小型脚で走ります.古代のほとんど進化していない旧式機とは違い,この特別なユニットは,はるかに知的で,人類側の防衛線を突破する前の射撃戦で遮蔽物に隠れます.</VFE_Mech_AdvancedCentipede.description>
+  <!-- EN: head -->
+  <VFE_Mech_AdvancedCentipede.tools.head.label>頭部</VFE_Mech_AdvancedCentipede.tools.head.label>
+
+  <!-- EN: advanced inquisitor -->
+  <VFE_Mech_AdvancedInquisitor.label>先進機械化フレイマー</VFE_Mech_AdvancedInquisitor.label>
+  <!-- EN: One of two heavy infantry mechanoids equipped with multiple upgrades. Despite much larger chemfuel tanks this variant of the Inquisitor mech is somehow quicker than its counterpart. Less than a dozen encounters with this mechanoid have ever been reported and less than half of those have ended in victory. This Inquisitor not only rushes priority targets with plumes of fire but also is installed with a much more deadly explosive fail-safe system that both detonates the machine but also engulfs targets nearby in chemfuel fire. -->
+  <VFE_Mech_AdvancedInquisitor.description>複数のアップグレードを施された2種類の機械化重歩兵の1体です.より大きな化学燃料タンクを装備しているにもかかわらず,この機械化フレイマーの改造体は,旧型よりもさまざまな点で速くなっています.このタイプのメカノイドとの遭遇はこれまで12件未満しか報告されておらず,勝利できたのはそのうちの半数未満にしか過ぎません.この機械化フレイマーは,優先順位の高い目標に火炎を噴射するだけでなく,自分自身が爆発して,付近の対象をバイオ化学燃料の炎に巻き込むような,はるかに致命的な自爆に対しての安全装置を搭載しています.</VFE_Mech_AdvancedInquisitor.description>
+  <!-- EN: left fist -->
+  <VFE_Mech_AdvancedInquisitor.tools.left_fist.label>左拳</VFE_Mech_AdvancedInquisitor.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <VFE_Mech_AdvancedInquisitor.tools.right_fist.label>右拳</VFE_Mech_AdvancedInquisitor.tools.right_fist.label>
+  <!-- EN: head -->
+  <VFE_Mech_AdvancedInquisitor.tools.head.label>頭部</VFE_Mech_AdvancedInquisitor.tools.head.label>
+
+  <!-- EN: advanced knight -->
+  <VFE_Mech_AdvancedKnight.label>先進機械化ナイト</VFE_Mech_AdvancedKnight.label>
+  <!-- EN: One of two heavy infantry mechanoids equipped with multiple upgrades. This particular Knight variant appears to have an overclocked power cell, allowing quicker movement and a stronger energy shield. Like it’s unupgraded variant, the Knight comes equipped with a devastating burst-fire charge blaster, although its targeting module appears to be much more advanced. -->
+  <VFE_Mech_AdvancedKnight.description>複数のアップグレードを施された2種類の機械化重歩兵の1体です.この特別な機械化ナイトの改造体は,オーバークロックされた動力バッテリーを備えているように見え,より動きが速く強力なエネルギーシールドの展開を可能にしています.アップグレードされていない旧型と同様に,機械化ナイトには致命的な連射型チャージブラスターが装備されていますが,その射撃管制モジュールはより高性能化しているように見えます.</VFE_Mech_AdvancedKnight.description>
+  <!-- EN: left fist -->
+  <VFE_Mech_AdvancedKnight.tools.left_fist.label>左拳</VFE_Mech_AdvancedKnight.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <VFE_Mech_AdvancedKnight.tools.right_fist.label>右拳</VFE_Mech_AdvancedKnight.tools.right_fist.label>
+  <!-- EN: head -->
+  <VFE_Mech_AdvancedKnight.tools.head.label>頭部</VFE_Mech_AdvancedKnight.tools.head.label>
+
+  <!-- EN: advanced lancer -->
+  <VFE_Mech_AdvancedLancer.label>先進機械化ランス</VFE_Mech_AdvancedLancer.label>
+  <!-- EN: A freshly manufactured and heavily upgraded long-range infantry mechanoid. Unlike their more ancient and less advanced relatives this particular unit is much more intelligent and will seek cover and prove to be a much more challenging opponent in melee combat. -->
+  <VFE_Mech_AdvancedLancer.description>新造されて大幅にアップグレードされた,機械化射撃ユニットです.古代の機械化カマキリよりも,この特別なユニットは,はるかに知的で,遮蔽物に隠れ,近接戦闘でもはるかに格闘性能が向上した厄介な敵であることが確認されています.</VFE_Mech_AdvancedLancer.description>
+  <!-- EN: left fist -->
+  <VFE_Mech_AdvancedLancer.tools.left_fist.label>左拳</VFE_Mech_AdvancedLancer.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <VFE_Mech_AdvancedLancer.tools.right_fist.label>右拳</VFE_Mech_AdvancedLancer.tools.right_fist.label>
+  <!-- EN: head -->
+  <VFE_Mech_AdvancedLancer.tools.head.label>頭部</VFE_Mech_AdvancedLancer.tools.head.label>
+
+  <!-- EN: advanced pikeman -->
+  <VFE_Mech_AdvancedPikeman.label>先進機械化パイク</VFE_Mech_AdvancedPikeman.label>
+  <!-- EN: A multi-legged combat mechanoid specialized as a long-range weapons platform. This particular unit appears to have been upgraded with additional limbs for quicker movement as well as a layer of roach-like carapace plates for extra defense against melee combatants. -->
+  <VFE_Mech_AdvancedPikeman.description>長距離兵器の移動砲台として特化した,不格好な多脚型の戦闘メカノイドです.この特別なユニットは,より素早い動きを可能にするために脚を追加したり,近接戦闘員に対する防御用に,カブトムシのような甲羅状の積層装甲を追加してアップグレードされたようです.</VFE_Mech_AdvancedPikeman.description>
+  <!-- EN: front left leg -->
+  <VFE_Mech_AdvancedPikeman.tools.front_left_leg.label>左前脚</VFE_Mech_AdvancedPikeman.tools.front_left_leg.label>
+  <!-- EN: front right leg -->
+  <VFE_Mech_AdvancedPikeman.tools.front_right_leg.label>右前脚</VFE_Mech_AdvancedPikeman.tools.front_right_leg.label>
+  <!-- EN: head -->
+  <VFE_Mech_AdvancedPikeman.tools.head.label>頭部</VFE_Mech_AdvancedPikeman.tools.head.label>
+
+  <!-- EN: advanced scyther -->
+  <VFE_Mech_AdvancedScyther.label>先進機械化カマキリ</VFE_Mech_AdvancedScyther.label>
+  <!-- EN: A dense, spindly and very intelligent scyther unit that appears to be freshly manufactured with additional upgrades. This unit appears to utilize anti-gravity properties to propel itself much quicker than its ancient versions, as well as superheat its bladed arm attachments to more readily cut through flesh and metal alike. -->
+  <VFE_Mech_AdvancedScyther.description>新造されて大幅にアップグレードされた,より高度で,頭が回り,非常に知性的な機械化突撃ユニットです.このユニットは,反重力式の浮揚移動を利用して,古代の機械化カマキリよりもはるかに移動が速く,両手のブレードアームを過熱する事で,肉や金属をもっと簡単に切断できるようなったようです.</VFE_Mech_AdvancedScyther.description>
+  <!-- EN: left blade -->
+  <VFE_Mech_AdvancedScyther.tools.left_blade.label>左刃</VFE_Mech_AdvancedScyther.tools.left_blade.label>
+  <!-- EN: right blade -->
+  <VFE_Mech_AdvancedScyther.tools.right_blade.label>右刃</VFE_Mech_AdvancedScyther.tools.right_blade.label>
+  <!-- EN: head -->
+  <VFE_Mech_AdvancedScyther.tools.head.label>頭部</VFE_Mech_AdvancedScyther.tools.head.label>
+
+</LanguageData>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: autocleaner -->
+  <VFE_Mechanoids_Autocleaner.label>自動化クリーナー</VFE_Mechanoids_Autocleaner.label>
+  <!-- EN: A medium speed, simple-minded, wheeled drone with large scrubbers and an intricate vacuum chamber system. When used in tandem the aforementioned tools result in a drone capable of quickly cleaning up a range of messes, be they wet or dry. Waste collected during cleaning is incinerated within shortly after while the drone is charging. -->
+  <VFE_Mechanoids_Autocleaner.description>大型洗浄機と複雑な真空吸引システムを備え,普通の移動速度をした単純な車輪式ドローンです.前述の搭載された道具を組み合わせて使えば,濡れていても乾いていても,さまざまな汚れを素早く掃除することが可能です.清掃中に集められたゴミは,ドローンの充電中に即座に焼却されます.</VFE_Mechanoids_Autocleaner.description>
+  <!-- EN: head -->
+  <VFE_Mechanoids_Autocleaner.tools.head.label>頭部</VFE_Mechanoids_Autocleaner.tools.head.label>
+
+  <!-- EN: autohauler -->
+  <VFE_Mechanoids_Autohauler.label>自動化キャリア</VFE_Mechanoids_Autohauler.label>
+  <!-- EN: A treaded, simple-minded drone capable of lifting many times its weight with a hydraulic claw, while slow to move it is quite energy efficient compared to most drones. -->
+  <VFE_Mechanoids_Autohauler.description>油圧式のツメで自分の何倍もの重量を持ち上げることが可能な移動式の単純なドローンですが,動きが遅いために,ほとんどのドローンに比べて電力消費効率が非常に高性能です.</VFE_Mechanoids_Autohauler.description>
+  <!-- EN: head -->
+  <VFE_Mechanoids_Autohauler.tools.head.label>頭部</VFE_Mechanoids_Autohauler.tools.head.label>
+
+  <!-- EN: autominer -->
+  <VFE_Mechanoids_Autominer.label>自動化マイナー</VFE_Mechanoids_Autominer.label>
+  <!-- EN: A fortified, four-wheeled machine with an oversized drill arm and a series of shovel units. This unit moves fast and is able to swiftly cut through rock and stone alike, however its battery life leaves something to be desired. Mined material is not hauled. -->
+  <VFE_Mechanoids_Autominer.description>特大のドリルアームと一連のショベルユニットを備えて,強化された四輪式の自動化ドローンです.このユニットは現場まで素早く移動して,岩の塊や鉱石を素早く切出すことが可能ですが,バッテリー容量にはまだ改良の余地があります.採掘された資源を運搬する機能はありません.</VFE_Mechanoids_Autominer.description>
+  <!-- EN: head -->
+  <VFE_Mechanoids_Autominer.tools.head.label>頭部</VFE_Mechanoids_Autominer.tools.head.label>
+
+  <!-- EN: combat mechanoid -->
+  <VFE_Mechanoids_Combat.label>機械化パトローラー</VFE_Mechanoids_Combat.label>
+  <!-- EN: A simple minded ranged combat drone slightly smaller than a normal human. Patrols designated areas analyzing for nearby threats and will autonomously engage them. -->
+  <VFE_Mechanoids_Combat.description>普通の人間よりもわずかに小さい大きさで,単純な判断しかできない射撃戦闘用ドローンです.周辺の脅威を分析するゾーンを指定して,その場所をパトロールを行い,自律的に対処します.</VFE_Mechanoids_Combat.description>
+  <!-- EN: head -->
+  <VFE_Mechanoids_Combat.tools.head.label>頭部</VFE_Mechanoids_Combat.tools.head.label>
+
+  <!-- EN: riot mechanoid -->
+  <VFE_Mechanoids_Riot.label>機械化ガード</VFE_Mechanoids_Riot.label>
+  <!-- EN: A simple minded melee combat drone slightly smaller than a normal human. Patrols designated areas analyzing for nearby threats and will autonomously engage them. -->
+  <VFE_Mechanoids_Riot.description>普通の人間よりもわずかに小さい大きさで,単純な判断しかできない対人鎮圧用戦闘ドローンです.周辺の脅威を分析するゾーンを指定して,その場所をパトロールを行い,自律的に対処します.</VFE_Mechanoids_Riot.description>
+  <!-- EN: blade -->
+  <VFE_Mechanoids_Riot.tools.blade.label>刃</VFE_Mechanoids_Riot.tools.blade.label>
+  <!-- EN: shield -->
+  <VFE_Mechanoids_Riot.tools.shield.label>盾</VFE_Mechanoids_Riot.tools.shield.label>
+
+  <!-- EN: mobile turret -->
+  <VFE_Mechanoids_Turret.label>自走式タレット</VFE_Mechanoids_Turret.label>
+  <!-- EN: A simple treaded platform with a spot for a turret to be sturdily installed upon it, allowing for mobile firepower without risk. -->
+  <VFE_Mechanoids_Turret.description>タレットをしっかりと設置できる台座を備えたシンプルな自走式の戦闘用ドローンで,火力が必要な場所に自律移動して火力を増強することが可能になります.</VFE_Mechanoids_Turret.description>
+  <!-- EN: head -->
+  <VFE_Mechanoids_Turret.tools.head.label>頭部</VFE_Mechanoids_Turret.tools.head.label>
+
+</LanguageData>

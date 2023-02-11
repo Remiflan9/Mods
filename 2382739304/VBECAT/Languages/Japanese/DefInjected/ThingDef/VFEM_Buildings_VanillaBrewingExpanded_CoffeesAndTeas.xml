@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Industrial Coffee Roaster -->
+
+  <VFEM_IndustrialCoffeeRoaster.label>産業用 珈琲焙煎機</VFEM_IndustrialCoffeeRoaster.label>
+  <VFEM_IndustrialCoffeeRoaster.description>コーヒー豆を深く焙煎した後,粉砕機で豆を粉砕する産業用規模の焙煎機です.次に,沸騰したお湯を強制的に濾過して,大量のコーヒーを製造します.付属のホッパーには,コーヒーに関係の飲み物に加工するための他の製品や材料を置くこともできます.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt; 産業用珈琲焙煎機は自動化チェーンの一部ではなく,独立した建築物です.</VFEM_IndustrialCoffeeRoaster.description>
+  <Blueprint_VFEM_IndustrialCoffeeRoaster.label>産業用 珈琲焙煎機 (設計)</Blueprint_VFEM_IndustrialCoffeeRoaster.label>
+  <Blueprint_Install_VFEM_IndustrialCoffeeRoaster.label>industrial 珈琲焙煎機 (移動先)</Blueprint_Install_VFEM_IndustrialCoffeeRoaster.label>
+  <Frame_VFEM_IndustrialCoffeeRoaster.label>産業用 珈琲焙煎機 (施工)</Frame_VFEM_IndustrialCoffeeRoaster.label>
+  <Frame_VFEM_IndustrialCoffeeRoaster.description>コーヒー豆を深く焙煎した後,粉砕機で豆を粉砕する産業用規模の焙煎機です.次に,沸騰したお湯を強制的に濾過して,大量のコーヒーを製造します.付属のホッパーには,コーヒーに関係の飲み物に加工するための他の製品や材料を置くこともできます.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt; 産業用珈琲焙煎機は自動化チェーンの一部ではなく,独立した建築物です.</Frame_VFEM_IndustrialCoffeeRoaster.description>
+
+  <!-- Liquor Mixer -->
+
+  <VFE_LiquorMixer.label>蒸留撹拌機</VFE_LiquorMixer.label>
+  <VFE_LiquorMixer.description>圧力鍋のコンセプトをウキウキさせるレベルにまで高めた驚異のマシンです.投入された原材料は細かいペースト状に加工され,触媒作用のある発酵促進剤を充填した高温の配管内で液体混合されます.このプロセスは,高圧タンクに移される前に,冷却しながら完全に混合されて,酸化されます. プロセスが加速されて味に影響を与えるようになると,発酵液はより多くの化学物質と電気分解されて攪拌と反応加速されて,理想の状態に近い味とアルコール含有量を再現します.出来上がったら瓶詰めして,口当たりの良い温度に冷却されます.</VFE_LiquorMixer.description>
+  <Blueprint_VFE_LiquorMixer.label>蒸留撹拌機 (設計)</Blueprint_VFE_LiquorMixer.label>
+  <Blueprint_Install_VFE_LiquorMixer.label>蒸留撹拌機 (移動先)</Blueprint_Install_VFE_LiquorMixer.label>
+  <Frame_VFE_LiquorMixer.label>蒸留撹拌機 (施工)</Frame_VFE_LiquorMixer.label>
+  <Frame_VFE_LiquorMixer.description>圧力鍋のコンセプトをウキウキさせるレベルにまで高めた驚異のマシンです.投入された原材料は細かいペースト状に加工され,触媒作用のある発酵促進剤を充填した高温の配管内で液体混合されます.このプロセスは,高圧タンクに移される前に,冷却しながら完全に混合されて,酸化されます. プロセスが加速されて味に影響を与えるようになると,発酵液はより多くの化学物質と電気分解されて攪拌と反応加速されて,理想の状態に近い味とアルコール含有量を再現します.出来上がったら瓶詰めして,口当たりの良い温度に冷却されます.</Frame_VFE_LiquorMixer.description>
+
+</LanguageData>

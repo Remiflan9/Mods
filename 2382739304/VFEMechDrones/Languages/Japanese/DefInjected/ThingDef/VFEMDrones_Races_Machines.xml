@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEMA_Mechanoids_Farmer.label>自動化ファーマー</VFEMA_Mechanoids_Farmer.label>
+  <VFEMA_Mechanoids_Farmer.description>作業をより効率化するために人間と同じ程度の高さに合わせたシンプルな半自律式のメカノイドドローンです.このドローンは素人と同程度のスキルレベルで植物を育てたり収集することが可能です.</VFEMA_Mechanoids_Farmer.description>
+  <VFEMA_Mechanoids_Farmer.tools.head.label>頭部</VFEMA_Mechanoids_Farmer.tools.head.label>
+
+  <VFEMA_Mechanoids_Kitchen.label>自動化コック</VFEMA_Mechanoids_Kitchen.label>
+  <VFEMA_Mechanoids_Kitchen.description>作業をより効率化するために人間と同じ程度の高さに合わせたシンプルな半自律式のメカノイドドローンです.このドローンは素人と同程度のスキルレベルで食事を調理することが可能です.</VFEMA_Mechanoids_Kitchen.description>
+  <VFEMA_Mechanoids_Kitchen.tools.head.label>頭部</VFEMA_Mechanoids_Kitchen.tools.head.label>
+
+</LanguageData>

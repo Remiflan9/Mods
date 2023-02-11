@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: a friendly outpost under mech attack -->
+  <VFE_MechanoidAttackParty.label>メカノイドの攻撃を受けている友好派閥の前哨基地</VFE_MechanoidAttackParty.label>
+  <!-- EN: A stranded, incapacitated refugee begging for help. -->
+  <VFE_MechanoidAttackParty.description>メカノイドに襲われた味方の前哨基地が助けを求めています.</VFE_MechanoidAttackParty.description>
+
+</LanguageData>

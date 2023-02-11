@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Uplink Module -->
+
+  <!-- EN: uplink module -->
+  <VFE_MechanoidUplink.label>軌道通信モジュール</VFE_MechanoidUplink.label>
+  <!-- EN: An uplink module, directly connected to the mechanoid swarm. It is responsible for obtaining order updates from war programmers in orbit. It greatly enhances mechanoid capabilities in range, but destroying it will sever the connection with the fleet, greatly harming the mechanoid forces.  It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_MechanoidUplink.description>軌道上のメカノイド集合体に直接接続されたアップリンクモジュールです.メカノイド船は,軌道上に居る戦争プログラマーから更新された命令を取得する重要な責務があります.これは,効果範囲内のメカノイドたちの能力を大幅に向上させますが,破壊できれば,軌道上艦隊との接続が切断されて,メカノイド軍の戦闘能力が大幅に低下します.破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_MechanoidUplink.description>
+
+
+  <!-- Climate Adjuster -->
+
+  <!-- EN: climate adjuster -->
+  <VFE_ClimateAdjuster.label>気候調整機</VFE_ClimateAdjuster.label>
+  <!-- EN: An ultratech ship-mounted device for controlling climate. Using chemicals and exotic fields to manipulate the atmosphere, it shifts the temperature in this region of the world. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_ClimateAdjuster.description>メカノイド船に搭載された超高性能な気象制御装置です.化学薬品や特殊なフィールドを使って大気操作を行い,この地域の気温を変化させます.破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_ClimateAdjuster.description>
+
+
+  <!-- EMI Dynamo -->
+
+  <!-- EN: EMI dynamo -->
+  <VFE_EMIDynamo.label>EMI発電装置</VFE_EMIDynamo.label>
+  <!-- EN: A massive, ship-mounted electromagnetic interference generator. It interferes with or shuts down electrical devices in nearby regions. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_EMIDynamo.description>メカノイド船に搭載された巨大な電磁干渉発電装置です.周辺の電気設備に干渉して,電力を遮断したりします.破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_EMIDynamo.description>
+
+
+  <!-- Psychic Suppressor -->
+
+  <!-- EN: psychic suppressor -->
+  <VFE_PsychicSuppressor.label>サイコサプレッサー装置</VFE_PsychicSuppressor.label>
+  <!-- EN: A ship-mounted archotech device that generates a massive psychic suppression field tuned to a particular gender. People of that gender have their psychic activity suppressed, reducing their consciousness. The effect is modulated by an individual's psychic sensitivity. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_PsychicSuppressor.description>特定の性別にだけ対象絞って調整された巨大な精神抑制フィールドを生成するメカノイド船に搭載されたアルコテック装置です.対象となった性別の人々は精神活動が抑制されて,意識が低下します.その効果は個人の精神的感受性によって変動します.破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_PsychicSuppressor.description>
+
+
+  <!-- Psychic Droner -->
+
+  <!-- EN: psychic droner -->
+  <VFE_PsychicDroner.label>サイコドローン装置</VFE_PsychicDroner.label>
+  <!-- EN: A ship-mounted archotech device transmitting the thoughts of a mad superintelligence. It generates a massive psychic drone tuned to one gender and affecting a whole region of the planet. People of that gender will be disturbed by the effect, reducing their mood and possibly driving them insane. The effect is modulated by an individual's psychic sensitivity. It can be destroyed to obtain valuable, exotic resources. This element is usually a part of a much larger ship. -->
+  <VFE_PsychicDroner.description>狂ったコンピュータコアの思考を放射するメカノイド船に搭載されたアルコテック装置です.それは片方の性別に合わせて調整され,惑星の全地域に影響を与える巨大なサイコドローンを発生します.対象となった性別の人々は,その影響で動揺し,気分が落ち込み,精神崩壊する可能性があります.その効果は個人の精神的感受性によって変動します.破壊すれば貴重で特殊な資源を入手することができます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_PsychicDroner.description>
+
+
+  <!-- Ship-mounted bullet shield -->
+
+  <!-- EN: ship-mounted low shield -->
+  <VFE_BulletShield.label>対射撃シールド(船搭載)</VFE_BulletShield.label>
+  <!-- EN: A shielding device which projects a momentum repulsor field. Shots can go out, but not in. This one is tuned to low angles, so it will block ground-level projectiles like bullets. The unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. This element is usually a part of a much larger ship. -->
+  <VFE_BulletShield.description>慣性遮断フィールドを投影する防御装置.内側からは射撃できますが,外側からの攻撃は受け付けません.\n\nローアングルに調整されているため,銃弾のような地表面レベルで飛来する投射物を防ぎます.\n\nEMP攻撃によって一時的に無効化できます.この構成部品は通常もっと大きな船体用のパーツです.</VFE_BulletShield.description>
+
+
+  <!-- Ship-mounted mortar shield -->
+
+  <!-- EN: ship-mounted high shield -->
+  <VFE_MortarShield.label>対迫撃砲シールド(船搭載)</VFE_MortarShield.label>
+  <!-- EN: A shielding device which projects a momentum repulsor field. Shots can go out, but not in. This one is tuned to high angles, so it will block mortar rounds. The unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. This element is usually a part of a much larger ship. -->
+  <VFE_MortarShield.description>この構成部品は通常もっと大きな船体用のパーツです.</VFE_MortarShield.description>
+
+</LanguageData>

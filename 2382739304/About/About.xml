@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>VFE - Mechanoids 日本語翻訳追加</name>
+	<author>Proxyer</author>
+	<packageId>proxyer.jpt.vfe.Mechanoid</packageId>
+	<supportedVersions>
+		<li>1.2</li>
+		<li>1.3</li>
+		<li>1.4</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+			<displayName>Vanilla Expanded Framework</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2023507013</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>OskarPotocki.VFE.Mechanoid</packageId>
+			<displayName>Vanilla Factions Expanded - Mechanoids</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2329011599</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+		<li>brrainz.harmony</li>
+        <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+		<li>OskarPotocki.VFE.Mechanoid</li>
+		<li>OskarPotocki.VFE.Vikings</li>
+		<li>isorex.mechanoidsaddon</li>
+		<li>seos.vfe.mechanoids.drones</li>
+		<li>drzhivago.docworld</li>
+		<li>LWM.DeepStorage</li>
+		<li>lc.cmcalt</li>
+		<li>cz.cmcalt</li>
+	</loadAfter>
+	<description><![CDATA[
+<color=#5AA9D6><size=17>説明</size> (Description)：</color>
+このModはオリジナルModに日本語翻訳を追加するためのModであり、Mod本体の機能は一切含まれていません。必ずオリジナルModを導入した上でご利用ください。
+
+Modリストで有効化されていると翻訳を追加するMod:
+以下のModが存在する場合は、自動的に判別して翻訳が適用されます。
+
+VFE - Mechanoids : Unoffical Add-On
+VFE - Mechanoids : Drones
+VFE - Mechanoids : Tab
+VFE - Mechanoids : Prison control droid
+VFE - Mechanoids : Mechanoid Re-Assembler
+VFE Mechanoids - Craftable Mechanoid Components (Alternative)
+
+
+Modリストでの読み込み順番は、上から
+
+<b>Harmony</b>
+Core
+Royalty (DLC)
+<b>Vanilla Expanded Framework</b>
+<b>Vanilla Factions Expanded - Mechanoids</b>
+Vanilla Factions Expanded - Vikings
+Vanilla Cooking Expanded
+Vanilla Fishing Expanded
+VFE - Mechanoids : Unoffical Add-On
+VFE - Mechanoids : Drones
+VFE - Mechanoids : Tab
+VFE - Mechanoids : Prison control droid
+VFE Mechanoids - Craftable Mechanoid Components (Alternative)
+VFE - Mechanoids 日本語翻訳追加 (このMod)
+
+の順番になるのがベストです。
+
+[1.4] [Sub-MOD] Vanilla Factions Expanded - Mechanoids add Japanese Translation
+
+This Mod is adding a Japanese translation to the original Mod "Vanilla Factions Expanded - Mechanoids".
+
+The original Mod was created by <b>Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk</b>.
+This Modmod does not include the core part of the original Mod.
+Only Japanese translation files are included.
+
+
+<color=#5AA9D6><size=17>説明翻訳</size> (Japanese translate description)：</color>
+私がこれまでに思いついた最初のMODの1つであり、Mod設計や描画やコード構築、そして配信まで最も時間がかかったVanilla Factions Expanded-Mechanoidsは、他とは異なるModです。才能のあるMod作者たちが集まってチームを作り、このModが新しい興味深いコンテンツで満たされるだけでなく、ゲームをもう少しダイナミックなモノにする何かを提供するようにしました。
+
+カスタムされた拠点生成コードが改善されて、メカノイドたちが惑星の地上に大混乱をもたらすために使用できる半ランダムな宇宙船イベントを提供するようになりました。クレジットされている最も有名なMod作者たちからの多くの協力のおかげで、私たちは新しい派閥だけでなく、惑星に着陸する船が増えるほど派閥を強くするTotalWarのユニークな機能を提供することができました。また、ゲーム内のさまざまなアイテムを自動的に製作する完全に自動化された機械の形で、Factorioの様な要素を提供することもできました。すべてが自動化されると言いましたよね？
+
+新しい建築可能なメカノイドは、清掃や運搬から基地の防衛まで、コロニー周辺の色々な役割を果たすことができます。スーパーコンピューターを使用すると、研究を自動化できるようになります。一方、自動化播種機と自動化収穫機を使用すると、肉体労働をせずに農業事業を自動化できます。
+
+新しいクエスト、新しいイベント、新しいスタートシナリオ、ストーリーテラー、すべてがあなたを待っています。 メリークリスマス！
+
+
+<color=#5AA9D6><size=17>既存の問題(Known Issues)</size>:</color>
+船の生成は、Large Faction Bases Modでは機能しません。
+
+現在、他に問題を確認していません。バグレポート討論板を使って、エラーログを送信してください。HugsLibのログを提出することが重要です。「XはYのために機能しない」というコメントには全く興味がないので、返信しません。 HugsLibのログは、開発者に、何がうまくいかなかったか、どのModを使っていたかを教えてくれます。
+
+HugsLibログを取得するには、HugsLibが実行されていることを確認してから、ゲーム中にF12キーを押して、そのリンクをコピーしてください。
+
+
+<color=#87CEFA>製作スタッフ(Legal Stuff):</color>
+このModを作った人たち:
+
+OskarPotocki: 画像製作者兼デザイナー、ほとんどの画像制作とビジュアルイメージ、そしてModデザインとxmlを担当
+ISOREX、多くの自動化機械と一般的な画像制作補助を担当
+SargBjornson: 自動化コードを担当するプログラマー
+erdelf: 総力戦コードと一般的なコードヘルプを担当
+Kikohi: 決済生成コードとイベントを担当するプログラマー
+Taranchuk: C＃の堅実な部分を担当するプログラマー
+Kentington: 建築可能なメカノイドを担当するプログラマー
+Chowder: xmlの調整、工場デザイン、バランス計画、説明を担当
+
+RimworldはTynan Sylvesterの著作物です
+
+グローバルコモンズ表記:
+(CC BY-NC-SA 4.0) 
+再配布可能、ライセンス表記、非営利、改変ライセンス継承 、追加制限不許可
+
+
+<color=#5AA9D6><size=17>よくある質問(Frequently asked questions)</size>:</color>
+
+Q：コンベヤーはありませんか？
+A：私たちはPRFチームと協力して、彼らの素晴らしいmodを確認しました：
+<color=#66FFFF>https://steamcommunity.com/sharedfiles/filedetails/?id=2325176756</color>
+
+Q：このmodはCombat Extendedと互換性がありますか？
+A：まだですが、パッチは作業中です。
+
+Q：Total Warメカニックを無効にできますか？
+A：はい、Modオプションで可能です。
+
+Q：動作するのにベースModが必要ですか？
+A：すべての派閥Modを機能させるには、Vanilla-Expanded-Frameworkが必要です。
+
+Q：このModは、メカノイドを追加する他のModと連携できますか？
+A：はい、他のModはバニラの古代メカノイド派閥を強化します。このmodは、まったく新しい独立した派閥を追加します。
+
+Q：既存のセーブゲームと互換性がありますか？
+A：はい、いつでも追加できますが、ゲーム途中で派閥を削除することは不可能で、常にセーブデータをバックアップしてください。新しいメカノイド集合体派閥を追加するかゲームで確認するメッセージが表示されたら、[はい]をクリックします。
+
+Q：メカノイドの数を減らすにはどうすればよいですか？
+A：彼らの船をクエストで破壊してください。それらが遠すぎる場合は、ドロップポッドや長距離ミサイル発射装置を使用するか、SRTSExpandedなどのMODを利用してください。
+
+Q：Rim-Warと互換性がありますか？
+A：問題が発生した場合は、お知らせください。
+
+Q：船が着陸しません。どうして？
+A：ポーン番号の必要条件があります。Modオプションで変更できます。
+
+
+私がOskarPotockiと一緒に開発しているゲームを以下のDiscordチャンネルで確認してください！
+
+<color=#66FFFF>https://discord.gg/fZn7NqGn</color>
+
+
+Original mod : <b>Vanilla Factions Expanded - Mechanoids</b>
+Original Mod author : <b>Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk</b>
+Steam Workshop Link : 
+<color=#66FFFF>https://steamcommunity.com/sharedfiles/filedetails/?id=2329011599</color>
+
+Original mod : <b>VFE - Mechanoids : Unoffical Add-On</b>
+Original Mod author : <b>ISOREX</b>
+Steam Workshop Link : 
+<color=#66FFFF>https://steamcommunity.com/sharedfiles/filedetails/?id=2329025520</color>
+
+Original mod : <b>VFE - Mechanoids : Tab</b>
+Original Mod author : <b>Seos</b>
+Steam Workshop Link : 
+<color=#66FFFF>https://steamcommunity.com/sharedfiles/filedetails/?id=2368220087</color>
+
+Original mod : <b>VFE - Mechanoids : Drones</b>
+Original Mod author : <b>Seos</b>
+Steam Workshop Link : 
+<color=#66FFFF>https://steamcommunity.com/sharedfiles/filedetails/?id=2569327150</color>
+
+Original mod : <b>VFE - Mechanoids : Prison control droid</b>
+Original Mod author : <b>の⁠ヮ⁠の</b>
+Steam Workshop Link : 
+<color=#66FFFF>https://steamcommunity.com/sharedfiles/filedetails/?id=2420140013</color>
+
+
+ ]]></description>
+</ModMetaData>

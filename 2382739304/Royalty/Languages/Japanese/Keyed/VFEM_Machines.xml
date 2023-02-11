@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Force Recharge -->
+  <VFEMechForceRecharge>強制再充電</VFEMechForceRecharge>
+  <!-- EN: Order the associated machine to return to this platform for charging, regardless of its current battery level. -->
+  <VFEMechForceRechargeDesc>現在のバッテリー残量に関係なく,関連付けられたドローンをこの充電装置に戻して充電させます.</VFEMechForceRechargeDesc>
+  <!-- EN: Attach Turret -->
+  <VFEMechAttachTurret>タレットを取り付ける</VFEMechAttachTurret>
+  <!-- EN: Construct a turret atop this mobile platform. This will require a colonist to deliver resources equal to that turret's normal construction cost. -->
+  <VFEMechAttachTurretDesc>この自走式タレットの砲座にタレットを建設します.これには,入植者がそのタレットの通常の建設コストと同じ材料を供給する必要があります.</VFEMechAttachTurretDesc>
+  <!-- EN: Machine destroyed -->
+  <VFEMechMachineDied>ドローンが破壊された</VFEMechMachineDied>
+  <!-- EN: One of your machines has been destroyed! You can dismantle its remains at a machining table. In order to construct a replacement, one of your colonists will need to deliver the following parts to its platform:\n\n{0} -->
+  <VFEMechMachineDiedDesc>ドローンの1つが破壊された！残骸は精密工作機械で解体可能です.代わりのドローンを作成するには,入植者の1人が以下の材料を充電装置に運ぶ必要があります：\n\n{0}</VFEMechMachineDiedDesc>
+  <!-- EN: Not enough resources -->
+  <VFEMechNoResources>材料不足</VFEMechNoResources>
+  <!-- EN: No active mobile turret -->
+  <VFEMechNoTurret>稼働している自走式タレットはありません</VFEMechNoTurret>
+  <!-- EN: Needed to rebuild machine: -->
+  <VFEMechReconstruct>ドローンの再建に必要：</VFEMechReconstruct>
+  <!-- EN: Needed to construct turret: -->
+  <VFEMechTurretResources>タレット建設に必要：</VFEMechTurretResources>
+  <!-- EN: Reduce range -->
+  <VFEMechLowerRange>行動範囲を減少</VFEMechLowerRange>
+  <!-- EN: Reduce the number of tiles this machine will travel. -->
+  <VFEMechLowerRangeDesc>このドローンが移動できるタイル数を減らします.</VFEMechLowerRangeDesc>
+  <!-- EN: Increase range -->
+  <VFEMechRaiseRange>行動範囲を増加</VFEMechRaiseRange>
+  <!-- EN: Increase the number of tiles this machine will travel. -->
+  <VFEMechRaiseRangeDesc>このドローンが移動できるタイル数を増やします.</VFEMechRaiseRangeDesc>
+  <!-- EN: Stop machine -->
+  <VFEMechStopMachine>ドローンを活動停止</VFEMechStopMachine>
+  <!-- EN: Stop this machine's progress and force it to return to base. -->
+  <VFEMechStopMachineDesc>このドローンの活動を停止して,強制的に充電装置に戻します.</VFEMechStopMachineDesc>
+  <!-- EN: Start machine -->
+  <VFEMechStartMachine>ドローンを起動</VFEMechStartMachine>
+  <!-- EN: Start this machine. -->
+  <VFEMechStartMachineDesc>このドローンの活動を開始します.</VFEMechStartMachineDesc>
+  <!-- EN: Machine has run into an obstacle! -->
+  <VFEMechMachineHitObstacle>ドローンが障害物に衝突した!</VFEMechMachineHitObstacle>
+  <!-- EN: Set area -->
+  <VFEMechSetArea>ゾーンを設定</VFEMechSetArea>
+  <!-- EN: Set the allowed area for all of this platform's associated machines. -->
+  <VFEMechSetAreaDesc>この充電装置に関連付けられたすべてのドローンに許可されたゾーンを設定します.</VFEMechSetAreaDesc>
+
+</LanguageData>

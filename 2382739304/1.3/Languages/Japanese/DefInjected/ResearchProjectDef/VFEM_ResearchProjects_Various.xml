@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: automated defensive measures -->
+  <VFE_AutomatedDefensiveMeasures.label>自動防御手段</VFE_AutomatedDefensiveMeasures.label>
+  <!-- EN: Research the ability to weaponize automated drones for a variety of purposes including mobile turret platforms, mortars, riot control and other defensive countermeasures. -->
+  <VFE_AutomatedDefensiveMeasures.description>自走式タレットのプラットフォームドローンや自動化迫撃砲,機械化ガード,その他の防御方法など,多目的用に自動化されたドローンの機能を兵器化する研究を行います.</VFE_AutomatedDefensiveMeasures.description>
+
+  <!-- EN: basic drone assembly -->
+  <VFE_BasicDroneAssembly.label>簡易ドローン製造</VFE_BasicDroneAssembly.label>
+  <!-- EN: Research a machine that allows the assembly of rudimentary automated rechargeable drones capable of hauling, mining, and cleaning. -->
+  <VFE_BasicDroneAssembly.description>運搬や採掘や清掃などの仕事ができる簡単な自動充電式ドローンの製造と組み立てを可能にする機械について研究します.</VFE_BasicDroneAssembly.description>
+
+  <!-- EN: electronics fabrication factory -->
+  <VFE_ElectronicsFabricationFactory.label>電子機器製造工場</VFE_ElectronicsFabricationFactory.label>
+  <!-- EN: Research a series of machines that grant the ability to automatically harness small amounts of steel from loose rock chunks and forge them into both simple mechanical components and higher tech electronic components. -->
+  <VFE_ElectronicsFabricationFactory.description>粉砕した岩の塊から少量のスチールを自動的に回収して,単純な機械部品とハイテク電子部品の両方を鍛造する能力を追加した一連の機械を研究します.</VFE_ElectronicsFabricationFactory.description>
+
+  <!-- EN: factory basics -->
+  <VFE_FactoryBasics.label>工場の基礎理論</VFE_FactoryBasics.label>
+  <!-- EN: Gain a basic fundamental understanding of factory utilization and unlock factory hoppers and terrain capable of supporting heavy machinery. -->
+  <VFE_FactoryBasics.description>基本的な工場の利用方法について基礎理論研究を行い,工場用ホッパーと大型機械を建築可能な地形を利用可能になります.</VFE_FactoryBasics.description>
+
+  <!-- EN: masonry and metallics factory -->
+  <VFE_MasonryandMetallicsFactory.label>石と金属の加工工場</VFE_MasonryandMetallicsFactory.label>
+  <!-- EN: Research a series of machines that grant the ability to automatically mine surface-level rock chunks as well as process them into bricks and further refine them into an advanced material indistinguishable from plasteel. -->
+  <VFE_MasonryandMetallicsFactory.description>地表面に露出した岩の塊を自動的に採掘して,レンガに加工し,さらにプラスチールと区別できない高度な材料へ精製する能力を追加した一連の機械を研究します.</VFE_MasonryandMetallicsFactory.description>
+
+  <!-- EN: medicinal compounding factory -->
+  <VFE_MedicinalCompoundingFactory.label>医薬品調合工場</VFE_MedicinalCompoundingFactory.label>
+  <!-- EN: Research a series of machines that grant the ability to automatically refine a thick glycerol extremely similar to that of neutroamine, also allows the further refining into a variety of medicines or illicit drugs. -->
+  <VFE_MedicinalCompoundingFactory.description>ニュートロアミンと非常に似た濃厚なグリセリンを自動的に精製する能力を追加した一連の機械の研究することで,様々な医薬品や違法ドラッグ製品への精製と製造を可能にします.</VFE_MedicinalCompoundingFactory.description>
+
+  <!-- EN: munitions and armaments factory -->
+  <VFE_MunitionsandArmamentsFactory.label>軍需品/兵器工場</VFE_MunitionsandArmamentsFactory.label>
+  <!-- EN: Research a series of machines that grant the ability to automatically refine and clarify chemfuel from organic matter as well as process it further into weaponry and large-scale mortar shells. -->
+  <VFE_MunitionsandArmamentsFactory.description>有機物からバイオ化学燃料を精製して浄化処理を自動的に行い,さらに兵器や大量の迫撃砲弾へ加工する能力を追加した一連の機械を研究します.</VFE_MunitionsandArmamentsFactory.description>
+
+  <!-- EN: provisions packaging factory -->
+  <VFE_ProvisionsPackagingFactory.label>食料包装工場</VFE_ProvisionsPackagingFactory.label>
+  <!-- EN: Research a series of machines that grant the ability to automatically and efficiently harvest animal meat trimmings, cook, and package them into a variety of survival meals, kibble, and canned goods. -->
+  <VFE_ProvisionsPackagingFactory.description>動物の食肉加工を効率的自動化して収穫と調理を行い,さまざまな非常用食品やペットフードや缶詰製品などに包装する能力を追加した一連の機械を研究します.</VFE_ProvisionsPackagingFactory.description>
+
+  <!-- EN: wearables and textiles factory -->
+  <VFE_WearablesandTextilesFactory.label>衣服/繊維工場</VFE_WearablesandTextilesFactory.label>
+  <!-- EN: Research a series of machines that grant the ability to automatically recycle old apparel into salvaged scrap as well as assemble new apparel from the aforementioned scraps. Additionally unlocks a machine capable of molecularly reconfiguring apparel to mimic the properties of synthread. -->
+  <VFE_WearablesandTextilesFactory.description>古い衣服を自動的に分解した材料にリサイクルして,それらから新しい衣服を組み立てる能力を追加した一連の機械を研究します.さらに,シンスレッドの能力を模倣した衣服を分子的に再構成できる機械の製造を可能にします.</VFE_WearablesandTextilesFactory.description>
+
+  <!-- EN: mechanoid structures -->
+  <VFE_MechanoidStructures.label>メカノイド構造物</VFE_MechanoidStructures.label>
+  <!-- EN: Research the ability to utilize mechanoid tech for different kind of structures, at a high cost. -->
+  <VFE_MechanoidStructures.description>メカノイド技術を,さまざまな種類の構造物に対して高い建設コストをかけて利用可能にする研究を行います.</VFE_MechanoidStructures.description>
+
+  <!-- EN: advanced drone assembly -->
+  <VFE_AdvancedDroneAssembly.label>先進ドローン組立</VFE_AdvancedDroneAssembly.label>
+  <!-- EN: Research more advanced drones, capable of analyzing and processing complex information. -->
+  <VFE_AdvancedDroneAssembly.description>複雑な情報を分析したり処理できる,より先進的なドローンを研究します.</VFE_AdvancedDroneAssembly.description>
+
+</LanguageData>

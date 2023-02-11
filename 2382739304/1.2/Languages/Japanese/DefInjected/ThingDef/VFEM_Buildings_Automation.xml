@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Factory hopper -->
+  <VFEM_HeavyHopper.label>工場用 ホッパー</VFEM_HeavyHopper.label>
+  <!-- EN: Holds resources for use by automated machines. -->
+  <VFEM_HeavyHopper.description>自動化された機械で使う材料を保持します.</VFEM_HeavyHopper.description>
+  <Blueprint_VFEM_HeavyHopper.label>工場用ホッパー (設計)</Blueprint_VFEM_HeavyHopper.label>
+  <Blueprint_Install_VFEM_HeavyHopper.label>工場用ホッパー (移動先)</Blueprint_Install_VFEM_HeavyHopper.label>
+  <Frame_VFEM_HeavyHopper.label>工場用ホッパー (施工)</Frame_VFEM_HeavyHopper.label>
+  <Frame_VFEM_HeavyHopper.description>自動化された機械で使う材料を保持します.</Frame_VFEM_HeavyHopper.description>
+
+  <!-- EN: Steel extractor -->
+  <VFEM_ElectronicsFabricationFactory_SteelExtractor.label>スチール 抽出機</VFEM_ElectronicsFabricationFactory_SteelExtractor.label>
+  <!-- EN: A large machine with a series of hammers, magnets, and foundries. Hammers pound rock chunks into dust, whereafter magnets collect metallic fragments before being dropped and melted into more pure, usable pieces. This machine has a notoriously low yield as most rock chunks have a negligible amount of extractable material.\n\n<color=#33d733>Automation Chain:</color> Part of the Electronics Fabrication Factory chain. -->
+  <VFEM_ElectronicsFabricationFactory_SteelExtractor.description>一連のハンマーや磁石や鋳物を備えた大型機械です.ハンマーで岩の塊を粉々に打ち砕き,磁石が金属片を集めてから落とし,それらを溶かしてより純粋で利用しやすい金属片にします.ほとんどの岩の塊には極めて少量しか抽出可能な材料を含まないため,この機械の歩留まりは悪名高いほど低くなっています.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;電子機器製造工場チェーンの一部です.</VFEM_ElectronicsFabricationFactory_SteelExtractor.description>
+  <Blueprint_VFEM_ElectronicsFabricationFactory_SteelExtractor.label>スチール抽出機 (設計)</Blueprint_VFEM_ElectronicsFabricationFactory_SteelExtractor.label>
+  <Blueprint_Install_VFEM_ElectronicsFabricationFactory_SteelExtractor.label>スチール抽出機 (移動先)</Blueprint_Install_VFEM_ElectronicsFabricationFactory_SteelExtractor.label>
+  <Frame_VFEM_ElectronicsFabricationFactory_SteelExtractor.label>スチール抽出機 (施工)</Frame_VFEM_ElectronicsFabricationFactory_SteelExtractor.label>
+  <Frame_VFEM_ElectronicsFabricationFactory_SteelExtractor.description>一連のハンマーや磁石や鋳物を備えた大型機械です.ハンマーで岩の塊を粉々に打ち砕き,磁石が金属片を集めてから落とし,それらを溶かしてより純粋で利用しやすい金属片にします.ほとんどの岩の塊には極めて少量しか抽出可能な材料を含まないため,この機械の歩留まりは悪名高いほど低くなっています.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;電子機器製造工場チェーンの一部です.</Frame_VFEM_ElectronicsFabricationFactory_SteelExtractor.description>
+
+  <!-- EN: Component assembler -->
+  <VFEM_ElectronicsFabricationFactory_ComponentAssembler.label>コンポーネント組立機</VFEM_ElectronicsFabricationFactory_ComponentAssembler.label>
+  <!-- EN: An absurdly large machine composed of a series of foundries and casting molds. Overall, the machine is capable of fabricating any basic electronic or mechanical component with ease.\n\n<color=#33d733>Automation Chain:</color> Part of the Electronics Fabrication Factory chain. -->
+  <VFEM_ElectronicsFabricationFactory_ComponentAssembler.description>一連の鋳造部と鋳造金型部で構成されたとてつもなく大型機械です.全体として,この機械は任意の基本的な電子部品または機械コンポーネントを簡単に製造することができます.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;電子機器製造工場チェーンの一部です.</VFEM_ElectronicsFabricationFactory_ComponentAssembler.description>
+  <Blueprint_VFEM_ElectronicsFabricationFactory_ComponentAssembler.label>コンポーネント組立機 (設計)</Blueprint_VFEM_ElectronicsFabricationFactory_ComponentAssembler.label>
+  <Blueprint_Install_VFEM_ElectronicsFabricationFactory_ComponentAssembler.label>コンポーネント組立機 (移動先)</Blueprint_Install_VFEM_ElectronicsFabricationFactory_ComponentAssembler.label>
+  <Frame_VFEM_ElectronicsFabricationFactory_ComponentAssembler.label>コンポーネント組立機 (施工)</Frame_VFEM_ElectronicsFabricationFactory_ComponentAssembler.label>
+  <Frame_VFEM_ElectronicsFabricationFactory_ComponentAssembler.description>一連の鋳造部と鋳造金型部で構成されたとてつもなく大型機械です.全体として,この機械は任意の基本的な電子部品または機械コンポーネントを簡単に製造することができます.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;電子機器製造工場チェーンの一部です.</Frame_VFEM_ElectronicsFabricationFactory_ComponentAssembler.description>
+
+  <!-- EN: Advanced assembler -->
+  <VFEM_ElectronicsFabricationFactory_AdvancedAssembler.label>先進組立機</VFEM_ElectronicsFabricationFactory_AdvancedAssembler.label>
+  <!-- EN: A wide factory module meant to inlay and program circuitry for high-end electronic devices. The exact inner workings of this module are somewhat enigmatic to non-spacer colonies, however the end result is of unquestionable quality.\n\n<color=#33d733>Automation Chain:</color> Part of the Electronics Fabrication Factory chain. -->
+  <VFEM_ElectronicsFabricationFactory_AdvancedAssembler.description>ハイエンドな電子装置用の回路をはめ込んで,プログラムするための幅広い用途の工場モジュールです.このモジュールの正確な内部構造は,宇宙時代の技術を持たないコロニーには多少不可解なものですが,最終的な結果は疑問の余地がない高品質です.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;電子機器製造工場チェーンの一部です.</VFEM_ElectronicsFabricationFactory_AdvancedAssembler.description>
+  <Blueprint_VFEM_ElectronicsFabricationFactory_AdvancedAssembler.label>先進組立機 (設計)</Blueprint_VFEM_ElectronicsFabricationFactory_AdvancedAssembler.label>
+  <Blueprint_Install_VFEM_ElectronicsFabricationFactory_AdvancedAssembler.label>先進組立機 (移動先)</Blueprint_Install_VFEM_ElectronicsFabricationFactory_AdvancedAssembler.label>
+  <Frame_VFEM_ElectronicsFabricationFactory_AdvancedAssembler.label>先進組立機 (施工)</Frame_VFEM_ElectronicsFabricationFactory_AdvancedAssembler.label>
+  <Frame_VFEM_ElectronicsFabricationFactory_AdvancedAssembler.description>ハイエンドな電子装置用の回路をはめ込んで,プログラムするための幅広い用途の工場モジュールです.このモジュールの正確な内部構造は,宇宙時代の技術を持たないコロニーには多少不可解なものですが,最終的な結果は疑問の余地がない高品質です.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;電子機器製造工場チェーンの一部です.</Frame_VFEM_ElectronicsFabricationFactory_AdvancedAssembler.description>
+
+  <!-- EN: Chemfuel clarifier -->
+  <VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.label>化学燃料ろ過機</VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.label>
+  <!-- EN: A rather crude machine capable of melting organics via acid into usable chemfuel. Attached hoppers will accept nearby corpses or wood matter, rapidly decompose them, then melt in a singular large vat before dispensing.\n\n<color=#33d733>Automation Chain:</color> Part of the Munitions and Armament Factory (M.A.F.) chain. -->
+  <VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.description>酸を使って有機物を溶かして,利用可能なバイオ化学燃料にすることができる,かなり大雑把な機械です.取り付けられたホッパーは,近くにある死骸や材木を受け入れて急速に分解した後,分配前に同じ一つの大型タンクで溶解します.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;軍需工場(M.A.F.) チェーンの一部です.</VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.description>
+  <Blueprint_VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.label>化学燃料ろ過機 (設計)</Blueprint_VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.label>
+  <Blueprint_Install_VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.label>化学燃料ろ過機 (移動先)</Blueprint_Install_VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.label>
+  <Frame_VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.label>化学燃料ろ過機 (施工)</Frame_VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.label>
+  <Frame_VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.description>酸を使って有機物を溶かして,利用可能なバイオ化学燃料にすることができる,かなり大雑把な機械です.取り付けられたホッパーは,近くにある死骸や材木を受け入れて急速に分解した後,分配前に同じ一つの大型タンクで溶解します.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;軍需工場(M.A.F.) チェーンの一部です.</Frame_VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.description>
+
+  <!-- EN: Mechanized weaponsmith -->
+  <VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.label>機械化 兵器製造装置</VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.label>
+  <!-- EN: A very large machine with many moving parts, able to accept steel, components, and cloth forward via belt system and slowly assemble them into basic weaponry. The machine is capable of making rudimentary light arms at a normal quality, although this process is very time and power consuming.\n\n<color=#33d733>Automation Chain:</color> Part of the Munitions and Armament Factory (M.A.F.) chain. -->
+  <VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.description>多くの可動部品を備えた非常に大型の機械で,ベルト輸送システムを介して材料のスチール,コンポーネント,布を前方に受け入れて,ゆっくりと簡単な武器を組み立てることができます.この機械は標準品の品質で簡単な軽火器を製作することが可能ですが,この生産には非常に長い時間と電力を消費します.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;軍需工場(M.A.F.) チェーンの一部です.</VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.description>
+  <Blueprint_VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.label>機械化兵器製造装置 (設計)</Blueprint_VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.label>
+  <Blueprint_Install_VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.label>機械化兵器製造装置 (移動先)</Blueprint_Install_VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.label>
+  <Frame_VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.label>機械化兵器製造装置 (施工)</Frame_VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.label>
+  <Frame_VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.description>多くの可動部品を備えた非常に大型の機械で,ベルト輸送システムを介して材料のスチール,コンポーネント,布を前方に受け入れて,ゆっくりと簡単な武器を組み立てることができます.この機械は標準品の品質で簡単な軽火器を製作することが可能ですが,この生産には非常に長い時間と電力を消費します.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;軍需工場(M.A.F.) チェーンの一部です.</Frame_VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.description>
+
+  <!-- EN: Artillery foundry -->
+  <VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.label>火砲鋳造機</VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.label>
+  <!-- EN: A machine capable of accepting pieces used in assembly of large-calibre ballistic shells. Can create a variety of shells selectable by the manufacturer. \n\n<color=#33d733>Automation Chain:</color> Part of the Munitions and Armament Factory (M.A.F.) chain. -->
+  <VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.description>大口径の弾道弾を組み立てる材料や部品を受け入れることができる機械です.作り手が選択できる様々な種類の砲弾を作成できます.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;軍需工場(M.A.F.) チェーンの一部です.</VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.description>
+  <Blueprint_VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.label>火砲鋳造機 (設計)</Blueprint_VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.label>
+  <Blueprint_Install_VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.label>火砲鋳造機 (移動先)</Blueprint_Install_VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.label>
+  <Frame_VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.label>火砲鋳造機 (施工)</Frame_VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.label>
+  <Frame_VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.description>大口径の弾道弾を組み立てる材料や部品を受け入れることができる機械です.作り手が選択できる様々な種類の砲弾を作成できます.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;軍需工場(M.A.F.) チェーンの一部です.</Frame_VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.description>
+
+  <!-- EN: Textile recycler -->
+  <VFEM_WearablesAndTextileFactory_TextileRecycler.label>繊維リサイクル機</VFEM_WearablesAndTextileFactory_TextileRecycler.label>
+  <!-- EN: A machine capable of quickly orienting, shredding, and sorting pieces of clothing into usable reclaimed pieces or cloth. Nowhere near fully efficient but very useful for reclaiming otherwise useless materials.\n\n<color=#33d733>Automation Chain:</color> Part of the Wearables and Textile Factory (W.T.F.) chain. -->
+  <VFEM_WearablesAndTextileFactory_TextileRecycler.description>衣服の向きをすばやく変えて,裁断し,再利用可能な生地や繊維に仕分けることができる機械です.完全なリサイクル効率ではありませんが,他の方法では役に立たない材料を再利用するのに非常に便利です.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;繊維リサイクル器（W.T.F.) ) チェーンの一部です.</VFEM_WearablesAndTextileFactory_TextileRecycler.description>
+  <Blueprint_VFEM_WearablesAndTextileFactory_TextileRecycler.label>繊維リサイクル機 (設計)</Blueprint_VFEM_WearablesAndTextileFactory_TextileRecycler.label>
+  <Blueprint_Install_VFEM_WearablesAndTextileFactory_TextileRecycler.label>繊維リサイクル機 (移動先)</Blueprint_Install_VFEM_WearablesAndTextileFactory_TextileRecycler.label>
+  <Frame_VFEM_WearablesAndTextileFactory_TextileRecycler.label>繊維リサイクル機 (施工)</Frame_VFEM_WearablesAndTextileFactory_TextileRecycler.label>
+  <Frame_VFEM_WearablesAndTextileFactory_TextileRecycler.description>衣服の向きをすばやく変えて,裁断し,再利用可能な生地や繊維に仕分けることができる機械です.完全なリサイクル効率ではありませんが,他の方法では役に立たない材料を再利用するのに非常に便利です.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;繊維リサイクル器（W.T.F.）チェーンの一部です.</Frame_VFEM_WearablesAndTextileFactory_TextileRecycler.description>
+
+  <!-- EN: Auto loom -->
+  <VFEM_WearablesAndTextileFactory_AutoLoom.label>自動紡績機</VFEM_WearablesAndTextileFactory_AutoLoom.label>
+  <!-- EN: A large machine that scans nearby textiles fed through two rollers, whereafter a series of clamps, shears, and needles stitch, weave, and sew basic clothing millimeters at a time. The user only must specify the type of clothing desired from a preset template of options.\n\n<color=#33d733>Automation Chain:</color> Part of the Wearables and Textile Factory (W.T.F.) chain. -->
+  <VFEM_WearablesAndTextileFactory_AutoLoom.description>この付近の繊維をスキャンして2つのローラーを通して供給される大型機械は,締め具や剪断機や針縫いなどの一連の工程で処理された後,簡単な衣服を同時にミリ単位で編み込み,織って,縫い付けて大量生産します.管理者は,オプションのプリセットされたテンプレートから必要な衣服タイプを指定するだけです.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;衣服と繊維工場（W.T.F.）チェーンの一部です.</VFEM_WearablesAndTextileFactory_AutoLoom.description>
+  <Blueprint_VFEM_WearablesAndTextileFactory_AutoLoom.label>自動紡績機 (設計)</Blueprint_VFEM_WearablesAndTextileFactory_AutoLoom.label>
+  <Blueprint_Install_VFEM_WearablesAndTextileFactory_AutoLoom.label>自動紡績機 (移動先)</Blueprint_Install_VFEM_WearablesAndTextileFactory_AutoLoom.label>
+  <Frame_VFEM_WearablesAndTextileFactory_AutoLoom.label>自動紡績機 (施工)</Frame_VFEM_WearablesAndTextileFactory_AutoLoom.label>
+  <Frame_VFEM_WearablesAndTextileFactory_AutoLoom.description>この付近の繊維をスキャンして2つのローラーを通して供給される大型機械は,締め具や剪断機や針縫いなどの一連の工程で処理された後,簡単な衣服を同時にミリ単位で編み込み,織って,縫い付けて大量生産します.管理者は,オプションのプリセットされたテンプレートから必要な衣服タイプを指定するだけです.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;衣服と繊維工場（W.T.F.）チェーンの一部です.</Frame_VFEM_WearablesAndTextileFactory_AutoLoom.description>
+
+  <!-- EN: Synthread synthesizer -->
+  <VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.label>シンスレッド合成機</VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.label>
+  <!-- EN: A high-tech machine that is barely understood by even the most intellectually inclined colonies. Complete with a series of meshpresses and plasma needles capable of atomically realigning basic materials resulting in new material indistinguishable from synthread. Rather than creating material itself, the machine is configured to modify certain existing clothing.\n\n<color=#33d733>Automation Chain:</color> Part of the Wearables and Textile Factory (W.T.F.) chain. -->
+  <VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.description>最も高度な文明が集まったコロニーですらほとんど理解されていないハイテク機械です.一般的な材料を原子レベルで分子を再配列することが可能な一連の分子メッシュ型抜き加工とプラズマニードルを備えているため,シンスレッドと区別できない新しい素材に変換できます.この機械は,シンスレッド素材自体を生産するのではなく,既存の衣服の材質を変質するように設計されています.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;衣服と繊維工場（W.T.F.）チェーンの一部です.</VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.description>
+  <Blueprint_VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.label>シンスレッド合成機 (設計)</Blueprint_VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.label>
+  <Blueprint_Install_VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.label>シンスレッド合成機 (移動先)</Blueprint_Install_VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.label>
+  <Frame_VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.label>シンスレッド合成機 (施工)</Frame_VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.label>
+  <Frame_VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.description>最も高度な文明が集まったコロニーですらほとんど理解されていないハイテク機械です.一般的な材料を原子レベルで分子を再配列することが可能な一連の分子メッシュ型抜き加工とプラズマニードルを備えているため,シンスレッドと区別できない新しい素材に変換できます.この機械は,シンスレッド素材自体を生産するのではなく,既存の衣服の材質を分子再構成するように設計されています.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;衣服と繊維工場（W.T.F.）チェーンの一部です.</Frame_VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.description>
+
+  <!-- EN: Meat grinder -->
+  <VFEM_ProvisionsPackagingFactory_MeatGrinder.label>自動ひき肉機</VFEM_ProvisionsPackagingFactory_MeatGrinder.label>
+  <!-- EN: A medium-sized but intimidating machine, corpses are pulled in via clamps before being weighed, analyzed and crudely torn apart. Flesh chunks are then ground into a finely processed and surprisingly flavorful but perplexing meat. Due to the all-encompassing nature of the process the machine will yield double the meat but not yield any leather or skin from the corpses inserted. Furthermore while the machine will butcher insectoid and human corpses it will not convert their flesh into processed meat.\n\n<color=#33d733>Automation Chain:</color> Part of the Provisions Packaging Factory (P.P.F.) chain. -->
+  <VFEM_ProvisionsPackagingFactory_MeatGrinder.description>恐ろしい雰囲気な中型の機械で,死体はクランプアームで引き込まれて計量分析された後,大雑把に引き裂かれます.次に肉の塊は細かく加工されて,驚くほど風味豊かな謎肉になります.加工処理には材料すべて余すことなく利用する関係で,この機械は肉を2倍産出しますが,挿入された死体からは毛皮や皮が全く出ません.さらに,この機械には昆虫や人間の死体も食肉加工しますが,それらの肉を加工した謎肉にすることはありません.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;食料包装工場（P.P.F.）チェーンの一部です.</VFEM_ProvisionsPackagingFactory_MeatGrinder.description>
+  <Blueprint_VFEM_ProvisionsPackagingFactory_MeatGrinder.label>自動ひき肉機 (設計)</Blueprint_VFEM_ProvisionsPackagingFactory_MeatGrinder.label>
+  <Blueprint_Install_VFEM_ProvisionsPackagingFactory_MeatGrinder.label>自動ひき肉機 (移動先)</Blueprint_Install_VFEM_ProvisionsPackagingFactory_MeatGrinder.label>
+  <Frame_VFEM_ProvisionsPackagingFactory_MeatGrinder.label>自動ひき肉機 (施工)</Frame_VFEM_ProvisionsPackagingFactory_MeatGrinder.label>
+  <Frame_VFEM_ProvisionsPackagingFactory_MeatGrinder.description>恐ろしい雰囲気な中型の機械で,死体はクランプアームで引き込まれて計量分析された後,大雑把に引き裂かれます.次に肉の塊は細かく加工されて,驚くほど風味豊かな謎肉になります.加工処理には材料すべて余すことなく利用する関係で,この機械は肉を2倍産出しますが,挿入された死体からは毛皮や皮が全く出ません.さらに,この機械には昆虫や人間の死体も食肉加工しますが,それらの肉を加工した謎肉にすることはありません.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;食料包装工場（P.P.F.）チェーンの一部です.</Frame_VFEM_ProvisionsPackagingFactory_MeatGrinder.description>
+
+  <!-- EN: Conveyor oven -->
+  <VFEM_ProvisionsPackagingFactory_ConveyorOven.label>コンベヤー オーブン</VFEM_ProvisionsPackagingFactory_ConveyorOven.label>
+  <!-- EN: A very long industrial-sized oven with a central conveyor belt and vacuum system, capable of accepting nearby raw food from attached hoppers and processing it. Basic packaged meals and dried goods can easily be produced.\n\n<color=#33d733>Automation Chain:</color> Part of the Provisions Packaging Factory (P.P.F.) chain. -->
+  <VFEM_ProvisionsPackagingFactory_ConveyorOven.description>中央コンベヤーベルトと吸引システムを備えた非常に長い工業サイズの機械式オーブンは,付属のホッパーから付近の生の食材を受け入れ,それらを調理することができます.簡単な保存食や乾燥させた食品も簡単に作れます.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;食料包装工場（P.P.F.）チェーンの一部です.</VFEM_ProvisionsPackagingFactory_ConveyorOven.description>
+  <Blueprint_VFEM_ProvisionsPackagingFactory_ConveyorOven.label>コンベヤーオーブン (設計)</Blueprint_VFEM_ProvisionsPackagingFactory_ConveyorOven.label>
+  <Blueprint_Install_VFEM_ProvisionsPackagingFactory_ConveyorOven.label>コンベヤーオーブン (移動先)</Blueprint_Install_VFEM_ProvisionsPackagingFactory_ConveyorOven.label>
+  <Frame_VFEM_ProvisionsPackagingFactory_ConveyorOven.label>コンベヤーオーブン (施工)</Frame_VFEM_ProvisionsPackagingFactory_ConveyorOven.label>
+  <Frame_VFEM_ProvisionsPackagingFactory_ConveyorOven.description>中央コンベヤーベルトと吸引システムを備えた非常に長い工業サイズの機械式オーブンは,付属のホッパーから付近の生の食材を受け入れ,それらを調理することができます.簡単な保存食や乾燥させた食品も簡単に作れます.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;食料包装工場（P.P.F.）チェーンの一部です.</Frame_VFEM_ProvisionsPackagingFactory_ConveyorOven.description>
+
+  <!-- EN: Neutroamine infuser -->
+  <VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.label>ニュートロアミン注入器</VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.label>
+  <!-- EN: A large industrial vat meant for making the ever-elusive neutroamine precursor product. While the exact recipe for the product is generally a trade secret the end result from this machine is a thick glycerol made from rendered fat very similar to neutroamine and fully capable of being made into further products.\n\n<color=#33d733>Automation Chain:</color> Part of the Medicinal Compounding Factory (M.C.F.) chain. -->
+  <VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.description>巨大な工業用タンクで,常に安定しないニュートロアミン前駆体製品を作るための機械です.この製品の正確なレシピは一般には出回らない企業秘密ですが,この機械から生み出される最終的な製品は,ニュートロアミンと非常に類似した中性脂肪を溶かして精錬して作る高濃度なグリセリンで,それらは他の製品に作り替えることが可能です.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;医薬品調合工場（M.C.F.）チェーンの一部です.</VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.description>
+  <Blueprint_VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.label>ニュートロアミン注入器 (設計)</Blueprint_VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.label>
+  <Blueprint_Install_VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.label>ニュートロアミン注入器 (移動先)</Blueprint_Install_VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.label>
+  <Frame_VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.label>ニュートロアミン注入器 (施工)</Frame_VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.label>
+  <Frame_VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.description>巨大な工業用タンクで,常に安定しないニュートロアミン前駆体製品を作るための機械です.この製品の正確なレシピは一般には出回らない企業秘密ですが,この機械から生み出される最終的な製品は,ニュートロアミンと非常に類似した中性脂肪を溶かして精錬して作る高濃度なグリセリンで,それらは他の製品に作り替えることが可能です.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;医薬品調合工場（M.C.F.）チェーンの一部です.</Frame_VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.description>
+
+  <!-- EN: Medicine granulator -->
+  <VFEM_MedicinalCompoundingFactory_MedicineGranulator.label>医薬品造粒機</VFEM_MedicinalCompoundingFactory_MedicineGranulator.label>
+  <!-- EN: A machine capable of granulating via mill then pressing medical products into pills using a series of clamps and shaped presses. Also capable of manufacturing prefabricated health kits.\n\n<color=#33d733>Automation Chain:</color> Part of the Medicinal Compounding Factory (M.C.F.) chain. -->
+  <VFEM_MedicinalCompoundingFactory_MedicineGranulator.description>製粉機で材料を造粒した後,一連の圧縮機と成形プレス機を使って,医薬品を丸薬に成型することができる機械です.既製の健康キットも製作可能です.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;医薬品調合工場（M.C.F.）チェーンの一部です.</VFEM_MedicinalCompoundingFactory_MedicineGranulator.description>
+  <Blueprint_VFEM_MedicinalCompoundingFactory_MedicineGranulator.label>医薬品造粒機 (設計)</Blueprint_VFEM_MedicinalCompoundingFactory_MedicineGranulator.label>
+  <Blueprint_Install_VFEM_MedicinalCompoundingFactory_MedicineGranulator.label>医薬品造粒機 (移動先)</Blueprint_Install_VFEM_MedicinalCompoundingFactory_MedicineGranulator.label>
+  <Frame_VFEM_MedicinalCompoundingFactory_MedicineGranulator.label>医薬品造粒機 (施工)</Frame_VFEM_MedicinalCompoundingFactory_MedicineGranulator.label>
+  <Frame_VFEM_MedicinalCompoundingFactory_MedicineGranulator.description>製粉機で材料を造粒した後,一連の圧縮機と成形プレス機を使って,医薬品を丸薬に成型することができる機械です.既製の健康キットも製作可能です.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;医薬品調合工場（M.C.F.）チェーンの一部です.</Frame_VFEM_MedicinalCompoundingFactory_MedicineGranulator.description>
+
+  <!-- EN: Drug powderizer -->
+  <VFEM_MedicinalCompoundingFactory_DrugPowderizer.label>ドラッグ 粉末化装置</VFEM_MedicinalCompoundingFactory_DrugPowderizer.label>
+  <!-- EN: A small machine meant to finely process and powderize psychoid leaf extract, then package it for later use or selling.\n\n<color=#33d733>Automation Chain:</color> Part of the Medicinal Compounding Factory (M.C.F.) chain. -->
+  <VFEM_MedicinalCompoundingFactory_DrugPowderizer.description>サイコイドの葉から抽出した成分を微細加工処理で粉末化し,後で使用したり販売するために包装できるようにした小さな機械です.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;医薬品調合工場（M.C.F.）チェーンの一部です.</VFEM_MedicinalCompoundingFactory_DrugPowderizer.description>
+  <Blueprint_VFEM_MedicinalCompoundingFactory_DrugPowderizer.label>ドラッグ粉末化装置 (設計)</Blueprint_VFEM_MedicinalCompoundingFactory_DrugPowderizer.label>
+  <Blueprint_Install_VFEM_MedicinalCompoundingFactory_DrugPowderizer.label>ドラッグ粉末化装置 (移動先)</Blueprint_Install_VFEM_MedicinalCompoundingFactory_DrugPowderizer.label>
+  <Frame_VFEM_MedicinalCompoundingFactory_DrugPowderizer.label>ドラッグ粉末化装置 (施工)</Frame_VFEM_MedicinalCompoundingFactory_DrugPowderizer.label>
+  <Frame_VFEM_MedicinalCompoundingFactory_DrugPowderizer.description>サイコイドの葉から抽出した成分を微細加工処理で粉末化し,後で使用したり販売するために包装できるようにした小さな機械です.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;医薬品調合工場（M.C.F.）チェーンの一部です.</Frame_VFEM_MedicinalCompoundingFactory_DrugPowderizer.description>
+
+  <!-- EN: Automatic drill -->
+  <VFEM_MasonryAndMetallicsFactory_AutomaticDrill.label>自動化ドリル</VFEM_MasonryAndMetallicsFactory_AutomaticDrill.label>
+  <!-- EN: A larger but surface-level automated version of the deep drill. This basic yet powerful drill can mine and extract rock chunks for further processing without human input. Will not antagonize insect hives. The drill will not produce a rock chunk if it detects other one already waiting for retrieval or in any of the surrounding tiles.\n\n<color=#33d733>Automation Chain:</color> Part of the Masonry and Metallics Factory (M.M.F.) chain. -->
+  <VFEM_MasonryAndMetallicsFactory_AutomaticDrill.description>自動化されて地表を掘削する大型の深部ドリルマシンです.この簡単な構造でありながら強力なドリルは,人間の操作入力なしで岩の塊を採掘したり,処理を行い金属を抽出することが可能です.インセクトの巣を刺激しません.既に周囲のタイルが運搬待機中の岩の塊,またはアイテムで埋まっている状態を検出した場合,ドリルは岩の塊を採掘しません.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;石と金属の加工工場（M.M.F.）チェーンの一部です.</VFEM_MasonryAndMetallicsFactory_AutomaticDrill.description>
+  <Blueprint_VFEM_MasonryAndMetallicsFactory_AutomaticDrill.label>自動化ドリル (設計)</Blueprint_VFEM_MasonryAndMetallicsFactory_AutomaticDrill.label>
+  <Blueprint_Install_VFEM_MasonryAndMetallicsFactory_AutomaticDrill.label>自動化ドリル (移動先)</Blueprint_Install_VFEM_MasonryAndMetallicsFactory_AutomaticDrill.label>
+  <Frame_VFEM_MasonryAndMetallicsFactory_AutomaticDrill.label>自動化ドリル (施工)</Frame_VFEM_MasonryAndMetallicsFactory_AutomaticDrill.label>
+  <Frame_VFEM_MasonryAndMetallicsFactory_AutomaticDrill.description>自動化されて地表を掘削する大型の深部ドリルマシンです.この簡単な構造でありながら強力なドリルは,人間の操作入力なしで岩の塊を採掘したり,処理を行い金属を抽出することが可能です.インセクトの巣を刺激しません.既に周囲のタイルが運搬待機中の岩の塊,またはアイテムで埋まっている状態を検出した場合,ドリルは岩の塊を採掘しません.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;石と金属の加工工場（M.M.F.）チェーンの一部です.</Frame_VFEM_MasonryAndMetallicsFactory_AutomaticDrill.description>
+
+  <!-- EN: Masonry saw -->
+  <VFEM_MasonryAndMetallicsFactory_MasonrySaw.label>石材切断機</VFEM_MasonryAndMetallicsFactory_MasonrySaw.label>
+  <!-- EN: A cumbersome and very loud factory, essentially a series of clasps, chisels, and saws meant to hold rock chunks in place to be cut and lightly smoothed into stackable bricks.\n\n<color=#33d733>Automation Chain:</color> Part of the Masonry and Metallics Factory (M.M.F.) chain. -->
+  <VFEM_MasonryAndMetallicsFactory_MasonrySaw.description>本質的に一連の留め具と石ノミと切断機で構成された,扱いが面倒で非常に騒々しい工場で,岩の塊を所定の位置に固定して,切断し軽量化と滑らかに磨いて積み重ねることが可能な石ブロックにすることを目的としています.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;石と金属の加工工場（M.M.F.）チェーンの一部です.</VFEM_MasonryAndMetallicsFactory_MasonrySaw.description>
+  <Blueprint_VFEM_MasonryAndMetallicsFactory_MasonrySaw.label>石材切断機 (設計)</Blueprint_VFEM_MasonryAndMetallicsFactory_MasonrySaw.label>
+  <Blueprint_Install_VFEM_MasonryAndMetallicsFactory_MasonrySaw.label>石材切断機 (移動先)</Blueprint_Install_VFEM_MasonryAndMetallicsFactory_MasonrySaw.label>
+  <Frame_VFEM_MasonryAndMetallicsFactory_MasonrySaw.label>石材切断機 (施工)</Frame_VFEM_MasonryAndMetallicsFactory_MasonrySaw.label>
+  <Frame_VFEM_MasonryAndMetallicsFactory_MasonrySaw.description>本質的に一連の留め具と石ノミと切断機で構成された,扱いが面倒で非常に騒々しい工場で,岩の塊を所定の位置に固定して,切断し軽量化と滑らかに磨いて積み重ねることが可能な石ブロックにすることを目的としています.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;石と金属の加工工場（M.M.F.）チェーンの一部です.</Frame_VFEM_MasonryAndMetallicsFactory_MasonrySaw.description>
+
+  <!-- EN: Plasteel forge -->
+  <VFEM_MasonryAndMetallicsFactory_PlasteelForge.label>プラスチール 鍛造炉</VFEM_MasonryAndMetallicsFactory_PlasteelForge.label>
+  <!-- EN: A somewhat high-tech and little understood factory module, capable of combining steel, powdered stone bricks, and chemfuel into plasteel. The exact formula and methodology of plasteel refining is usually locked away by militaristic forge worlds but the product this machine outputs is a close enough replication.\n\n<color=#33d733>Automation Chain:</color> Part of the Masonry and Metallics Factory (M.M.F.) chain. -->
+  <VFEM_MasonryAndMetallicsFactory_PlasteelForge.description>スチールと粉末にした石ブロックとバイオ化学燃料をプラスチールに分子合成することが可能な,ややハイテクであまり原理か解明されていない工場モジュールです.プラスチール精錬の正確な計算式と生産理論は,通常は軍需産業界の軍事機密扱いにされていますが,この機械が出力した製品は,成分的にも十分な精錬精度を持つ複製品です.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;石と金属の加工工場（M.M.F.）チェーンの一部です.</VFEM_MasonryAndMetallicsFactory_PlasteelForge.description>
+  <Blueprint_VFEM_MasonryAndMetallicsFactory_PlasteelForge.label>プラスチール鍛造炉 (設計)</Blueprint_VFEM_MasonryAndMetallicsFactory_PlasteelForge.label>
+  <Blueprint_Install_VFEM_MasonryAndMetallicsFactory_PlasteelForge.label>プラスチール鍛造炉 (移動先)</Blueprint_Install_VFEM_MasonryAndMetallicsFactory_PlasteelForge.label>
+  <Frame_VFEM_MasonryAndMetallicsFactory_PlasteelForge.label>プラスチール鍛造炉 (施工)</Frame_VFEM_MasonryAndMetallicsFactory_PlasteelForge.label>
+  <Frame_VFEM_MasonryAndMetallicsFactory_PlasteelForge.description>スチールと粉末にした石ブロックとバイオ化学燃料をプラスチールに分子合成することが可能な,ややハイテクであまり原理か解明されていない工場モジュールです.プラスチール精錬の正確な計算式と生産理論は,通常は軍需産業界の軍事機密扱いにされていますが,この機械が出力した製品は,成分的にも十分な精錬精度を持つ複製品です.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;石と金属の加工工場（M.M.F.）チェーンの一部です.</Frame_VFEM_MasonryAndMetallicsFactory_PlasteelForge.description>
+
+  <!-- EN: versatile assembler -->
+  <VFEM_VersatileAssembler.label>万能組立機</VFEM_VersatileAssembler.label>
+  <!-- EN: A large robotic factory assembly built with advanced programmability in mind. The versatile assembler can be modified to craft almost anything, from electronics to simple consumer goods.\n\nNOTE: this factory is used to host recipes from other mods that don't fit in any of the other modules.\n\n<color=#33d733>Automation Chain:</color> The Versatile assembler is not part of any automation chain, it is an independent building. -->
+  <VFEM_VersatileAssembler.description>高度なプログラミング汎用性を念頭に置いて設計された大規模なロボット工場組立機械です.この万能組立機は,電子機器から単純な消耗品まで,ほとんど何でも作成できるように変更可能です.\n\n注意：この工場は,これ以外の自動化モジュールに当てはまらない他のModの加工レシピを生産可能にするために使用されます.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;万能組立機は,自動化チェーンの一部ではなく,独立した建築物です.</VFEM_VersatileAssembler.description>
+  <Blueprint_VFEM_VersatileAssembler.label>万能組立機 (設計)</Blueprint_VFEM_VersatileAssembler.label>
+  <Blueprint_Install_VFEM_VersatileAssembler.label>万能組立機 (移動先)</Blueprint_Install_VFEM_VersatileAssembler.label>
+  <Frame_VFEM_VersatileAssembler.label>万能組立機 (施工)</Frame_VFEM_VersatileAssembler.label>
+  <Frame_VFEM_VersatileAssembler.description>高度なプログラミング汎用性を念頭に置いて設計された大規模なロボット工場組立機械です.この万能組立機は,電子機器から単純な消耗品まで,ほとんど何でも作成できるように変更可能です.\n\n注意：この工場は,これ以外の自動化モジュールに当てはまらない他のModの加工レシピを生産可能にするために使用されます.\n\n&lt;color=#33d733&gt;自動化チェーン：&lt;/color&gt;万能組立機は,自動化チェーンの一部ではなく,独立した建築物です.</Frame_VFEM_VersatileAssembler.description>
+
+</LanguageData>

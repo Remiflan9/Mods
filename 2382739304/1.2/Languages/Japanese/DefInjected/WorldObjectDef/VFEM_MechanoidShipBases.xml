@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: mechanoid carrier -->
+  <VFEM_Carrier.label>メカノイド母艦</VFEM_Carrier.label>
+  <!-- EN: Tremendously increases mechanoid presence. -->
+  <VFEM_Carrier.description>メカノイドの数を大規模に増加させます.</VFEM_Carrier.description>
+
+  <!-- EN: mechanoid cruiser -->
+  <VFEM_Cruiser.label>メカノイド巡洋艦</VFEM_Cruiser.label>
+  <!-- EN: Greatly increases mechanoid presence. -->
+  <VFEM_Cruiser.description>メカノイドの数を大幅に増加させます.</VFEM_Cruiser.description>
+
+  <!-- EN: mechanoid destroyer -->
+  <VFEM_Destroyer.label>メカノイド駆逐艦</VFEM_Destroyer.label>
+  <!-- EN: Increases mechanoid presence. -->
+  <VFEM_Destroyer.description>メカノイドの数を増加させます.</VFEM_Destroyer.description>
+
+  <!-- EN: mechanoid frigate -->
+  <VFEM_Frigate.label>メカノイドフリゲート艦</VFEM_Frigate.label>
+  <!-- EN: Slightly increases mechanoid presence. -->
+  <VFEM_Frigate.description>メカノイドの数をわずかに増加させます.</VFEM_Frigate.description>
+
+  <!-- EN: mechanoid troopship -->
+  <VFEM_Troopship.label>メカノイド兵員輸送船</VFEM_Troopship.label>
+  <!-- EN: Drastically increases mechanoid presence. -->
+  <VFEM_Troopship.description>メカノイドの数を大幅に増加させます.</VFEM_Troopship.description>
+
+</LanguageData>

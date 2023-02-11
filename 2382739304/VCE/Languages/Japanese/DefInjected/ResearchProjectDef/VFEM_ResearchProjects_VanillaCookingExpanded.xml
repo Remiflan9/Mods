@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_CheeseMaking.label>チーズ製造の工業化</VFE_CheeseMaking.label>
+  <VFE_CheeseMaking.description>凝固したカード(チーズの元)が形成され始めるまでミルクを急速に加熱して,その後自動的に濾してから一度に複数のチーズの型に押し込むことができるタンクを研究します.付属のホッパーには,チーズホイール(チーズの塊)を製造するのに十分なミルクを入れることが可能で,完成したチーズは自動的に分割されます.</VFE_CheeseMaking.description>
+
+  <VFE_IndustrialSoups.label>スープ製造の工業化</VFE_IndustrialSoups.label>
+  <VFE_IndustrialSoups.description>上に向いて回転する撹拌ブレードが複数取り付けられた非常に大きなタンクを研究します.付属のホッパーには,色々な新鮮な食材を入れることができます.その後,材料は上部から吸い込まれ,スライスされて,様々なスープにじっくりと煮込まれます.完成したスープは,仕分け処理工程を必要とせずに,反対側に取り付けられたホッパーに分配されます.入出力の両方が一括して行われ,従来の手作業による調理よりもはるかに少ない管理で済みます.</VFE_IndustrialSoups.description>
+
+</LanguageData>

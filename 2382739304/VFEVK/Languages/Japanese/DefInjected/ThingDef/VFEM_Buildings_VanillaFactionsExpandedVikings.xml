@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Industrial Apiary -->
+
+  <VFE_IndustrialApiary.label>産業用 養蜂場</VFE_IndustrialApiary.label>
+  <VFE_IndustrialApiary.description>ロボットが操作する人工養蜂場で,養蜂家が通常よりもはるかに速くミツバチから蜂蜜を抽出することを可能にして,手動でメンテナンスする必要がなく,空間を犠牲にして,わずかな電力を消費し,周囲に沢山の花を必要とします.花の近くに設置すると,自然に野生のミツバチが集まり,新しい住処となります.時間の経過とともに,これらのミツバチは蜂蜜を生産し,それらを収穫して直接食べたり,後で発酵して蜂蜜酒にすることができます.</VFE_IndustrialApiary.description>
+  <Blueprint_VFE_IndustrialApiary.label>産業用 養蜂場 (設計)</Blueprint_VFE_IndustrialApiary.label>
+  <Blueprint_Install_VFE_IndustrialApiary.label>産業用 養蜂場 (移動先)</Blueprint_Install_VFE_IndustrialApiary.label>
+  <Frame_VFE_IndustrialApiary.label>産業用 養蜂場 (施工)</Frame_VFE_IndustrialApiary.label>
+  <Frame_VFE_IndustrialApiary.description>ロボットが操作する人工養蜂場で,養蜂家が通常よりもはるかに速くミツバチから蜂蜜を抽出することを可能にして,手動でメンテナンスする必要がなく,空間を犠牲にして,わずかな電力を消費し,周囲に沢山の花を必要とします.花の近くに設置すると,自然に野生のミツバチが集まり,新しい住処となります.時間の経過とともに,これらのミツバチは蜂蜜を生産し,それらを収穫して直接食べたり,後で発酵して蜂蜜酒にすることができます.</Frame_VFE_IndustrialApiary.description>
+
+</LanguageData>

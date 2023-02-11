@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: autocleaner -->
+  <VFE_Mechanoids_Autocleaner.label>自動化クリーナー</VFE_Mechanoids_Autocleaner.label>
+
+  <!-- EN: autohauler -->
+  <VFE_Mechanoids_Autohauler.label>自動化キャリア</VFE_Mechanoids_Autohauler.label>
+
+  <!-- EN: autominer -->
+  <VFE_Mechanoids_Autominer.label>自動化マイナー</VFE_Mechanoids_Autominer.label>
+
+  <!-- EN: combat mechanoid -->
+  <VFE_Mechanoids_Combat.label>機械化パトローラー</VFE_Mechanoids_Combat.label>
+
+  <!-- EN: riot mechanoid -->
+  <VFE_Mechanoids_Riot.label>機械化ガード</VFE_Mechanoids_Riot.label>
+
+  <!-- EN: mobile turret -->
+  <VFE_Mechanoids_Turret.label>自走式タレット</VFE_Mechanoids_Turret.label>
+
+  <!-- EN: autostrider -->
+  <VFE_Mechanoids_Autostrider.label>自動化ストライダー</VFE_Mechanoids_Autostrider.label>
+
+  <!-- EN: auto-medic -->
+  <VFE_Mechanoids_AutoMedic.label>自動化メディック</VFE_Mechanoids_AutoMedic.label>
+
+  <!-- EN: autobuilder -->
+  <!-- <VFE_Mechanoids_Autobuilder.label>自動ビルダー</VFE_Mechanoids_Autobuilder.label> -->
+
+  <!-- EN: raider mechanoid -->
+  <VFE_Mechanoids_Raider.label>機械化レイダー</VFE_Mechanoids_Raider.label>
+
+  <!-- EN: pyro mechanoid -->
+  <VFE_Mechanoids_Pyro.label>機械化パイロ</VFE_Mechanoids_Pyro.label>
+
+  <!-- EN: autobroadcaster -->
+  <VFE_Mechanoids_Autobroadcaster.label>自動化スピーカー</VFE_Mechanoids_Autobroadcaster.label>
+
+</LanguageData>

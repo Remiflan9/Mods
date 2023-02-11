@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN:
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. According to them, [siteFaction_pawnsPlural] have been using the nearby broadcasting station as a base of operations. The site is controlled by [siteFaction_name]. It is guaranteed to contain some still functioning supercomputer units.\n\n[asker_nameDef] is asking us to take care of the enemies, and cares not about the fate of the old electronical apparatus. [asker_label] says that [sitePart0_description].</li>
+  -->
+  <VFE_OpportunitySite_BroadcastingStation.questDescriptionRules.rulesStrings>
+    <li>questDescription->クエストの依頼:\n[asker_faction_name][asker_faction_leaderTitle]の[asker_nameDef]から通信が届きました.彼らによると,[siteFaction_pawnsPlural]は近くの放送施設を拠点に活動しているそうです.その場所は[siteFaction_name]の支配下にあります.そこにはまだ機能しているスーパーコンピュータのユニットがいくつか残っているのが確認されています.\n\nクエストの目的：\n[asker_nameDef]は,私たちに脅威を排除するように要請しており,そこにある古い電子部品の所有権について気にしません.\n\n予想される脅威について,[asker_label]の報告では\n[sitePart0_description]だそうです.</li>
+  </VFE_OpportunitySite_BroadcastingStation.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->The [abandoned] [broadcasting] [station]</li>
+    <li>questName->[abandoned] [broadcasting] [station]</li>
+    <li>questName->[asker_nameDef] and the [abandoned] [broadcasting] [station]</li>
+    <li>abandoned->Abandoned</li>
+    <li>abandoned->Old</li>
+    <li>abandoned->Decomissioned</li>
+    <li>abandoned->Ruined</li>
+    <li>broadcasting->Broadcasting</li>
+    <li>broadcasting->Radar</li>
+    <li>broadcasting->Calculation</li>
+    <li>broadcasting->Supercomputer</li>
+    <li>station->Station</li>
+    <li>station->Facility</li>
+    <li>station->Antenna</li>
+    <li>station->Outpost</li>
+  -->
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings>
+    <li>questName->[abandoned]元[broadcasting][station]</li>
+    <li>questName->[abandoned][broadcasting][station]</li>
+    <li>questName->[asker_nameDef]と[abandoned]元[broadcasting][station]</li>
+    <li>abandoned->放棄された</li>
+    <li>abandoned->古い</li>
+    <li>abandoned->廃止された</li>
+    <li>abandoned->廃墟になった</li>
+    <li>broadcasting->放送</li>
+    <li>broadcasting->レーダー</li>
+    <li>broadcasting->予報</li>
+    <li>broadcasting->スパコン</li>
+    <li>station->基地局</li>
+    <li>station->施設</li>
+    <li>station->アンテナ基地</li>
+    <li>station->前哨基地</li>
+  </VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>クエストの期限切れ：[resolvedQuestName]</VFE_OpportunitySite_BroadcastingStation.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>山賊キャンプは準備が整って,移動しました.クエスト[resolvedQuestName]は期限切れです.</VFE_OpportunitySite_BroadcastingStation.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>クエスト失敗：[resolvedQuestName]</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+  <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>クエスト終了：[resolvedQuestName]\n発見された後,山賊キャンプは移動しました.</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+  <!-- EN: Payment arrived -->
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>報酬が届いた</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
+  <!-- EN: You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived. -->
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>山賊キャンプを討伐しました！\n\n[asker_faction_name]からの報酬が届きました.</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
+  <!-- EN: [asker_faction_royalFavorLabel] -->
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>
+  <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>これらの入植者たちは,[resolvedQuestName]探索の戦いと勝利に参加しました.[asker_definite]は,このクエスト報酬として[royalFavorReward_amount][asker_faction_royalFavorLabel]を誰が受けとるのか知りたがっています.</VFE_OpportunitySite_BroadcastingStation.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: Mechanite clothing optimisation -->
+  <VFE_MechaniteUnderArmorHediff.label>メカナイト防弾シャツの最適化</VFE_MechaniteUnderArmorHediff.label>
+  <!-- EN: Embedded mechanites are optimizing this individuals digestive tract, suppressing their need to eat. -->
+  <VFE_MechaniteUnderArmorHediff.description>埋め込まれたメカナイトは,装着者の消化器官を最適化して,食欲を抑えます.</VFE_MechaniteUnderArmorHediff.description>
+  <!-- EN: a mechanite optimisation -->
+  <VFE_MechaniteUnderArmorHediff.labelNoun>メカナイト最適化</VFE_MechaniteUnderArmorHediff.labelNoun>
+
+</LanguageData>

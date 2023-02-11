@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!-- VFE Mechanoids - Craftable Mechanoid Components ResearchProjectDef patch -->
+
+<Operation Class="PatchOperationSequence">
+	<success>Always</success>
+	<operations>
+		<li Class="PatchOperationConditional">
+			<xpath>*/ResearchProjectDef[defName = "GlitterworldFabrication"]</xpath>
+			<match Class="PatchOperationReplace">
+				<xpath>*/ResearchProjectDef[defName = "GlitterworldFabrication"]/researchViewX</xpath>
+				<value>
+					<researchViewX>17.0</researchViewX>
+				</value>
+			</match>
+			<nomatch Class="PatchOperationTest">
+				<xpath>*/ThingDef[defName = "MealSurvivalPack"]</xpath>
+				<success>Always</success>
+			</nomatch>
+		</li>
+	</operations>
+</Operation>
+
+</Patch>

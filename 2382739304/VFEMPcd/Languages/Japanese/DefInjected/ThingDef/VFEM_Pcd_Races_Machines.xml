@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_Mechanoids_CC.label>自動化サプレッサー</VFE_Mechanoids_CC.label>
+  <VFE_Mechanoids_CC.description>シンプルな半自律式の暴動鎮圧用のメカノイドドローンです.指定された範囲を巡回して,周辺の脅威を分析し,自律的判断して行動します.より致死率の高い武器を使用するメカノイドたちと比べて,耐久度を犠牲にして強力な運動性能を持っています.</VFE_Mechanoids_CC.description>
+  <VFE_Mechanoids_CC.tools.head.label>頭部</VFE_Mechanoids_CC.tools.head.label>
+
+  <VFE_Mechanoids_Boxer.label>自動化ボクサー</VFE_Mechanoids_Boxer.label>
+  <VFE_Mechanoids_Boxer.description>シンプルな半自律式の近接格闘戦用のメカノイドドローンです.指定された範囲を巡回して,周辺の脅威を分析し,自律的判断して行動します.より致死率の高い武器を使用するメカノイドに比べて,より強力な運動性能を持っています.</VFE_Mechanoids_Boxer.description>
+  <VFE_Mechanoids_Boxer.tools.left_hand.label>左拳</VFE_Mechanoids_Boxer.tools.left_hand.label>
+  <VFE_Mechanoids_Boxer.tools.right_hand.label>右拳</VFE_Mechanoids_Boxer.tools.right_hand.label>
+
+</LanguageData>

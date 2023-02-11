@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN:
+    <li>questDescription(askerIsNull==true)->We've obtained encrypted information about an incoming mechanoid ship, planning to touch down not far from [map_definite]. This ship's protocol does not allow for landing if the location contains hostiles. This site is guarded by mechanoid forces, but destroying four landing beacons will be enough to stop the ship from landing.\n\nFailing to do so will result in the mechanoid ship making it to the surface, increasing the mechanoid presence in the area.</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of a mechanoid ship intending to land not too far from our area. This ship's protocol does not allow for landing if the location contains hostiles. This site is guarded by mechanoid forces, but destroying four landing beacons will be enough to stop the ship from landing.\n\nFailing to do so will result in the mechanoid ship making it to the surface, increasing the mechanoid presence in the area.</li>
+  -->
+  <VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings>
+    <!-- No asker -->
+    <li>questDescription(askerIsNull==true)->クエストの内容:\n[[map_definite]からそう遠くない場所に着陸しようとしているメカノイド船についての暗号化された情報を入手した.この船の手続きでは,着陸地点に敵を確認した場合,着陸を許可しません.現在この場所はメカノイド部隊によって警備されていますが,4ヵ所の着陸ビーコンを破壊するだけで,船の着陸を阻止する事が可能です.\n\nそうしなければ,メカノイド船が地上に降下して,その地域でメカノイドの数が増加するでしょう.</li>
+    <!-- Faction leader asker -->
+    <li>questDescription(asker_factionLeader==True)->クエストの依頼:\n[asker_faction_name][asker_faction_leaderTitle]の[asker_nameDef]から我々のコロニーがある地域からそう遠くない場所に着陸しようとしているメカノイド船について通信が届きました.この船の手続きでは,着陸地点に敵を確認した場合,着陸を許可しません.現在この場所はメカノイド部隊によって警備されていますが,4ヵ所の着陸ビーコンを破壊するだけで,船の着陸を阻止する事が可能です.\n\nそうしなければ,メカノイド船が地上に降下して,その地域でメカノイドの数が増加するでしょう.</li>
+  </VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(priority=1)->[asker_nameDef]'s [intel] about Mechanoid [landing]</li>
+    <li>questName->Mechanoid [landing]</li>
+    <li>intel->Intel</li>
+    <li>intel->Clue</li>
+    <li>intel->Advice</li>
+    <li>intel->Information</li>
+    <li>landing->Landing Zone</li>
+    <li>landing->Landing Pad</li>
+    <li>landing->Imminent Ship Touchdown</li>
+    <li>landing->Landing Site</li>
+    <li>landing->Ship Incoming</li>
+  -->
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings>
+    <li>questName(priority=1)->[asker_nameDef]の[intel]:メカノイドの[landing]</li>
+    <li>questName->メカノイドの[landing]</li>
+    <li>intel->情報</li>
+    <li>intel->ヒント</li>
+    <li>intel->助言</li>
+    <li>intel->案内</li>
+    <li>landing->降下ゾーン</li>
+    <li>landing->降下ポッド</li>
+    <li>landing->接近中の船</li>
+    <li>landing->降下地点</li>
+    <li>landing->到着した船</li>
+  </VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings>
+  <!-- EN: Landing beacons Destroyed -->
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.siteAllMechBeaconsDestroyed.node.nodes.Letter.label.slateRef>着陸ビーコンは破壊された</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.siteAllMechBeaconsDestroyed.node.nodes.Letter.label.slateRef>
+  <!-- EN: All landing beacons have been destroyed. -->
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.siteAllMechBeaconsDestroyed.node.nodes.Letter.text.slateRef>すべての着陸ビーコンが破壊された.</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.siteAllMechBeaconsDestroyed.node.nodes.Letter.text.slateRef>
+  <!-- EN: Quest expired (failed to destroy beacons 1 ): [resolvedQuestName] -->
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.14.node.nodes.1.label.slateRef>クエストの期限切れ：(ビーコン1の破壊に失敗) [resolvedQuestName]</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.14.node.nodes.1.label.slateRef>
+  <!-- EN: The mechanoid ship has landed. The quest [resolvedQuestName] has expired. -->
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.14.node.nodes.1.text.slateRef>メカノイド船が着陸しました.クエスト[resolvedQuestName]は期限切れです.</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.14.node.nodes.1.text.slateRef>
+  <!-- EN: Quest expired (failed to destroy beacons 2): [resolvedQuestName] -->
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.15.node.nodes.1.label.slateRef>クエストの期限が切れ：(ビーコン2の破棄に失敗) [resolvedQuestName]</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.15.node.nodes.1.label.slateRef>
+  <!-- EN: The mechanoid ship has landed. The quest [resolvedQuestName] has expired. -->
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.15.node.nodes.1.text.slateRef>メカノイド船が着陸しました.クエスト[resolvedQuestName]は期限切れです.</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.15.node.nodes.1.text.slateRef>
+
+</LanguageData>

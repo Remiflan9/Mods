@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: advanced carpenter -->
+  <VFE_Mech_AdvancedCarpenter.label>先進機械化ワーカー</VFE_Mech_AdvancedCarpenter.label>
+
+  <!-- EN: advanced centipede -->
+  <VFE_Mech_AdvancedCentipede.label>先進機械化ムカデ</VFE_Mech_AdvancedCentipede.label>
+
+  <!-- EN: advanced inquisitor -->
+  <VFE_Mech_AdvancedInquisitor.label>先進機械化フレイマー</VFE_Mech_AdvancedInquisitor.label>
+
+  <!-- EN: advanced knight -->
+  <VFE_Mech_AdvancedKnight.label>先進機械化ナイト</VFE_Mech_AdvancedKnight.label>
+
+  <!-- EN: advanced lancer -->
+  <VFE_Mech_AdvancedLancer.label>先進機械化ランス</VFE_Mech_AdvancedLancer.label>
+
+  <!-- EN: advanced pikeman -->
+  <VFE_Mech_AdvancedPikeman.label>先進機械化パイク</VFE_Mech_AdvancedPikeman.label>
+  <!-- EN: advanced pikemen -->
+  <VFE_Mech_AdvancedPikeman.labelPlural>先進機械化パイク</VFE_Mech_AdvancedPikeman.labelPlural>
+
+  <!-- EN: advanced scyther -->
+  <VFE_Mech_AdvancedScyther.label>先進機械化カマキリ</VFE_Mech_AdvancedScyther.label>
+
+
+  <!-- Advanced Termite -->
+
+  <!-- EN: advanced termite -->
+  <VFE_Mech_AdvTermite.label>先進機械化シロアリ</VFE_Mech_AdvTermite.label>
+  <!-- EN: termites -->
+  <VFE_Mech_AdvTermite.labelPlural>先進機械化シロアリ</VFE_Mech_AdvTermite.labelPlural>
+
+</LanguageData>

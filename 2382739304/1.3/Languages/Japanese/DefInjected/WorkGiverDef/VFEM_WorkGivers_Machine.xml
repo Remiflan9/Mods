@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: attach turret -->
+  <VFE_Mechanoids_AttachTurret.label>タレットを取り付ける</VFE_Mechanoids_AttachTurret.label>
+  <!-- EN: attaching turret to -->
+  <VFE_Mechanoids_AttachTurret.gerund>取付</VFE_Mechanoids_AttachTurret.gerund>
+  <!-- EN: attach turret to -->
+  <VFE_Mechanoids_AttachTurret.verb>取付</VFE_Mechanoids_AttachTurret.verb>
+
+  <!-- EN: repair machine -->
+  <VFE_Mechanoids_RepairMachine.label>機械を修理</VFE_Mechanoids_RepairMachine.label>
+  <!-- EN: repairing -->
+  <VFE_Mechanoids_RepairMachine.gerund>修理</VFE_Mechanoids_RepairMachine.gerund>
+  <!-- EN: repair -->
+  <VFE_Mechanoids_RepairMachine.verb>修理</VFE_Mechanoids_RepairMachine.verb>
+
+</LanguageData>

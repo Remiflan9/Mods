@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: carpenter -->
+  <VFE_Mech_Carpenter.label>機械化ワーカー</VFE_Mech_Carpenter.label>
+  <!-- EN: A swift, quadrupedal, beetle-like utility mechanoid meant to assemble and disassemble structures even in midst of heavy crossfire via a series of claws, blowtorches, and drills. Carpenter mechs analyze nearby structures for conflicting design parameters before skittering to dissemble them. Veterans from the mechanoid wars claim power plants and turrets that take days or even weeks to assemble to have vanished in minutes when approached by a carpenter. This particular unit appears to be freshly manufactured and will operate more robustly. -->
+  <VFE_Mech_Carpenter.description>この四足歩行で高速移動するカブトムシのような万能型機械化生命体は,激しい集中砲火を受けている最中でさえ,一連の爪とトーチとドリルを使って建築物を組み立てたり分解したりすることを意図されていました.機械化ワーカーは,隣接した建築物の敵味方情報が矛盾していないかどうか分析してから,それらを解体作業に取り掛かります.メカノイド戦争の退役軍人たちは,機械化ワーカーが接近した際に組み立てるのに数日から数週間かかるような発電所やタレットが数分で解体されたと主張しています.この特別なユニットは,新造されたようで,遺跡などで見つかるユニットより頑丈にできています.</VFE_Mech_Carpenter.description>
+  <!-- EN: front left leg -->
+  <VFE_Mech_Carpenter.tools.front_left_leg.label>左前脚</VFE_Mech_Carpenter.tools.front_left_leg.label>
+  <!-- EN: front right leg -->
+  <VFE_Mech_Carpenter.tools.front_right_leg.label>右前脚</VFE_Mech_Carpenter.tools.front_right_leg.label>
+  <!-- EN: head -->
+  <VFE_Mech_Carpenter.tools.head.label>頭部</VFE_Mech_Carpenter.tools.head.label>
+
+  <!-- EN: centipede -->
+  <VFE_Mech_Centipede.label>機械化ムカデ</VFE_Mech_Centipede.label>
+  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their heavy armor and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. This particular unit appears to be freshly manufactured and will operate more robustly. -->
+  <VFE_Mech_Centipede.description>重武装の戦闘用機械化生命体です.12本の側足で滑らかに動きます.このユニットが持つ分厚い装甲と高い火力は,防御拠点に対して大きな効果をもたらします.わずかではありますが,ヒットエンドラン戦法が有効とされています.この特別なユニットは,新造されたようで,遺跡などで見つかるユニットより頑丈にできています.</VFE_Mech_Centipede.description>
+  <!-- EN: head -->
+  <VFE_Mech_Centipede.tools.head.label>頭部</VFE_Mech_Centipede.tools.head.label>
+
+  <!-- EN: inquisitor -->
+  <VFE_Mech_Inquisitor.label>機械化フレイマー</VFE_Mech_Inquisitor.label>
+  <!-- EN: A lumbering, slow, superheavy mechanoid meant for area denial and bunker busting via flamethrower. While the plume of flame itself is short ranged, encountering an Inquisitor at close range is ill-advised, as the back-mounted chemfuel tanks are programmed to explode upon a system malfunction. -->
+  <VFE_Mech_Inquisitor.description>鈍重でゆっくりとした超重量の機械化生命体で,火炎放射器を使って範囲攻撃や火点破壊を実行します.火炎放射自体は短距離射程ですが,背中に取り付けられた化学燃料タンクは生命システムの破壊時に自爆するようにプログラムされているため,近距離で機械化フレーマーと戦闘することは賢明とは言えないでしよう.</VFE_Mech_Inquisitor.description>
+  <!-- EN: left fist -->
+  <VFE_Mech_Inquisitor.tools.left_fist.label>左拳</VFE_Mech_Inquisitor.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <VFE_Mech_Inquisitor.tools.right_fist.label>右拳</VFE_Mech_Inquisitor.tools.right_fist.label>
+  <!-- EN: head -->
+  <VFE_Mech_Inquisitor.tools.head.label>頭部</VFE_Mech_Inquisitor.tools.head.label>
+
+  <!-- EN: knight -->
+  <VFE_Mech_Knight.label>機械化ナイト</VFE_Mech_Knight.label>
+  <!-- EN: A medium-speed bipedal mechanoid slightly larger than an average human designed to take damage from both ranged and melee combatants. Thick armored plating is only further emboldened by a logic-defying shield belt capable of stopping projectiles. Equipped with a mid-range, burst-fire charge rifle, the Knight is best fought off by long-range explosive salvo or mines. -->
+  <VFE_Mech_Knight.description>平均的な人間よりもわずか大きなサイズの,二足歩行する機械化生命体で,射撃戦と近接戦の両方で攻撃できるように設計されています.分厚い装甲は,敵の発射体を阻止することが可能なシールドベルトによってさらに強化されます.中距離射程の連射チャージライフルを装備した機械化ナイトは,長距離射程からの爆発系武器による一斉射撃や地雷の一斉点火で効率よく撃退可能です.</VFE_Mech_Knight.description>
+  <!-- EN: left fist -->
+  <VFE_Mech_Knight.tools.left_fist.label>左拳</VFE_Mech_Knight.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <VFE_Mech_Knight.tools.right_fist.label>右拳</VFE_Mech_Knight.tools.right_fist.label>
+  <!-- EN: head -->
+  <VFE_Mech_Knight.tools.head.label>頭部</VFE_Mech_Knight.tools.head.label>
+
+  <!-- EN: lancer -->
+  <VFE_Mech_Lancer.label>機械化ランス</VFE_Mech_Lancer.label>
+  <!-- EN: Fast human-sized combat mechanoids built for medium and long-range combat. Their bodies are light, making them vulnerable targets at close range - especially in melee combat. This particular unit appears to be freshly manufactured and will operate more robustly. -->
+  <VFE_Mech_Lancer.description>中長距離射程での射撃戦用に設計された高速移動する人間サイズの戦闘用機械化生命体です.このタイプのメカノイドは軽量化され,近接戦闘による攻撃に対して脆弱な弱点があります.この特別なユニットは,新造されたようで,遺跡などで見つかるユニットより頑丈にできています.</VFE_Mech_Lancer.description>
+  <!-- EN: left fist -->
+  <VFE_Mech_Lancer.tools.left_fist.label>左拳</VFE_Mech_Lancer.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <VFE_Mech_Lancer.tools.right_fist.label>右拳</VFE_Mech_Lancer.tools.right_fist.label>
+  <!-- EN: head -->
+  <VFE_Mech_Lancer.tools.head.label>頭部</VFE_Mech_Lancer.tools.head.label>
+
+  <!-- EN: pikeman -->
+  <VFE_Mech_Pikeman.label>機械化パイク</VFE_Mech_Pikeman.label>
+  <!-- EN: A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat. Veterans of mechanoid wars know that often, the safest place to be around a pikeman is touching it. This particular unit appears to be freshly manufactured and will operate more robustly. -->
+  <VFE_Mech_Pikeman.description>長距離兵器の砲台として特化した,不格好な多脚型の戦闘用機械化生命体です.遠距離戦では優秀ですが,近距離戦や近接戦闘には脆弱です.\n\nメカノイド戦争の退役軍人たちは,大抵,機械化パイクの間合いで最も安全な場所は,ぴったりとくっ付くことだと知っています.この特別なユニットは,新造されたようで,遺跡などで見つかるユニットより頑丈にできています.</VFE_Mech_Pikeman.description>
+  <!-- EN: front left leg -->
+  <VFE_Mech_Pikeman.tools.front_left_leg.label>左前脚</VFE_Mech_Pikeman.tools.front_left_leg.label>
+  <!-- EN: front right leg -->
+  <VFE_Mech_Pikeman.tools.front_right_leg.label>右前脚</VFE_Mech_Pikeman.tools.front_right_leg.label>
+  <!-- EN: head -->
+  <VFE_Mech_Pikeman.tools.head.label>頭部</VFE_Mech_Pikeman.tools.head.label>
+
+  <!-- EN: scyther -->
+  <VFE_Mech_Scyther.label>機械化カマキリ</VFE_Mech_Scyther.label>
+  <!-- EN: Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but they mostly use two arm blades to lop off limbs or gut their victims alive. This particular unit appears to be freshly manufactured and will operate more robustly. -->
+  <VFE_Mech_Scyther.description>目標への高速な接近と近接戦闘に特化した,高速で刃を振り回す人間サイズの戦闘用機械化生命体です.全身が突起と刃で覆われていますが,主武器は2本の腕に付いた刃を使って敵の手足を切り落としたり,犠牲者を生きたまま切り刻んだりします.この特別なユニットは,新造されたようで,遺跡などで見つかるユニットより頑丈にできています.</VFE_Mech_Scyther.description>
+  <!-- EN: left blade -->
+  <VFE_Mech_Scyther.tools.left_blade.label>左刃</VFE_Mech_Scyther.tools.left_blade.label>
+  <!-- EN: right blade -->
+  <VFE_Mech_Scyther.tools.right_blade.label>右刃</VFE_Mech_Scyther.tools.right_blade.label>
+  <!-- EN: head -->
+  <VFE_Mech_Scyther.tools.head.label>頭部</VFE_Mech_Scyther.tools.head.label>
+
+</LanguageData>

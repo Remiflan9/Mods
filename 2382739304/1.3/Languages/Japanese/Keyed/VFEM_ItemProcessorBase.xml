@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Generic -->
+
+  <!-- EN: Extract Ingredients -->
+  <VFEM_BringIngredients>材料を取り出す</VFEM_BringIngredients>
+  <!-- EN: Extract ingredients from adjacent hoppers to start the process -->
+  <VFEM_BringIngredientsDesc>隣接したホッパーから材料を取り出して,加工を開始します.</VFEM_BringIngredientsDesc>
+  <!-- EN: Must be placed directly on a factory floor. -->
+  <VFEMech.MustPlaceOnFactoryFloor>工場の床の上に直接設置する必要があります.</VFEMech.MustPlaceOnFactoryFloor>
+  <!-- EN: Must be placed directly on a power conduit. -->
+  <VFEMech.MustPlaceOnPowerConduit>電力線の上に直接設置する必要があります.</VFEMech.MustPlaceOnPowerConduit>
+
+</LanguageData>

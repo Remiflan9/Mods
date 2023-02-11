@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: mechanoid component -->
+  <VFE_ComponentMechanoid.label>機械化コンポーネント</VFE_ComponentMechanoid.label>
+  <!-- EN: Very advanced processors and nano-calculators most often used in creation of mechanoid-tech on urbworld mechanoid swarm foundries. -->
+  <VFE_ComponentMechanoid.description>先進的なプロセッサーとナノ計算機は,urbworldのメカノイド集合体生産工場ではメカノイド技術製品の生産で最もよく利用されます.</VFE_ComponentMechanoid.description>
+
+</LanguageData>

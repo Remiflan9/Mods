@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Inferno Spewer -->
+
+  <!-- EN: inferno spewer shot -->
+  <VFE_Bullet_InfernoSpewer.label>火炎放射の炎</VFE_Bullet_InfernoSpewer.label>
+
+
+  <!-- Advanced Inferno Spewer -->
+
+  <!-- EN: inferno spewer shot -->
+  <VFE_Bullet_AdvancedInfernoSpewer.label>火炎放射の炎</VFE_Bullet_AdvancedInfernoSpewer.label>
+
+</LanguageData>

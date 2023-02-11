@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: refuel rocket silo -->
+  <VFEM_RefuelSilo.label>ロケットサイロに燃料を補給する</VFEM_RefuelSilo.label>
+  <!-- EN: refueling -->
+  <VFEM_RefuelSilo.gerund>補給</VFEM_RefuelSilo.gerund>
+  <!-- EN: refuel -->
+  <VFEM_RefuelSilo.verb>補給</VFEM_RefuelSilo.verb>
+
+</LanguageData>

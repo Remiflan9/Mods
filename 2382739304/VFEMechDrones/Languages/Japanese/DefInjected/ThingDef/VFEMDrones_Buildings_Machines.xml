@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEMA_Mechanoids_FarmerBase.label>自動化 ファーマー 充電装置</VFEMA_Mechanoids_FarmerBase.label>
+  <VFEMA_Mechanoids_FarmerBase.description>自動化ファーマーの組立と充電を行う装置です.</VFEMA_Mechanoids_FarmerBase.description>
+  <Blueprint_VFEMA_Mechanoids_FarmerBase.label>自動化ファーマー充電装置 (設計)</Blueprint_VFEMA_Mechanoids_FarmerBase.label>
+  <Blueprint_Install_VFEMA_Mechanoids_FarmerBase.label>自動化ファーマー充電装置 (移動先)</Blueprint_Install_VFEMA_Mechanoids_FarmerBase.label>
+  <Frame_VFEMA_Mechanoids_FarmerBase.label>自動化ファーマー充電装置 (施工)</Frame_VFEMA_Mechanoids_FarmerBase.label>
+  <Frame_VFEMA_Mechanoids_FarmerBase.description>自動化ファーマーの組立と充電を行う装置です.</Frame_VFEMA_Mechanoids_FarmerBase.description>
+
+  <VFEMA_Mechanoids_KitchenBase.label>自動化 コック 充電装置</VFEMA_Mechanoids_KitchenBase.label>
+  <VFEMA_Mechanoids_KitchenBase.description>自動化コックの組立と充電を行う装置です.</VFEMA_Mechanoids_KitchenBase.description>
+  <Blueprint_VFEMA_Mechanoids_KitchenBase.label>自動化コック充電装置 (設計)</Blueprint_VFEMA_Mechanoids_KitchenBase.label>
+  <Blueprint_Install_VFEMA_Mechanoids_KitchenBase.label>自動化コック充電装置 (移動先)</Blueprint_Install_VFEMA_Mechanoids_KitchenBase.label>
+  <Frame_VFEMA_Mechanoids_KitchenBase.label>自動化コック充電装置 (施工)</Frame_VFEMA_Mechanoids_KitchenBase.label>
+  <Frame_VFEMA_Mechanoids_KitchenBase.description>自動化コックの組立と充電を行う装置です.</Frame_VFEMA_Mechanoids_KitchenBase.description>
+
+</LanguageData>

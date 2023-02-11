@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: mechanoid storage -->
+  <VFE_MechanoidStorage.label>メカノイド集積所</VFE_MechanoidStorage.label>
+  <!-- EN: Mechanoid storage. -->
+  <VFE_MechanoidStorage.description>メカノイドの資源集積所です.</VFE_MechanoidStorage.description>
+
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN:
+    <li>questDescription(askerIsNull==true)->We've intercepted encrypted communication about a large amount of raw resources worth [itemStashContentsValue] ready for collection not far from [map_definite]. The collection consists of:\n\n[itemStashContents]\n\nIt seems that mechanoids are guarding the location before the resources are picked up and shipped to orbit.</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of a mechanoid resources [itemStashContentsValue] not far from us. The collection consists of:\n\n[itemStashContents]\n\n[asker_label] informs us that mechanoids are guarding the location before the resources are picked up and shipped to orbit.</li>
+  -->
+  <VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings>
+    <!-- No asker -->
+    <li>questDescription(askerIsNull==true)->クエストの内容:\n[map_definite]からそう遠くない場所に[itemStashContentsValue]相当な貴重品が隠された場所について,通信を傍受しました.収蔵品の内容は以下のとおりです.\n\n[itemStashContents]\n\n予想される脅威:\n資源が荷揚げされて軌道に出荷されるまで,メカノイドがその場所を警備しているようです.</li>
+    <!-- Faction leader asker -->
+    <li>questDescription(asker_factionLeader==True)->クエストの依頼:\n[asker_faction_name][asker_faction_leaderTitle]の[asker_nameDef]から[itemStashContentsValue]相当なメカノイド資源が,[map_definite]からそう遠くないところにあると通信が届きました.収蔵品の内容は以下のとおりです.\n\n[itemStashContents]\n\n予想される脅威:\n[asker_label]は,資源が荷揚げされて軌道に出荷されるまで,メカノイドがその場所を警備していると通知してきました.</li>
+  </VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(priority=1)->[asker_nameDef]'s [intel] about Mechanoid [storage]</li>
+    <li>questName->Mechanoid [storage]</li>
+    <li>intel->Intel</li>
+    <li>intel->Clue</li>
+    <li>intel->Advice</li>
+    <li>intel->Information</li>
+    <li>storage->Storage Site</li>
+    <li>storage->Recycling Site</li>
+    <li>storage->Pick-up Coordinates</li>
+    <li>storage->Treasure</li>
+    <li>storage->Supplies</li>
+  -->
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings>
+    <li>questName(priority=1)->メカノイドの[storage]に関する[asker_nameDef]の[intel]</li>
+    <li>questName->メカノイドの[storage]</li>
+    <li>intel->情報</li>
+    <li>intel->手がかり</li>
+    <li>intel->アドバイス</li>
+    <li>intel->報告</li>
+    <li>storage->保管場所</li>
+    <li>storage->リサイクル場</li>
+    <li>storage->ピックアップ座標</li>
+    <li>storage->財宝</li>
+  </VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VFE_OpportunitySite_MechanoidStoragePickup.LetterLabelQuestExpired.slateRef>クエストの期限切れ：[resolvedQuestName]</VFE_OpportunitySite_MechanoidStoragePickup.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the item stash has been uplifted to orbit. The quest [resolvedQuestName] has expired. -->
+  <VFE_OpportunitySite_MechanoidStoragePickup.LetterTextQuestExpired.slateRef>傍受された通信によると,メカノイド資源が軌道上に出荷されたようです. クエスト[resolvedQuestName]は期限が切れました.</VFE_OpportunitySite_MechanoidStoragePickup.LetterTextQuestExpired.slateRef>
+
+</LanguageData>
