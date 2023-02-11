@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_SingingShantiesOutcome.description>儀式の質に応じて参加者は{MOODDAYS}日間, {MINMOOD}~{MAXMOOD}の心情ボーナスを得ます.平均以上の品質のシーシャンティは,新しいクエストを提供します.良質なシーシャンティは,参加者全員にとって、誰かを失うことによるネガティブな思考を取り除くことができます.</VFEP_SingingShantiesOutcome.description>
+  <VFEP_SingingShantiesOutcome.outcomeChances.0.label>うんざり</VFEP_SingingShantiesOutcome.outcomeChances.0.label>
+  <VFEP_SingingShantiesOutcome.outcomeChances.0.description>{0}は信じられないほど退屈でした.キャプテンは情熱に欠け,仲間意識も感じられませんでした.</VFEP_SingingShantiesOutcome.outcomeChances.0.description>
+  <VFEP_SingingShantiesOutcome.outcomeChances.1.label>ダサい</VFEP_SingingShantiesOutcome.outcomeChances.1.label>
+  <VFEP_SingingShantiesOutcome.outcomeChances.1.description>{0}はダサいものでした.キャプテンは私たちを子供のように扱い,何か気分を高揚させるようなことを必死になって聞きたがっていました.</VFEP_SingingShantiesOutcome.outcomeChances.1.description>
+  <VFEP_SingingShantiesOutcome.outcomeChances.2.label>興奮させる</VFEP_SingingShantiesOutcome.outcomeChances.2.label>
+  <VFEP_SingingShantiesOutcome.outcomeChances.2.description>{0}はとても盛り上がりました.「Shiver me timbers, those were some good shanties!」キャプテンは私たちの気分を高揚させ,仲間意識と一体感を感じさせ,さらに強くなることでしょう.
+\n\nこの後,歌詞を解析してみると,実は古代の言葉が巧妙に暗号化されていて,なにやらクエストのヒントになっていることが判明しました!</VFEP_SingingShantiesOutcome.outcomeChances.2.description>
+  <VFEP_SingingShantiesOutcome.outcomeChances.3.label>素晴らしい</VFEP_SingingShantiesOutcome.outcomeChances.3.label>
+  <VFEP_SingingShantiesOutcome.outcomeChances.3.description>{0}は素晴らしかったです! 仲間意識の大切さを再認識させられました.魅惑的なキャプテンの言葉が今も耳に残っています.悲しい気持ちも吹き飛ぶような気がします.\n\nこの後,歌詞を解析してみると,実は古代の言葉が巧妙に暗号化されていて,なにやらクエストのヒントになっていることが判明しました!</VFEP_SingingShantiesOutcome.outcomeChances.3.description>
+
+  <VFEP_SingingShantiesOutcome.comps.0.label>先唱者がいる</VFEP_SingingShantiesOutcome.comps.0.label>
+  <VFEP_SingingShantiesOutcome.comps.1.label>参加者数</VFEP_SingingShantiesOutcome.comps.1.label>
+  <VFEP_SingingShantiesOutcome.comps.2.label>部屋の印象</VFEP_SingingShantiesOutcome.comps.2.label>
+
+
+</LanguageData>

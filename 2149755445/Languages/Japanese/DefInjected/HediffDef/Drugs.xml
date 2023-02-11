@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEI_RoyalJellyHigh.label>ローヤルゼリーでハイになっている</VFEI_RoyalJellyHigh.label>
+  <VFEI_RoyalJellyHigh.description>ローヤルゼリーでハイになっている</VFEI_RoyalJellyHigh.description>
+  <VFEI_RoyalJellyHigh.labelNoun>ローヤルゼリーハイ</VFEI_RoyalJellyHigh.labelNoun>
+  <VFEI_RoyalJellyTolerance.label>ローヤルゼリー耐性</VFEI_RoyalJellyTolerance.label>
+  <VFEI_RoyalJellyTolerance.description>ローヤルゼリー耐性</VFEI_RoyalJellyTolerance.description>
+  <VFEI_RoyalJellyAddiction.label>ローヤルゼリー中毒</VFEI_RoyalJellyAddiction.label>
+  <VFEI_RoyalJellyAddiction.description>ローヤルゼリー中毒</VFEI_RoyalJellyAddiction.description>
+  <VFEI_RoyalJellyAddiction.stages.1.label>中毒症状</VFEI_RoyalJellyAddiction.stages.1.label>
+</LanguageData>

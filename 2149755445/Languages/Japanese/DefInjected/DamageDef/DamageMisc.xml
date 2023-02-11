@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEI_PsychicNoDamage.label>サイキック</VFEI_PsychicNoDamage.label>
+  <VFEI_PsychicNoDamage.deathMessage>{0} は死んだ.</VFEI_PsychicNoDamage.deathMessage>
+  <VFEI_ToxicSting.label>毒刺傷</VFEI_ToxicSting.label>
+  <VFEI_ToxicSting.deathMessage>{0} は刺されて死んだ.</VFEI_ToxicSting.deathMessage>
+</LanguageData>

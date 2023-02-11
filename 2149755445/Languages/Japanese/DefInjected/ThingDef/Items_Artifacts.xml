@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEI_Artifacts_PsychicPacifier.label>サイキック調停器</VFEI_Artifacts_PsychicPacifier.label>
+  <VFEI_Artifacts_PsychicPacifier.description>精神調停波を人物に向けて, 派閥に参加させる1回限りのアーティファクト. 脳損傷の大きなリスクがあります. 長射程で, 壁を透過して機能します.</VFEI_Artifacts_PsychicPacifier.description>
+  <VFEI_Artifacts_PsychicAnimalTamer.label>サイキックアニマルテイマー</VFEI_Artifacts_PsychicAnimalTamer.label>
+  <VFEI_Artifacts_PsychicAnimalTamer.description>使い捨てのサイキックアニマルテイマー. 恐ろしい精神的説得でターゲットの心を圧倒し, 超越的な状態に落とし込みます. 脳が損傷する危険があります. 長射程で, 壁を透過して機能します.</VFEI_Artifacts_PsychicAnimalTamer.description>
+  <VFEI_Artifacts_ArchotechEraser.label>アルコテックイレーサー</VFEI_Artifacts_ArchotechEraser.label>
+  <VFEI_Artifacts_ArchotechEraser.description>ワノメトリックコアを使用して, 半径10マス以内のすべてを消去する使い捨てアーティファクト. 手動でトリガーする必要があります.</VFEI_Artifacts_ArchotechEraser.description>
+  <VFEI_Artifacts_ArchotechTeleporter.label>アルコテックテレポーター</VFEI_Artifacts_ArchotechTeleporter.label>
+  <VFEI_Artifacts_ArchotechTeleporter.description>惑星上の1つの場所から別の場所に最大500 kgの質量を輸送できる1回限りのアーティファクト. 贈り物をしたり, 他の派閥を襲撃したりすることはできません.</VFEI_Artifacts_ArchotechTeleporter.description>
+</LanguageData>

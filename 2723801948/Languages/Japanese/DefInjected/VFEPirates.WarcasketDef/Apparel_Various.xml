@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_Warcasket_Bodysuit.label>ウォーキャスケット ボディースーツ</VFEP_Warcasket_Bodysuit.label>
+  <VFEP_Warcasket_Bodysuit.description>ウォーキャスケットの基礎となる基本的なボディースーツです.</VFEP_Warcasket_Bodysuit.description>
+
+
+  <!-- Basic warcasket -->
+
+  <VFEP_Warcasket_Warcasket.label>ウォーキャスケット</VFEP_Warcasket_Warcasket.label>
+  <VFEP_Warcasket_Warcasket.description>基本的な保護性能を発揮するウォーキャスケットアーマーです.\n\n第3世代のウォーキャスケットは,惑星マイナーの可動式リグと,人間の四肢を管理するインターフェースの初期バージョンを組み合わせて設計された後,初めて量産化されたものです.宙賊は"喜んで"人間を実験台にすることができるため,このパワーアーマーがプロトタイプの段階を終える前から既に配備されていました.このプロジェクトの主任科学者は「健康と安全を損なわずにオムレツを作ることはできない 」と主張しました</VFEP_Warcasket_Warcasket.description>
+
+  <VFEP_Warcasket_Warcasket.shortDescription>標準的な重量と保護性能を発揮するウォーキャスケットアーマーです.</VFEP_Warcasket_Warcasket.shortDescription>
+
+  <VFEP_WarcasketShoulders_Warcasket.label>ウォーキャスケット 肩甲</VFEP_WarcasketShoulders_Warcasket.label>
+  <VFEP_WarcasketShoulders_Warcasket.description>標準的な重量と保護性能を発揮するウォーキャスケットの肩甲です.\n\n第3世代のウォーキャスケットは,惑星マイナーの可動式リグと,人間の四肢を管理するインターフェースの初期バージョンを組み合わせて設計された後,初めて量産化されたものです.宙賊は"喜んで"人間を実験台にすることができるため,このパワーアーマーがプロトタイプの段階を終える前から既に配備されていました.このプロジェクトの主任科学者は「健康と安全を損なわずにオムレツを作ることはできない 」と主張しました.</VFEP_WarcasketShoulders_Warcasket.description>
+
+  <VFEP_WarcasketShoulders_Warcasket.shortDescription>標準的な重量と保護性能を発揮するウォーキャスケットの肩甲です.</VFEP_WarcasketShoulders_Warcasket.shortDescription>
+
+
+  <!-- Marine warcasket -->
+
+  <VFEP_Warcasket_Marine.label>マリーン ウォーキャスケット</VFEP_Warcasket_Marine.label>
+  <VFEP_Warcasket_Marine.description>通常と同じくらいの重量で保護性能を向上させた先進的なウォーキャスケットアーマーです.\n\n第4世代のウォーキャスケットは,とある軍の対宙賊作戦にパワーアーマーが配備され始めたことをきっかけに開発されました.より高度で調整可能なマリーンアーマーは,ウォーキャスケット用に加工する前からすでに優れていましたが,その構造を逆行分析した上で模倣し,優れた電源ユニットと装甲の設計改良,さらに強力な油圧機構とそれを支える厚い装甲を施しました.</VFEP_Warcasket_Marine.description>
+
+  <VFEP_Warcasket_Marine.shortDescription>通常と同じくらいの重量で保護性能を向上させた先進的なウォーキャスケットアーマーです.</VFEP_Warcasket_Marine.shortDescription>
+
+
+
+  <VFEP_WarcasketShoulders_Marine.label>マリーン ウォーキャスケット 肩甲</VFEP_WarcasketShoulders_Marine.label>
+  <VFEP_WarcasketShoulders_Marine.description>通常と同じくらいの重量で保護性能を向上させた先進的なウォーキャスケットの肩甲です.\n\n第4世代のウォーキャスケットは,とある軍の対宙賊作戦にパワーアーマーが配備され始めたことをきっかけに開発されました.より高度で調整可能なマリーンアーマーは,ウォーキャスケット用に加工する前からすでに優れていましたが,その構造を逆行分析した上で模倣し,優れた電源ユニットと装甲の設計改良,さらに強力な油圧機構とそれを支える厚い装甲を施しました.</VFEP_WarcasketShoulders_Marine.description>
+
+  <VFEP_WarcasketShoulders_Marine.shortDescription>通常と同じくらいの重量で保護性能を向上させた先進的なウォーキャスケットの肩甲です.</VFEP_WarcasketShoulders_Marine.shortDescription>
+
+
+  <!-- Recon warcasket -->
+
+  <VFEP_Warcasket_Recon.label>リーコン ウォーキャスケット</VFEP_Warcasket_Recon.label>
+  <VFEP_Warcasket_Recon.description>保護性能の向上と軽量化を実現した先進的なウォーキャスケットアーマーです.\n\n第5世代のウォーキャスケットは,世代間の期間がかなり短く,前世代のウォーキャスケットを少し特化させた形で作られました.主にリーコンのデザインは,その身軽さを利用し,敵陣の背後にすばやく回り込み,医師,兵器係,エンジニア,植物学者などの重要人物を連れ出すことを目的に造られました.彼らは武装した警備兵を排除するためにウォーキャスケット専用ナイフを武装しており,そのモットーは「忙しく動き回るか,それとも忙しく死に絶えるか」でした.</VFEP_Warcasket_Recon.description>
+
+  <VFEP_Warcasket_Recon.shortDescription>保護性能の向上と軽量化を実現した先進的なウォーキャスケットアーマーです.</VFEP_Warcasket_Recon.shortDescription>
+
+
+  <VFEP_WarcasketShoulders_Recon.label>リーコン ウォーキャスケット 肩甲</VFEP_WarcasketShoulders_Recon.label>
+  <VFEP_WarcasketShoulders_Recon.description>通常と同じくらいの重量で保護性能を向上させた先進的なウォーキャスケットの肩甲です.\n\n第5世代のウォーキャスケットは,世代間の期間がかなり短く,前世代のウォーキャスケットを少し特化させた形で作られました.主にリーコンのデザインは,その身軽さを利用し,敵陣の背後にすばやく回り込み,医師,兵器係,エンジニア,植物学者などの重要人物を連れ出すことを目的に造られました.彼らは武装した警備兵を排除するためにウォーキャスケット専用ナイフを武装しており,そのモットーは「忙しく動き回るか,それとも忙しく死に絶えるか」でした.</VFEP_WarcasketShoulders_Recon.description>
+
+  <VFEP_WarcasketShoulders_Recon.shortDescription>通常と同じくらいの重量で保護性能を向上させた先進的なウォーキャスケットの肩甲です.</VFEP_WarcasketShoulders_Recon.shortDescription>
+
+
+  <!-- Cataphract warcasket -->
+
+  <VFEP_Warcasket_Cataphract.label>カタクラフト ウォーキャスケット</VFEP_Warcasket_Cataphract.label>
+  <VFEP_Warcasket_Cataphract.description>重量が増した代わりに優れた保護性能を実現した先進的なウォーキャスケットアーマーです.\n\n第5世代のウォーキャスケットは,世代間の期間がかなり短く,前世代のウォーキャスケットを少し特化させた形で作られました.主にカタフラクトのデザインは,できるだけ多くの敵の資産を拘束し,敵の攻撃を引きつけて制圧することを目的に造られました.このスーツの操縦者は特に大胆不敵で,ウォーキャスケット専用ガトリング銃を好み,しばしば「血を流す暇はねえ」と口走りました.</VFEP_Warcasket_Cataphract.description>
+
+  <VFEP_Warcasket_Cataphract.shortDescription>重量が増した代わりに優れた保護性能を実現した先進的なウォーキャスケットアーマーです.</VFEP_Warcasket_Cataphract.shortDescription>
+
+
+  <VFEP_WarcasketShoulders_Cataphract.label>カタクラフト ウォーキャスケット 肩甲</VFEP_WarcasketShoulders_Cataphract.label>
+  <VFEP_WarcasketShoulders_Cataphract.description>重量が増した代わりに優れた保護性能を実現した先進的なウォーキャスケットの肩甲です.\n\n第5世代のウォーキャスケットは,世代間の期間がかなり短く,前世代のウォーキャスケットを少し特化させた形で作られました.主にカタフラクトのデザインは,できるだけ多くの敵の資産を拘束し,敵の攻撃を引きつけて制圧することを目的に造られました.このスーツの操縦者は特に大胆不敵で,ウォーキャスケット専用ガトリング銃を好み,しばしば「血を流す暇はねえ」と口走りました.</VFEP_WarcasketShoulders_Cataphract.description>
+
+  <VFEP_WarcasketShoulders_Cataphract.shortDescription>重量が増した代わりに優れた保護性能を実現した先進的なウォーキャスケットの肩甲です.</VFEP_WarcasketShoulders_Cataphract.shortDescription>
+
+
+  <!-- aerial warcasket -->
+
+  <VFEP_Warcasket_Aerial.label>エアリアル ウォーキャスケット</VFEP_Warcasket_Aerial.label>
+  <VFEP_Warcasket_Aerial.description>通常と同じくらいの重量で優れた保護性能を実現した特殊なウォーキャスケットアーマーです.空気力学に基づいた設計のロケットブースターインジェクターが搭載されています.\n\n第7世代のウォーキャスケットは,基本性能のさらなる向上が望めず.代わりに「優れた互換性と,一式揃えることによって効果的に機能する」デザインに重点を置いて開発されました.また,調達や略奪で頻繁に登場するプラスチールを初めて材料に取り入れました.\n\n「エアリアル」は,マリーンのデザインをベースに,メッキの空気抵抗低減や肩部スラスターの追加などの改良を施したものです.敵陣の背後,あるいは敵陣の真っただ中で,優先度の高い標的を拘束することを主眼としており,「上空からの死」というキャッチフレーズが付けられています.</VFEP_Warcasket_Aerial.description>
+
+  <VFEP_Warcasket_Aerial.shortDescription>通常と同じくらいの重量で優れた保護性能を実現した特殊なウォーキャスケットアーマーです.空気力学に基づいた設計のロケットブースターインジェクターが搭載されています.</VFEP_Warcasket_Aerial.shortDescription>
+
+
+  <VFEP_WarcasketShoulders_Aerial.label>エアリアル ウォーキャスケット 肩甲</VFEP_WarcasketShoulders_Aerial.label>
+  <VFEP_WarcasketShoulders_Aerial.description>優れた保護性能と軽量化を実現したウォーキャスケットの肩甲です.空気力学に基づいた設計により,大型の排気口付きロケットブースターが搭載されています.\n\n第7世代のウォーキャスケットは,基本性能のさらなる向上が望めず.代わりに「優れた互換性と,一式揃えることによって効果的に機能する」デザインに重点を置いて開発されました.また,調達や略奪で頻繁に登場するプラスチールを初めて材料に取り入れました.\n\n「エアリアル」は,マリーンのデザインをベースに,メッキの空気抵抗低減や肩部スラスターの追加などの改良を施したものです.敵陣の背後,あるいは敵陣の真っただ中で,優先度の高い標的を拘束することを主眼としており,「上空からの死」というキャッチフレーズが付けられています.</VFEP_WarcasketShoulders_Aerial.description>
+  
+  <VFEP_WarcasketShoulders_Aerial.comps.CompReloadable.chargeNoun>ジャンプ</VFEP_WarcasketShoulders_Aerial.comps.CompReloadable.chargeNoun>
+
+  <VFEP_WarcasketShoulders_Aerial.shortDescription>優れた保護性能と軽量化を実現したウォーキャスケットの肩甲です.空気力学に基づいた設計により,大型の排気口付きロケットブースターが搭載されています.</VFEP_WarcasketShoulders_Aerial.shortDescription>
+
+
+  <!-- barrage warcasket -->
+
+  <VFEP_Warcasket_Barrage.label>バーリッジ ウォーキャスケット</VFEP_Warcasket_Barrage.label>
+  <VFEP_Warcasket_Barrage.description>過剰に重量がある代わりに優れた保護性能を実現した特殊なウォーキャスケットアーマーです.脚部に安定器と針入度計ピストンが搭載されています.\n\n第7世代のウォーキャスケットは,基本性能のさらなる向上が望めず.代わりに「優れた互換性と,一式揃えることによって効果的に機能する」デザインに重点を置いて開発されました.また,調達や略奪で頻繁に登場するプラスチールを初めて材料に取り入れました.\n\n「バーリッジ」は,カタフラクトの装甲をさらに重くし,海軍艦艇から借用した武器台スタビライザーを追加するなど,多くの改良を加えています.敵の砲撃を無視し,可能な限りの火力を打ち込むことを目的とし,「これをかわせ」というキャッチフレーズが付けられています.</VFEP_Warcasket_Barrage.description>
+  
+ 
+
+  <VFEP_Warcasket_Barrage.shortDescription>過剰に重量がある代わりに優れた保護性能を実現した特殊なウォーキャスケットアーマーです.脚部に安定器と針入度計ピストンが搭載されています.</VFEP_Warcasket_Barrage.shortDescription>
+
+
+
+  <VFEP_WarcasketShoulders_Barrage.label>バーリッジ ウォーキャスケット 肩甲</VFEP_WarcasketShoulders_Barrage.label>
+  <VFEP_WarcasketShoulders_Barrage.description>過剰に重量がある代わりに優れた保護性能を実現したウォーキャスケットの肩甲です.脚部に安定器と針入度計ピストン,肩にグレネードランチャーが搭載されています.\n\n第7世代のウォーキャスケットは,基本性能のさらなる向上が望めず.代わりに「優れた互換性と,一式揃えることによって効果的に機能する」デザインに重点を置いて開発されました.また,調達や略奪で頻繁に登場するプラスチールを初めて材料に取り入れました.\n\n「バーリッジ」は,カタフラクトの装甲をさらに重くし,海軍艦艇から借用した武器台スタビライザーを追加するなど,多くの改良を加えています.敵の砲撃を無視し,可能な限りの火力を打ち込むことを目的とし,「これをかわせ」というキャッチフレーズが付けられています.</VFEP_WarcasketShoulders_Barrage.description>
+
+  <VFEP_WarcasketShoulders_Barrage.comps.CompReloadable.chargeNoun>グレネード</VFEP_WarcasketShoulders_Barrage.comps.CompReloadable.chargeNoun>
+  
+  <VFEP_WarcasketShoulders_Barrage.shortDescription>過剰に重量がある代わりに優れた保護性能を実現したウォーキャスケットの肩甲です.脚部に安定器と針入度計ピストン,肩にグレネードランチャーが搭載されています.</VFEP_WarcasketShoulders_Barrage.shortDescription>
+
+  <VFEP_WarcasketShoulders_Barrage.VFEPirates.verbs.grenade_barrage.label>グレネード発射</VFEP_WarcasketShoulders_Barrage.VFEPirates.verbs.grenade_barrage.label>
+
+
+  <!-- hazard warcasket -->
+
+  <VFEP_Warcasket_Hazard.label>ハザード ウォーキャスケット</VFEP_Warcasket_Hazard.label>
+  <VFEP_Warcasket_Hazard.description>通常と同じくらいの重量で優れた保護性能を実現した特殊なウォーキャスケットアーマーです.難燃性の加工が施されています.\n\n第7世代のウォーキャスケットは,基本性能のさらなる向上が望めず.代わりに「優れた互換性と,一式揃えることによって効果的に機能する」デザインに重点を置いて開発されました.また,調達や略奪で頻繁に登場するプラスチールを初めて材料に取り入れました.\n\n「ハザード」は,第7世代ウォーキャスケットの先駆けとも言える存在で,実用性を重視して設計されています.灼熱の地獄や過剰な放射線をものともせず,戦場の残骸をかき集めたり,艦内の原子炉に負荷をかけたりすることができます.皮肉なことに,これに搭乗する操縦者の口癖は「ナパームの匂いは好きだ.金の匂いがする」だったそうです.</VFEP_Warcasket_Hazard.description>
+
+  <VFEP_Warcasket_Hazard.shortDescription>通常と同じくらいの重量で優れた保護性能を実現した特殊なウォーキャスケットアーマーです.難燃性の加工が施されています.</VFEP_Warcasket_Hazard.shortDescription>
+
+
+  <VFEP_WarcasketShoulders_Hazard.label>ハザード ウォーキャスケット 肩甲</VFEP_WarcasketShoulders_Hazard.label>
+  <VFEP_WarcasketShoulders_Hazard.description>通常と同じくらいの重量で優れた保護性能を実現した特殊なウォーキャスケットの肩甲です.難燃性の加工が施されています.\n\n第7世代のウォーキャスケットは,基本性能のさらなる向上が望めず.代わりに「優れた互換性と,一式揃えることによって効果的に機能する」デザインに重点を置いて開発されました.また,調達や略奪で頻繁に登場するプラスチールを初めて材料に取り入れました.\n\n「ハザード」は,第7世代ウォーキャスケットの先駆けとも言える存在で,実用性を重視して設計されています.灼熱の地獄や過剰な放射線をものともせず,戦場の残骸をかき集めたり,艦内の原子炉に負荷をかけたりすることができます.皮肉なことに,これに搭乗する操縦者の口癖は「ナパームの匂いは好きだ.金の匂いがする」だったそうです.</VFEP_WarcasketShoulders_Hazard.description>
+
+  <VFEP_WarcasketShoulders_Hazard.shortDescription>通常と同じくらいの重量で優れた保護性能を実現した特殊なウォーキャスケットの肩甲です.難燃性の加工が施されています.</VFEP_WarcasketShoulders_Hazard.shortDescription>
+
+
+  <!-- shock warcasket -->
+
+  <VFEP_Warcasket_Shock.label>ショック ウォーキャスケット</VFEP_Warcasket_Shock.label>
+  <VFEP_Warcasket_Shock.description>重量が増した代わりに優れた保護性能を実現した特殊なウォーキャスケットアーマーです.衝撃緩和装置と背面の大型推進エンジンが搭載されています.\n\n第7世代のウォーキャスケットは,基本性能のさらなる向上が望めず.代わりに「優れた互換性と,一式揃えることによって効果的に機能する」デザインに重点を置いて開発されました.また,調達や略奪で頻繁に登場するプラスチールを初めて材料に取り入れました.\n\n「ショック」は,エアリアルとは異なり,ジャンプしながら移動するのではなく,実質的に軌道上から敵の基地のど真ん中に着陸することが目的でした.ウォーキャスケット専用ブロードソードと一緒に装備することが多く,近接戦闘を得意とする一方で,敵の銃弾の雨という歓迎も受けることになるでしょう.そして彼らは「お前たち全員,俺と一緒にここに閉じ込められるんだ」と雄叫びをあげていたそうです.</VFEP_Warcasket_Shock.description>
+
+  <VFEP_Warcasket_Shock.comps.CompReloadable.chargeNoun>ジャンプ</VFEP_Warcasket_Shock.comps.CompReloadable.chargeNoun>
+  
+  <VFEP_Warcasket_Shock.shortDescription>重量が増した代わりに優れた保護性能を実現した特殊なウォーキャスケットアーマーです.衝撃緩和装置と背面の大型推進エンジンが搭載されています.</VFEP_Warcasket_Shock.shortDescription>
+
+
+
+  <VFEP_WarcasketShoulders_Shock.label>ショック ウォーキャスケット 肩甲</VFEP_WarcasketShoulders_Shock.label>
+  <VFEP_WarcasketShoulders_Shock.description>通常と同じくらいの重量で優れた保護性能を実現した特殊なウォーキャスケットの肩甲です.搭載された照準コンピュータにより,近接戦闘時の正確さと回避の両方を支援することができます.\n\n第7世代のウォーキャスケットは,基本性能のさらなる向上が望めず.代わりに「優れた互換性と,一式揃えることによって効果的に機能する」デザインに重点を置いて開発されました.また,調達や略奪で頻繁に登場するプラスチールを初めて材料に取り入れました.\n\n「ショック」は,エアリアルとは異なり,ジャンプしながら移動するのではなく,実質的に軌道上から敵の基地のど真ん中に着陸することが目的でした.ウォーキャスケット専用ブロードソードと一緒に装備することが多く,近接戦闘を得意とする一方で,敵の銃弾の雨という歓迎も受けることになるでしょう.そして彼らは「お前たち全員,俺と一緒にここに閉じ込められるんだ」と雄叫びをあげていたそうです.</VFEP_WarcasketShoulders_Shock.description>
+
+  <VFEP_WarcasketShoulders_Shock.shortDescription>通常と同じくらいの重量で優れた保護性能を実現した特殊なウォーキャスケットの肩甲です.搭載された照準コンピュータにより,近接戦闘時の正確さと回避の両方を支援することができます.</VFEP_WarcasketShoulders_Shock.shortDescription>
+
+
+  <!-- UPDATE -->
+
+  <VFEP_Warcasket_Siegebreaker.label>シージブレイカー ウォーキャスケット</VFEP_Warcasket_Siegebreaker.label>
+  <VFEP_Warcasket_Siegebreaker.description>標準的な保護性能を実現した宇宙技術の特殊なウォーキャスケットアーマーです.改良型シールド・コンデンサが搭載されているため,持久力に優れています.\n\n第10のウォーキャスケットは,政府の軍事研究部門によって,鹵獲された海賊船を基に,先進的なパワーアーマーを作る目的で開発されました.また,多くの高品質な資源を確保することができた上で,他の手段では戦力になり得ないベテラン兵士にこれらを装備させることを目的として,単独で運用可能な宇宙戦艦の開発も行われました.さらに,アーマーの汎用性が飛躍的に向上したことで,世代を超えてさまざまな種類のアーマーパーツを組み合わせることが規制の緩和によって可能になりました.\n\n「シージブレイカー」は,戦場での生存率を向上させるために,コンデンサや充電コンジットが改良され,遠距離攻撃に対する防御に重点を置いて設計されています.比較的シンプルな改良であるため,優れた防御力を発揮しながらも範囲内に大量の火力を配置するのに適しており,敵に対して柔軟に陣形を変更することができます.
+</VFEP_Warcasket_Siegebreaker.description>
+
+  <VFEP_Warcasket_Siegebreaker.shortDescription>標準的な保護性能を実現した宇宙技術の特殊なウォーキャスケットアーマーです.改良型シールド・コンデンサが搭載されているため,持久力に優れています.</VFEP_Warcasket_Siegebreaker.shortDescription>
+  
+  
+
+  <VFEP_WarcasketShoulders_Siegebreaker.label>シージブレイカー ウォーキャスケット 肩甲</VFEP_WarcasketShoulders_Siegebreaker.label>
+  <VFEP_WarcasketShoulders_Siegebreaker.description>標準的な保護性能を実現した宇宙技術の特殊なウォーキャスケットの肩甲です.シールドのリチャージ速度を向上させる改良型パワーコンジットが搭載されています.\n\n第10のウォーキャスケットは,政府の軍事研究部門によって,鹵獲された海賊船を基に,先進的なパワーアーマーを作る目的で開発されました.また,多くの高品質な資源を確保することができた上で,他の手段では戦力になり得ないベテラン兵士にこれらを装備させることを目的として,単独で運用可能な宇宙戦艦の開発も行われました.さらに,アーマーの汎用性が飛躍的に向上したことで,世代を超えてさまざまな種類のアーマーパーツを組み合わせることが規制の緩和によって可能になりました.\n\n「シージブレイカー」は,戦場での生存率を向上させるために,コンデンサや充電コンジットが改良され,遠距離攻撃に対する防御に重点を置いて設計されています.比較的シンプルな改良であるため,優れた防御力を発揮しながらも範囲内に大量の火力を配置するのに適しており,敵に対して柔軟に陣形を変更することができます.
+</VFEP_WarcasketShoulders_Siegebreaker.description>
+
+  <VFEP_WarcasketShoulders_Siegebreaker.shortDescription>標準的な保護性能を実現した宇宙技術の特殊なウォーキャスケットの肩甲です.シールドのリチャージ速度を向上させる改良型パワーコンジットが搭載されています.</VFEP_WarcasketShoulders_Siegebreaker.shortDescription>
+  
+
+  <VFEP_Warcasket_Guardian.label>ガーディアン ウォーキャスケット</VFEP_Warcasket_Guardian.label>
+  <VFEP_Warcasket_Guardian.description>衝撃分散性を向上させた宇宙技術の特殊なウォーキャスケットアーマーです.味方のサポートするための強力なローシールドが搭載されています.\n\n第10のウォーキャスケットは,政府の軍事研究部門によって,鹵獲された海賊船を基に,先進的なパワーアーマーを作る目的で開発されました.また,多くの高品質な資源を確保することができた上で,他の手段では戦力になり得ないベテラン兵士にこれらを装備させることを目的として,単独で運用可能な宇宙戦艦の開発も行われました.さらに,アーマーの汎用性が飛躍的に向上したことで,世代を超えてさまざまな種類のアーマーパーツを組み合わせることが規制の緩和によって可能になりました.\n\n「ガーディアン」は,より高いアーマー貫通に対する防護力を持ち,近くの味方のために"移動できる再利用可能な小型シールド"としても機能します.このため,単独行動あるいは少数の目標に対して運用する場合にはやや物足りず,逆に大規模なグループと協力して単一の武器を使用するようなターゲットとの戦闘には優れています.</VFEP_Warcasket_Guardian.description>
+  
+  <VFEP_Warcasket_Guardian.shortDescription>衝撃分散性を向上させた宇宙技術の特殊なウォーキャスケットアーマーです.味方のサポートするための強力なローシールドが搭載されています.</VFEP_Warcasket_Guardian.shortDescription>
+
+  <VFEP_WarcasketShoulders_Guardian.label>ガーディアン ウォーキャスケット 肩甲</VFEP_WarcasketShoulders_Guardian.label>
+  <VFEP_WarcasketShoulders_Guardian.description>衝撃分散性を向上させた宇宙技術の特殊なウォーキャスケットの肩甲です.大型の電磁波モジュールが搭載されているため,衝撃を完全に緩和することがあります.\n\n第10のウォーキャスケットは,政府の軍事研究部門によって,鹵獲された海賊船を基に,先進的なパワーアーマーを作る目的で開発されました.また,多くの高品質な資源を確保することができた上で,他の手段では戦力になり得ないベテラン兵士にこれらを装備させることを目的として,単独で運用可能な宇宙戦艦の開発も行われました.さらに,アーマーの汎用性が飛躍的に向上したことで,世代を超えてさまざまな種類のアーマーパーツを組み合わせることが規制の緩和によって可能になりました.\n\n「ガーディアン」は,より高いアーマー貫通に対する防護力を持ち,近くの味方のために"移動できる再利用可能な小型シールド"としても機能します.このため,単独行動あるいは少数の目標に対して運用する場合にはやや物足りず,逆に大規模なグループと協力して単一の武器を使用するようなターゲットとの戦闘には優れています.</VFEP_WarcasketShoulders_Guardian.description>
+  
+  <VFEP_WarcasketShoulders_Guardian.shortDescription>衝撃分散性を向上させた宇宙技術の特殊なウォーキャスケットの肩甲です.大型の電磁波モジュールが搭載されているため,衝撃を完全に緩和することがあります.</VFEP_WarcasketShoulders_Guardian.shortDescription>
+  
+
+  <VFEP_Warcasket_Controller.label>コントローラー ウォーキャスケット</VFEP_Warcasket_Controller.label>
+  <VFEP_Warcasket_Controller.description>標準的な保護性能を実現した宇宙技術の特殊なウォーキャスケットアーマーです.戦闘用ドローンの展開と制御が可能なモジュールが搭載されています.\n\n第10のウォーキャスケットは,政府の軍事研究部門によって,鹵獲された海賊船を基に,先進的なパワーアーマーを作る目的で開発されました.また,多くの高品質な資源を確保することができた上で,他の手段では戦力になり得ないベテラン兵士にこれらを装備させることを目的として,単独で運用可能な宇宙戦艦の開発も行われました.さらに,アーマーの汎用性が飛躍的に向上したことで,世代を超えてさまざまな種類のアーマーパーツを組み合わせることが規制の緩和によって可能になりました.\n\n「コントローラー」は,AIによる半自立型ドローンを運用するための演算処理技術がふんだんに取り入れられています.パワーコアは生産モジュールには対応できないものの,このシリーズは敵を圧倒できるほどの火力を瞬時に展開し,勝算を高め,より有利な位置に再配置できるだけの気晴らしを提供することができます.コントローラは,先進コンポーネントを補給する余裕のある場所で非常によく機能します.</VFEP_Warcasket_Controller.description>
+  <VFEP_Warcasket_Controller.verbs.0.label>ドローン展開</VFEP_Warcasket_Controller.verbs.0.label>
+  <VFEP_Warcasket_Controller.comps.CompReloadable.chargeNoun>ドローン</VFEP_Warcasket_Controller.comps.CompReloadable.chargeNoun>
+  
+  
+  <VFEP_Warcasket_Controller.shortDescription>標準的な保護性能を実現した宇宙技術の特殊なウォーキャスケットアーマーです.戦闘用ドローンの展開と制御が可能なモジュールが搭載されています.</VFEP_Warcasket_Controller.shortDescription>
+  
+
+  <VFEP_WarcasketShoulders_Controller.label>コントローラー ウォーキャスケット 肩甲</VFEP_WarcasketShoulders_Controller.label>
+  <VFEP_WarcasketShoulders_Controller.description>標準的な保護性能を実現した宇宙技術の特殊なウォーキャスケットの肩甲です.自立型のスパイダーマインの展開が可能なモジュールが搭載されています.\n\n第10のウォーキャスケットは,政府の軍事研究部門によって,鹵獲された海賊船を基に,先進的なパワーアーマーを作る目的で開発されました.また,多くの高品質な資源を確保することができた上で,他の手段では戦力になり得ないベテラン兵士にこれらを装備させることを目的として,単独で運用可能な宇宙戦艦の開発も行われました.さらに,アーマーの汎用性が飛躍的に向上したことで,世代を超えてさまざまな種類のアーマーパーツを組み合わせることが規制の緩和によって可能になりました.\n\n「コントローラー」は,AIによる半自立型ドローンを運用するための演算処理技術がふんだんに取り入れられています.パワーコアは生産モジュールには対応できないものの,このシリーズは敵を圧倒できるほどの火力を瞬時に展開し,勝算を高め,より有利な位置に再配置できるだけの気晴らしを提供することができます.コントローラは,先進コンポーネントを補給する余裕のある場所で非常によく機能します.</VFEP_WarcasketShoulders_Controller.description>
+  <VFEP_WarcasketShoulders_Controller.verbs.0.label>スパイダーマイン展開</VFEP_WarcasketShoulders_Controller.verbs.0.label>
+  <VFEP_WarcasketShoulders_Controller.comps.CompReloadable.chargeNoun>スパイダーマイン</VFEP_WarcasketShoulders_Controller.comps.CompReloadable.chargeNoun>
+  
+  
+  <VFEP_WarcasketShoulders_Controller.shortDescription>標準的な保護性能を実現した宇宙技術の特殊なウォーキャスケットの肩甲です.自立型のスパイダーマインの展開が可能なモジュールが搭載されています.</VFEP_WarcasketShoulders_Controller.shortDescription>
+  
+
+  <VFEP_Warcasket_Sarcophagus.label>サルコファガス ウォーキャスケット</VFEP_Warcasket_Sarcophagus.label>
+  <VFEP_Warcasket_Sarcophagus.description>標準的な保護性能を実現した宇宙技術の特殊なウォーキャスケットアーマーです.パイロットの血液をろ過する機能,血液を循環させる機能,代謝機能,移動機能などを持つバイオニクス技術が搭載されています.\n\n第10のウォーキャスケットは,政府の軍事研究部門によって,鹵獲された海賊船を基に,先進的なパワーアーマーを作る目的で開発されました.また,多くの高品質な資源を確保することができた上で,他の手段では戦力になり得ないベテラン兵士にこれらを装備させることを目的として,単独で運用可能な宇宙戦艦の開発も行われました.さらに,アーマーの汎用性が飛躍的に向上したことで,世代を超えてさまざまな種類のアーマーパーツを組み合わせることが規制の緩和によって可能になりました.\n\n「サルコファガス」は,その使用をめぐって数々の議論や騒動が起こるなど,非常にデリケートな問題を抱えています.そのため,退役軍人だけでなく,囚人や障がい者,あるいは生きる権利を奪われた奴隷などに使用されてきました.一般的に,一度この機体に組み込まれた者は,その機体が完全に破壊されるまで内部で生き続けることになります.</VFEP_Warcasket_Sarcophagus.description>
+  
+  <VFEP_Warcasket_Sarcophagus.shortDescription>標準的な保護性能を実現した宇宙技術の特殊なウォーキャスケットアーマーです.パイロットの代わりに血液をろ過する機能,血液を循環させる機能,代謝機能,移動機能などのバイオニクス技術が搭載されています.</VFEP_Warcasket_Sarcophagus.shortDescription>
+  
+
+  <VFEP_WarcasketShoulders_Sarcophagus.label>サルコファガス ウォーキャスケット 肩甲</VFEP_WarcasketShoulders_Sarcophagus.label>
+  <VFEP_WarcasketShoulders_Sarcophagus.description>標準的な保護性能を実現した宇宙技術の特殊なウォーキャスケットの肩甲です.パイロットのマニピュレーション機能を代替するバイオニクス技術が搭載されています.\n\n第10のウォーキャスケットは,政府の軍事研究部門によって,鹵獲された海賊船を基に,先進的なパワーアーマーを作る目的で開発されました.また,多くの高品質な資源を確保することができた上で,他の手段では戦力になり得ないベテラン兵士にこれらを装備させることを目的として,単独で運用可能な宇宙戦艦の開発も行われました.さらに,アーマーの汎用性が飛躍的に向上したことで,世代を超えてさまざまな種類のアーマーパーツを組み合わせることが規制の緩和によって可能になりました.\n\n「サルコファガス」は,その使用をめぐって数々の議論や騒動が起こるなど,非常にデリケートな問題を抱えています.そのため,退役軍人だけでなく,囚人や障がい者,あるいは生きる権利を奪われた奴隷などに使用されてきました.一般的に,一度この機体に組み込まれた者は,その機体が完全に破壊されるまで内部で生き続けることになります.</VFEP_WarcasketShoulders_Sarcophagus.description>
+  
+  <VFEP_WarcasketShoulders_Sarcophagus.shortDescription>標準的な保護性能を実現した宇宙技術の特殊なウォーキャスケットの肩甲です.パイロットの代わりにマニピュレーション機能を働かせることが可能なバイオニクス技術が搭載されています.</VFEP_WarcasketShoulders_Sarcophagus.shortDescription>
+
+  <VFEP_Warcasket_Brute.label>ブルート ウォーキャスケット</VFEP_Warcasket_Brute.label>
+  <VFEP_Warcasket_Brute.description>衝撃分散性を向上させた宇宙技術の特殊なウォーキャスケットアーマーです.高性能な大型コンデンサーによるシールド機能が搭載されています.\n\n第10のウォーキャスケットは,政府の軍事研究部門によって,鹵獲された海賊船を基に,先進的なパワーアーマーを作る目的で開発されました.また,多くの高品質な資源を確保することができた上で,他の手段では戦力になり得ないベテラン兵士にこれらを装備させることを目的として,単独で運用可能な宇宙戦艦の開発も行われました.さらに,アーマーの汎用性が飛躍的に向上したことで,世代を超えてさまざまな種類のアーマーパーツを組み合わせることが規制の緩和によって可能になりました.\n\n「ブルート」は,最新鋭のシールドモジュールと大型のコンデンサーを豊富に搭載しています.このシリーズ特有のシールドは,遠距離武器を発射することはできないものの,その代わりに敵の遠距離攻撃と近接攻撃を同時に防ぐことができます.その代償として,キャパシターの搭載数が多いために充電速度は非常に遅いという欠点があります.そのような場合,ブルートはすぐに近接戦闘で敵を一網打尽にする必要があり,もし自分に直接的な危険が及ばないのであれば,シールドさえも爆発させることができます.</VFEP_Warcasket_Brute.description>
+  
+
+  <VFEP_Warcasket_Brute.shortDescription>衝撃分散性を向上させた宇宙技術の特殊なウォーキャスケットアーマーです.高性能な大型コンデンサーによるシールド機能が搭載されています.</VFEP_Warcasket_Brute.shortDescription>
+
+  <VFEP_WarcasketShoulders_Brute.label>ブルート ウォーキャスケット 肩甲</VFEP_WarcasketShoulders_Brute.label>
+  <VFEP_WarcasketShoulders_Brute.description>衝撃分散性を向上させた宇宙技術の特殊なウォーキャスケットの肩甲です.追加のコンデンサバンクと近接攻撃を補助するモジュールが搭載されています.\n\n第10のウォーキャスケットは,政府の軍事研究部門によって,鹵獲された海賊船を基に,先進的なパワーアーマーを作る目的で開発されました.また,多くの高品質な資源を確保することができた上で,他の手段では戦力になり得ないベテラン兵士にこれらを装備させることを目的として,単独で運用可能な宇宙戦艦の開発も行われました.さらに,アーマーの汎用性が飛躍的に向上したことで,世代を超えてさまざまな種類のアーマーパーツを組み合わせることが規制の緩和によって可能になりました.\n\n「ブルート」は,最新鋭のシールドモジュールと大型のコンデンサーを豊富に搭載しています.このシリーズ特有のシールドは,遠距離武器を発射することはできないものの,その代わりに敵の遠距離攻撃と近接攻撃を同時に防ぐことができます.その代償として,キャパシターの搭載数が多いために充電速度は非常に遅いという欠点があります.そのような場合,ブルートはすぐに近接戦闘で敵を一網打尽にする必要があり,もし自分に直接的な危険が及ばないのであれば,シールドさえも爆発させることができます.</VFEP_WarcasketShoulders_Brute.description>
+  
+  <VFEP_WarcasketShoulders_Brute.shortDescription>衝撃分散性を向上させた宇宙技術の特殊なウォーキャスケットの肩甲です.追加のコンデンサバンクと近接攻撃を補助するモジュールが搭載されています.</VFEP_WarcasketShoulders_Brute.shortDescription>
+
+</LanguageData>

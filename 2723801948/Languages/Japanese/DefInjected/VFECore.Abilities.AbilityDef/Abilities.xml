@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_GrapplingHook.label>グラップリング フック</VFEP_GrapplingHook.label>
+  <VFEP_GrapplingHook.description>フックを壁や岩などに撃ち込み,ロープを使って目的の場所にすばやく移動します.弾を消費しませんが,発射後にフックの準備を手動で実行する必要があります.</VFEP_GrapplingHook.description>
+
+  <VFEP_GrapplingHook.jobReportString>能力を使用: {0}</VFEP_GrapplingHook.jobReportString>
+  <VFEP_GrapplingHook.modExtensions.0.labelUnloaded>グラップリングフックを準備する</VFEP_GrapplingHook.modExtensions.0.labelUnloaded>
+  <VFEP_GrapplingHook.verbProperties.label>グラップリング フック</VFEP_GrapplingHook.verbProperties.label>
+
+  <VFEP_SiegeMode.label>包囲モード</VFEP_SiegeMode.label>
+  <VFEP_SiegeMode.description>足を地面に埋め込み,体を固定し,射撃時の安定性を高めます.静止することで砲兵となり,攻撃範囲とリロード効率が飛躍的に向上します.</VFEP_SiegeMode.description>
+
+
+  <VFEP_SiegeMode.jobReportString>能力を使用: {0}</VFEP_SiegeMode.jobReportString>
+  <VFEP_SiegeMode.verbProperties.label>包囲モード</VFEP_SiegeMode.verbProperties.label>
+
+  <VFEP_PowerJump.jobReportString>能力を使用: {0}</VFEP_PowerJump.jobReportString>
+  <VFEP_PowerJump.verbProperties.label>パワージャンプ</VFEP_PowerJump.verbProperties.label>
+
+  <VFEP_PowerJump.label>パワージャンプ</VFEP_PowerJump.label>
+  <VFEP_PowerJump.description>肩に搭載されたジャンプパックを噴射させて短距離を飛行します.開始時と終了時の両方で小さな爆発を起こすので注意してください.</VFEP_PowerJump.description>
+
+  <VFEP_BlastOff.label>打ち上げ</VFEP_BlastOff.label>
+  <VFEP_BlastOff.description>アーマーの背中に搭載された大型推進エンジンを噴射させてワールドマップ上の任意の場所に着陸します.到着時に大爆発を起こすので注意してください.また,帰るために必要な燃料を確保できずに立ち往生する恐れがあります.</VFEP_BlastOff.description>
+
+  <VFEP_BlastOff.jobReportString>能力を使用: {0}</VFEP_BlastOff.jobReportString>
+
+  <VFEP_BlastOff.verbProperties.label>打ち上げ</VFEP_BlastOff.verbProperties.label>
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wardrone -->
+
+  <VFEP_Mech_Wardrone.label>ウォードローン</VFEP_Mech_Wardrone.label>
+  <VFEP_Mech_Wardrone.description>戦闘機能が限定された半自立型の戦闘ドローンです.リコイル抑制のために軽量のセミオートマチック・ミニタレットが搭載されています.また,敵からの捕獲や近接攻撃への対策として,自爆するように設計されています.</VFEP_Mech_Wardrone.description>
+  <VFEP_Mech_Wardrone.tools.0.label>タレット</VFEP_Mech_Wardrone.tools.0.label>
+
+  <VFEP_Mech_Spidermine.label>スパイダードローン</VFEP_Mech_Spidermine.label>
+  <VFEP_Mech_Spidermine.description>経路探索機能を搭載した半自立型の戦闘ドローンです.発射された後,敵対するターゲットを探し出すように設計されています.また,近くの標的を捕捉できない場合,事故を防ぐために直ちに自爆します.</VFEP_Mech_Spidermine.description>
+  <VFEP_Mech_Spidermine.tools.0.label>フレーム</VFEP_Mech_Spidermine.tools.0.label>
+
+
+</LanguageData>

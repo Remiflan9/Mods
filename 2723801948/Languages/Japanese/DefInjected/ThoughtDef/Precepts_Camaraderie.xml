@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VFEP_Camaraderie_Respected_CrewDead.stages.0.label>仲間を失った</VFEP_Camaraderie_Respected_CrewDead.stages.0.label>
+  <VFEP_Camaraderie_Respected_CrewDead.stages.0.description>私たちの仲間を失った.なんて悲しい日なんだろう.</VFEP_Camaraderie_Respected_CrewDead.stages.0.description>
+
+  <VFEP_Camaraderie_Respected_Memory.stages.0.label>仲間と交流した</VFEP_Camaraderie_Respected_Memory.stages.0.label>
+  <VFEP_Camaraderie_Respected_Memory.stages.0.description>仲間と付き合うことで,絆が深まった.</VFEP_Camaraderie_Respected_Memory.stages.0.description>
+
+  <VFEP_Camaraderie_Exalted_CrewDead.stages.0.label>仲間を失った</VFEP_Camaraderie_Exalted_CrewDead.stages.0.label>
+  <VFEP_Camaraderie_Exalted_CrewDead.stages.0.description>仲間を一人失った.このことを他の者と分かち合わなければならない.</VFEP_Camaraderie_Exalted_CrewDead.stages.0.description>
+
+  <VFEP_Camaraderie_Exalted_Memory.stages.0.label>仲間と交流した</VFEP_Camaraderie_Exalted_Memory.stages.0.label>
+  <VFEP_Camaraderie_Exalted_Memory.stages.0.description>仲間と付き合った.私たちは無敵だ!</VFEP_Camaraderie_Exalted_Memory.stages.0.description>
+
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.0.label>一緒に困難を乗り越えてきた仲間だ!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.0.label>
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.1.label>一緒に困難を乗り越えてきた仲間だ!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.1.label>
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.2.label>一緒に困難を乗り越えてきた仲間だ!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.2.label>
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.3.label>一緒に困難を乗り越えてきた仲間だ!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.3.label>
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.4.label>一緒に困難を乗り越えてきた仲間だ!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.4.label>
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.5.label>一緒に困難を乗り越えてきた仲間だ!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.5.label>
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.6.label>一緒に困難を乗り越えてきた仲間だ!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.6.label>
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.7.label>一緒に困難を乗り越えてきた仲間だ!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.7.label>
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.8.label>一緒に困難を乗り越えてきた仲間だ!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.8.label>
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.9.label>一緒に困難を乗り越えてきた仲間だ!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.9.label>
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.10.label>一緒に困難を乗り越えてきた仲間だ!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.10.label>
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.11.label>一緒に困難を乗り越えてきた仲間だ!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.11.label>
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.12.label>一緒に困難を乗り越えてきた仲間だ!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.12.label>
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.13.label>一緒に困難を乗り越えてきた仲間だ!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.13.label>
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.14.label>一緒に困難を乗り越えてきた仲間だ!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.14.label>
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.15.label>一緒に困難を乗り越えてきた仲間だ!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.15.label>
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.16.label>一緒に困難を乗り越えてきた仲間だ!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.16.label>
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.17.label>一緒に困難を乗り越えてきた仲間だ!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.17.label>
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.18.label>一緒に困難を乗り越えてきた仲間だ!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.18.label>
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.19.label>一緒に困難を乗り越えてきた仲間だ!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.19.label>
+
+
+</LanguageData>

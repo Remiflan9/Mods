@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- General -->
+
+  <VFEP_EntombIn.reportString>ウォーキャスケットと接続中</VFEP_EntombIn.reportString>
+  <VFEP_DoWelding.reportString>TargetAでTargetBを溶接中</VFEP_DoWelding.reportString>
+  <VFEP_EquipFromWeaponBox.reportString>TargetAを装備中</VFEP_EquipFromWeaponBox.reportString>
+
+
+</LanguageData>

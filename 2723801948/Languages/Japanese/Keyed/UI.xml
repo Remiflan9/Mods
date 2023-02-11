@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEP.ChooseCurses>あなたにかける呪いを選択してください</VFEP.ChooseCurses>
+  <VFEP.ChooseCurses.Desc>呪いの数に応じてストーリーテラーが希望するポーンの最大人数が増え,大きな脅威となるイベントの発生頻度を下げることができます.</VFEP.ChooseCurses.Desc>
+  <VFEP.DesiredPopMax>望ましい最大人数: {0}</VFEP.DesiredPopMax>
+  <VFEP.DaysBigThreats>大きな脅威までの日数: {0}</VFEP.DaysBigThreats>
+  <VFEP.WarcasketCustom>ウォーキャスケットのカスタム</VFEP.WarcasketCustom>
+  <VFEP.WarcasketText>受諾ボタンを押すと,工芸に割り当てられた入植者がフレームに資源を運搬し,溶接を開始します.
+作業速度は工芸スキルの値によって決定します.
+作業が完了するとウォーキャスケットと共にポーンが装置から出てきます.
+ポーンが装置に入ってる間は,自力で食事することができないため,なるべく早めに終わらせましょう.</VFEP.WarcasketText>
+  <VFEP.WorkAmount>作業量:</VFEP.WorkAmount>
+  <VFEP.Crafter>担当者:</VFEP.Crafter>
+  <VFEP.Helmet>ヘルメット:</VFEP.Helmet>
+  <VFEP.Shoulderpads>肩甲:</VFEP.Shoulderpads>
+  <VFEP.ArmorFrame>アーマーフレーム:</VFEP.ArmorFrame>
+  <VFEP.TotalCost>総費用:</VFEP.TotalCost>
+  <VFEP.ResourceCost>必要な材料:</VFEP.ResourceCost>
+  <VFEP.ResearchText>ウォーキャスケットの研究を完了させると,新たなパーツがアンロックされます.</VFEP.ResearchText>
+  <VFEP.NoWarcaskets>ウォーキャスケットの研究を完了させて装置の使用方法を学んでください.</VFEP.NoWarcaskets>
+  <VFEP.NotEnoughFuel>パワージャンプに必要な化学燃料が足りません.</VFEP.NotEnoughFuel>
+  <VFEP.SiegeModeOff>包囲モード無効</VFEP.SiegeModeOff>
+  <VFEP.SiegeModeOn>包囲モード有効</VFEP.SiegeModeOn>
+  <VFEPirates.CannotEntomb>ウォーキャスケットと接続できない: {0}</VFEPirates.CannotEntomb>
+  <VFEPirates.EntombInWarcasket>ウォーキャスケットに接続する</VFEPirates.EntombInWarcasket>
+  <VFEP.EntombInIncapableOfViolenceWarning> (警告: {PAWN_nameDef}は戦闘できないため,役に立ちません.)</VFEP.EntombInIncapableOfViolenceWarning>
+
+  <VEF.Hire>宙賊({0})を雇う</VEF.Hire>
+
+  <VEF.HiringDesc>期間を問わず宙賊({0})を雇うことができます.一度に有効にできる契約は1つのみで,採用する派閥を複数同時に雇うことはできません.\n雇用された宙賊({0})が勤務中に死亡した場合,今後1年間のすべての契約において,死亡した宙賊1人あたりの契約費用の5%が追加費用として上乗せされます.</VEF.HiringDesc>
+  
+    <VFEP.ActivateShield>シールドを有効にする</VFEP.ActivateShield>
+  <VFEP.ActivateShieldDesc>クリックするとシールドフィールドを10秒間展開します.再発動には90秒のクールダウンが必要になります.</VFEP.ActivateShieldDesc>
+  <VFEP.DeployWarDrone>背面のドッキングポートから戦闘可能な小型ドローンを展開します.これらのドローンは自由に操作して射撃支援を行うことができますが,60秒後に自爆します.</VFEP.DeployWarDrone>
+  <VFEP.DeploySpidermineDesc>遠距離からスパイダーマインを発射します.最も近い敵に向かって自動追尾し,敵に到達すると爆発します.</VFEP.DeploySpidermineDesc>
+  <VFEP.Cancel>中止</VFEP.Cancel>
+
+</LanguageData>

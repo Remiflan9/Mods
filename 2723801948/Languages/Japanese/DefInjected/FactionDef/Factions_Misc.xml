@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Pirate.pawnSingular>宙賊</Pirate.pawnSingular>
+
+  <VFEP_Junkers.label>装甲賊</VFEP_Junkers.label>
+  <VFEP_Junkers.description>外敵との戦いを目的に相互不戦同盟をゆるく結んだ宙賊の集団です.
+宙賊は種をまかず,建物を造らず,取引もめったにしません.個人的武勇と冷酷さを重んじる血と名誉の文化に駆り立てられ,彼らはより生産的な隣人を襲撃し,略奪によって自らの富を膨らませます.
+装甲賊はウォーキャスケットの技術を使ったアーマーを好み,自分たちを金属の型に封じ込め,そして襲撃と略奪を繰り返し,その生涯を終えます.彼らは近接武器をほとんど使わず,敵との距離を保ち,強力なウォーキャスケットの兵器をフルに活用することを好みます.</VFEP_Junkers.description>
+  <VFEP_Junkers.pawnsPlural>装甲賊ども</VFEP_Junkers.pawnsPlural>
+  <VFEP_Junkers.pawnSingular>装甲賊</VFEP_Junkers.pawnSingular>
+  <VFEP_Junkers.leaderTitle>統治者</VFEP_Junkers.leaderTitle>
+
+  <VFEP_Mercenaries.label>傭兵</VFEP_Mercenaries.label>
+  <VFEP_Mercenaries.description>政治家や大企業に認可され,ほぼ合法的に統治されている準軍事組織です.
+傭兵は種をまかず,建物を造らず,取引もめったにしません.個人的武勇と冷酷さを重んじる血と名誉の文化に駆り立てられ,彼らはより生産的な隣人を襲撃し,略奪によって自らの富を膨らませます.
+傭兵は宇宙時代の技術による武器や装甲を駆使して,企業支配者の標的を排除します.他の宙賊とは異なり,傭兵は交流することで仲良くなることができますが,貿易や研究に関して提供できることはほとんどありません.</VFEP_Mercenaries.description>
+  <VFEP_Mercenaries.pawnsPlural>傭兵達</VFEP_Mercenaries.pawnsPlural>
+  <VFEP_Mercenaries.pawnSingular>傭兵</VFEP_Mercenaries.pawnSingular>
+  <VFEP_Mercenaries.leaderTitle>将軍</VFEP_Mercenaries.leaderTitle>
+
+
+</LanguageData>

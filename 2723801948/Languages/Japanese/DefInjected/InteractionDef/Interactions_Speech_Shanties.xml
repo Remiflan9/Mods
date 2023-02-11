@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_Speech_Shanties.label>シーシャンティの合唱</VFEP_Speech_Shanties.label>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]は[speechtopic][spokeof].</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.0>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.1>speechtopic->壊血病にならないために[Vegetable]を食べることについて</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.1>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.2>speechtopic->[AdjectiveFriendly]略奪について</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.2>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.3>speechtopic->[AnimalBadass]からタンパク質を摂ることについて</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.3>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.4>speechtopic->[Game]は仲間たちとの試練であることについて</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.4>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.5>speechtopic->襲撃で[Weapon]を使うことについて</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.5>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.6>speechtopic->[TerrainFeature]と[TerrainFeature]の環境を利用した略奪行為について</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.6>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.7>speechtopic->一人一人が[PersonFamily]であり[PersonFamily]であることについて</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.7>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.8>speechtopic->自分たちにとって[PersonJob]は必要であることについて</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.8>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.9>speechtopic->[PersonBadass]に立ち向かうことについて</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.9>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.10>speechtopic->皆で団結して[Enemy]を倒すことについて</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.10>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.11>speechtopic->戦いのときに見た[Gore]について</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.11>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.12>speechtopic->仲間意識の高さについて</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.12>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.13>speechtopic->自分たちの絆の深さについて</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.13>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.14>speechtopic->[AdjectiveBadass]行為を避けては[AdjectiveBadass]存在になれないことについて</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.14>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.15>speechtopic->自分たちが[AdjectiveBadass]存在であることについて</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.15>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.16>speechtopic->[AdjectiveNatural][TerrainFeature]について</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.16>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.17>speechtopic->自分たちの[AdjectiveLarge]可能性について</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.17>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.18>speechtopic->自分たちの[PersonalCharacteristic]について</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.18>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.19>speechtopic->自分たちの敵の恐ろしい[PersonalCharacteristic]について</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.19>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.20>speechtopic(p=0.25)->仲間と共に団結することについて</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.20>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.21>speechtopic(p=0.25)->悲劇を乗り越えて仲間として団結することについて</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.21>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.22>speechtopic(p=0.25)->仲間とその重要性について</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.22>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.23>speechtopic(p=0.25)->無敵の生存者であることについて</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.23>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.24>speechtopic(p=0.25)->苦楽を共にする喜びについて</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.24>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.25>speechtopic(p=0.25)->自分たちの敵を討つことの動機について</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.25>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.26>speechtopic(p=0.25)->強い絆と心,そして共に働くことについて</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.26>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.27>speechtopic(p=0.25)->生き残るために弱い者を打ち負かすことについて</VFEP_Speech_Shanties.logRulesInitiator.rulesStrings.27>
+
+
+</LanguageData>

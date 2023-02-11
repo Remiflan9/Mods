@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_RumAsIngredient.label>ラム酒のカクテルを飲んだ</VFEP_RumAsIngredient.label>
+  <VFEP_RumAsIngredient.description>この入植者はラム酒を原材料のひとつとするカクテルを飲んだことにより,空腹率が15%減少します.</VFEP_RumAsIngredient.description>
+
+  <VFEP_HypothermicSlowdown.label>低体温による動作緩慢</VFEP_HypothermicSlowdown.label>
+  <VFEP_HypothermicSlowdown.description>体の中心部の体温が危険なほど低い状態です.再び体を温めないと低体温症は悪化し,死に至ります.一度でも体を温めれば,すぐに回復します.</VFEP_HypothermicSlowdown.description>
+  <VFEP_HypothermicSlowdown.stages.0.label>軽度</VFEP_HypothermicSlowdown.stages.0.label>
+  <VFEP_HypothermicSlowdown.stages.1.label>軽度</VFEP_HypothermicSlowdown.stages.1.label>
+  <VFEP_HypothermicSlowdown.stages.2.label>中程度</VFEP_HypothermicSlowdown.stages.2.label>
+  <VFEP_HypothermicSlowdown.stages.3.label>重大</VFEP_HypothermicSlowdown.stages.3.label>
+  <VFEP_HypothermicSlowdown.stages.4.label>極度</VFEP_HypothermicSlowdown.stages.4.label>
+
+  <VFEP_KillItself.label>自壊する</VFEP_KillItself.label>
+  <VFEP_KillItself.description>.</VFEP_KillItself.description>
+  <VFEP_KillItself.stages.0.label>軽度</VFEP_KillItself.stages.0.label>
+
+</LanguageData>

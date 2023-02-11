@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEI_VatGrownMonstrosity.label>培養モンストロシティ</VFEI_VatGrownMonstrosity.label>
+  <VFEI_VatGrownMonstrosity.description>失敗した実験から生まれた, 培養モンストロシティは, 全身が厚いキチンと強い筋肉で構成され, 手足を急速に再成長させることができる, ほぼ破壊できないインセクトイドです. 臓器が発達していないため, この培養器で育てられた生物は, 一度に数時間を超えて生き残ることはできませんが, その速度, 強さ, 俊敏性は, 銀河の外側の縁にある多くの研究所を終わらせるのに十分です</VFEI_VatGrownMonstrosity.description>
+  <VFEI_VatGrownMonstrosity.tools.0.label>頭爪</VFEI_VatGrownMonstrosity.tools.0.label>
+  <VFEI_VatGrownMonstrosity.tools.1.label>口器</VFEI_VatGrownMonstrosity.tools.1.label>
+  <VFEI_VatGrownMonstrosity.tools.2.label>頭</VFEI_VatGrownMonstrosity.tools.2.label>
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEI_InfestedSmallShipPartDrop.label>寄生された塊の墜落</VFEI_InfestedSmallShipPartDrop.label>
+  <VFEI_InfestedSmallShipPartDrop.letterText>古代の船のいくつかの小さな塊が近くで墜落しました.  \n有機的な集団に寄生されているようです. 奇妙な虫の音が船体の中で聞こえます.  \nできるだけ早く破壊してください.</VFEI_InfestedSmallShipPartDrop.letterText>
+  <VFEI_InfestedSmallShipPartDrop.letterLabel>寄生された塊の墜落</VFEI_InfestedSmallShipPartDrop.letterLabel>
+  <VFEI_InfestedShipPartDrop.label>寄生された船の墜落</VFEI_InfestedShipPartDrop.label>
+  <VFEI_InfestedShipPartDrop.letterText>古代の船の大きな破片が近くで墜落しました。\n有機的な集団に寄生されているようです. 奇妙な昆虫の音が船体内で聞こえます. \nできるだけ早く破壊してください.</VFEI_InfestedShipPartDrop.letterText>
+  <VFEI_InfestedShipPartDrop.letterLabel>寄生された船の墜落</VFEI_InfestedShipPartDrop.letterLabel>
+  <VFEI_InfestedShipModuleDrop.label>寄生された船モジュールの墜落</VFEI_InfestedShipModuleDrop.label>
+  <VFEI_InfestedShipModuleDrop.letterText>長く破壊された宇宙船の謎の部位が近くで墜落しました. \nバイオマスとインセクトゼリーの塊で完全に覆われているようです. この古い残骸が古代の危険を含んでいる可能性があることはかなり確実です. \nできるだけ早くそれを破壊してください.</VFEI_InfestedShipModuleDrop.letterText>
+  <VFEI_InfestedShipModuleDrop.letterLabel>寄生された船モジュールの墜落</VFEI_InfestedShipModuleDrop.letterLabel>
+  <VFEI_GiantInfestation.label>大規模な侵入</VFEI_GiantInfestation.label>
+  <VFEI_GiantInfestation.letterText>巨大な昆虫があなたに向かってトンネルを掘っています！彼らは数秒で突破し, 巣を設置します. \n\n巣はより多くの昆虫と巣を生み出します. \n\n虫を全域に寄生させたくない場合は,巣を破壊しましょう. しかし, 注意してください - 虫は彼らの家を守ります. \n\nこの蔓延はかなり大きく, 女王がいるようです！</VFEI_GiantInfestation.letterText>
+  <VFEI_GiantInfestation.letterLabel>大規模な侵入</VFEI_GiantInfestation.letterLabel>
+  <VFEI_FirstInsectoidRaid.label>レイド</VFEI_FirstInsectoidRaid.label>
+</LanguageData>

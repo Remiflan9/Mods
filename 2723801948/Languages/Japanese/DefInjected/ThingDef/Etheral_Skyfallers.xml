@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ships -->
+
+  <VFEP_Ship_Black.label>宇宙船(到着間近)</VFEP_Ship_Black.label>
+  <VFEP_Ship_Green.label>宇宙船(到着間近)</VFEP_Ship_Green.label>
+  <VFEP_Ship_Orange.label>宇宙船(到着間近)</VFEP_Ship_Orange.label>
+  <VFEP_Ship_Red.label>宇宙船(到着間近)</VFEP_Ship_Red.label>
+
+
+  <!-- Scenario side pod -->
+
+  <VFEP_SideDropPod.label>脱出ポッド(到着間近)</VFEP_SideDropPod.label>
+
+
+  <!-- Chunks base -->
+
+  <VFEP_IShipChunkDebris.label>宇宙船の残骸(到着間近)</VFEP_IShipChunkDebris.label>
+  <VFEP_IShipChunkBattery.label>宇宙船のバッテリーの残骸(到着間近)</VFEP_IShipChunkBattery.label>
+  <VFEP_IShipChunkCryptosleepCasket.label>宇宙船の耐圧冬眠カプセルの残骸(到着間近)</VFEP_IShipChunkCryptosleepCasket.label>
+  <VFEP_IShipChunkVolatileEngine.label>宇宙船の不安定なエンジン(到着間近)</VFEP_IShipChunkVolatileEngine.label>
+  <VFEP_IShipChunkFuelTank.label>宇宙船の燃料タンクの残骸(到着間近)</VFEP_IShipChunkFuelTank.label>
+  <VFEP_IShipChunkGauntletTurret.label>宇宙船のチャージ砲の残骸(到着間近)</VFEP_IShipChunkGauntletTurret.label>
+  <VFEP_IShipChunkReactor.label>宇宙船の反応炉の残骸(到着間近)</VFEP_IShipChunkReactor.label>
+  <VFEP_IShipMedicalCrate.label>医薬品が包装されたパレット(到着間近)</VFEP_IShipMedicalCrate.label>
+  <VFEP_IShipNutrientPasteCrate.label>栄養補給ペーストが包装されたパレット(到着間近)</VFEP_IShipNutrientPasteCrate.label>
+
+
+</LanguageData>

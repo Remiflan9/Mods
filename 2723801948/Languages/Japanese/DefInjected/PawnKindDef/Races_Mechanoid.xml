@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wardrone -->
+
+  <VFEP_Mech_Wardrone.label>ウォードローン</VFEP_Mech_Wardrone.label>
+  <VFEP_Mech_Wardrone.labelPlural>ウォードローン</VFEP_Mech_Wardrone.labelPlural>
+
+  <VFEP_Mech_Spidermine.label>スパイダーマイン</VFEP_Mech_Spidermine.label>
+  <VFEP_Mech_Spidermine.labelPlural>スパイダーマイン</VFEP_Mech_Spidermine.labelPlural>
+
+
+</LanguageData>

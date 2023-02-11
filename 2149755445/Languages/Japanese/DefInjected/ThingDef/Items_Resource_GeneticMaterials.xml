@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEI_DroneGenome.label>ドローン遺伝物質</VFEI_DroneGenome.label>
+  <VFEI_DroneGenome.description>1つのDNAペイロードに混合された, 数種の作業階級の虫とドローンの遺伝物質. \n\n人間に投与すると,ランダムな効果を発揮する可能性があります.</VFEI_DroneGenome.description>
+  <VFEI_WarriorGenome.label>ウォリアー遺伝物質</VFEI_WarriorGenome.label>
+  <VFEI_WarriorGenome.description>1つのDNAペイロードに混合された, 数種の戦士階級の虫と捕食者の遺伝物質. \n\n人間に投与すると,ランダムな効果を発揮する可能性があります.</VFEI_WarriorGenome.description>
+  <VFEI_RoyalGenome.label>ロイヤル遺伝物質</VFEI_RoyalGenome.label>
+  <VFEI_RoyalGenome.description>1つのDNAペイロードに混合された, 数種のロイヤル階級の虫とクイーンの遺伝物質. \n\n人間に投与すると,ランダムな効果を発揮する可能性があります.</VFEI_RoyalGenome.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEI_MercenarySquad.label>傭兵部隊</VFEI_MercenarySquad.label>
+  <VFEI_MercenarySquad.description>あなた方4人は, 廃墟となった前哨基地に近づき, あらゆる種類の恐怖に襲われました. 巣を駆除して再構築するか, そのままにして別の場所に移ることができます.</VFEI_MercenarySquad.description>
+  <VFEI_MercenarySquad.scenario.name>傭兵</VFEI_MercenarySquad.scenario.name>
+  <VFEI_MercenarySquad.scenario.summary>虫の群れに囲まれた傭兵のグループ. 非常に難しい.</VFEI_MercenarySquad.scenario.summary>
+  <VFEI_MercenarySquad.scenario.description>長い間忘れられていた惑星の表面へ降下する簡単な任務は失敗した. あなたの基地は, あなたが今まで見たことのない生き物に襲われました - 巨大な虫たちが巣から無数に出現しています. 逃げることを余儀なくされ, あなたは最初の場所にいた虫らに追われながら小さな前哨基地まで這うように逃げてきました. \nそれらを駆除してここに住み着くか, 立ち去って新しい場所を新たに見つけることができます. \n注：リソースがなく, 虫による基地の侵略があるため, 序盤に遊ぶには特に難しいシナリオです.</VFEI_MercenarySquad.scenario.description>
+  <VFEI_MercenarySquad.scenario.parts.9.text>長い間忘れられていた惑星の表面へ降下する簡単な任務は失敗した. あなたの基地は, あなたが今まで見たことのない生き物に襲われました - 巨大な虫たちが巣から無数に出現しています. 逃げることを余儀なくされ, あなたは最初の場所にいた虫らに追われながら小さな前哨基地まで這うように逃げてきました.</VFEI_MercenarySquad.scenario.parts.9.text>
+</LanguageData>

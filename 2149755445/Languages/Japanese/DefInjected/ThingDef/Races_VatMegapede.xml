@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEI_VatGrownMegapede.label>培養メガピード</VFEI_VatGrownMegapede.label>
+  <VFEI_VatGrownMegapede.description>数十本の小さな脚により滑るように移動する巨大で重いインセクトイド. 厚いキチンの鎧と象の牙ほどもある鋭い大顎は, 優れた攻城装置になっています. 非常に遅いため, ヒットアンドランの戦術に対してやや脆弱です.  培養器で育てられた生物で, 繁殖することができず, 寿命は大幅に短いです.</VFEI_VatGrownMegapede.description>
+  <VFEI_VatGrownMegapede.tools.0.label>頭爪</VFEI_VatGrownMegapede.tools.0.label>
+  <VFEI_VatGrownMegapede.tools.1.label>口器</VFEI_VatGrownMegapede.tools.1.label>
+  <VFEI_VatGrownMegapede.tools.2.label>頭</VFEI_VatGrownMegapede.tools.2.label>
+</LanguageData>

@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_WarcasketGun_TearGasGrenadeLauncher.label>WC専用催涙ガスランチャー</VFEP_WarcasketGun_TearGasGrenadeLauncher.label>
+  <VFEP_WarcasketGun_TearGasGrenadeLauncher.description>ウォーキャスケット用に設計された催涙ガスランチャーの強化版です.改良により2発の弾丸を発射し,強力な推進力により射程が向上しているものの,2発のガスが重なり合わないようにするように拡散性を高めたために,精度は低くなっています.</VFEP_WarcasketGun_TearGasGrenadeLauncher.description>
+  <VFEP_WarcasketGun_TearGasGrenadeLauncher.tools.0.label>ストック</VFEP_WarcasketGun_TearGasGrenadeLauncher.tools.0.label>
+  <VFEP_WarcasketGun_TearGasGrenadeLauncher.tools.1.label>銃身</VFEP_WarcasketGun_TearGasGrenadeLauncher.tools.1.label>
+
+
+  <VFEP_WarcasketGun_SalvagedLaserEradicator.label>WC専用レーザーエラディケーター</VFEP_WarcasketGun_SalvagedLaserEradicator.label>
+  <VFEP_WarcasketGun_SalvagedLaserEradicator.description>硬化したバンカー内で爆発を発生させるための包囲型兵器として開発された高度なレーザー兵器です.大容量の電源ユニットを必要とせず,小型化するために肩に装着されたレーザーはkHz～MHzの周波数で不規則にパルス状のレーザーを発射することができます.破壊的な爆風を引き起こすことができるため,その成果には誰も異議を唱えることはできません.しかし,その有効範囲は狭く,コンデンサーバンクを充電するための待機時間が長いという欠点があります.</VFEP_WarcasketGun_SalvagedLaserEradicator.description>
+  <VFEP_WarcasketGun_SalvagedLaserEradicator.tools.0.label>銃身</VFEP_WarcasketGun_SalvagedLaserEradicator.tools.0.label>
+
+
+  <VWEP_Bullet_WarcasketSalvagedLaserEradicator.label>不安定なレーザー弾</VWEP_Bullet_WarcasketSalvagedLaserEradicator.label>
+  <VWEP_Bullet_WarcasketSalvagedLaserEradicator.description>不安定なレーザー弾.</VWEP_Bullet_WarcasketSalvagedLaserEradicator.description>
+
+
+  <!-- laser blaster -->
+
+  <VFEP_WarcasketGun_LaserBlaster.label>WC専用レーザーブラスター</VFEP_WarcasketGun_LaserBlaster.label>
+  <VFEP_WarcasketGun_LaserBlaster.description>コンパクトな形状に現代的な技術とアンティークな雰囲気を融合させた大型のレーザー兵器です.カートリッジの代わりに高性能バッテリーセルを備えたリボルバー型シリンダーを搭載しています.これにより,優れた耐久力を発揮し,より強力なレーザービームを低速ながらも持続的に連射することが可能になりました.</VFEP_WarcasketGun_LaserBlaster.description>
+  <VFEP_WarcasketGun_LaserBlaster.tools.0.label>銃身</VFEP_WarcasketGun_LaserBlaster.tools.0.label>
+
+
+  <VWEL_Bullet_LaserRifle.label>レーザー弾</VWEL_Bullet_LaserRifle.label>
+  <VWEL_Bullet_LaserRifle.description>レーザー弾.</VWEL_Bullet_LaserRifle.description>
+
+  <VFEP_WarcasketGun_Railgun.label>WC専用レールガン</VFEP_WarcasketGun_Railgun.label>
+  <VFEP_WarcasketGun_Railgun.description>ガウスランスを元に改良された,リボルバー式マガジンと3本のバレルを持つ恐ろしい武器です.連続発射する前にバレルをリチャージする設計上,準備時間がとても長いのが欠点ですが,スラグ弾のサイズが大型なため,より強力なダメージと優れた射程距離を実現します.また,巻き込まれる危険性が非常に高いことを理由に,多くの司令官はゲリラ戦術や単独での襲撃以外での使用を禁じています.</VFEP_WarcasketGun_Railgun.description>
+  <VFEP_WarcasketGun_Railgun.tools.0.label>銃身</VFEP_WarcasketGun_Railgun.tools.0.label>
+
+
+  <VFEP_WarcasketGun_FoldingGun.label>WC専用コンパクトガン</VFEP_WarcasketGun_FoldingGun.label>
+  <VFEP_WarcasketGun_FoldingGun.description>市街地での迅速な戦況変化に対応するために設計された携帯式の武器です.折りたたんで保管・運搬することができます.ダメージと精度の低さはこの利便性のためのトレードオフであり,発射速度の向上と最小限の準備時間により敵への制圧射撃を可能にします.</VFEP_WarcasketGun_FoldingGun.description>
+  <VFEP_WarcasketGun_FoldingGun.tools.0.label>ストック</VFEP_WarcasketGun_FoldingGun.tools.0.label>
+  <VFEP_WarcasketGun_FoldingGun.tools.1.label>銃身</VFEP_WarcasketGun_FoldingGun.tools.1.label>
+
+
+
+  <VFEP_Bullet_WarcasketFoldingGun.label>コンパクトガンの弾</VFEP_Bullet_WarcasketFoldingGun.label>
+
+  <VFEP_WarcasketGun_Autorifle.label>WC専用オートキャノンライフル</VFEP_WarcasketGun_Autorifle.label>
+  <VFEP_WarcasketGun_Autorifle.description>ウォーキャスケット用に設計された携帯式のオートキャノンです.砲身が短いため,従来の砲塔型に比べ射程距離が短く,貫通力やダメージも低いです.ただし,近距離での戦闘能力は非常に高く,遠距離でのわずかな精度低下という欠点を埋めるほどの魅力があります.</VFEP_WarcasketGun_Autorifle.description>
+  <VFEP_WarcasketGun_Autorifle.tools.0.label>ストック</VFEP_WarcasketGun_Autorifle.tools.0.label>
+  <VFEP_WarcasketGun_Autorifle.tools.1.label>銃身</VFEP_WarcasketGun_Autorifle.tools.1.label>
+
+  <VFEP_Bullet_WarcasketAutorifle.label>オートキャノンライフル弾</VFEP_Bullet_WarcasketAutorifle.label>
+
+  <VFEP_WarcasketGun_UraniumSlugRifle.label>WC専用ウラン弾ライフル</VFEP_WarcasketGun_UraniumSlugRifle.label>
+  <VFEP_WarcasketGun_UraniumSlugRifle.description>ウォーキャスケット用に設計された携帯式のウラン弾タレットです.砲身が短いため,従来の砲塔型に比べ貫通力が弱く,反動やダメージも悪いです.ただし,人間が操作することにより最低射程距離を欠き,中距離性能は向上しています.</VFEP_WarcasketGun_UraniumSlugRifle.description>
+  <VFEP_WarcasketGun_UraniumSlugRifle.tools.0.label>ストック</VFEP_WarcasketGun_UraniumSlugRifle.tools.0.label>
+  <VFEP_WarcasketGun_UraniumSlugRifle.tools.1.label>銃身</VFEP_WarcasketGun_UraniumSlugRifle.tools.1.label>
+
+  <VFEP_Bullet_WarcasketUraniumSlugRifle.label>ウランスラグ弾</VFEP_Bullet_WarcasketUraniumSlugRifle.label>
+
+  <VFEP_WarcasketGun_Slugthrower.label>WC専用スラッグスローワー</VFEP_WarcasketGun_Slugthrower.label>
+  <VFEP_WarcasketGun_Slugthrower.description>ウォーキャスケット用に設計されたポンプショットガンの強化版です.通常サイズのショットガンの弾丸よりも大きなペレットが4発入っており,射程距離と装甲貫通力が向上しています.ただし,発射時の反動がひどく,ウォーキャスケットの反動制御システムをもってしても乱れてしまいます.</VFEP_WarcasketGun_Slugthrower.description>
+  <VFEP_WarcasketGun_Slugthrower.tools.0.label>ストック</VFEP_WarcasketGun_Slugthrower.tools.0.label>
+  <VFEP_WarcasketGun_Slugthrower.tools.1.label>銃身</VFEP_WarcasketGun_Slugthrower.tools.1.label>
+
+  <VFEP_Bullet_WarcasketSlugthrower.label>スラッグスローワーの散弾</VFEP_Bullet_WarcasketSlugthrower.label>
+
+  <VFEP_WarcasketGun_Minigun.label>WC専用ガトリング銃</VFEP_WarcasketGun_Minigun.label>
+  <VFEP_WarcasketGun_Minigun.description>ウォーキャスケット用に設計されたガトリング銃の強化版です.大口径の弾丸を使用しますが,製造数の関係で大量に作ることができません.そのため,発射速度や装甲貫通力は低くなっています.それでも,誰もこの量の弾の受け皿になりたいとは思わないので気になりません.</VFEP_WarcasketGun_Minigun.description>
+  <VFEP_WarcasketGun_Minigun.tools.0.label>ストック</VFEP_WarcasketGun_Minigun.tools.0.label>
+  <VFEP_WarcasketGun_Minigun.tools.1.label>銃身</VFEP_WarcasketGun_Minigun.tools.1.label>
+
+  <VFEP_Bullet_WarcasketMinigun.label>ウォーキャスケットのガトリング弾</VFEP_Bullet_WarcasketMinigun.label>
+
+  <VFEP_WarcasketGun_GrenadeLauncher.label>WC専用グレネードランチャー</VFEP_WarcasketGun_GrenadeLauncher.label>
+  <VFEP_WarcasketGun_GrenadeLauncher.description>ウォーキャスケット用に設計されたグレネードランチャーの強化版です.3連射が可能になり,リコイルが減少し,よりクールダウンが早く,射程距離が長いです.ただし,他のランチャーと同様に,手で投げるグレネードよりも自分の思う方向に弾が飛びません.</VFEP_WarcasketGun_GrenadeLauncher.description>
+  <VFEP_WarcasketGun_GrenadeLauncher.tools.0.label>ストック</VFEP_WarcasketGun_GrenadeLauncher.tools.0.label>
+  <VFEP_WarcasketGun_GrenadeLauncher.tools.1.label>銃身</VFEP_WarcasketGun_GrenadeLauncher.tools.1.label>
+
+  <VFEP_WarcasketGun_HeavyFlamer.label>WC専用火炎放射器</VFEP_WarcasketGun_HeavyFlamer.label>
+  <VFEP_WarcasketGun_HeavyFlamer.description>ウォーキャスケット用に設計された火炎放射器の強化版です.2本の銃身と大型ヒートシンクにより,2本同時に炎を噴射することができ,またオーバーヒートも対策され,発射までの時間も短くなっています.</VFEP_WarcasketGun_HeavyFlamer.description>
+  <VFEP_WarcasketGun_HeavyFlamer.tools.0.label>ストック</VFEP_WarcasketGun_HeavyFlamer.tools.0.label>
+  <VFEP_WarcasketGun_HeavyFlamer.tools.1.label>銃身</VFEP_WarcasketGun_HeavyFlamer.tools.1.label>
+
+
+  <!-- UPDATE -->
+
+  <VFEP_WarcasketGun_ChargeLance.label>WC専用チャージランス</VFEP_WarcasketGun_ChargeLance.label>
+  <VFEP_WarcasketGun_ChargeLance.description>戦場を恐怖に陥れたチャージランスが,ウォーキャスケット用に改良されて帰ってきました.エネルギー源が大幅に強化され,より大きな弾丸を広範囲に発射できるようになり,命中率と貫通力も向上しています.</VFEP_WarcasketGun_ChargeLance.description>
+  <VFEP_WarcasketGun_ChargeLance.tools.0.label>ストック</VFEP_WarcasketGun_ChargeLance.tools.0.label>
+  <VFEP_WarcasketGun_ChargeLance.tools.1.label>銃身</VFEP_WarcasketGun_ChargeLance.tools.1.label>
+
+  <VFEP_Bullet_WarcasketChargeLance.label>チャージランス弾</VFEP_Bullet_WarcasketChargeLance.label>
+
+
+  <!-- handheld cannon -->
+
+  <VFEP_WarcasketGun_HandheldCannon.label>WC専用携帯迫撃砲</VFEP_WarcasketGun_HandheldCannon.label>
+  <VFEP_WarcasketGun_HandheldCannon.description>手持ち式の迫撃砲です.弧を描くように砲弾を発射し,敵の要塞などを通過させることができます.これは古代の海戦と現代技術の融合を目的に作られました.精度は最悪ですが,搭載された部品加工機により,補給を必要としない砲撃が可能になりました.</VFEP_WarcasketGun_HandheldCannon.description>
+  <VFEP_WarcasketGun_HandheldCannon.tools.0.label>ストック</VFEP_WarcasketGun_HandheldCannon.tools.0.label>
+  <VFEP_WarcasketGun_HandheldCannon.tools.1.label>銃身</VFEP_WarcasketGun_HandheldCannon.tools.1.label>
+
+  <VFEP_Bullet_HandheldCannonCannonball.label>砲弾</VFEP_Bullet_HandheldCannonCannonball.label>
+
+
+  <!-- charge blaster -->
+
+  <VFEP_WarcasketGun_ChargeBlaster.label>WC専用チャージブラスター</VFEP_WarcasketGun_ChargeBlaster.label>
+  <VFEP_WarcasketGun_ChargeBlaster.description>ウォーキャスケット用に設計されたチャージ・ミニガンの強化版です.一度に発射される弾丸の数は少ないものの,弾薬は爆発するよう改良されています.これは援護用の武器として設計されているため,攻撃を受けた不運な兵士たちも完全にカバーすることができます.</VFEP_WarcasketGun_ChargeBlaster.description>
+  <VFEP_WarcasketGun_ChargeBlaster.tools.0.label>ストック</VFEP_WarcasketGun_ChargeBlaster.tools.0.label>
+  <VFEP_WarcasketGun_ChargeBlaster.tools.1.label>銃身</VFEP_WarcasketGun_ChargeBlaster.tools.1.label>
+
+  <VFEP_Bullet_WarcasketChargeBlaster.label>チャージブラスター弾</VFEP_Bullet_WarcasketChargeBlaster.label>
+
+
+</LanguageData>

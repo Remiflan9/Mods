@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFE_Gun_Plasmacutter.label>プラズマカッター</VFE_Gun_Plasmacutter.label>
+  <VFE_Gun_Plasmacutter.description>プラズマに包まれ, エネルギー場で固定された金属コアを発射する採掘用ピストル. エネルギー場で固定されています. ターゲットは金属コアによってスライスされ, かつプラズマコーティングによって燃焼または点火されます. この武器は, 手足をまっすぐに切るチャンスとともに, クリティカルヒットを与えるチャンスを持っています.</VFE_Gun_Plasmacutter.description>
+  <VFE_Gun_Plasmacutter.tools.0.label>ストック</VFE_Gun_Plasmacutter.tools.0.label>
+  <VFE_Gun_Plasmacutter.tools.1.label>バレル</VFE_Gun_Plasmacutter.tools.1.label>
+  <Bullet_Plasmacutter.label>プラズマカッターショット</Bullet_Plasmacutter.label>
+  <VFE_Gun_Plasmapiercer.label>プラズマピアサー</VFE_Gun_Plasmapiercer.label>
+  <VFE_Gun_Plasmapiercer.description>プラズマで覆われ, エネルギー場で固定された金属製の釘を撃つことができる重いライフル. これらのボルトは, より大きなターゲットの阻止に優れており, ほとんどの人間サイズの敵を地面に倒すことができます.</VFE_Gun_Plasmapiercer.description>
+  <VFE_Gun_Plasmapiercer.tools.0.label>ストック</VFE_Gun_Plasmapiercer.tools.0.label>
+  <VFE_Gun_Plasmapiercer.tools.1.label>バレル</VFE_Gun_Plasmapiercer.tools.1.label>
+  <Bullet_Plasmapiercer.label>プラズマピアサーショット</Bullet_Plasmapiercer.label>
+  <VFE_Gun_PlasmabeamRifle.label>プラズマビームライフル</VFE_Gun_PlasmabeamRifle.label>
+  <VFE_Gun_PlasmabeamRifle.description>過熱ガスで覆われた金属製のペレットを使用した長距離ライフルで, エネルギー場で固定されています. このライフルから発射されたショットは, 命中したものすべてを燃やしますが, その不安定さのため, 長距離において正確に発射することは非常に困難です.</VFE_Gun_PlasmabeamRifle.description>
+  <VFE_Gun_PlasmabeamRifle.tools.0.label>ストック</VFE_Gun_PlasmabeamRifle.tools.0.label>
+  <VFE_Gun_PlasmabeamRifle.tools.1.label>バレル</VFE_Gun_PlasmabeamRifle.tools.1.label>
+  <Bullet_PlasmaBeam.label>プラズマビーム</Bullet_PlasmaBeam.label>
+  <VFE_Gun_PlasmaScattergun.label>プラズマスキャッターガン</VFE_Gun_PlasmaScattergun.label>
+  <VFE_Gun_PlasmaScattergun.description>溶融金属の破片を発射する近接スキャッターガンは, コアの周りに包まれた過熱ガスのおかげでこの状態を保ちます. 多数の火傷を敵に与え, ほとんどの場合, 1回のショットで脅威を排除します. 発射体の不安定な性質のため, 射程は非常に短いです.</VFE_Gun_PlasmaScattergun.description>
+  <VFE_Gun_PlasmaScattergun.tools.0.label>ストック</VFE_Gun_PlasmaScattergun.tools.0.label>
+  <VFE_Gun_PlasmaScattergun.tools.1.label>バレル</VFE_Gun_PlasmaScattergun.tools.1.label>
+  <Bullet_PlasmaScatter.label>プラズマスキャッターショット</Bullet_PlasmaScatter.label>
+  <VFE_Plasmasaw.label>プラズマソー</VFE_Plasmasaw.label>
+  <VFE_Plasmasaw.description>プラズマから作られた最先産業金属製のこぎりで, エネルギー場によって固定されています. ターゲットは両方とも金属コアによってスライスされ, プラズマチェーンによって燃焼または点火されます.</VFE_Plasmasaw.description>
+  <VFE_Plasmasaw.tools.0.label>プラズマチェーン</VFE_Plasmasaw.tools.0.label>
+</LanguageData>

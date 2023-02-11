@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_Scrapper.label>装甲賊</VFEP_Scrapper.label>
+  <VFEP_Scrapper.labelPlural>装甲賊</VFEP_Scrapper.labelPlural>
+
+  <VFEP_Footsoldier.label>装甲兵(従士)</VFEP_Footsoldier.label>
+  <VFEP_Footsoldier.labelPlural>装甲兵(従士)</VFEP_Footsoldier.labelPlural>
+
+  <VFEP_Veteran.label>装甲兵(ベテラン)</VFEP_Veteran.label>
+  <VFEP_Veteran.labelPlural>装甲兵(ベテラン)</VFEP_Veteran.labelPlural>
+
+  <VFEP_HeavyWeaponsPlatform.label>装甲兵(重火器兵)</VFEP_HeavyWeaponsPlatform.label>
+  <VFEP_HeavyWeaponsPlatform.labelPlural>装甲兵(重火器兵)</VFEP_HeavyWeaponsPlatform.labelPlural>
+
+  <VFEP_Hussar.label>装甲兵(ユサール)</VFEP_Hussar.label>
+  <VFEP_Hussar.labelPlural>装甲兵(ユサール)</VFEP_Hussar.labelPlural>
+
+  <VFEP_Pyro.label>装甲兵(火炎放射器兵)</VFEP_Pyro.label>
+  <VFEP_Pyro.labelPlural>装甲兵(火炎放射器兵)</VFEP_Pyro.labelPlural>
+
+  <VFEP_Artillery.label>装甲兵(砲兵)</VFEP_Artillery.label>
+  <VFEP_Artillery.labelPlural>装甲兵(砲兵)</VFEP_Artillery.labelPlural>
+
+
+</LanguageData>

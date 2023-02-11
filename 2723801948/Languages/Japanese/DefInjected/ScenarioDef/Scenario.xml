@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_LowOrbitCrash.label>宙賊の船が墜落</VFEP_LowOrbitCrash.label>
+  <VFEP_LowOrbitCrash.description>あなたの宇宙船が低軌道に入ったとき,何かが船体に激しく衝突しました.それがAIコアの誤算なのか,ひどい事故なのか,それとも敵による攻撃なのかは分かりませんが,なりふり構っていられません.あなたはクルーたちに脱出ポッドに乗るように呼びかけますが,すべてのクルーがポッドに乗り込むには時間が足りず,船はいくつもの塊に分かれて降下していきます.そんな中,あなたは死にものぐるいで緊急降下ポッドの脱出ボタンを押すことしかできませんでした.もしかしたら,残骸からまだ何か回収できるかもしれません.
+
+注意：不時着した際に,残骸以外の物資がない状態でスタートするため,難しいシナリオとなっています.</VFEP_LowOrbitCrash.description>
+
+  <VFEP_LowOrbitCrash.scenario.name>宙賊の船が墜落</VFEP_LowOrbitCrash.scenario.name>
+  <VFEP_LowOrbitCrash.scenario.summary>宙賊の一団が,人里離れた惑星に不時着します.標準的なVFE - Pirates を体験します.</VFEP_LowOrbitCrash.scenario.summary>
+  <VFEP_LowOrbitCrash.scenario.description>あなたの宇宙船が低軌道に入ったとき,何かが船体に激しく衝突しました.それがAIコアの誤算なのか,ひどい事故なのか,それとも敵による攻撃なのかは分かりませんが,なりふり構っていられません.あなたはクルーたちに脱出ポッドに乗るように呼びかけますが,すべてのクルーがポッドに乗り込むには時間が足りず,船はいくつもの塊に分かれて降下していきます.そんな中,あなたは死にものぐるいで緊急降下ポッドの脱出ボタンを押すことしかできませんでした.もしかしたら,残骸からまだ何か回収できるかもしれません.
+
+注意：不時着した際に,残骸以外の物資がない状態でスタートするため,難しいシナリオとなっています.</VFEP_LowOrbitCrash.scenario.description>
+
+
+</LanguageData>

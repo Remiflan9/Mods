@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEI_Insect.label>虫の巣</VFEI_Insect.label>
+  <VFEI_Insect.description>銀河系全体の実験が失敗した結果, この巨大なハイブマインドがこの惑星を本拠地にしています. カーストに分かれており, 巨大な女王に依存しています. \n\nインセクトイドは外交に興味がありません. 彼らは, 脅威であると認識しているものをすべて排除しようとします.</VFEI_Insect.description>
+  <VFEI_Insect.pawnsPlural>虫</VFEI_Insect.pawnsPlural>
+  <VFEI_Insect.leaderTitle>クイーン</VFEI_Insect.leaderTitle>
+</LanguageData>

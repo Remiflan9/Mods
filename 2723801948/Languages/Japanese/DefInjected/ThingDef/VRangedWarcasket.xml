@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_WarcasketGun_CryptoCannon.label>WC専用クリプトキャノン</VFEP_WarcasketGun_CryptoCannon.label>
+  <VFEP_WarcasketGun_CryptoCannon.description>クリプトテクノロジーと火炎放射器を組み合わせた,近距離防衛用の兵器です.超低温化された粒子の働きにより,被弾した者に特殊な低体温効果を与えます.これにより,ターゲットの動きを鈍らせることができます.直接的な攻撃としては不十分なため,エリア制圧などに適しています.なるべく移動速度の速いウォーキャスケットと組み合わせるのが理想的です.</VFEP_WarcasketGun_CryptoCannon.description>
+  <VFEP_WarcasketGun_CryptoCannon.tools.0.label>ストック</VFEP_WarcasketGun_CryptoCannon.tools.0.label>
+  <VFEP_WarcasketGun_CryptoCannon.tools.1.label>銃身</VFEP_WarcasketGun_CryptoCannon.tools.1.label>
+
+
+</LanguageData>

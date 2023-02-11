@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mortar -->
+
+  <VFEP_Turret_FieldGun.label>野砲</VFEP_Turret_FieldGun.label>
+  <VFEP_Turret_FieldGun.description>あらゆる種類の砲弾を発射する有人砲です.迫撃砲に比べると,発射速度が2倍に向上しますが,直射の円錐角が90度に制限されています.</VFEP_Turret_FieldGun.description>
+
+  <VFEP_Turret_Cannon.comps.CompRefuelable.fuelLabel>球形弾</VFEP_Turret_Cannon.comps.CompRefuelable.fuelLabel>
+
+  <VFEP_Turret_Cannon.comps.CompRefuelable.fuelGizmoLabel>球形弾</VFEP_Turret_Cannon.comps.CompRefuelable.fuelGizmoLabel>
+
+  <VFEP_Turret_Cannon.comps.CompRefuelable.outOfFuelMessage>射撃不可: 球形弾の補充が必要</VFEP_Turret_Cannon.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFEP_Artillery_FieldGun.label>野砲</VFEP_Artillery_FieldGun.label>
+  <VFEP_Artillery_FieldGun.description>あらゆる種類の砲弾を発射する有人砲です.迫撃砲に比べると,発射速度が2倍に向上しますが,直射の円錐角が90度に制限されています.</VFEP_Artillery_FieldGun.description>
+
+  <VFEP_Turret_Cannon.label>大砲</VFEP_Turret_Cannon.label>
+  <VFEP_Turret_Cannon.description>180度回転式の持ち運び可能な中世の大砲です.荒く丸めた鉄球をかなりの距離まで打ち上げることができます.精度はやや劣りますが,カタパルトに比べれば格段に向上しており,発射速度もかなり速いです.</VFEP_Turret_Cannon.description>
+
+  <VFEP_Artillery_Cannon.label>大砲</VFEP_Artillery_Cannon.label>
+  <VFEP_Artillery_Cannon.description>180度回転式の持ち運び可能な中世の大砲です.荒く丸めた鉄球をかなりの距離まで打ち上げることができます.精度はやや劣りますが,カタパルトに比べれば格段に向上しており,発射速度もかなり速いです.</VFEP_Artillery_Cannon.description>
+
+
+
+
+
+  <VFEP_Bullet_Cannonball.label>球形弾</VFEP_Bullet_Cannonball.label>
+
+
+</LanguageData>

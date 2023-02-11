@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEPirates.EntombingWarning>一度でもウォーキャスケットと接続してしまうと,取り外しは永久に困難になります.体を損傷させる以外の方法で取り外すことはできません.</VFEPirates.EntombingWarning>
+  <VFEM.MissingMaterials>材料が不足: {0} </VFEM.MissingMaterials>
+  <VFEP.Occupied>使用中</VFEP.Occupied>
+  <VFEP.WarcasketCannotBeRemoved>ウォーキャスケットを除去できない</VFEP.WarcasketCannotBeRemoved>
+  <VFEP_NextSpawnedRumIn>体液からラム酒を生成するまであと</VFEP_NextSpawnedRumIn>
+  <VFEP.MessagePawnArrived>{PAWN_nameDef}が到着しました.</VFEP.MessagePawnArrived>
+  <VFEP.RequiresWarcasket>ウォーキャスケットが必要</VFEP.RequiresWarcasket>
+
+  <VFEP.ExplodeIn>爆発まであと</VFEP.ExplodeIn>
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_Rum.label>ラム酒</VFEP_Rum.label>
+  <VFEP_Rum.description>ラムスーツから抽出した体液を再利用して作られた高アルコール飲料です.\n\n士気を高めるだけでなく,食料の補給や人間の排泄物を処理せずにクルーがより長く活動できるようにするための工夫が施されています.ラム酒はプロテイン・シェークのように非常に濃厚で,さらにそのアルコールによって,栄養ペーストの再利用技術による不快な味を隠してくれます.</VFEP_Rum.description>
+  <VFEP_Rum.tools.0.label>ボトル</VFEP_Rum.tools.0.label>
+  <VFEP_Rum.tools.1.label>ネック</VFEP_Rum.tools.1.label>
+  <VFEP_Rum.ingestible.ingestCommandString>{0}を飲む</VFEP_Rum.ingestible.ingestCommandString>
+  <VFEP_Rum.ingestible.ingestReportString>{0}を飲んでいる.</VFEP_Rum.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEI_InfestedCrashedShipModule.label>寄生された船のモジュール</VFEI_InfestedCrashedShipModule.label>
+  <VFEI_InfestedCrashedShipModule.description>宇宙船のモジュールと思われる不思議な破片. 魅力的な素材, コンピューター, さらにはAI人格コアが含まれている場合があります. インセクトイドゼリーの塊とバイオマスで完全に覆われているようです. この古い残骸が大きな危険を含んでいる可能性があることはかなり確実です.</VFEI_InfestedCrashedShipModule.description>
+  <VFEI_InfestedCrashedShipPart.label>寄生された宇宙船の一部</VFEI_InfestedCrashedShipPart.label>
+  <VFEI_InfestedCrashedShipPart.description>宇宙船の一部と思われる不思議な破片. 魅力的な素材, コンピューター, さらにはAI人格コアが含まれている場合があります. バイオマスやインセクトゼリーで覆われているようです. 奇妙な虫の音が船体の中で聞こえます.</VFEI_InfestedCrashedShipPart.description>
+  <VFEI_InfestedShipChunk.label>寄生された宇宙船の残骸</VFEI_InfestedShipChunk.label>
+  <VFEI_InfestedShipChunk.description>バイオマスと昆虫ゼリーで覆われた宇宙船の残骸. 奇妙な虫の音が船体の中で聞こえます. 分解して, 有用な鋼とコンポーネントを生成できます.</VFEI_InfestedShipChunk.description>
+  <VFEI_InsectMeteoriteIncoming.label>隕石(到来)</VFEI_InsectMeteoriteIncoming.label>
+</LanguageData>

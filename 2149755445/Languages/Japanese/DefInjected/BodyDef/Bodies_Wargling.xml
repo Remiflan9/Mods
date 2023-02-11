@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEI_Wargling.label>ワーグル</VFEI_Wargling.label>
+  <VFEI_Wargling.corePart.parts.0.customLabel>左翅鞘</VFEI_Wargling.corePart.parts.0.customLabel>
+  <VFEI_Wargling.corePart.parts.1.customLabel>右翅鞘</VFEI_Wargling.corePart.parts.1.customLabel>
+  <VFEI_Wargling.corePart.parts.4.parts.0.parts.1.customLabel>左目</VFEI_Wargling.corePart.parts.4.parts.0.parts.1.customLabel>
+  <VFEI_Wargling.corePart.parts.4.parts.0.parts.2.customLabel>右目</VFEI_Wargling.corePart.parts.4.parts.0.parts.2.customLabel>
+  <VFEI_Wargling.corePart.parts.4.parts.0.parts.3.customLabel>左触覚</VFEI_Wargling.corePart.parts.4.parts.0.parts.3.customLabel>
+  <VFEI_Wargling.corePart.parts.4.parts.0.parts.4.customLabel>右触覚</VFEI_Wargling.corePart.parts.4.parts.0.parts.4.customLabel>
+  <VFEI_Wargling.corePart.parts.5.customLabel>左前爪</VFEI_Wargling.corePart.parts.5.customLabel>
+  <VFEI_Wargling.corePart.parts.6.customLabel>右前爪</VFEI_Wargling.corePart.parts.6.customLabel>
+  <VFEI_Wargling.corePart.parts.7.customLabel>左前脚</VFEI_Wargling.corePart.parts.7.customLabel>
+  <VFEI_Wargling.corePart.parts.8.customLabel>右前足</VFEI_Wargling.corePart.parts.8.customLabel>
+  <VFEI_Wargling.corePart.parts.9.customLabel>左中脚</VFEI_Wargling.corePart.parts.9.customLabel>
+  <VFEI_Wargling.corePart.parts.10.customLabel>右中脚</VFEI_Wargling.corePart.parts.10.customLabel>
+  <VFEI_Wargling.corePart.parts.11.customLabel>左後足</VFEI_Wargling.corePart.parts.11.customLabel>
+  <VFEI_Wargling.corePart.parts.12.customLabel>右後脚</VFEI_Wargling.corePart.parts.12.customLabel>
+</LanguageData>

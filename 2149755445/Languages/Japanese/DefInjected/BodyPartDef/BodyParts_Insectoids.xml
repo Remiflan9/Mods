@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEI_ExplosiveSac.label>爆発嚢</VFEI_ExplosiveSac.label>
+  <VFEI_FrontClaw.label>前爪</VFEI_FrontClaw.label>
+  <VFEI_FrontClaw.labelShort>爪</VFEI_FrontClaw.labelShort>
+  <VFEI_Thorax.label>胸</VFEI_Thorax.label>
+  <VFEI_InsectTail.label>尾</VFEI_InsectTail.label>
+  <VFEI_InsectSting.label>針</VFEI_InsectSting.label>
+  <VFEI_LeftPincer.label>左鋏</VFEI_LeftPincer.label>
+  <VFEI_RightPincer.label>右鋏</VFEI_RightPincer.label>
+</LanguageData>

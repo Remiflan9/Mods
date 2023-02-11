@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFE_Apparel_RiotArmor.label>ライオットアーマー</VFE_Apparel_RiotArmor.label>
+  <VFE_Apparel_RiotArmor.description>胸、腕、脚、背中に装甲板が挿入された厚いジャケット. この種の鎧は, 鈍器による外傷からの保護に非常に効果的で, 機動隊や重歩兵にもよく使用されます.</VFE_Apparel_RiotArmor.description>
+  <VFE_Apparel_RiotHelmet.label>ライオットヘルメット</VFE_Apparel_RiotHelmet.label>
+  <VFE_Apparel_RiotHelmet.description>フェイスカバープレートが付いた重い戦闘用ヘルメット. 鈍器による外傷からの保護に効果があるため, 機動隊でよく使用されます.</VFE_Apparel_RiotHelmet.description>
+  <VFEI_Shield_Riot.label>ライオットシールド</VFEI_Shield_Riot.label>
+  <VFEI_Shield_Riot.description>強化鋼で作られた産業用重盾. 鈍器による外傷に対し有力な保護を提供し, Urbworldにおける機動隊に最適です.</VFEI_Shield_Riot.description>
+  <VFEI_Shield_Riot.tools.0.label>センター</VFEI_Shield_Riot.tools.0.label>
+</LanguageData>

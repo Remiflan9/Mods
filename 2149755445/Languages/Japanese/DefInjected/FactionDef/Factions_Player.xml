@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFE_PlayerOutpost.label>新分隊</VFE_PlayerOutpost.label>
+  <VFE_PlayerOutpost.description>小さな傭兵の分隊, 戦う準備はできている.</VFE_PlayerOutpost.description>
+  <VFE_PlayerOutpost.pawnsPlural>傭兵</VFE_PlayerOutpost.pawnsPlural>
+</LanguageData>

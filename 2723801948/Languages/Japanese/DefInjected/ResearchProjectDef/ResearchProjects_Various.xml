@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_Warcaskets.label>ウォーキャスケット</VFEP_Warcaskets.label>
+  <VFEP_Warcaskets.description>基本的なウォーキャスケットを作れるようになります.</VFEP_Warcaskets.description>
+
+  <VFEP_AdvancedWarcaskets.label>先進型ウォーキャスケット</VFEP_AdvancedWarcaskets.label>
+  <VFEP_AdvancedWarcaskets.description>スピード,防御,バランスに優れた先進的なウォーキャスケットを作れるようになります.</VFEP_AdvancedWarcaskets.description>
+
+  <VFEP_SpecialisedWarcaskets.label>特化型ウォーキャスケット</VFEP_SpecialisedWarcaskets.label>
+  <VFEP_SpecialisedWarcaskets.description>特殊な役割に合わせたウォーキャスケットを作れるようになります.</VFEP_SpecialisedWarcaskets.description>
+
+  <VFEP_WarcasketRemoval.label>ウォーキャスケットの除去</VFEP_WarcasketRemoval.label>
+  <VFEP_WarcasketRemoval.description>「ウォーキャスケットを除去する」手術を適用できるようになります.手術の過程で腕と脚は失われ,ウォーキャスケットは鉄くずになります.</VFEP_WarcasketRemoval.description>
+
+  <VFEP_WarcasketWeaponry.label>ウォーキャスケット専用武器</VFEP_WarcasketWeaponry.label>
+  <VFEP_WarcasketWeaponry.description>ウォーキャスケット専用の武器を作れるようになります.</VFEP_WarcasketWeaponry.description>
+
+  <VFEP_SweatFermentation.label>ラムスーツ</VFEP_SweatFermentation.label>
+  <VFEP_SweatFermentation.description>アルコール蒸留と栄養ペースト合成を組み合わせ,人間の排泄物を利用してラム酒を製造するラムスーツを作れるようになります.</VFEP_SweatFermentation.description>
+
+  <VFEP_SpacerWarcaskets.label>宇宙世紀のウォーキャスケット</VFEP_SpacerWarcaskets.label>
+  <VFEP_SpacerWarcaskets.description>軍事技術の最高峰である宇宙世紀のウォーキャスケットを作れるようになります.</VFEP_SpacerWarcaskets.description>
+
+  <VFEP_SpacerWarcasketWeaponry.label>宇宙世紀のウォーキャスケット専用武器</VFEP_SpacerWarcasketWeaponry.label>
+  <VFEP_SpacerWarcasketWeaponry.description>宇宙技術を活用したウォーキャスケット専用の武器を作れるようになります.</VFEP_SpacerWarcasketWeaponry.description>
+  
+</LanguageData>

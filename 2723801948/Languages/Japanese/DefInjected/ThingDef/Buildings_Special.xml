@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  
+  
+  <VFEP_Box_Autorifle.label>WC専用オートキャノンライフル</VFEP_Box_Autorifle.label>
+  <VFEP_Box_Autorifle.description>ウォーキャスケット用に設計された携帯式のオートキャノンです.砲身が短いため,従来の砲塔型に比べ射程距離が短く,貫通力やダメージも低いです.ただし,近距離での戦闘能力は非常に高く,遠距離でのわずかな精度低下という欠点を埋めるほどの魅力があります.</VFEP_Box_Autorifle.description>
+
+  <VFEP_Box_UraniumSlugRifle.label>WC専用ウラン弾ライフル</VFEP_Box_UraniumSlugRifle.label>
+  <VFEP_Box_UraniumSlugRifle.description>ウォーキャスケット用に設計された携帯式のウラン弾キャノンです.砲身が短いため,従来の砲塔型に比べ貫通力が弱く,反動やダメージも悪いです.ただし,人間が操作することにより最低射程距離を欠き,中距離性能は向上しています.</VFEP_Box_UraniumSlugRifle.description>
+
+  <VFEP_Box_Slugthrower.label>WC専用スラッグスローワー</VFEP_Box_Slugthrower.label>
+  <VFEP_Box_Slugthrower.description>ウォーキャスケット用に設計されたポンプショットガンの強化版です.通常サイズのショットガンの弾丸よりも大きなペレットが4発入っており,射程距離と装甲貫通力が向上しています.ただし,発射時の反動がひどく,ウォーキャスケットの反動制御システムをもってしても乱れてしまいます.</VFEP_Box_Slugthrower.description>
+
+  <VFEP_Box_Minigun.label>WC専用ガトリング銃</VFEP_Box_Minigun.label>
+  <VFEP_Box_Minigun.description>ウォーキャスケット用に設計されたガトリング銃の強化版です.大口径の弾丸を使用しますが,製造数の関係で大量に作ることができません.そのため,発射速度や装甲貫通力は低くなっています.それでも,誰もこの量の弾の受け皿になりたいとは思わないので気になりません.</VFEP_Box_Minigun.description>
+
+  <VFEP_Box_GrenadeLauncher.label>WC専用グレネードランチャー</VFEP_Box_GrenadeLauncher.label>
+  <VFEP_Box_GrenadeLauncher.description>ウォーキャスケット用に設計されたグレネードランチャーの強化版です.3連射が可能になり,リコイルが減衰され,よりクールダウンが早く,射程距離が長いです.ただし,他のランチャーと同様に,手で投げるグレネードよりも自分の思う方向に弾が飛びません.</VFEP_Box_GrenadeLauncher.description>
+
+  <VFEP_Box_HeavyFlamer.label>WC専用火炎放射器</VFEP_Box_HeavyFlamer.label>
+  <VFEP_Box_HeavyFlamer.description>ウォーキャスケット用に設計された火炎放射器の強化版です.2本のバレルと大型ヒートシンクにより,2本同時に炎を噴射することができ,またオーバーヒートも対策され,発射までの時間も短くなっています.</VFEP_Box_HeavyFlamer.description>
+
+  <VFEP_Box_CombatKnife.label>WC専用コンバットナイフ</VFEP_Box_CombatKnife.label>
+  <VFEP_Box_CombatKnife.description>ウォーキャスケット用に設計された軍用ナイフの強化版です.ウォーキャスケットを着た者が持つと,一見して違和感なくナイフのように見えがちですが,実際は人を真っ二つにすることが可能なくらい強力で,サイズも大きいです.動きの速いウォーキャスケットが軽装備の孤立した標的を優先して狙う際に適した武器です.</VFEP_Box_CombatKnife.description>
+
+  <VFEP_Box_Broadsword.label>WC専用ブロードソード</VFEP_Box_Broadsword.label>
+  <VFEP_Box_Broadsword.description>ウォーキャスケット用に設計された非常にユニークな近接武器です.圧倒的な重量と斬れ味は,近接戦闘において比類がありません.対ウォーキャスケットを想定した設計ですが,通常は装甲とみなされる小さな目標に対しても同様に効果を発揮します.</VFEP_Box_Broadsword.description>
+  
+  <VFEP_Box_ChargeLance.label>WC専用チャージランス</VFEP_Box_ChargeLance.label>
+  <VFEP_Box_ChargeLance.description>戦場を恐怖に陥れたチャージランスが,ウォーキャスケット用に改良されて帰ってきました.エネルギー源が大幅に強化され,より大きな弾丸を広範囲に発射できるようになり,命中率と貫通力も向上しています.</VFEP_Box_ChargeLance.description>
+
+  <VFEP_Box_HandheldCannon.label>WC専用携帯迫撃砲</VFEP_Box_HandheldCannon.label>
+  <VFEP_Box_HandheldCannon.description>手持ち式の迫撃砲です.弧を描くように砲弾を発射し,敵の要塞などを通過させることができます.これは古代の海戦と現代技術の融合を目的に作られました.精度は最悪ですが,搭載された部品加工機により,補給を必要としない砲撃が可能になりました.</VFEP_Box_HandheldCannon.description>
+
+  <VFEP_Box_ChargeBlaster.label>WC専用チャージブラスター</VFEP_Box_ChargeBlaster.label>
+  <VFEP_Box_ChargeBlaster.description>ウォーキャスケット用に設計されたチャージ・ミニガンの強化版です.一度に発射される弾丸の数は少ないものの,弾薬は爆発するよう改良されています.これは援護用の武器として設計されているため,攻撃を受けた不運な兵士たちも完全にカバーすることができます.</VFEP_Box_ChargeBlaster.description>
+
+  <VFEP_Box_GravityHammer.label>WC専用グラビティハンマー</VFEP_Box_GravityHammer.label>
+  <VFEP_Box_GravityHammer.description>特大サイズのウォーキャスケットでしか使うことができない人類最強のハンマーです.機体の四肢関節部に取り付けられるエンジンブロックのような部品と,暴徒鎮圧用の小型リパルサー発生器を覆う複数の空気圧プレートが施されています.もっと分かりやすく言えば,目標物の正面から一撃を加えると,数メートル後方に弾き飛ばすことができます.</VFEP_Box_GravityHammer.description>
+  
+    <VFEP_Box_TearGasGrenadeLauncher.label>WC専用催涙ガスランチャー</VFEP_Box_TearGasGrenadeLauncher.label>
+  <VFEP_Box_TearGasGrenadeLauncher.description>ウォーキャスケット用に設計された催涙ガスランチャーの強化版です.改良により2発の弾丸を発射し,強力な推進力により射程が向上しているものの,2発のガスが重なり合わないようにするように拡散性を高めたために,精度は低くなっています.</VFEP_Box_TearGasGrenadeLauncher.description>
+
+  <VFEP_Box_SalvagedLaserEradicator.label>WC専用レーザーエラディケーター</VFEP_Box_SalvagedLaserEradicator.label>
+  <VFEP_Box_SalvagedLaserEradicator.description>硬化したバンカー内で爆発を発生させるための包囲型兵器として開発された高度なレーザー兵器です.大容量の電源ユニットを必要とせず,小型化するために肩に装着されたレーザーはkHz～MHzの周波数で不規則にパルス状のレーザーを発射することができます.破壊的な爆風を引き起こすことができるため,その成果には誰も異議を唱えることはできません.しかし,その有効範囲は狭く,コンデンサーバンクを充電するための待機時間が長いという欠点があります.</VFEP_Box_SalvagedLaserEradicator.description>
+  
+    <VFEP_Box_WarcasketLaserBolter.label>WC専用レーザーブラスター</VFEP_Box_WarcasketLaserBolter.label>
+  <VFEP_Box_WarcasketLaserBolter.description>コンパクトな形状に現代的な技術とアンティークな雰囲気を融合させた大型のレーザー兵器です.カートリッジの代わりに高性能バッテリーセルを備えたリボルバー型シリンダーを搭載しています.これにより,優れた耐久力を発揮し,より強力なレーザービームを低速ながらも持続的に連射することが可能になりました.</VFEP_Box_WarcasketLaserBolter.description>
+  
+    <VFEP_Box_Railgun.label>WC専用レールガン</VFEP_Box_Railgun.label>
+  <VFEP_Box_Railgun.description>ガウスランスを元に改良された,リボルバー式マガジンと3本のバレルを持つ恐ろしい武器です.連続発射する前にバレルをリチャージする設計上,準備時間がとても長いのが欠点ですが,スラグ弾のサイズが大型なため,より強力なダメージと優れた射程距離を実現します.また,巻き込まれる危険性が非常に高いことを理由に,多くの司令官はゲリラ戦術や単独での襲撃以外での使用を禁じています.</VFEP_Box_Railgun.description>
+
+  <VFEP_Box_FoldingGun.label>WC専用コンパクトガン</VFEP_Box_FoldingGun.label>
+  <VFEP_Box_FoldingGun.description>市街地での迅速な戦況変化に対応するために設計された携帯式の武器です.折りたたんで保管・運搬することができます.ダメージと精度の低さはこの利便性のためのトレードオフであり,発射速度の向上と最小限の準備時間により敵への制圧射撃を可能にします.</VFEP_Box_FoldingGun.description>
+  
+  
+  
+</LanguageData>

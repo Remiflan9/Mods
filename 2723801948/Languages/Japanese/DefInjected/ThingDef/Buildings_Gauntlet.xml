@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_Bullet_GauntletChargeCanon.label>ガントレットチャージ砲弾</VFEP_Bullet_GauntletChargeCanon.label>
+
+
+  <VFEP_GauntletChargeCanon.label>ガントレットチャージ砲</VFEP_GauntletChargeCanon.label>
+  <VFEP_GauntletChargeCanon.description>低空での戦闘でよく使用される宇宙船の対装甲チャージ砲です.</VFEP_GauntletChargeCanon.description>
+
+  <VFEP_CrashedShip_Black.label>墜落した宇宙戦闘機</VFEP_CrashedShip_Black.label>
+  <VFEP_CrashedShip_Black.description>通称「ガントレット」と呼ばれる宇宙戦闘機の残骸です.低空飛行での運用を想定しており,航空部隊と対戦するために設計されましたが,多くの欠点があるため人気がなく,軍の余剰物資の一部として使用される程度のものでした.\n\n着陸装置もないため,惑星に着陸することは想定されていませんが,それでもお構いなしに着陸しようとする気性に富んだ者たちが存在します.チャージ砲を搭載しており,装甲相手にも十分な戦闘が可能です.重量の増加により,地表に落下した際には回収不能となり,そうなれば大混乱を引き起こすことは容易に想像できます.</VFEP_CrashedShip_Black.description>
+
+  <VFEP_CrashedShip_Green.label>墜落した宇宙戦闘機</VFEP_CrashedShip_Green.label>
+  <VFEP_CrashedShip_Green.description>通称「ガントレット」と呼ばれる宇宙戦闘機の残骸です.低空飛行での運用を想定しており,航空部隊と対戦するために設計されましたが,多くの欠点があるため人気がなく,軍の余剰物資の一部として使用される程度のものでした.\n\n着陸装置もないため,惑星に着陸することは想定されていませんが,それでもお構いなしに着陸しようとする気性に富んだ者たちが存在します.チャージ砲を搭載しており,装甲相手にも十分な戦闘が可能です.重量の増加により,地表に落下した際には回収不能となり,そうなれば大混乱を引き起こすことは容易に想像できます.</VFEP_CrashedShip_Green.description>
+
+  <VFEP_CrashedShip_Orange.label>墜落した宇宙戦闘機</VFEP_CrashedShip_Orange.label>
+  <VFEP_CrashedShip_Orange.description>通称「ガントレット」と呼ばれる宇宙戦闘機の残骸です.低空飛行での運用を想定しており,航空部隊と対戦するために設計されましたが,多くの欠点があるため人気がなく,軍の余剰物資の一部として使用される程度のものでした.\n\n着陸装置もないため,惑星に着陸することは想定されていませんが,それでもお構いなしに着陸しようとする気性に富んだ者たちが存在します.チャージ砲を搭載しており,装甲相手にも十分な戦闘が可能です.重量の増加により,地表に落下した際には回収不能となり,そうなれば大混乱を引き起こすことは容易に想像できます.</VFEP_CrashedShip_Orange.description>
+
+  <VFEP_CrashedShip_Red.label>墜落した宇宙戦闘機</VFEP_CrashedShip_Red.label>
+  <VFEP_CrashedShip_Red.description>通称「ガントレット」と呼ばれる宇宙戦闘機の残骸です.低空飛行での運用を想定しており,航空部隊と対戦するために設計されましたが,多くの欠点があるため人気がなく,軍の余剰物資の一部として使用される程度のものでした.\n\n着陸装置もないため,惑星に着陸することは想定されていませんが,それでもお構いなしに着陸しようとする気性に富んだ者たちが存在します.チャージ砲を搭載しており,装甲相手にも十分な戦闘が可能です.重量の増加により,地表に落下した際には回収不能となり,そうなれば大混乱を引き起こすことは容易に想像できます.</VFEP_CrashedShip_Red.description>
+
+
+</LanguageData>

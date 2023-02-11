@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEI_ToxicBuildup.label>毒の蓄積</VFEI_ToxicBuildup.label>
+  <VFEI_ToxicBuildup.description>血流中の毒素. これは, 環境毒素, 有毒な咬傷, 毒された武器など, さまざまな原因から発生する可能性があります. \n高用量では, 毒性の蓄積が致命的です. 低用量でも癌を発生させる可能性があります. \nゲームの毒性の蓄積に反して, この毒性のダメージで死亡した生き物を食べることができます.</VFEI_ToxicBuildup.description>
+  <VFEI_ToxicBuildup.stages.0.label>初期</VFEI_ToxicBuildup.stages.0.label>
+  <VFEI_ToxicBuildup.stages.1.label>初期</VFEI_ToxicBuildup.stages.1.label>
+  <VFEI_ToxicBuildup.stages.2.label>低度</VFEI_ToxicBuildup.stages.2.label>
+  <VFEI_ToxicBuildup.stages.3.label>中度</VFEI_ToxicBuildup.stages.3.label>
+  <VFEI_ToxicBuildup.stages.4.label>重度</VFEI_ToxicBuildup.stages.4.label>
+  <VFEI_ToxicBuildup.stages.5.label>極度</VFEI_ToxicBuildup.stages.5.label>
+  <VFEI_TempDown.label>プラズマピアサーショック</VFEI_TempDown.label>
+  <VFEI_TempDown.description>プラズマピアサーショックは, ほとんどの人型生物や大きな生き物を昏倒させることができます.</VFEI_TempDown.description>
+  <VFEI_TempDown.stages.0.label>初期</VFEI_TempDown.stages.0.label>
+  <VFEI_TempDown.stages.1.label>初期</VFEI_TempDown.stages.1.label>
+  <VFEI_TempDown.stages.2.label>低度</VFEI_TempDown.stages.2.label>
+  <VFEI_TempDown.stages.3.label>中度</VFEI_TempDown.stages.3.label>
+  <VFEI_TempDown.stages.4.label>重度</VFEI_TempDown.stages.4.label>
+  <VFEI_TempDown.stages.5.label>極度</VFEI_TempDown.stages.5.label>
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_WarcasketMeleeWeapon_GravityHammer.label>WC専用グラビティハンマー</VFEP_WarcasketMeleeWeapon_GravityHammer.label>
+  <VFEP_WarcasketMeleeWeapon_GravityHammer.description>特大サイズのウォーキャスケットでしか使うことができない人類最強のハンマーです.機体の四肢関節部に取り付けられるエンジンブロックのような部品と,暴徒鎮圧用の小型リパルサー発生器を覆う複数の空気圧プレートが施されています.もっと分かりやすく言えば,目標物の正面から一撃を加えると,数メートル後方に弾き飛ばすことができます.</VFEP_WarcasketMeleeWeapon_GravityHammer.description>
+  <VFEP_WarcasketMeleeWeapon_GravityHammer.tools.handle.label>柄</VFEP_WarcasketMeleeWeapon_GravityHammer.tools.handle.label>
+  <VFEP_WarcasketMeleeWeapon_GravityHammer.tools.head.label>頭</VFEP_WarcasketMeleeWeapon_GravityHammer.tools.head.label>
+
+  <VFEP_WarcasketMeleeWeapon_PlasmaSword.label>WC専用プラズマソード</VFEP_WarcasketMeleeWeapon_PlasmaSword.label>
+  <VFEP_WarcasketMeleeWeapon_PlasmaSword.description>ウォーキャスケット用に設計された対物用のプラズマソードです.当初はシンプルな直線的形状ながらムチのように伸びるスタイルを想定していましたが,プラズマの収容になんらかの問題が生じたため,この案は見送りにされました.代わりに連結部分は,剣の長さを変えたり,破損したパーツの交換を容易にするために使用することができます.</VFEP_WarcasketMeleeWeapon_PlasmaSword.description>
+  <VFEP_WarcasketMeleeWeapon_PlasmaSword.tools.0.label>先端</VFEP_WarcasketMeleeWeapon_PlasmaSword.tools.0.label>
+  <VFEP_WarcasketMeleeWeapon_PlasmaSword.tools.1.label>刃</VFEP_WarcasketMeleeWeapon_PlasmaSword.tools.1.label>
+  
+  <VFEP_WarcasketMeleeWeapon_CombatKnife.label>WC専用コンバットナイフ</VFEP_WarcasketMeleeWeapon_CombatKnife.label>
+  <VFEP_WarcasketMeleeWeapon_CombatKnife.description>ウォーキャスケット用に設計された軍用ナイフの強化版です.ウォーキャスケットを着た者が持つと,一見して違和感なくナイフのように見えがちですが,実際は人を真っ二つにすることが可能なくらい強力で,サイズも大きいです.動きの速いウォーキャスケットが軽装備の孤立した標的を優先して狙う際に適した武器です.</VFEP_WarcasketMeleeWeapon_CombatKnife.description>
+  <VFEP_WarcasketMeleeWeapon_CombatKnife.tools.0.label>先端</VFEP_WarcasketMeleeWeapon_CombatKnife.tools.0.label>
+  <VFEP_WarcasketMeleeWeapon_CombatKnife.tools.1.label>刃</VFEP_WarcasketMeleeWeapon_CombatKnife.tools.1.label>
+
+  <VFEP_WarcasketMeleeWeapon_Broadsword.label>WC専用ブロードソード</VFEP_WarcasketMeleeWeapon_Broadsword.label>
+  <VFEP_WarcasketMeleeWeapon_Broadsword.description>ウォーキャスケット用に設計された非常にユニークな近接武器です.圧倒的な重量と斬れ味は,近接戦闘において比類がありません.対ウォーキャスケットを想定した設計ですが,通常は装甲とみなされる小さな目標に対しても同様に効果を発揮します.</VFEP_WarcasketMeleeWeapon_Broadsword.description>
+  <VFEP_WarcasketMeleeWeapon_Broadsword.tools.0.label>先端</VFEP_WarcasketMeleeWeapon_Broadsword.tools.0.label>
+  <VFEP_WarcasketMeleeWeapon_Broadsword.tools.1.label>刃</VFEP_WarcasketMeleeWeapon_Broadsword.tools.1.label>
+
+
+</LanguageData>

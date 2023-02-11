@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VFEP_Camaraderie_Respected.label>尊重</VFEP_Camaraderie_Respected.label>
+  <VFEP_Camaraderie_Respected.description>私たちは異なる利害関係者でありながら,目指すところは一つだ.苦難,苦痛,犠牲を一緒に乗り越えてこそ真の船乗りだ.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - 他の入植者と交流すると,心情ボーナスとして+3が加算されます.</VFEP_Camaraderie_Respected.description>
+
+  <VFEP_Camaraderie_Respected.comps.0.thoughtStageDescriptions.0>仲間を失った</VFEP_Camaraderie_Respected.comps.0.thoughtStageDescriptions.0>
+
+  <VFEP_Camaraderie_Exalted.label>高貴</VFEP_Camaraderie_Exalted.label>
+  <VFEP_Camaraderie_Exalted.description>兄弟愛をかたどるテーブルで食事をしよう.そこから仲間意識の旗を広げ,すべては一人のために,一人は皆のために.一緒に世界を手に入れようじゃないか.\n\n&lt;color=#E5E54C&gt;効果:&lt;/color&gt;\n - 他の入植者と交流すると,心情ボーナスとして+6が加算されます.</VFEP_Camaraderie_Exalted.description>
+
+  <VFEP_Camaraderie_Exalted.comps.0.thoughtStageDescriptions.0>仲間を失った</VFEP_Camaraderie_Exalted.comps.0.thoughtStageDescriptions.0>
+
+  <VFEP_Camaraderie_Exalted.comps.1.thoughtStageDescriptions.0>一緒に困難を乗り越えてきた仲間だ!（殺された入植者1人につき+5ずつ累積）</VFEP_Camaraderie_Exalted.comps.1.thoughtStageDescriptions.0>
+
+
+</LanguageData>

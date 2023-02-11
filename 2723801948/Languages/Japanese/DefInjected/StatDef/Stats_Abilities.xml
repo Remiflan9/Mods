@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_PowerJumpRange.label>パワージャンプ範囲</VFEP_PowerJumpRange.label>
+  <VFEP_PowerJumpRange.description>パワージャンプの最大飛距離です.</VFEP_PowerJumpRange.description>
+
+  <VFEP_PowerJumpDetonationRadius.label>パワージャンプ爆発半径</VFEP_PowerJumpDetonationRadius.label>
+  <VFEP_PowerJumpDetonationRadius.description>爆発の半径を示しています.</VFEP_PowerJumpDetonationRadius.description>
+
+  <VFEP_FlightSpeed.label>パワージャンプ飛行速度</VFEP_FlightSpeed.label>
+  <VFEP_FlightSpeed.description>パワージャンプの速さです.</VFEP_FlightSpeed.description>
+
+  <VFEP_SiegeModeCooldown.label>包囲モードのクールダウン</VFEP_SiegeModeCooldown.label>
+  <VFEP_SiegeModeCooldown.description>包囲モードが再び有効になるまでの時間です.</VFEP_SiegeModeCooldown.description>
+  <VFEP_SiegeModeCooldown.formatString>{0}秒</VFEP_SiegeModeCooldown.formatString>
+
+
+</LanguageData>

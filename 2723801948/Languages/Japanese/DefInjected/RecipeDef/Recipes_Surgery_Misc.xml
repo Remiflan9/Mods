@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_RemoveWarcasket.label>ウォーキャスケットを除去する</VFEP_RemoveWarcasket.label>
+  <VFEP_RemoveWarcasket.description>ウォーキャスケットを除去します.</VFEP_RemoveWarcasket.description>
+  <VFEP_RemoveWarcasket.jobString>ウォーキャスケットを除去中.</VFEP_RemoveWarcasket.jobString>
+
+
+</LanguageData>

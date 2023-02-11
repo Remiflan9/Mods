@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_Private.label>傭兵(二等兵)</VFEP_Private.label>
+  <VFEP_Private.labelPlural>傭兵(二等兵)</VFEP_Private.labelPlural>
+
+  <VFEP_Corporal.label>傭兵(伍長)</VFEP_Corporal.label>
+  <VFEP_Corporal.labelPlural>傭兵(伍長)</VFEP_Corporal.labelPlural>
+
+  <VFEP_Sergeant.label>傭兵(軍曹)</VFEP_Sergeant.label>
+  <VFEP_Sergeant.labelPlural>傭兵(軍曹)</VFEP_Sergeant.labelPlural>
+
+  <VFEP_SergeantMajor.label>傭兵(上級曹長)</VFEP_SergeantMajor.label>
+  <VFEP_SergeantMajor.labelPlural>傭兵(上級曹長)</VFEP_SergeantMajor.labelPlural>
+
+  <VFEP_Lieutenant.label>傭兵(士官)</VFEP_Lieutenant.label>
+  <VFEP_Lieutenant.labelPlural>傭兵(士官)</VFEP_Lieutenant.labelPlural>
+
+  <VFEP_Captain.label>傭兵(大尉)</VFEP_Captain.label>
+  <VFEP_Captain.labelPlural>傭兵(大尉)</VFEP_Captain.labelPlural>
+
+  <VFEP_Major.label>傭兵(少佐)</VFEP_Major.label>
+  <VFEP_Major.labelPlural>傭兵(少佐)</VFEP_Major.labelPlural>
+
+  <VFEP_General.label>将軍</VFEP_General.label>
+  <VFEP_General.labelPlural>将軍</VFEP_General.labelPlural>
+
+
+</LanguageData>

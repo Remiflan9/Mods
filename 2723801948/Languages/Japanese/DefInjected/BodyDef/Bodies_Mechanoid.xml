@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_Wardrone.label>ウォードローン</VFEP_Wardrone.label>
+  <VFEP_Wardrone.corePart.parts.0.parts.0.parts.1.customLabel>左視覚センサ</VFEP_Wardrone.corePart.parts.0.parts.0.parts.1.customLabel>
+  <VFEP_Wardrone.corePart.parts.0.parts.0.parts.2.customLabel>右視覚センサ</VFEP_Wardrone.corePart.parts.0.parts.0.parts.2.customLabel>
+  <VFEP_Wardrone.corePart.parts.0.parts.0.parts.3.customLabel>左聴覚センサ</VFEP_Wardrone.corePart.parts.0.parts.0.parts.3.customLabel>
+  <VFEP_Wardrone.corePart.parts.0.parts.0.parts.4.customLabel>右聴覚センサ</VFEP_Wardrone.corePart.parts.0.parts.0.parts.4.customLabel>
+  <VFEP_Wardrone.corePart.parts.1.customLabel>左推進器</VFEP_Wardrone.corePart.parts.1.customLabel>
+  <VFEP_Wardrone.corePart.parts.2.customLabel>右推進器</VFEP_Wardrone.corePart.parts.2.customLabel>
+
+  <VFEP_Spidermine.label>スパイダーマイン</VFEP_Spidermine.label>
+  <VFEP_Spidermine.corePart.parts.0.parts.0.parts.1.customLabel>左視覚センサ</VFEP_Spidermine.corePart.parts.0.parts.0.parts.1.customLabel>
+  <VFEP_Spidermine.corePart.parts.0.parts.0.parts.2.customLabel>右視覚センサ</VFEP_Spidermine.corePart.parts.0.parts.0.parts.2.customLabel>
+  <VFEP_Spidermine.corePart.parts.0.parts.0.parts.3.customLabel>左聴覚センサ</VFEP_Spidermine.corePart.parts.0.parts.0.parts.3.customLabel>
+  <VFEP_Spidermine.corePart.parts.0.parts.0.parts.4.customLabel>右聴覚センサ</VFEP_Spidermine.corePart.parts.0.parts.0.parts.4.customLabel>
+  <VFEP_Spidermine.corePart.parts.1.customLabel>左推進器</VFEP_Spidermine.corePart.parts.1.customLabel>
+  <VFEP_Spidermine.corePart.parts.2.customLabel>右推進器</VFEP_Spidermine.corePart.parts.2.customLabel>
+
+
+</LanguageData>

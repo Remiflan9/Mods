@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Captain -->
+
+  <VFEP_FiringFrenzy.label>連射指揮</VFEP_FiringFrenzy.label>
+  <VFEP_FiringFrenzy.description>特殊能力により,近くにいるポーンを奮い立たせています.効果範囲内に居るポーンの射撃準備時間を50％減少させ,痛みに対する耐性が50％増加しています.</VFEP_FiringFrenzy.description>
+
+  <VFEP_FiringFrenzyBuff.label>連射指揮</VFEP_FiringFrenzyBuff.label>
+  <VFEP_FiringFrenzyBuff.description>誰かが近くで特殊能力を使用しており,この人物はより速く射撃することができ,痛み耐性が向上しています.</VFEP_FiringFrenzyBuff.description>
+
+
+</LanguageData>

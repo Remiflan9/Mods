@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_WarcasketTrait.degreeDatas.0.label>ウォーキャスケット</VFEP_WarcasketTrait.degreeDatas.0.label>
+  <VFEP_WarcasketTrait.degreeDatas.0.description>{PAWN_nameDef}はウォーキャスケットと接続しています.痛みを感じないため,ショック状態や意識不明に陥ることはありません.アーマーは常にかさばっており,運動するために多くのエネルギーが必要になるため,{PAWN_nameDef}はほとんどの仕事ができなくなりました.</VFEP_WarcasketTrait.degreeDatas.0.description>
+
+  <VFEP_Shellcasket.degreeDatas.0.label>キャスケット後遺症</VFEP_Shellcasket.degreeDatas.0.label>
+  <VFEP_Shellcasket.degreeDatas.0.description>{PAWN_nameDef}はウォーキャスケットと接続していましたが,無残にも除去されました.神経に深刻な後遺症がのこり,{PAWN_nameDef}は痛みに苦しみ,思考力が鈍っています.この症状は{PAWN_nameDef}を再びウォーキャスケットに戻すことでしか治めることはできません.</VFEP_Shellcasket.degreeDatas.0.description>
+
+
+</LanguageData>

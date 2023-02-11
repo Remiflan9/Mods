@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEI_Mote.label>ちり</VFEI_Mote.label>
+  <VFEI_Mote.description>気にしないで, 私は役に立たない</VFEI_Mote.description>
+  <VFEI_TunnelHiveSpawner.label>トンネル</VFEI_TunnelHiveSpawner.label>
+  <VFEI_LargeHive.label>大きな巣</VFEI_LargeHive.label>
+  <VFEI_LargeHive.description>虫の巨大な巣. 活性化すると, 時間の経過とともに追加の種類の虫と巣を生成し, かつ美味しくて価値のある昆虫のゼリーを生成します.</VFEI_LargeHive.description>
+  <VFEI_InsectoidLarvaeCocoon.label>繭</VFEI_InsectoidLarvaeCocoon.label>
+  <VFEI_InsectoidLarvaeCocoon.description>巨大な虫の繭.</VFEI_InsectoidLarvaeCocoon.description>
+  <VFEI_BurrowSmall.label>小さな穴</VFEI_BurrowSmall.label>
+  <VFEI_BurrowSmall.description>虫のトンネル網に通じる穴. 破壊されるまで定期的に低級な虫を生み出します.</VFEI_BurrowSmall.description>
+  <VFEI_BurrowMedium.label>中規模の穴</VFEI_BurrowMedium.label>
+  <VFEI_BurrowMedium.description>虫のトンネル網に通じる穴. 破壊されるまで定期的に中級な虫を生み出します.</VFEI_BurrowMedium.description>
+  <VFEI_BurrowRoyal.label>クイーンの穴</VFEI_BurrowRoyal.label>
+  <VFEI_BurrowRoyal.description>虫のトンネル網に通じる穴. 破壊されるまで定期的にクイーンの親衛隊を生み出します.</VFEI_BurrowRoyal.description>
+</LanguageData>

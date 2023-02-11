@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_PirateMeme.label>パイレーツ</VFEP_PirateMeme.label>
+  <VFEP_PirateMeme.description>強者が弱者から奪うのは当然の権利ですが,仲間との絆や誓いは何よりも重んじるべきです.</VFEP_PirateMeme.description>
+  <VFEP_PirateMeme.generalRules.rulesStrings.0>memeAdjective-&gt;海賊の</VFEP_PirateMeme.generalRules.rulesStrings.0>
+  <VFEP_PirateMeme.generalRules.rulesStrings.1>memeAdjective-&gt;罪人の</VFEP_PirateMeme.generalRules.rulesStrings.1>
+  <VFEP_PirateMeme.generalRules.rulesStrings.2>memeAdjective-&gt;略奪する</VFEP_PirateMeme.generalRules.rulesStrings.2>
+  <VFEP_PirateMeme.generalRules.rulesStrings.3>memeAdjective-&gt;強奪する</VFEP_PirateMeme.generalRules.rulesStrings.3>
+  <VFEP_PirateMeme.generalRules.rulesStrings.4>memeAdjective-&gt;反抗的な</VFEP_PirateMeme.generalRules.rulesStrings.4>
+  <VFEP_PirateMeme.generalRules.rulesStrings.5>memeAdjective-&gt;海賊を働く</VFEP_PirateMeme.generalRules.rulesStrings.5>
+  <VFEP_PirateMeme.generalRules.rulesStrings.6>memeLeaderNoun-&gt;船長</VFEP_PirateMeme.generalRules.rulesStrings.6>
+  <VFEP_PirateMeme.generalRules.rulesStrings.7>memeLeaderNoun-&gt;指揮者</VFEP_PirateMeme.generalRules.rulesStrings.7>
+  <VFEP_PirateMeme.generalRules.rulesStrings.8>memeLeaderNoun-&gt;ボス</VFEP_PirateMeme.generalRules.rulesStrings.8>
+  <VFEP_PirateMeme.generalRules.rulesStrings.9>memeLeaderAdjective-&gt;勇敢な</VFEP_PirateMeme.generalRules.rulesStrings.9>
+  <VFEP_PirateMeme.generalRules.rulesStrings.10>memeLeaderAdjective-&gt;苛酷な</VFEP_PirateMeme.generalRules.rulesStrings.10>
+  <VFEP_PirateMeme.generalRules.rulesStrings.11>memeLeaderAdjective-&gt;無慈悲な</VFEP_PirateMeme.generalRules.rulesStrings.11>
+  <VFEP_PirateMeme.generalRules.rulesStrings.12>memeLeaderAdjective-&gt;勇ましい</VFEP_PirateMeme.generalRules.rulesStrings.12>
+  <VFEP_PirateMeme.generalRules.rulesStrings.13>memeLeaderAdjective-&gt;冷酷な</VFEP_PirateMeme.generalRules.rulesStrings.13>
+  <VFEP_PirateMeme.generalRules.rulesStrings.14>memeLeaderAdjective-&gt;大胆な</VFEP_PirateMeme.generalRules.rulesStrings.14>
+  <VFEP_PirateMeme.generalRules.rulesStrings.15>memeMoralist-&gt;牧師</VFEP_PirateMeme.generalRules.rulesStrings.15>
+  <VFEP_PirateMeme.generalRules.rulesStrings.16>memeMoralist-&gt;一等航海士</VFEP_PirateMeme.generalRules.rulesStrings.16>
+  <VFEP_PirateMeme.generalRules.rulesStrings.17>memeMoralist-&gt;副操縦士</VFEP_PirateMeme.generalRules.rulesStrings.17>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Pirate)        -&gt;[deity0_name]は[memberNamePlural]が船乗りとして団結しながら弱い者に[death0_possessive]意志を押し付けることを示した.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.0>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Pirate)  -&gt;[deity0_name]は全ての[memberNamePlural]に向かって「誠実な奉仕には,少ない食べ物,低い賃金,厳しい労働があるのみです.一方で海賊の生き様は,満腹と豊富,喜びと安楽,自由と権力があります.それを掴みなさい」と叫んだ.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.1>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Pirate)           -&gt;[place_summary]である[place_name]では[memberNamePlural]が安全な隠れ家を作り,そこで彼らの略奪は[deity0_name]の栄光のために行われた.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.2>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Pirate)           -&gt;臆病者の[foeLeader]はこれを軽蔑して眺めていた.[foeLeader_pronoun]は全ての富を[foeLeader_objective]野望とともに欲しがっていた.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.3>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Pirate)        -&gt;[deity0_name]の最も忠実な信者である[founderName]隊長は,そこで大胆な襲撃を仕掛け,[foeLeader]を捕獲した.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.4>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Pirate)            -&gt;[founderName]の船乗りたちは[foeLeader]を投獄し,数日後に[deity0_name]の栄光のために処刑した.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.5>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Pirate)           -&gt;[founderName]は最高のキャプテンであり,真の指導者だった.何千もの海賊が[founder_possessive]恐ろしい旗の下に団結した.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.6>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Pirate)    -&gt;[founderName]は我々に,苦難や苦しみ,犠牲は,船乗りとして共に立ち向かうべきものだということを理解させた.我々は,仲間との絆や友情を大切にし,お互いを尊重し合うことを学んだ.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.7>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Pirate)         -&gt;私は,史上最高の海賊であり,伝説の男と呼ばれる人物と話をしました.彼は私にこう語りかけました.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.8>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Pirate)              -&gt;苦難,苦悩,犠牲を共に船乗りとして乗り越えるのです.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.9>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Pirate) -&gt;仲間との絆や友情を大切にし,お互いを尊重し合うことの良さを教えてくれました.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.10>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Pirate)    -&gt;アルコテックは自らを守れない者を尊重しない.我々は船乗りとして自分より弱い者に立ち向かうのだ.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.11>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Pirate)     -&gt;我々は,仲間との絆や友情が我々を強くする価値のある概念であることを,アルコテックに証明する.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.12>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_Pirate) -&gt;共に誇りをもって立つことで,初めて超越に値する存在になれる.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.13>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.14>animistBasis(tag=meme_Pirate)    -&gt;精霊たちは自らを守れない者を尊重しない.自分より弱い者には,船乗りとして立ち向かうべきだ.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.14>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.15>animistFact(tag=meme_Pirate)     -&gt;我々は,仲間との絆や友情が我々をより強くする概念であることを,精霊たちに証明する.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.15>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.16>animistProphecy(tag=meme_Pirate) -&gt;[itIsSaid]共に誇りをもって立つことで,精霊に真に耳を傾けさせることができる.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.16>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.17>serketistProphecy(tag=meme_Pirate)-&gt;[itIsSaid]我々は,同志愛と仲間との絆が,我々を強くする価値のある概念であることを証明する.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.17>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.18>chthonianProphecy(tag=meme_Pirate)-&gt;このようなエルドリッチな存在は我々を滅ぼそうとするだろうが,我々は共に立ち向かう.我々の仲間との絆は何物にも揺るがない,ヤツらでさえも.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.18>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.19>esotericismProphecy(tag=meme_Pirate)-&gt;このような神秘的な秘伝は,統一された意志を必要とする.我々は船乗りとして共に立ち上がり,その仲間との絆によって難解な秘密を容易に受け入れることができる.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.19>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.20>eschatologismFact(tag=meme_Pirate)-&gt;我々より弱いものから奪い取るべきだ.彼らが作り出した世界は破壊されなければならず,我々の船乗りだけがその功績に値するからだ.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.20>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_Pirate)-&gt;この惑星にあるリソースは当社の所有物であり,当社のキャパシティーに影響を与える競合他社は積極的に排除します.当社の利益を損なう行為は,決して許されません.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.21>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_Pirate)-&gt;このような道を踏み外した生き物は,私たちの好きなようにすることができる.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.22>
+
+  <VFEP_PirateMeme.symbolPacks.0.adjective>海賊の</VFEP_PirateMeme.symbolPacks.0.adjective>
+  <VFEP_PirateMeme.symbolPacks.0.ideoName>海賊行為</VFEP_PirateMeme.symbolPacks.0.ideoName>
+  <VFEP_PirateMeme.symbolPacks.0.theme>海賊行為</VFEP_PirateMeme.symbolPacks.0.theme>
+  <VFEP_PirateMeme.symbolPacks.0.member>船乗り</VFEP_PirateMeme.symbolPacks.0.member>
+
+
+</LanguageData>

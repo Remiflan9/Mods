@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_ShipChunkDebris.label>宇宙船の残骸</VFEP_ShipChunkDebris.label>
+  <VFEP_ShipChunkDebris.description>宇宙船の残骸です.制御不能になって落ちてきたか,あるいは何らかの兵器によって粉々になったのでしょう.二重構造の装甲板と制御システムが密に配置されており,解体することで資源が得られます.</VFEP_ShipChunkDebris.description>
+
+  <VFEP_ShipChunkBattery.label>宇宙船のバッテリーの残骸</VFEP_ShipChunkBattery.label>
+  <VFEP_ShipChunkBattery.description>宇宙船に搭載されていたバッテリーです.短時間で高出力の電力を供給できるため,宇宙船のシステムに適しています.リムワールドで一般的に使われているバッテリーと比べると,その技術は飛躍的な進歩を遂げたようです.しかし,これはもはや充電することはできず,蓄えた電力を使い果たした後は解体して資源を得るだけでしょう.</VFEP_ShipChunkBattery.description>
+
+  <VFEP_ShipChunkCryptosleepCasket.label>宇宙船の耐圧冬眠カプセルの残骸</VFEP_ShipChunkCryptosleepCasket.label>
+  <VFEP_ShipChunkCryptosleepCasket.description>稼働中の冬眠カプセルです.これを開けると中に居るクルーを開放することができます.資源としての価値は金属くず以下なので,解体しても微々たるものです.</VFEP_ShipChunkCryptosleepCasket.description>
+
+  <VFEP_ShipChunkVolatileEngine.label>宇宙船の不安定なエンジン</VFEP_ShipChunkVolatileEngine.label>
+  <VFEP_ShipChunkVolatileEngine.description>大気圏内用に設計された宇宙船の自発性ターボエンジンです.制御系と安全系が破損し,タービンが十分な空気を取り込めないため,冷却することができません.これを早めに解体しなければ,その蓄積されたエネルギーで飽和してしまいます.</VFEP_ShipChunkVolatileEngine.description>
+
+  <VFEP_Filth_Fuel.label>化学燃料の水たまり</VFEP_Filth_Fuel.label>
+  <VFEP_Filth_Fuel.description>可燃性の化学燃料の水たまりです.</VFEP_Filth_Fuel.description>
+
+  <VFEP_ShipChunkFuelTank.label>宇宙船の燃料タンクの残骸</VFEP_ShipChunkFuelTank.label>
+  <VFEP_ShipChunkFuelTank.description>バイオ液化燃料のタンクです.ところどころ穴が開いています.一部の液体は回収できますが,大部分は汚物で満たされ,漏れ出しているため発火の恐れがあります.世界が燃えるざまを見たい放火魔にとっては格好の標的でしょう.</VFEP_ShipChunkFuelTank.description>
+
+  <VFEP_ShipChunkGauntletTurret.label>宇宙船のチャージ砲の残骸</VFEP_ShipChunkGauntletTurret.label>
+  <VFEP_ShipChunkGauntletTurret.description>宇宙船に搭載されていたチャージ砲です.外部と接続されていた弾薬ストレージが大破したことにより,弾薬を交換することはできません.弾切れになった後は,解体して貴重な資源を回収できます.</VFEP_ShipChunkGauntletTurret.description>
+
+
+  <VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelGizmoLabel>銃身耐久力</VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelGizmoLabel>
+  <VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelLabel>銃身耐久力</VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelLabel>
+  <VFEP_ShipChunkGauntletTurret.comps.Fueled.outOfFuelMessage>射撃不可: 銃身の交換が必要</VFEP_ShipChunkGauntletTurret.comps.Fueled.outOfFuelMessage>
+
+  <VFEP_ShipChunkReactor.label>宇宙船の反応炉の残骸</VFEP_ShipChunkReactor.label>
+  <VFEP_ShipChunkReactor.description>宇宙船の原子炉の残骸です.安定して動作するように設計されています.意外なことにこの原子炉は構造的な損傷もなく完全に機能するため,地上でも安全に運用することができます.</VFEP_ShipChunkReactor.description>
+
+  <VFEP_ShipMedicalCrate.label>医薬品が包装されたパレット</VFEP_ShipMedicalCrate.label>
+  <VFEP_ShipMedicalCrate.description>医薬品が含まれている未開封箱です.</VFEP_ShipMedicalCrate.description>
+
+  <VFEP_ShipNutrientPasteCrate.label>栄養補給ペーストが包装されたパレット</VFEP_ShipNutrientPasteCrate.label>
+  <VFEP_ShipNutrientPasteCrate.description>栄養補給ペーストが含まれている未開封箱です.</VFEP_ShipNutrientPasteCrate.description>
+
+
+</LanguageData>

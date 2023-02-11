@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEI_InsectoidLeg.label>虫の脚</VFEI_InsectoidLeg.label>
+  <VFEI_InsectoidLeg.description>キチン質で構成された, 複数部位からなる虫のような脚. 非常に痛みを伴う変異ですが, ダメージ耐性がはるかに高くなっています.</VFEI_InsectoidLeg.description>
+  <VFEI_InsectoidArm.label>虫の腕</VFEI_InsectoidArm.label>
+  <VFEI_InsectoidArm.description>キチン質で構成された, 複数部位からなる虫のような腕. 非常に痛みを伴う変異ですが, ダメージ耐性がはるかに高くなっています.</VFEI_InsectoidArm.description>
+  <VFEI_CompoundEye.label>複眼</VFEI_CompoundEye.label>
+  <VFEI_CompoundEye.description>数千の独立した光受容器ユニットで構成される目. 大きな視野があり, 速い動きの検出に役立ちますが, 可視範囲は大幅に狭められます. 非常に痛みを伴う変異ですが, ダメージ耐性が高くなっています.</VFEI_CompoundEye.description>
+  <VFEI_Mandibles.label>口器</VFEI_Mandibles.label>
+  <VFEI_Mandibles.description>口の側面にある1対の付属器官で, 食品を押しつぶして切断するのに役立ちます. 通常の顎ほど快適ではありませんが, 食べる速度を大幅に上げます.</VFEI_Mandibles.description>
+  <VFEI_JellySac.label>蜜嚢</VFEI_JellySac.label>
+  <VFEI_JellySac.description>体内で成長する管のような臓器. 時間の経過とともに少量のインセクトゼリーを生産することを可能にします. 非常に痛みを伴う突然変異であり, 場合によっては, この変異と共存するために医学的強化を必要とします.</VFEI_JellySac.description>
+  <VFEI_VenomGland.label>毒腺</VFEI_VenomGland.label>
+  <VFEI_VenomGland.description>舌の下にある袋状の腺で, 酸を分泌し, 最も危険な食品でさえ液化して安全に消化できます. この腺の過剰刺激により, 鎧を貫通するのに効果的な短距離の酸唾攻撃を投射することができます.</VFEI_VenomGland.description>
+  <VFEI_PneumaticClaw.label>空気圧鋏爪</VFEI_PneumaticClaw.label>
+  <VFEI_PneumaticClaw.description>繊細な運動能力を犠牲に, ターゲットに繰り返し大きな圧力をかけることができる強力な空気圧式はさみ状の爪.</VFEI_PneumaticClaw.description>
+  <VFEI_Antenna.label>触角</VFEI_Antenna.label>
+  <VFEI_Antenna.description>視覚と場所の認識を補完するのに役立つ, 細い感覚器官. この変異を持つ入植者は, もはや暗闇によるペナルティを負うことはありませんが, 感覚的過負荷により, 社交が非常に困難になります.</VFEI_Antenna.description>
+  <VFEI_PredatorStomach.label>捕食者の胃</VFEI_PredatorStomach.label>
+  <VFEI_PredatorStomach.description>基本的な胃の代替ですが, 非常に効率的です. 少ない食物でより長く生きることができます.</VFEI_PredatorStomach.description>
+  <VFEI_PheromoneSecretor.label>フェロモン分泌腺</VFEI_PheromoneSecretor.label>
+  <VFEI_PheromoneSecretor.description>無色, 無臭で, 粘り気のあるフェロモンがゆっくりと漏出する昆虫腺. 近くにいるものに軽度の陶酔感を引き起こすでしょう.</VFEI_PheromoneSecretor.description>
+  <VFEI_VentricularSleeve.label>心室袖</VFEI_VentricularSleeve.label>
+  <VFEI_VentricularSleeve.description>ほとんど理解されていない心臓と動脈の変異は, 血液を凝固させて, 酸素に富んだゲル状の物質にします. 裂傷または手足の喪失が起きても, 創傷はすぐに焼灼されます. しかし, 心臓と血管には大きな負担がかかっています.</VFEI_VentricularSleeve.description>
+  <VFEI_SynapticCerebellum.label>シナプス小脳</VFEI_SynapticCerebellum.label>
+  <VFEI_SynapticCerebellum.description>残留精神神経シナプスに特に敏感な虫の脳. この突然変異を持つ者は, 深い集団的思考と精神的感受性を持っていますが, まとまりのある文章を形成することはほとんどできません.</VFEI_SynapticCerebellum.description>
+</LanguageData>

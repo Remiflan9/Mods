@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEI_Insectoid_Queen.label>インセクトイドクイーン</VFEI_Insectoid_Queen.label>
+  <VFEI_Insectoid_Queen.description>新しい卵の作成を担当する, 遺伝子操作された巨大なインセクトイド. 巣の中の虫の母親であり, 重労働をせず, 可能であれば戦闘を避けようとします. 成体のスランボのように巨大で, ほとんどの敵に恐怖を植え付けます. 厚いキチン質の鎧により, 殺すのは困難です. さらに, 長くて致命的な刃は, 数秒でプラスチールを破ることができます. 開けた地形ではかなり遅くなるものの, 速いペースで新しい幼虫を作り出すことができ, 放置するべきではありません.</VFEI_Insectoid_Queen.description>
+  <VFEI_Insectoid_Queen.tools.0.label>頭爪</VFEI_Insectoid_Queen.tools.0.label>
+  <VFEI_Insectoid_Queen.tools.1.label>頭</VFEI_Insectoid_Queen.tools.1.label>
+  <VFEI_Insectoid_RoyalMegaspider.label>ロイヤルメガスパイダー</VFEI_Insectoid_RoyalMegaspider.label>
+  <VFEI_Insectoid_RoyalMegaspider.description>実際にはクモではなく, 女王自身のサイサイズのナチュラルスポーンであり, ボディガードとしてだけでなく, 第一のつがいとしても機能します. 仕事用ではなく戦闘用に設計された, 厚いキチン質の鎧は殺すのを難しくしますが, その長く致命的なリッパーブレードは, 彼の女王の名のもとに侵入者を殺すことを可能にします.</VFEI_Insectoid_RoyalMegaspider.description>
+  <VFEI_Insectoid_RoyalMegaspider.tools.0.label>頭爪</VFEI_Insectoid_RoyalMegaspider.tools.0.label>
+  <VFEI_Insectoid_RoyalMegaspider.tools.1.label>頭</VFEI_Insectoid_RoyalMegaspider.tools.1.label>
+  <VFEI_Insectoid_Gigalocust.label>ギガロースト</VFEI_Insectoid_Gigalocust.label>
+  <VFEI_Insectoid_Gigalocust.description>象サイズの遺伝子操作されたハンタードローン. 長距離を飛行して, 無防備なターゲットに急降下し, リッパーブレードと鋭い口器の複数のセットで対象を細かく裂きます。クイーンの特別な召使いとしての役割を果たしているこれらの怪物は, 致命的で, 速く, ほぼ破壊することはできません.</VFEI_Insectoid_Gigalocust.description>
+  <VFEI_Insectoid_Gigalocust.tools.0.label>頭爪</VFEI_Insectoid_Gigalocust.tools.0.label>
+  <VFEI_Insectoid_Gigalocust.tools.1.label>頭</VFEI_Insectoid_Gigalocust.tools.1.label>
+  <VFEI_Insectoid_Megapede.label>メガピード</VFEI_Insectoid_Megapede.label>
+  <VFEI_Insectoid_Megapede.description>数十本の小さな脚により滑るように移動する巨大で重いインセクトイド. 厚いキチンの鎧と象の牙ほどもある鋭い大顎は, 優れた攻城装置になっています. 非常に遅いため, ヒットアンドランの戦術に対してやや脆弱です.</VFEI_Insectoid_Megapede.description>
+  <VFEI_Insectoid_Megapede.tools.0.label>頭爪</VFEI_Insectoid_Megapede.tools.0.label>
+  <VFEI_Insectoid_Megapede.tools.1.label>口器</VFEI_Insectoid_Megapede.tools.1.label>
+  <VFEI_Insectoid_Megapede.tools.2.label>頭</VFEI_Insectoid_Megapede.tools.2.label>
+  <VFEI_Insectoid_Larvae.label>幼虫</VFEI_Insectoid_Larvae.label>
+  <VFEI_Insectoid_Larvae.description>昆虫型の無害な幼虫で, ゆっくりで容易に殺せます. しばらくすると変態し, 成虫になります. どのような虫が繭から這い出すかを知る方法はありません.</VFEI_Insectoid_Larvae.description>
+  <VFEI_Insectoid_Larvae.tools.0.label>頭爪</VFEI_Insectoid_Larvae.tools.0.label>
+</LanguageData>

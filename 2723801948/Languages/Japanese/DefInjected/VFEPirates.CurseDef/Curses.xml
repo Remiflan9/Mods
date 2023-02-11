@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_CurseOfMind.label>精神の呪い</VFEP_CurseOfMind.label>
+  <VFEP_CurseOfMind.description>すべての心情効果が2倍になります.</VFEP_CurseOfMind.description>
+
+  <VFEP_CurseOfDarkness.label>暗闇の呪い</VFEP_CurseOfDarkness.label>
+  <VFEP_CurseOfDarkness.description>暗闇が強化され,光量が0％のタイルは完全に真っ黒になります.</VFEP_CurseOfDarkness.description>
+
+  <VFEP_CurseOfPestilence.label>疫病の呪い</VFEP_CurseOfPestilence.label>
+  <VFEP_CurseOfPestilence.description>免疫獲得速度が半分になります.</VFEP_CurseOfPestilence.description>
+
+  <VFEP_CurseOfSteel.label>鋼鉄の呪い</VFEP_CurseOfSteel.label>
+  <VFEP_CurseOfSteel.description>ゲーム内のすべてのダメージが2倍になります.</VFEP_CurseOfSteel.description>
+
+  <VFEP_CurseOfGreed.label>貪欲の呪い</VFEP_CurseOfGreed.label>
+  <VFEP_CurseOfGreed.description>採掘で得られるすべての資源がゴールドに上書きされます.</VFEP_CurseOfGreed.description>
+
+  <VFEP_CurseOfTheStabbed.label>突き刺しの呪い</VFEP_CurseOfTheStabbed.label>
+  <VFEP_CurseOfTheStabbed.description>すべての近接攻撃のクールダウンが半分になります.</VFEP_CurseOfTheStabbed.description>
+
+  <VFEP_CurseOfFire.label>火炎の呪い</VFEP_CurseOfFire.label>
+  <VFEP_CurseOfFire.description>マップが燃えても雨が降らなくなります.</VFEP_CurseOfFire.description>
+
+  <VFEP_CurseOfConfetti.label>祝福の呪い</VFEP_CurseOfConfetti.label>
+  <VFEP_CurseOfConfetti.description>ポーンを倒すと紙吹雪が発生し,お祝いするように「イエーイ!」と鳴ります.</VFEP_CurseOfConfetti.description>
+
+  <VFEP_CurseOfTheBoomalopes.label>ボマロープの呪い</VFEP_CurseOfTheBoomalopes.label>
+  <VFEP_CurseOfTheBoomalopes.description>動物が死ぬと爆発します.</VFEP_CurseOfTheBoomalopes.description>
+
+  <VFEP_CurseOfTheBeaten.label>負傷の呪い</VFEP_CurseOfTheBeaten.label>
+  <VFEP_CurseOfTheBeaten.description>医薬品がないと傷の治療ができなくなります.</VFEP_CurseOfTheBeaten.description>
+
+  <VFEP_CurseOfTheArmored.label>守護の呪い</VFEP_CurseOfTheArmored.label>
+  <VFEP_CurseOfTheArmored.description>武器の貫通力が半分になります.</VFEP_CurseOfTheArmored.description>
+
+  <VFEP_CurseOfAging.label>老化の呪い</VFEP_CurseOfAging.label>
+  <VFEP_CurseOfAging.description>ポーンは10倍の速度で歳を取ります.</VFEP_CurseOfAging.description>
+
+  <VFEP_CurseOfBandana.label>バンダナの呪い</VFEP_CurseOfBandana.label>
+  <VFEP_CurseOfBandana.description>すべての武器のクールダウンが90%減少します.</VFEP_CurseOfBandana.description>
+
+  <VFEP_CurseOfTheEyePatch.label>眼帯の呪い</VFEP_CurseOfTheEyePatch.label>
+  <VFEP_CurseOfTheEyePatch.description>射撃の命中率が半分になります.</VFEP_CurseOfTheEyePatch.description>
+
+  <VFEP_CurseOfGluttony.label>大食の呪い</VFEP_CurseOfGluttony.label>
+  <VFEP_CurseOfGluttony.description>食事の値が2倍の速度で低下します.</VFEP_CurseOfGluttony.description>
+
+  <VFEP_CurseOfInfestation.label>昆虫の呪い</VFEP_CurseOfInfestation.label>
+  <VFEP_CurseOfInfestation.description>虫の襲撃の規模が2倍になります.</VFEP_CurseOfInfestation.description>
+
+  <VFEP_CurseOfInstakill.label>即死の呪い</VFEP_CurseOfInstakill.label>
+  <VFEP_CurseOfInstakill.description>ポーンが倒れると死亡します.</VFEP_CurseOfInstakill.description>
+
+  <VFEP_CurseOfBlind.label>盲目の呪い</VFEP_CurseOfBlind.label>
+  <VFEP_CurseOfBlind.description>イベントが発生しても,通知が表示されなくなります.歴史タブには表示されます.</VFEP_CurseOfBlind.description>
+
+
+</LanguageData>

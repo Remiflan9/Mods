@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- barrage warcasket -->
+
+
+  <VFEP_Proj_GrenadierGrenade.label>グレネード</VFEP_Proj_GrenadierGrenade.label>
+
+
+  <!-- Privateer armour -->
+
+  <VFEP_Apparel_Privateer.label>プライベーターアーマー</VFEP_Apparel_Privateer.label>
+  <VFEP_Apparel_Privateer.description>肩にグラップリングフックを内蔵したマリーンアーマーの亜種です.通常のマリーンアーマーに比べると,防御力はやや劣ります.搭載されているランチャーは無限に撃つことができますが,発射後に準備を整えるまで時間がかかります.
+プライベーターは険しい地形でも迅速に移動することを想定して設計されました.このグラップリングフックを壁や固い岩に撃ち込むことで,ロープを使ってすばやく移動することができます.</VFEP_Apparel_Privateer.description>
+
+
+  <!-- rumsuit -->
+
+  <VFEP_Apparel_Rumsuit.label>ラムスーツ</VFEP_Apparel_Rumsuit.label>
+  <VFEP_Apparel_Rumsuit.description>10日に1回,自動的にラム酒を生成することが可能な大型のかさばるスーツです.着心地はあまり良いとは言えず,まるで汗をかきすぎて湿った服を着ているような不快感を覚えます.\n\nこのスーツは高効率フィルター,熱交換フィラメント,塩類沈殿物などで構成されており,排泄物は大腿部のパッドで処理された後,各キャッチポケットに繋がったチューブを通じて移動します.再処理した体液を蒸留してアルコール誘導体の栄養ペーストを生成し,ポケットがすべて埋まったら排出することができます.\n\nこのスーツを脱ぐと,蓄積された液体が蒸発してしまいます.そのため,ラム酒を生産するためには長いあいだ装着して正しく馴染ませる必要があります.デザイン上,全身タイツという形になっており,ヘッドカバーがない理由は,せめて頭部はヘルメット着用などで守れるように配慮されたからです.</VFEP_Apparel_Rumsuit.description>
+
+
+</LanguageData>

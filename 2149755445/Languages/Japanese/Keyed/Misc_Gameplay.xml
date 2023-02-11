@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEI_InsertFirstGenomeDesc>バイオエンジニアリングインキュベーターの第一ゲノムを選択</VFEI_InsertFirstGenomeDesc>
+  <None_InsertFirstGenome>最初のゲノム：なし</None_InsertFirstGenome>
+  <VFEI_RoyalGenome_InsertFirstGenome>第一ゲノム：ロイヤル</VFEI_RoyalGenome_InsertFirstGenome>
+  <VFEI_WarriorGenome_InsertFirstGenome>第一ゲノム：ウォリアー</VFEI_WarriorGenome_InsertFirstGenome>
+  <VFEI_DroneGenome_InsertFirstGenome>第一ゲノム：ドローン</VFEI_DroneGenome_InsertFirstGenome>
+  <VFEI_InsertSecondGenomeDesc>バイオエンジニアリングインキュベーターの第二ゲノムを選択</VFEI_InsertSecondGenomeDesc>
+  <None_InsertSecondGenome>第二ゲノム：なし</None_InsertSecondGenome>
+  <VFEI_RoyalGenome_InsertSecondGenome>第二ゲノム：ロイヤル</VFEI_RoyalGenome_InsertSecondGenome>
+  <VFEI_WarriorGenome_InsertSecondGenome>第二ゲノム：ウォリアー</VFEI_WarriorGenome_InsertSecondGenome>
+  <VFEI_DroneGenome_InsertSecondGenome>第二ゲノム：ドローン</VFEI_DroneGenome_InsertSecondGenome>
+  <VFEI_InsertThirdGenomeDesc>バイオエンジニアリングインキュベーターの第三ゲノムを選択</VFEI_InsertThirdGenomeDesc>
+  <None_InsertThirdGenome>第三ゲノム：なし</None_InsertThirdGenome>
+  <VFEI_RoyalGenome_InsertThirdGenome>第三ゲノム：ロイヤル</VFEI_RoyalGenome_InsertThirdGenome>
+  <VFEI_WarriorGenome_InsertThirdGenome>第三ゲノム：ウォリアー</VFEI_WarriorGenome_InsertThirdGenome>
+  <VFEI_DroneGenome_InsertThirdGenome>第三ゲノム：ドローン</VFEI_DroneGenome_InsertThirdGenome>
+  <VFEI_RoyalGenome>ロイヤルゲノム</VFEI_RoyalGenome>
+  <VFEI_WarriorGenome>ウォリアーゲノム</VFEI_WarriorGenome>
+  <VFEI_DroneGenome>ドローンゲノム</VFEI_DroneGenome>
+  <VFEI_None>空のままにする</VFEI_None>
+  <VFEI_NoGeneticMaterial>このタイプの遺伝物質はマップ上にありません</VFEI_NoGeneticMaterial>
+  <VFEI_SelectAtLeastOne>インキュベーターの3つのスロットの少なくとも1つに遺伝物質を充填する必要があります</VFEI_SelectAtLeastOne>
+  <VFEI_StartInsertion>遺伝子の挿入を開始</VFEI_StartInsertion>
+  <VFEI_StartInsertionDesc>インキュベーターに遺伝物質を挿入し始めるように植民者に命じます. これは運搬作業です.</VFEI_StartInsertionDesc>
+  <VFEI_RemoveAllGenes>遺伝子を取り除く</VFEI_RemoveAllGenes>
+  <VFEI_RemoveAllGenesDesc>インキュベーターを空にし, まだ内部に保存されている可能性のあるすべての遺伝子を削除します.</VFEI_RemoveAllGenesDesc>
+  <VFEI_CancelJobs>挿入をキャンセル</VFEI_CancelJobs>
+  <VFEI_CancelJobsDesc>遺伝子挿入をキャンセルします。すべての遺伝子運搬ジョブはキャンセルされます.</VFEI_CancelJobsDesc>
+  <VFEI_Engage>インキュベーターをアクティブにする</VFEI_Engage>
+  <VFEI_EngageDesc>インキュベーターをアクティブにして、挿入された遺伝物質から新しい虫を作成します</VFEI_EngageDesc>
+  <VFEI_NoGenesFound>あなたの入植者は遺伝物質を回収することができませんでした</VFEI_NoGenesFound>
+  <VFEI_WaitTillJobsEnd>遺伝物質はまだインキュベーターに運ばれています</VFEI_WaitTillJobsEnd>
+  <VFEI_IncubationInProgress>インキュベーション中。 {0}は以下で生成されます：</VFEI_IncubationInProgress>
+  <VFEI_CombinationNoResults>この組み合わせは効果を得られません</VFEI_CombinationNoResults>
+  <VFEI_NotPowered>現在、バイオエンジニアリングインキュベーターには電力が供給されていません</VFEI_NotPowered>
+  <VFEI_IncubationFailurePower>電力不足のため、培養作業に失敗しました</VFEI_IncubationFailurePower>
+  <VFEI_FailureMonstrosity>培養の過程で、致命的な問題が発生しました！</VFEI_FailureMonstrosity>
+  <VFEI_FailureDeath>培養の過程で問題が発生しました。虫は死体として出現します</VFEI_FailureDeath>
+  <VFEI_FailureDisease>培養の過程で問題が発生しました。虫は病気状態で出現します</VFEI_FailureDisease>
+  <VFEI_BlackHiveGenome_InsertFirstGenome>第一ゲノム：ブラックハイブ</VFEI_BlackHiveGenome_InsertFirstGenome>
+  <VFEI_BlackHiveGenome_InsertSecondGenome>第二ゲノム：ブラックハイブ</VFEI_BlackHiveGenome_InsertSecondGenome>
+  <VFEI_BlackHiveGenome_InsertThirdGenome>第三ゲノム：ブラックハイブ</VFEI_BlackHiveGenome_InsertThirdGenome>
+  <VFEI_BlackHiveGenome>ブラックハイブゲノム</VFEI_BlackHiveGenome>
+  <VFEI_MonstrosityTimeToLive>細胞変性：{0}</VFEI_MonstrosityTimeToLive>
+  <LarvaeTimeSpawn>次の幼虫が発生するまで{0}.</LarvaeTimeSpawn>
+  <InsectSpawned>虫が襲来し、襲撃してきます.</InsectSpawned>
+  <InsectsArriveIn>{0}が{1}に到着</InsectsArriveIn>
+  <CocoonInsectSpawnIn>昆虫がスポーンするまで{0}.</CocoonInsectSpawnIn>
+  <NoMoreSpawningAllowed>クイーンが休んでいる.</NoMoreSpawningAllowed>
+  <LetterLabelForcedTame>{1_kind}は強制テイムされました</LetterLabelForcedTame>
+  <LetterArtifactTame>{0}はテイムされました.</LetterArtifactTame>
+  <LetterLabelForcedTameFail>{1_kind}は強制テイムに失敗しました</LetterLabelForcedTameFail>
+  <LetterArtifactTameFail>{0} テイムに失敗し、動物を狂わせました.</LetterArtifactTameFail>
+  <LetterLabelForcedRecruit>{0}が勢力に加わりました.</LetterLabelForcedRecruit>
+  <LetterArtifactRecruit>{0}は鎮圧され、勢力に参加します！</LetterArtifactRecruit>
+  <GoodWillAffectedByArtifact>メンバーの1人がアーティファクトを使用したため、対象派閥との関係が50減少した.</GoodWillAffectedByArtifact>
+  <MutationOutcome>変異の結果</MutationOutcome>
+  <MutationOutcomeLetter>変異が発生しました：{0}.</MutationOutcomeLetter>
+  <FailedMutation>変異は失敗しました！</FailedMutation>
+  <FailedMutationLetter>変異は失敗しました, どの部位も成長できない.</FailedMutationLetter>
+  <InfestationNegated>寄生は防がれました.</InfestationNegated>
+  <TransformationLLabel>変異！</TransformationLLabel>
+  <TransformationLetter>ローヤルゼリー中毒の禁断症状のため, {0}はメガスパイダーに変わりました. 彼はまだあなたの派閥の一員であり, 誰も攻撃しません.</TransformationLetter>
+  <TeleportHere>ここにテレポートする.</TeleportHere>
+  <TeleportDesc>選択したすべてのアイテムと入植者を目的地にテレポートします.</TeleportDesc>
+  <TeleportDestInvalid>テレポート先が無効です。</TeleportDestInvalid>
+  <TeleportDestTooFar>テレポート先が遠すぎます！</TeleportDestTooFar>
+  <TeleportWillDestroy>この地点にテレポートすると, 内容物が失われます.</TeleportWillDestroy>
+  <TeleportDestroyed>入植者がテレポートされなかったので、テレポートは失敗し, 内容物は失われました.</TeleportDestroyed>
+  <TeleportDone>テレポートは成功しました.</TeleportDone>
+  <TeleportDoneCAdded>テレポートが成功し, キャラバン隊にコンテンツが追加されました.</TeleportDoneCAdded>
+  <SName>Vanilla Factions Expanded - Insectoids</SName>
+  <PusleLabel>忌避パルス効果：</PusleLabel>
+  <PusleTooltip>ソニックインフェステーションリペラーからのパルス効果を有効または無効にします.</PusleTooltip>
+</LanguageData>
