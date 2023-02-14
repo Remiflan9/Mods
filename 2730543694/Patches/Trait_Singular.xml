@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/TraitDef[defName="VFEP_WarcasketTrait"]/disabledWorkTags/li</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/TraitDef[defName="VFEP_WarcasketTrait"]/disabledWorkTags</xpath>
+		<value>
+				<li>ManualSkilled</li>
+				<li>Animals</li>
+				<li>Artistic</li>
+				<li>Caring</li>
+				<li>Intellectual</li>
+		</value>
+	</Operation>
+	
+</Patch>

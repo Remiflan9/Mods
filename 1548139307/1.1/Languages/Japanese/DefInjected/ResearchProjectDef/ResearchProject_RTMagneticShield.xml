@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ResearchProject_RTMagneticShield.label>太陽フレアシールド</ResearchProject_RTMagneticShield.label>
+  <ResearchProject_RTMagneticShield.description>磁気シールドの建築によって太陽フレアから植民地全体の電気機器を保護できるようにします。
+
+待機中、シールドは検出回路によるわずかな電力消費を必要としますが、太陽フレアが起きた時に防御できる用に常時稼動しています。太陽フレアが起きた場合、磁気シールドは局地的な磁気圏を形成する為に最高 25,000/wtの電力消費に引き上がります。効果範囲は植民地とその周囲を覆うに十分です。
+
+注意：コロニーエリアの大きさに従って、最大 25,000wの電力を消費するので発動時に発電量が枯渇するとシールドの展開に失敗します。発動から磁気シールドを展開し終えるまでに少し時間がかかります。この間にも大電力を消費します。
+
+磁気シールドによって中和されているとはいえ、太陽フレアにより起こされた過度な電磁気変動によって、より敏感な電子機器(通信機や貿易用 ビーコン)の動作が実行不可能な状態です。</ResearchProject_RTMagneticShield.description>
+
+</LanguageData>

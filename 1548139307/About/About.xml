@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>RT Solar Flare Shield 日本語翻訳追加</name>
+	<author>Proxyer</author>
+	<packageId>Proxyer.JPT.rtsfsJP</packageId>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>
+		<li>1.3</li>
+		<li>1.4</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>ratys.rtsolarflareshield</packageId>
+			<displayName>RT Solar Flare Shield</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/728315620</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+		<li>ratys.rtsolarflareshield</li>
+	</loadAfter>
+	<description><![CDATA[
+<color=#5AA9D6><size=17>説明</size> (Description)：</color>
+これはRT Solar Flare Shieldに日本語翻訳を追加するためのModであり、Mod本体の機能は一切含まれていません。必ずオリジナルModを導入した上でご利用ください。
+
+Modリストでの読み込み順番は、上から
+
+Core
+Royalty (DLC)
+Ideogy (DLC)
+Biotech (DLC)
+<b>RT Solar Flare Shield</b>
+RT Solar Flare Shield 日本語翻訳追加 (このMod)
+の順番になるのがベストです。
+
+
+[1.4] [Sub-MOD] RT Solar Flare Shield add Japanese Translation
+
+This Mod is adding a Japanese translation to the original Mod "<b>RT Solar Flare Shield</b>".
+
+The original Mod was created by <b>Ratys</b>.
+This Modmod does not include the core part of the original Mod.
+Only Japanese translation files are included.
+
+
+<color=#5AA9D6><size=17>説明翻訳</size> (Japanese translate description)：</color>
+太陽フレアの発生を軽減する磁気シールドを追加します。
+
+
+「太陽フレアシールド」の研究が終了すると、磁気シールドを建築できるようになります。
+これは太陽フレアが発生すると、太陽フレアから植民地全体を保護するために、自動的にスイッチが入ります。
+稼動の際に凄まじい電力消耗とかなりの加熱を伴います。
+
+この磁気シールドの建築によって太陽フレアから植民地全体の電気機器を保護できるようにします。
+
+待機中、シールドは検出回路によるわずかな電力消費を必要としますが、太陽フレアが起きた時に防御できる用に常時稼動しています。太陽フレアが起きた場合、磁気シールドは局地的な磁気圏を形成する為に最高 25,000/wtの電力消費に引き上がります。効果範囲は植民地とその周囲を覆うに十分です。
+
+注意：コロニーエリアの大きさに従って、最大 25,000wの電力を消費するので発動時に発電量が枯渇するとシールドの展開に失敗します。発動から磁気シールドを展開し終えるまでに少し時間がかかります。この間にも大電力を消費します。
+
+磁気シールドによって中和されているとはいえ、太陽フレアにより起こされた過度な電磁気変動によって、より敏感な電子機器(通信機や貿易用 ビーコン)の動作が実行不可能な状態です。
+
+
+Original mod : <b>RT Solar Flare Shield</b>
+Original Mod author : <b>Ratys</b>
+Official Ludeon forums Link : <color=#66FFFF>https://ludeon.com/forums/index.php?topic=11272</color>
+
+
+ ]]></description>
+</ModMetaData>
