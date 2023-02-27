@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-  <version>1.4.3613 rev641</version>
+  <version>1.4.3641 rev649</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>ludeon.rimworld</li>
@@ -45,7 +45,6 @@
     <li>vanillaexpanded.vbookse</li>
     <li>oskarpotocki.vfe.insectoid</li>
     <li>oskarpotocki.vfe.pirates</li>
-    <li>fluffytowels.warcaskethaulpatch</li>
     <li>oskarpotocki.vfe.mechanoid</li>
     <li>proxyer.jpt.vfe.mechanoid</li>
     <li>vanillaexpanded.vpsycastse</li>
